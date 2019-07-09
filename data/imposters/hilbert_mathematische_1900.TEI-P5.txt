@@ -1,0 +1,1828 @@
+
+
+
+
+
+
+Nachrichten
+von der
+Königl. Gesellschaft der Wissenschaften
+zu Göttingen.
+ Mathematisch-physikalische Klasse
+aus dem Jahre 1900.
+  Göttingen,
+Commissionsverlag der Dieterich’schen Universitätsbuchhandlung
+Lüder Horstmann.
+1900.
+
+
+Register
+über
+die Nachrichten von der Königl. Gesellschaft der Wissenschaften
+mathematisch - physikalische Klasse
+aus dem Jahre 1900.
+ F. Bernstein, Ueber einen Schönflies’schen Satz der
+Theorie der stetigen Funktionen zweier reeller Ver-
+änderlichen S. 98
+M. Dehn, Ueber raumgleiche Polyeder „ 345
+E. Ehlers, Magellanische Anneliden gesammelt während
+der schwedischen Expedition nach den Magellans-
+ländern „ 206
+— — Ueber atlantischen Palolo „ 397
+Robert Fricke, Die automorphen Elementarformen „  303
+— — Die Rittersche Primform auf einer beliebigen Rie-
+mann’schen Fläche „ 314
+C. C. Garrard u. E. Oppermann, Zur Frage nach
+der Hydratation gelöster Substanzen III „ 85
+D. Hilbert, Mathematische Probleme „ 253
+L. Krüger, Ueber die Ausgleichung mit Bedingungsglei-
+chungen bei der trigonometrischen Punktbestimmung
+durch Einschneiden „ 1
+E. Landau, Ueber die zahlentheoretische Funktion φ (n)
+und ihre Beziehung zum Goldbachschen Satz „ 177
+Alfred Loewy, Ueber die Transformation einer Her-
+miteschen Form von nicht verschwindender Deter-
+minante in sich „ 298
+
+H. Lotmar, Zur Frage nach der Hydratation gelöster-
+Substanzen II S. 70
+Erich Marx, Ueber den Potentialfall und die Dissocia-
+tion in Flammengasen „ 34
+Hermann Minkowski, Zur Theorie der Einheiten in
+den algebraischen Zahlkörpern „ 90
+G. Mittag-Leffler, Ueber eine Verallgemeinerung der
+Taylorschen Reihe „ 194
+W. Nernst, Zur Frage nach der Hydratation gelöster
+Substanzen I „ 68
+— — und H. Reynolds, Ueber die Leitfähigkeit fe-
+ster Mischungen bei hohen Temperaturen „ 328
+J. Orth, Arbeiten aus dem pathologischen Institut in
+Göttingen „ 224
+W. F. Osgood, Ueber einen Satz des Herrn Schönflies
+aus der Theorie der Funktionen zweiter reeller
+Veränderlichen „ 94
+Eduard Riecke, Ueber das Verhältniss der Leitfähig-
+keiten der Metalle für Wärme und Electricität  „ 250
+H. E. Timerding, Ueber lineare Systeme von Kegel-
+schnitten „ 103
+W. Voigt, Der gegenwärtige Stand unserer Kenntnisse
+der Krystallelasticität „ 117
+— — Ueber die Influenz ferromagnetischer Krystalle,
+insbesondere über die P. Weiss’schen Beobachtungen
+am Magnetit „ 331
+— — Ueber die Parameter der Krystallphysik und
+über gerichtete Größen höherer Ordnung „ 355
+A. Voss, Ueber die Principe von Hamilton u. Maupertuis „ 322
+O. Wallach, Untersuchungen aus dem Universitäts-Labo-
+ratorium zu Göttingen (IX) „ 241
+J. Wellstein, Ueber Primformen auf Riemann’schen
+Flächen „ 380
+Hans Winkler, Ueber die Furchung unbefruchteter
+Eier unter der Einwirkung von Extractivstoffen aus
+dem Sperma „ 187
+
+
+Mathematische Probleme.
+Vortrag, gehalten auf dem internationalen Mathematiker-Kongreß
+zu Paris 1900.
+Von
+D. Hilbert.
+Wer von uns würde nicht gern den Schleier lüften, unter dem
+die Zukunft verborgen liegt, um einen Blick zu werfen auf die
+bevorstehenden Fortschritte unsrer Wissenschaft und in die Ge-
+heimnisse ihrer Entwickelung während der künftigen Jahrhun-
+derte! Welche besonderen Ziele werden es sein, denen die füh-
+renden mathematischen Geister der kommenden Geschlechter nach-
+streben? welche neuen Methoden und neuen Thatsachen werden
+die neuen Jahrhunderte entdecken — auf dem weiten und reichen
+Felde mathematischen Denkens?
+Die Geschichte lehrt die Stetigkeit der Entwickelung der
+Wissenschaft. Wir wissen, daß jedes Zeitalter eigene Probleme
+hat, die das kommende Zeitalter löst oder als unfruchtbar zur
+Seite schiebt und durch neue Probleme ersetzt. Wollen wir eine
+Vorstellung gewinnen von der muthmaßlichen Entwickelung mathe-
+matischen Wissens in der nächsten Zukunft, so müssen wir die
+offenen Fragen vor unserem Geiste passiren lassen und die Pro-
+bleme überschauen, welche die gegenwärtige Wissenschaft stellt,
+und deren Lösung wir von der Zukunft erwarten. Zu einer sol-
+chen Musterung der Probleme scheint mir der heutige Tag, der an
+der Jahrhundertwende liegt, wohl geeignet; denn die großen Zeit-
+abschnitte fordern uns nicht blos auf zu Rückblicken in die Ver-
+gangenheit, sondern sie lenken unsere Gedanken auch auf das un-
+bekannte Bevorstehende.
+Die hohe Bedeutung bestimmter Probleme für den Fortschritt
+
+D. Hilbert,
+der mathematischen Wissenschaft im Allgemeinen und die wich-
+tige Rolle, die sie bei der Arbeit des einzelnen Forschers spielen,
+ist unleugbar. Solange ein Wissenszweig Ueberfluß an Problemen
+bietet, ist er lebenskräftig; Mangel an Problemen bedeutet Ab-
+sterben oder Aufhören der selbstständigen Entwickelung. Wie
+überhaupt jedes menschliche Unternehmen Ziele verfolgt, so braucht
+die mathematische Forschung Probleme. Durch die Lösung von
+Problemen stählt sich die Kraft des Forschers; er findet neue
+Methoden und Ausblicke, er gewinnt einen weiteren und freieren
+Horizont.
+Es ist schwierig und oft unmöglich, den Wert eines Problems
+im Voraus richtig zu beurteilen; denn schließlich entscheidet der
+Gewinn, den die Wissenschaft dem Problem verdankt. Dennoch
+können wir fragen, ob es allgemeine Merkmale giebt, die ein
+gutes mathematisches Problem kennzeichnen.
+Ein alter französischer Mathematiker hat gesagt: Eine mathe-
+matische Theorie ist nicht eher als vollkommen anzusehen, als bis
+du sie so klar gemacht hast, daß du sie dem ersten Manne er-
+klären könntest, den du auf der Straße triffst. Diese Klarheit
+und leichte Faßlichkeit, wie sie hier so drastisch für eine mathe-
+matische Theorie verlangt wird, möchte ich viel mehr von einem
+mathematischen Problem fordern, wenn dasselbe vollkommen sein
+soll; denn das Klare und leicht Faßliche zieht uns an, das Ver-
+wickelte schreckt uns ab.
+Ein mathematisches Problem sei ferner schwierig, damit es
+uns reizt, und dennoch nicht völlig unzugänglich, damit es unserer
+Anstrengung nicht spotte; es sei uns ein Wahrzeichen auf den
+verschlungenen Pfaden zu verborgenen Wahrheiten — uns her-
+nach lohnend mit der Freude über die gelungene Lösung.
+Die Mathematiker früherer Jahrhunderte pflegten sich mit
+leidenschaftlichem Eifer der Lösung einzelner schwieriger Pro-
+bleme hinzugeben; sie kannten den Wert schwieriger Probleme.
+Ich erinnere nur an das von Johann Bernoulli gestellte Pro-
+blem der Linie des schnellsten Falles. Die Erfahrung zeige, so
+führt Bernoulli in der öffentlichen Ankündigung dieses Problems
+aus, daß edle Geister zur Arbeit an der Vermehrung des Wissens
+durch nichts mehr angetrieben werden, als wenn man ihnen
+schwierige und zugleich nützliche Aufgaben vorlege, und so hoffe
+er sich den Dank der mathematischen Welt zu verdienen, wenn
+er nach dem Beispiele von Männern, wie Mersenne, Pascal,
+Fermat, Viviani und anderen, welche vor ihm dasselbe thaten,
+den ausgezeichneten Analysten seiner Zeit eine Aufgabe vorlege,
+
+mathematische Probleme.
+damit sie daran wie an einem Prüfsteine die Güte ihrer Methoden
+beurtheilen und ihre Kräfte messen könnten. Dem genannten
+Problem von Bernoulli und ähnlichen Problemen verdankt die
+Variationsrechnung ihren Ursprung.
+Fermat hatte bekanntlich behauptet, daß die Diophan-
+tische Gleichung — außer in gewissen selbstverständlichen Fällen —
+ in ganzen Zahlen x, y, z unlösbar sei; das Problem, diese Unmög-
+lichkeit nachzuweisen, bietet ein schlagendes Beispiel dafür, wie
+fördernd ein sehr specielles und scheinbar unbedeutendes Problem
+auf die Wissenschaft einwirken kann. Denn durch die Fermatsche
+Aufgabe angeregt, gelangte Kummer zu der Einführung der
+idealen Zahlen und zur Entdeckung des Satzes von der ein-
+deutigen Zerlegung der Zahlen eines Kreiskörpers in ideale Prim-
+faktoren — eines Satzes, der heute in der ihm durch Dedekind
+und Kronecker erteilten Verallgemeinerung auf beliebige al-
+gebraische Zahlbereiche im Mittelpunkte der modernen Zahlen-
+theorie steht, und dessen Bedeutung weit über die Grenzen der
+Zahlentheorie hinaus in das Gebiet der Algebra und der Funk-
+tionentheorie reicht.
+Um von einem ganz anderen Forschungsgebiete zu reden, so
+erinnere ich an das Dreikörperproblem. Dem Umstande, daß
+Poincaré es unternahm, dieses schwierige Problem erneut zu
+behandeln und der Lösung näher zu führen, verdanken wir die
+fruchtbaren Methoden und die weittragenden Principien, die dieser
+Gelehrte der himmlischen Mechanik erschlossen hat und die heute
+auch der praktische Astronom anerkennt und anwendet.
+Die beiden vorhingenannten Probleme, das Fermatsche Pro-
+blem und das Dreikörperproblem, erscheinen uns im Vorrath der
+Probleme fast wie entgegengesetzte Pole: das erstere eine freie
+Erfindung des reinen Verstandes, der Region der abstrakten
+Zahlentheorie angehörig; das andere uns von der Astronomie auf-
+gezwungen und nothwendig zur Erkenntnis einfachster fundamen-
+taler Naturphänomene.
+Aber oftmals trifft es sich auch, daß das nämliche spe-
+cielle Problem in die verschiedenartigsten Disciplinen mathema-
+tischen Wissens eingreift. So spielt das Problem der kürze-
+sten Linie zugleich in den Grundlagen der Geometrie, in der
+Theorie der krummen Linien und Flächen, in der Mechanik
+und in der Variationsrechnung eine wichtige historische und prin-
+cipielle Rolle. Und wie überzeugend hat F. Klein in seinem
+
+D. Hilbert,
+Buche über das Ikosaeder die Bedeutung geschildert, die dem Pro-
+blem der regulären Polyeder in der Elementargeometrie, in der
+Gruppen- und Gleichungstheorie und in der Theorie der linearen
+Differentialgleichungen zukommt.
+Um die Wichtigkeit bestimmter Probleme in’s Licht zu setzen,
+darf ich auch auf Weierstrass hinweisen, der es als eine
+glückliche Fügung bezeichnete, daß er zu Beginn seiner wissen-
+schaftlichen Laufbahn ein so bedeutendes Problem vorfand, wie es
+das Jacobische Umkehrproblem war, an dessen Bearbeitung er
+sich machen konnte.
+Nachdem wir uns die allgemeine Bedeutung der Probleme
+in der Mathematik vor Augen geführt haben, wenden wir uns zu
+der Frage, aus welchen Quellen die Mathematik ihre Probleme
+schöpft. Sicherlich stammen die ersten und ältesten Probleme in
+jedem mathematischen Wissenszweige aus der Erfahrung und sind
+durch die Welt der äußeren Erscheinungen angeregt worden.
+Selbst die Regeln des Rechnens mit ganzen Zahlen sind auf
+einer niederen Kulturstufe der Menschheit wohl in dieser Weise
+entdeckt worden, wie ja auch heute noch das Kind die Anwen-
+dung dieser Gesetze nach der empirischen Methode erlernt. Das
+Gleiche gilt von den ersten Problemen der Geometrie: den aus
+dem Alterthum überlieferten Problemen der Kubusverdoppelung,
+der Quadratur des Kreises und den ältesten Problemen aus der
+Theorie der Auflösung numerischer Gleichungen, aus der Curven-
+lehre und der Differential- und Integralrechnung, aus der Va-
+riationsrechnung, der Theorie der Fourierschen Reihen und der
+Potentialtheorie — gar nicht zu reden von der weiteren reichen
+Fülle der eigentlichen Probleme aus der Mechanik, Astronomie und
+Physik.
+Bei der Weiterentwickelung einer mathematischen Disciplin
+wird sich jedoch der menschliche Geist, ermuthigt durch das Ge-
+lingen der Lösungen, seiner Selbstständigkeit bewußt; er schafft
+aus sich selbst heraus oft ohne erkennbare äußere Anregung
+allein durch logisches Combiniren, durch Verallgemeinern, Speciali-
+siren, durch Trennen und Sammeln der Begriffe in glücklich-
+ster Weise neue und fruchtbare Probleme und tritt dann selbst
+als der eigentliche Frager in den Vordergrund. So entstanden
+das Primzahlproblem und die übrigen Probleme der Arithmetik,
+die Galoissche Gleichungstheorie, die Theorie der algebrai-
+schen Invarianten, die Theorie der Abelschen und automorphen
+Funktionen und so entstehen überhaupt fast alle feineren Fragen
+der modernen Zahlen- und Funktionentheorie.
+
+mathematische Probleme.
+Inzwischen, während die Schaffenskraft des reinen Denkens
+wirkt, kommt auch wieder von neuem die Außenwelt zur Geltung,
+zwingt uns durch die wirklichen Erscheinungen neue Fragen auf,
+erschließt neue mathematische Wissensgebiete und, indem wir diese
+neuen Wissensgebiete für das Reich des reinen Denkens zu er-
+werben suchen, finden wir häufig die Antworten auf alte un-
+gelöste Probleme und fördern so zugleich am besten die alten
+Theorien. Auf diesem stets sich wiederholenden und wechselnden
+Spiel zwischen Denken und Erfahrung beruhen, wie mir scheint,
+die zahlreichen und überraschenden Analogieen und jene scheinbar
+praestabilirte Harmonie, welche der Mathematiker so oft in den
+Fragestellungen, Methoden und Begriffen verschiedener Wissens-
+gebiete wahrnimmt.
+Wir erörtern noch kurz, welche berechtigten allgemeinen
+Forderungen an die Lösung eines mathematischen Problems zu
+stellen sind: ich meine vor Allem die, daß es gelingt, die Richtig-
+keit der Antwort durch eine endliche Anzahl von Schlüssen darzu-
+thun und zwar auf Grund einer endlichen Anzahl von Voraussetzun-
+gen, welche in der Problemstellung liegen und die jedesmal genau
+zu formuliren sind. Diese Forderung der logischen Deduktion
+mittelst einer endlichen Anzahl von Schlüssen ist nichts anderes als
+die Forderung der Strenge in der Beweisführung. In der That die
+Forderung der Strenge, die in der Mathematik bekanntlich von
+sprichwörtlicher Bedeutung geworden ist, entspricht einem allge-
+meinen philosophischen Bedürfnis unseres Verstandes und anderer-
+seits kommt durch ihre Erfüllung allein erst der gedankliche In-
+halt und die Fruchtbarkeit des Problems zur vollen Geltung. Ein
+neues Problem, zumal, wenn es aus der äußeren Erscheinungswelt
+stammt, ist wie ein junges Reis, welches nur gedeiht und Früchte
+trägt, wenn es auf den alten Stamm, den sicheren Besitzstand
+unseres mathematischen Wissens, sorgfältig und nach den strengen
+Kunstregeln des Gärtners aufgepfropft wird.
+Zudem ist es ein Irrtum zu glauben, daß die Strenge in der
+Beweisführung die Feindin der Einfachheit wäre. An zahlreichen
+Beispielen finden wir im Gegenteil bestätigt, daß die strenge Me-
+thode auch zugleich die einfachere und leichter faßliche ist. Das
+Streben nach Strenge zwingt uns eben zur Auffindung einfa-
+cherer Schlußweisen; auch bahnt es uns häufig den Weg zu Me-
+thoden, die entwickelungsfähiger sind als die alten Methoden
+von geringerer Strenge. So erfuhr die Theorie der algebraischen
+Curven durch die strengere funktionentheoretische Methode und
+die folgerichtige Einführung transcendenter Hilfsmittel eine er-
+Kgl. Ges. d. Wiss. Nachrichten. Math.-phys. Klasse 1900. Heft 3. 19
+
+D. Hilbert,
+hebliche Vereinfachung und größere Einheitlichkeit. Der Nach-
+weis ferner, daß die Potenzreihe die Anwendung der vier ele-
+mentaren Rechnungsarten, sowie das gliedweise Differentiiren
+und Integriren gestattet und die darauf beruhende Erkennt-
+nis der Bedeutung der Potenzreihe, trug erheblich zur Verein-
+fachung der gesamten Analysis, insbesondere der Theorie der
+Elimination und der Theorie der Differentialgleichungen sowie der
+in derselben zu führenden Existenzbeweise bei. Das schlagendste
+Beispiel aber für meine Behauptung ist die Variationsrechnung.
+Die Behandlung der ersten und zweiten Variation bestimmter
+Integrale brachte zum Teil äußerst complicirte Rechnungen mit
+sich und die betreffenden Entwickelungen der alten Mathematiker
+entbehrten der erforderlichen Strenge. Weierstrass zeigte uns
+den Weg zu einer neuen und sicheren Begründung der Variations-
+rechnung. An dem Beispiel des einfachen Integrals und des
+Doppelintegrals werde ich zum Schluß meines Vortrages kurz an-
+deuten, wie die Verfolgung dieses Weges zugleich eine überra-
+schende Vereinfachung der Variationsrechnung mit sich bringt,
+indem zum Nachweis der notwendigen und hinreichenden Crite-
+rien für das Eintreten eines Maximums und Minimums die Be-
+rechnung der zweiten Variation und zum Teil sogar die müh-
+samen an die erste Variation anknüpfenden Schlüsse völlig ent-
+behrlich werden — gar nicht zu reden von dem Fortschritte, der
+in der Aufhebung der Beschränkung auf solche Variationen liegt,
+für die die Differentialquotienten der Funktionen nur wenig va-
+riiren.
+Wenn ich die Strenge in den Beweisen als Erforderniß
+für eine vollkommene Lösung eines Problems hinstelle, so
+möchte ich andererseits zugleich die Meinung widerlegen, als
+seien etwa nur die Begriffe der Analysis oder gar nur diejenigen
+der Arithmetik der völlig strengen Behandlung fähig. Eine solche
+bisweilen von hervorragenden Seiten vertretene Meinung halte
+ich für durchaus irrig; eine so einseitige Auslegung der Forde-
+rung der Strenge führt bald zu einer Ignorirung aller aus der
+Geometrie, Mechanik und Physik stammenden Begriffe, zu einer
+Unterbindung des Zuflusses von neuem Material aus der Außen-
+welt und schließlich sogar in letzter Consequenz zu einer Ver-
+werfung der Begriffe des Continuums und der Irrationalzahl.
+Welch’ wichtiger Lebensnerv aber würde der Mathematik abge-
+schnitten durch eine Exstirpation der Geometrie und der mathe-
+matischen Physik? Ich meine im Gegenteil, wo immer von er-
+kenntnistheoretischer Seite oder in der Geometrie oder aus den
+
+mathematische Probleme.
+Theorien der Naturwissenschaft mathematische Begriffe auftauchen,
+erwächst der Mathematik die Aufgabe, die diesen Begriffen zu
+Grunde liegenden Principien zu erforschen und dieselben durch ein
+einfaches und vollständiges System von Axiomen derart festzu-
+legen, daß die Schärfe der neuen Begriffe und ihre Verwendbar-
+keit zur Deduktion den alten arithmetischen Begriffen in keiner
+Hinsicht nachsteht.
+Zu den neuen Begriffen gehören notwendig auch neue Zeichen;
+diese wählen wir derart, daß sie uns an die Erscheinungen er-
+innern, die der Anlaß waren zur Bildung der neuen Begriffe.
+So sind die geometrischen Figuren Zeichen für die Erinnerungs-
+bilder der räumlichen Anschauung und finden als solche bei allen
+Mathematikern Verwendung. Wer benutzt nicht stets zugleich
+mit der Doppelungleichung a &gt; b &gt; c für drei Größen a, b, c das
+Bild dreier hintereinander auf einer Geraden liegenden Punkte
+als das geometrische Zeichen des Begriffes „zwischen“. Wer be-
+dient sich nicht der Zeichnung in einander gelagerter Strecken und
+Rechtecke, wenn es gilt einen schwierigen Satz über die Stetigkeit
+von Funktionen oder die Existenz von Verdichtungsstellen in
+voller Strenge zu beweisen. Wer könnte ohne die Figur des
+Dreiecks, des Kreises mit seinem Mittelpunkt, wer ohne das Kreuz
+dreier zueinander senkrechter Achsen auskommen? oder wer wollte
+auf die Vorstellung des Vektorfeldes oder das Bild einer Curven-
+und Flächenschaar mit ihrer Enveloppe verzichten, das in der
+Differentialgeometrie, in der Theorie der Differentialgleichungen,
+in der Begründung der Variationsrechnung und anderer rein
+mathematischer Wissenszweige eine so wichtige Rolle spielt?
+Die arithmetischen Zeichen sind geschriebene Figuren und
+die geometrischen Figuren sind gezeichnete Formeln, und kein
+Mathematiker könnte diese gezeichneten Formeln entbehren, so
+wenig wie ihm beim Rechnen etwa das Formiren und Auflösen
+der Klammern oder die Verwendung anderer analytischer Zeichen
+entbehrlich sind.
+Die Anwendung der geometrischen Zeichen als strenges Be-
+weismittel setzt die genaue Kenntniß und völlige Beherrschung
+der Axiome voraus, die jenen Figuren zu Grunde liegen, und da-
+mit diese geometrischen Figuren dem allgemeinen Schatze mathe-
+matischer Zeichen einverleibt werden dürfen, ist daher eine strenge
+axiomatische Untersuchung ihres anschauungsmäßigen Inhaltes not-
+wendig. Wie man beim Addiren zweier Zahlen die Ziffern nicht
+unrichtig untereinandersetzen darf, sondern vielmehr erst die
+Rechnungsregeln d. h. die Axiome der Arithmetik das richtige
+19*
+
+D. Hilbert,
+Operiren mit den Ziffern bestimmen, so wird das Operiren mit
+den geometrischen Zeichen durch die Axiome der geometrischen
+Begriffe und deren Verknüpfung bestimmt.
+Die Uebereinstimmung zwischen geometrischem und arithme-
+tischem Denken zeigt sich auch darin, daß wir bei arithmetischen
+Forschungen ebensowenig wie bei geometrischen Betrachtungen in
+jedem Augenblicke die Kette der Denkoperationen bis auf die
+Axiome hin verfolgen; vielmehr wenden wir, zumal bei der er-
+sten Inangriffnahme eines Problems, in der Arithmetik genau wie
+in der Geometrie zunächst ein rasches, unbewußtes, nicht definitiv
+sicheres Combiniren an, im Vertrauen auf ein gewisses arithme-
+tisches Gefühl für die Wirkungsweise der arithmetischen Zeichen,
+ohne welches wir in der Arithmetik ebensowenig vorwärts kom-
+men würden, wie in der Geometrie ohne die geometrische Ein-
+bildungskraft. Als Muster einer mit geometrischen Begriffen und
+Zeichen in strenger Weise operirenden arithmetischen Theorie
+nenne ich das Werk von MinkowskiLeipzig 1896. „Geometrie der Zahlen.“
+Es mögen noch einige Bemerkungen über die Schwierigkeiten,
+die mathematische Probleme bieten können und die Ueberwin-
+dung solcher Schwierigkeiten Platz finden.
+Wenn uns die Beantwortung eines mathematischen Problems
+nicht gelingen will, so liegt häufig der Grund darin, daß wir noch
+nicht den allgemeineren Gesichtspunkt erkannt haben, von dem
+aus das vorgelegte Problem nur als einzelnes Glied einer Kette
+verwandter Probleme erscheint. Nach Auffindung dieses Gesichts-
+punktes wird häufig nicht nur das vorgelegte Problem unserer
+Erforschung zugänglicher, sondern wir gelangen so zugleich in
+den Besitz einer Methode, die auf die verwandten Probleme an-
+wendbar ist. Als Beispiel diene die Einführung complexer Inte-
+grationswege in der Theorie der bestimmten Integrale durch
+Cauchy und die Aufstellung des Idealbegriffes in der Zahlen-
+theorie durch Kummer. Dieser Weg zur Auffindung allge-
+meiner Methoden ist gewiß der gangbarste und sicherste; denn
+wer, ohne ein bestimmtes Problem vor Auge zu haben, nach
+Methoden sucht, dessen Suchen ist meist vergeblich.
+Eine noch wichtigere Rolle als das Verallgemeinern spielt
+— wie ich glaube — bei der Beschäftigung mit mathematischen
+Problemen das Specialisiren. Vielleicht in den meisten Fällen,
+wo wir die Antwort auf eine Frage vergeblich suchen, liegt die
+Ursache des Mißlingens darin, daß wir einfachere und leichtere
+
+mathematische Probleme.
+Probleme als das vorgelegte noch nicht oder noch unvollkommen
+erledigt haben. Es kommt dann Alles darauf an, diese leichteren
+Probleme aufzufinden und ihre Lösung mit möglichst vollkommenen
+Hülfsmitteln und durch verallgemeinerungsfähige Begriffe zu be-
+werkstelligen. Diese Vorschrift ist einer der wichtigsten Hebel
+zur Ueberwindung mathematischer Schwierigkeiten und es scheint
+mir, daß man sich dieses Hebels meistens — wenn auch unbe-
+wußt — bedient.
+Mitunter kommt es vor, daß wir die Beantwortung unter un-
+genügenden Voraussetzungen oder in unrichtigem Sinne erstreben
+und in Folge dessen nicht zum Ziele gelangen. Es entsteht dann
+die Aufgabe, die Unmöglichkeit der Lösung des Problems unter
+den gegebenen Voraussetzungen und in dem verlangten Sinne
+nachzuweisen. Solche Unmöglichkeitsbeweise wurden schon von
+den Alten geführt, indem sie z. B. zeigten, daß die Hypotenuse
+eines gleichschenkligen rechtwinkligen Dreiecks zur Kathete in
+einem irrationalen Verhältnisse steht. In der neueren Mathe-
+matik spielt die Frage nach der Unmöglichkeit gewisser Lösungen
+eine hervorragende Rolle und wir nehmen so gewahr, daß alte
+schwierige Probleme wie der Beweis des Parallelenaxioms, die
+Quadratur des Kreises oder die Auflösung der Gleichungen 5ten
+Grades durch Wurzelziehen, wenn auch in anderem als dem ur-
+sprünglich gemeinten Sinne, dennoch eine völlig befriedigende und
+strenge Lösung gefunden haben.
+Diese merkwürdige Thatsache neben anderen philosophischen
+Gründen ist es wohl, welche in uns eine Ueberzeugung entstehen läßt,
+die jeder Mathematiker gewiß teilt, die aber bis jetzt wenigstens
+niemand durch Beweise gestützt hat — ich meine die Ueberzeugung,
+daß ein jedes bestimmte mathematische Problem einer strengen
+Erledigung notwendig fähig sein müsse, sei es, daß es gelingt, die
+Beantwortung der gestellten Frage zu geben, sei es, daß die Un-
+möglichkeit seiner Lösung und damit die Notwendigkeit des Miß-
+lingens aller Versuche dargethan wird. Man lege sich irgend ein
+bestimmtes ungelöstes Problem vor, etwa die Frage nach der
+Irrationalität der Euler-Mascheronischen Constanten C oder
+die Frage, ob es unendlich viele Primzahlen von der Form 2n + 1
+giebt. So unzugänglich diese Probleme uns erscheinen und so rat-
+los wir zur Zeit ihnen gegenüber stehen — wir haben dennoch
+die sichere Ueberzeugung, daß ihre Lösung durch eine endliche
+Anzahl rein logischer Schlüsse gelingen muß.
+Ist dieses Axiom von der Lösbarkeit eines jeden Problems
+eine dem mathematischen Denken allein charakteristische Eigen-
+
+D. Hilbert,
+tümlichkeit oder ist es vielleicht ein allgemeines dem inneren
+Wesen unseres Verstandes anhaftendes Gesetz, daß alle Fragen,
+die er stellt, auch durch ihn einer Beantwortung fähig sind?
+Trifft man doch auch in anderen Wissenschaften alte Probleme
+an, die durch den Beweis der Unmöglichkeit in der befriedigend-
+sten Weise und zum höchsten Nutzen der Wissenschaft er-
+ledigt worden sind. Ich erinnere an das Problem des Perpetuum
+mobile. Nach den vergeblichen Versuchen der Construktion eines
+Perpetuum mobile forschte man vielmehr nach den Beziehungen,
+die zwischen den Naturkräften bestehen müssen, wenn ein Per-
+petuum mobile unmöglich sein soll Vgl. Helmholtz, Ueber die Wechselwirkung der Naturkräfte und die
+darauf bezüglichen neuesten Ermittelungen der Physik. Vortrag, gehalten in
+Königsberg 1854., und diese umgekehrte Frage-
+stellung führte auf die Entdeckung des Gesetzes von der Erhal-
+tung der Energie, das seinerseits die Unmöglichkeit des Perpe-
+tuum mobile in dem ursprünglich verlangten Sinne erklärt.
+Diese Ueberzeugung von der Lösbarkeit eines jeden mathe-
+matischen Problems ist uns ein kräftiger Ansporn während der
+Arbeit; wir hören in uns den steten Zuruf: Da ist das Pro-
+blem, suche die Lösung. Du kannst sie durch reines
+Denken finden; denn in der Mathematik giebt es
+kein Ignorabimus!
+ Unermeßlich ist die Fülle von Problemen in der Mathematik,
+und sobald ein Problem gelöst ist, tauchen an dessen Stelle zahl-
+lose neue Probleme auf. Gestatten Sie mir im Folgenden, gleich-
+sam zur Probe, aus verschiedenen mathematischen Disciplinen ein-
+zelne bestimmte Probleme zu nennen, von deren Behandlung eine
+Förderung der Wissenschaft sich erwarten läßt.
+Ueberblicken wir die Principien der Analysis und der Geo-
+metrie. Die anregendsten und bedeutendsten Ereignisse des letzten
+Jahrhunderts sind auf diesem Gebiete, wie mir scheint, die arith-
+metische Erfassung des Begriffs des Continuums in den Arbeiten
+von Cauchy, Bolzano, Cantor und die Entdeckung der
+Nicht-Euklidischen Geometrie durch Gauss, Bolyai, Lo-
+batschefskiy. Ich lenke daher zunächst Ihre Aufmerksamkeit
+auf einige diesen Gebieten angehörenden Probleme.
+
+mathematische Probleme.
+1. Cantors Problem von der Mächtigkeit des Continuums.
+Zwei Systeme, d. h. zwei Mengen von gewöhnlichen reellen
+Zahlen (oder Punkten) heißen nach Cantor aequivalent oder von
+gleicher Mächtigkeit, wenn sie zu einander in eine derartige Be-
+ziehung gebracht werden können, daß einer jeden Zahl der einen
+Menge eine und nur eine bestimmte Zahl der anderen Menge ent-
+spricht. Die Untersuchungen von Cantor über solche Punkt-
+mengen machen einen Satz sehr wahrscheinlich, dessen Beweis je-
+doch trotz eifrigster Bemühungen bisher noch Niemanden gelungen
+ist; dieser Satz lautet:
+Jedes System von unendlich vielen reellen Zahlen d. h. jede
+unendliche Zahlen- (oder Punkt)menge ist entweder der Menge der
+ganzen natürlichen Zahlen 1, 2, 3, … oder der Menge sämmt-
+licher reellen Zahlen und mithin dem Continuum, d. h. etwa den
+Punkten einer Strecke aequivalent; im Sinne der Aequivalenz giebt
+es hiernach nur zwei Zahlenmengen, die abzählbare Menge und das
+Continuum.
+Aus diesem Satz würde zugleich folgen, daß das Continuum
+die nächste Mächtigkeit über die Mächtigkeit der abzählbaren
+Mengen hinaus bildet; der Beweis dieses Satzes würde mithin
+eine neue Brücke schlagen zwischen der abzählbaren Menge und
+dem Continuum.
+Es sei noch eine andere sehr merkwürdige Behauptung Can-
+tors erwähnt, die mit dem genannten Satze in engstem Zu-
+sammenhange steht und die vielleicht den Schlüssel zum Beweise
+dieses Satzes liefert. Irgend ein System von reellen Zahlen heißt
+geordnet, wenn von irgend zwei Zahlen des Systems fest-
+gesetzt ist, welches die frühere und welches die spätere sein
+soll, und dabei diese Festsetzung eine derartige ist, daß, wenn
+eine Zahl a früher als die Zahl b und b früher als c ist, so auch
+stets a früher als c erscheint. Die natürliche Anordnung der
+Zahlen eines Systems heiße diejenige, bei der die kleinere als die
+frühere, die größere als die spätere festgesetzt wird. Es giebt
+aber, wie leicht zu sehen ist, noch unendlich viele andere Arten,
+wie man die Zahlen eines Systems ordnen kann.
+Wenn wir eine bestimmte Ordnung der Zahlen ins Auge fassen
+und aus denselben irgend ein besonderes System dieser Zahlen,
+ein sogenanntes Teilsystem oder eine Teilmenge, herausgreifen, so
+erscheint diese Teilmenge ebenfalls geordnet. Cantor betrachtet
+nun eine besondere Art von geordneten Mengen, die er als wohl-
+geordnete Mengen bezeichnet und die dadurch charakterisirt sind,
+
+D. Hilbert,
+daß nicht nur in der Menge selbst, sondern auch in jeder Teil-
+menge eine früheste Zahl existirt. Das System der ganzen Zahlen
+1, 2, 3, … in dieser seiner natürlichen Ordnung ist offenbar eine
+wohlgeordnete Menge. Dagegen ist das System aller reellen Zahlen,
+d. h. das Continuum in seiner natürlichen Ordnung offenbar nicht
+wohlgeordnet. Denn, wenn wir als Teilmenge die Punkte einer
+endlichen Strecke mit Ausnahme des Anfangspunktes der Strecke
+ins Auge fassen, so besitzt diese Teilmenge jedenfalls kein frü-
+hestes Element. Es erhebt sich nun die Frage, ob sich die Ge-
+samtheit aller Zahlen nicht in anderer Weise so ordnen läßt, daß
+jede Teilmenge ein frühestes Element hat, d. h. ob das Continuum
+auch als wohlgeordnete Menge aufgefaßt werden kann, was
+Cantor bejahen zu müssen glaubt. Es erscheint mir höchst
+wünschenswert, einen direkten Beweis dieser merkwürdigen Behaup-
+tung von Cantor zu gewinnen, etwa durch wirkliche Angabe
+einer solchen Ordnung der Zahlen, bei welcher in jedem Teilsy-
+stem eine früheste Zahl aufgewiesen werden kann.
+2. Die Widerspruchslosigkeit der arithmetischen Axiome.
+Wenn es sich darum handelt, die Grundlagen einer Wissen-
+schaft zu untersuchen, so hat man ein System von Axiomen auf-
+zustellen, welche eine genaue und vollständige Beschreibung der-
+jenigen Beziehungen enthalten, die zwischen den elementaren Be-
+griffen jener Wissenschaft stattfinden. Die aufgestellten Axiome
+sind zugleich die Definitionen jener elementaren Begriffe und jede
+Aussage innerhalb des Bereiches der Wissenschaft, deren Grund-
+lagen wir prüfen, gilt uns nur dann als richtig, falls sie sich
+mittelst einer endlichen Anzahl logischer Schlüsse aus den aufge-
+stellten Axiomen ableiten läßt. Bei näherer Betrachtung entsteht
+die Frage, ob etwa gewisse Aussagen einzelner Axiome sich unterein-
+ander bedingen und ob nicht somit die Axiome noch gemeinsame Be-
+standteile enthalten, die man beseitigen muß, wenn man zu einem Sy-
+stem von Axiomen gelangen will, die völlig von einander unabhängig
+sind.
+Vor Allem aber möchte ich unter den zahlreichen Fragen,
+welche hinsichtlich der Axiome gestellt werden können, dies als
+das wichtigste Problem bezeichnen, zu beweisen, daß dieselben unter-
+einander widerspruchslos sind, d. h. daß man auf Grund derselben
+mittelst einer endlichen Anzahl von logischen Schlüssen niemals zu
+Resultaten gelangen kann, die miteinander in Widerspruch stehen.
+In der Geometrie gelingt der Nachweis der Widerspruchs-
+losigkeit der Axiome dadurch, daß man einen geeigneten Bereich
+
+mathematische Probleme.
+von Zahlen construirt, derart, daß den geometrischen Axiomen
+analoge Beziehungen zwischen den Zahlen dieses Bereiches ent-
+sprechen und daß demnach jeder Widerspruch in den Folgerungen
+aus den geometrischen Axiomen auch in der Arithmetik jenes
+Zahlenbereiches erkennbar sein müßte. Auf diese Weise wird
+also der gewünschte Nachweis für die Widerspruchslosigkeit der
+geometrischen Axiome auf den Satz von der Widerspruchslosig-
+keit der arithmetischen Axiome zurückgeführt.
+Zum Nachweise für die Widerspruchslosigkeit der arithme-
+tischen Axiome bedarf es dagegen eines direkten Weges.
+Die Axiome der Arithmetik sind im Wesentlichen nichts an-
+deres als die bekannten Rechnungsgesetze mit Hinzunahme des
+Axiomes der Stetigkeit. Ich habe sie kürzlich zusammengestellt Jahresbericht der Deutschen Mathematiker-Vereinigung, Bd. 8, 1900,
+S. 180.
+und dabei das Axiom der Stetigkeit durch zwei einfachere Axiome er-
+setzt, nämlich das bekannte Archimedische Axiom und ein neues
+Axiom des Inhaltes, daß die Zahlen ein System von Dingen bil-
+den, welches bei Aufrechterhaltung der sämmtlichen übrigen
+Axiome keiner Erweiterung mehr fähig ist. (Axiom der Voll-
+ständigkeit). Ich bin nun überzeugt, daß es gelingen muß, einen
+direkten Beweis für die Widerspruchslosigkeit der arithmetischen
+Axiome zu finden, wenn man die bekannten Schlußmethoden in
+der Theorie der Irrationalzahlen im Hinblick auf das bezeichnete
+Ziel genau durcharbeitet und in geeigneter Weise modificirt.
+Um die Bedeutung des Problems noch nach einer anderen
+Rücksicht hin zu charakterisiren, möchte ich folgende Bemer-
+kungen hinzufügen. Wenn man einem Begriffe Merkmale erteilt,
+die einander widersprechen, so sage ich: der Begriff existirt ma-
+thematisch nicht. So existirt z. B. mathematisch nicht eine reelle
+Zahl, deren Quadrat gleich —1 ist. Gelingt es jedoch zu be-
+weisen, daß die dem Begriffe erteilten Merkmale bei Anwendung
+einer endlichen Anzahl von logischen Schlüssen niemals zu einem
+Widerspruche führen können, so sage ich, daß damit die mathe-
+matische Existenz des Begriffes z. B. einer Zahl oder einer Func-
+tion, die gewisse Forderungen erfüllt, bewiesen worden ist. In
+dem vorliegenden Falle, wo es sich um die Axiome der reellen
+Zahlen in der Arithmetik handelt, ist der Nachweis für die Wider-
+spruchslosigkeit der Axiome zugleich der Beweis für die mathe-
+matische Existenz des Inbegriffs der reellen Zahlen oder des Con-
+tinuums. In der That, wenn der Nachweis für die Wider-
+
+D. Hilbert,
+spruchslosigkeit der Axiome völlig gelungen sein wird, so ver-
+lieren die Bedenken, welche bisweilen gegen die Existenz des In-
+begriffs der reellen Zahlen gemacht worden sind, jede Berechti-
+gung. Freilich der Inbegriff der reellen Zahlen, d. h. das Con-
+tinuum ist bei der eben gekennzeichneten Auffassung nicht etwa
+die Gesammtheit aller möglichen Dezimalbruchentwicklungen oder
+die Gesammtheit aller möglichen Gesetze, nach denen die Elemente
+einer Fundamentalreihe fortschreiten können, sondern ein System
+von Dingen, deren gegenseitige Beziehungen durch die aufgestellten
+Axiome geregelt werden und für welche alle und nur diejenigen
+Thatsachen wahr sind, die durch eine endliche Anzahl logischer
+Schlüsse aus den Axiomen gefolgert werden können. Nur in
+diesem Sinne ist meiner Meinung nach der Begriff des Continuums
+streng logisch faßbar. Thatsächlich entspricht er auch, wie mir
+scheint, so am besten dem, was die Erfahrung und Anschauung
+uns giebt. Der Begriff des Continuums oder auch der Begriff
+des Systems aller Functionen existirt dann in genau demselben
+Sinne wie etwa das System der ganzen rationalen Zahlen oder
+auch wie die höheren Cantorschen Zahlklassen und Mächtig-
+keiten. Denn ich bin überzeugt, daß auch die Existenz der letz-
+teren in dem von mir bezeichneten Sinne ebenso wie die des Con-
+tinuums wird erwiesen werden können — im Gegensatz zu dem
+System aller Mächtigkeiten überhaupt oder auch aller Cantor-
+schen Alephs, für welches, wie sich zeigen läßt, ein wider-
+spruchloses System von Axiomen in meinem Sinne nicht aufge-
+stellt werden kann und welches daher nach meiner Bezeichnungs-
+weise ein mathematisch nicht existirender Begriff ist.
+ Aus dem Gebiete der Grundlagen der Geometrie möchte ich
+zunächst das folgende Problem nennen.
+3. Die Volumengleichheit zweier Tetraeder von gleicher Grundfläche und Höhe.
+Gauss Werke, Bd. 8, S. 241 und 244. spricht in zwei Briefen an Gerling sein Bedauern
+darüber aus, daß gewisse Sätze der Stereometrie von der Exhau-
+stionsmethode, d. h. in der modernen Ausdrucksweise von dem
+Stetigkeitsaxiom (oder von dem Archimedischen Axiome) ab-
+hängig sind. Gauss nennt besonders den Satz von Euklid,
+daß dreiseitige Pyramiden von gleicher Höhe sich wie ihre Grund-
+flächen verhalten. Nun ist die analoge Aufgabe in der Ebene
+
+mathematische Probleme.
+vollkommen erledigt worden Vgl. außer der früheren Litteratur Hilbert, Grundlagen der Geometrie,
+Leipzig 1899, Kapitel IV.; auch ist es Gerling Gauss’s Werke, Bd. 8, S. 242. gelungen,
+die Volumengleichheit symmetrischer Polyeder durch Zerlegung
+in congruente Teile zu beweisen. Dennoch erscheint mir der Be-
+weis des eben genannten Satzes von Euklid auf diese Weise im
+allgemeinen wohl nicht als möglich und es würde sich also um
+den strengen Unmöglichkeitsbeweis handeln. Ein solcher wäre
+erbracht, sobald es gelingt, zwei Tetraeder mit gleicher Grundfläche
+und von gleicher Höhe anzugeben, die sich auf keine Weise in
+congruente Tetraeder zerlegen lassen und die sich auch durch Hin-
+zufügung congruenter Tetraeder nicht zu solchen Polyedern ergänzen
+lassen, für die ihrerseits eine Zerlegung in congruente Tetraeder
+möglich ist.
+4. Problem von der Geraden als kürzester Verbindung zweier Punkte.
+Eine andere Problemstellung, betreffend die Grundlagen der
+Geometrie ist diese. Wenn wir von den Axiomen, die zum Auf-
+bau der gewöhnlichen Euklidischen Geometrie nötig sind, das
+Parallelenaxiom unterdrücken, bezüglich als nicht erfüllt annehmen,
+dagegen alle übrigen Axiome beibehalten, so gelangen wir be-
+kanntlich zu der Lobatschefskijschen (hyperbolischen) Geo-
+metrie; wir dürfen daher sagen, daß diese Geometrie insofern eine
+der Euklidischen nächststehende Geometrie ist. Fordern wir
+weiter, daß dasjenige Axiom nicht erfüllt sein soll, wonach von
+drei Punkten einer Geraden stets einer und nur einer zwischen
+den beiden anderen liegt, so erhalten wir die Riemannsche
+(elliptische) Geometrie, so daß diese Geometrie als eine der
+Lobatschefskijschen nächststehende erscheint. Wollen wir
+eine ähnliche principielle Untersuchung über das Archime-
+dische Axiom ausführen, so haben wir dieses als nicht erfüllt
+anzusehen und gelangen somit zu den Nicht-Archimedischen
+Geometrien, die von Veronese und mir untersucht worden sind.
+Die allgemeinere Frage, die sich nun erhebt, ist die, ob sich noch
+nach anderen fruchtbaren Gesichtspunkten Geometrien aufstellen
+lassen, die mit gleichem Recht der gewöhnlichen Euklidischen
+Geometrie nächststehend sind, und da möchte ich Ihre Aufmerk-
+samkeit auf einen Satz lenken, der von manchen Autoren sogar
+als Definition der geraden Linie hingestellt worden ist und der
+aussagt, daß die Gerade die kürzeste Verbindung zwischen zwei
+
+D. Hilbert,
+Punkten ist. Der wesentliche Inhalt dieser Aussage reduzirt sich
+auf den Satz von Euklid, daß im Dreiecke die Summe zweier
+Seiten stets größer als die dritte Seite ist, einen Satz, welcher wie
+man sieht, lediglich von elementaren d. h. aus den Axiomen un-
+mittelbar entnommenen Begriffen handelt, und daher der logischen
+Untersuchung zugänglicher ist. Euklid hat den genannten Satz
+vom Dreieck mit Hülfe des Satzes vom Außenwinkel auf Grund
+der Congruenzsätze bewiesen. Man überzeugt sich nun leicht, daß
+der Beweis jenes Euklidischen Satzes allein auf Grund der-
+jenigen Congruenzsätze, die sich auf das Abtragen von Strecken
+und Winkeln beziehen, nicht gelingt, sondern daß man zum Be-
+weise eines Dreieckscongruenzsatzes bedarf. So entsteht die
+Frage nach einer Geometrie, in welcher alle Axiome der gewöhn-
+lichen Euklidischen Geometrie und insbesondere alle Con-
+gruenzaxiome mit Ausnahme des einen Axioms von der Dreiecks-
+congruenz (oder auch mit Ausnahme des Satzes von der Gleich-
+heit der Basiswinkel im gleichschenkligen Dreieck) gelten und in
+welcher überdies noch der Satz, daß in jedem Dreieck die Summe
+zweier Seiten größer als die dritte ist, als besonderes Axiom auf-
+gestellt wird.
+Man findet, daß eine solche Geometrie thatsächlich existirt
+und keine andere ist als diejenige, welche Minkowski Leipzig 1896. in sei-
+nem Buche „Geometrie der Zahlen“ aufgestellt und zur Grund-
+lage seiner arithmetischen Untersuchungen gemacht hat. Die
+Minkowskische Geometrie ist also ebenfalls eine der gewöhn-
+lichen Euklidischen Geometrie nächststehende; sie ist im
+Wesentlichen durch folgende Festsetzungen charakterisirt: Er-
+stens: Die Punkte, die von einem festen Punkt O gleichen Ab-
+stand haben, werden durch eine convexe geschlossene Fläche des
+gewöhnlichen Euklidischen Raumes mit O als Mittelpunkt re-
+präsentirt. Zweitens: Zwei Strecken heißen auch dann einander
+gleich, wenn man sie durch Parallelverschiebung des Euklidi-
+schen Raumes ineinander überführen kann.
+In der Minkowskischen Geometrie gilt das Parallelenaxiom;
+ich gelangte bei einer Betrachtung Mathematische Annalen, Bd. 46, S. 91., die ich über den Satz von
+der geraden Linie als kürzester Verbindung zweier Punkte an-
+stellte, zu einer Geometrie, in welcher nicht das Parallelenaxiom
+gilt, während alle übrigen Axiome der Minkowskischen Geo-
+metrie erfüllt sind. Wegen der wichtigen Rolle, die der Satz
+
+mathematische Probleme.
+von der Geraden als kürzester Verbindung zweier Punkte und
+der im wesentlichen aequivalente Satz von Euklid über die
+Seiten eines Dreiecks nicht nur in der Zahlentheorie, sondern auch
+in der Theorie der Flächen und in der Variationsrechnung spielt,
+und da ich glaube, daß die eingehendere Untersuchung der Bedin-
+gungen für die Gültigkeit dieses Satzes ebenso auf den Begriff
+der Entfernung wie auch noch auf andere elementaren Begriffe
+z. B. den Begriff der Ebene und die Möglichkeit ihrer Definition
+mittelst des Begriffes der Geraden ein neues Licht werfen wird,
+so erscheint mir die Aufstellung und systematische Behandlung der
+hier möglichen Geometrieen wünschenswert.
+Im Fall der Ebene und unter Zugrundelegung des Stetigkeits-
+axioms führt das genannte Problem auf die von Darboux Leçons sur la théorie générale des surfaces. Bd. 3, Paris 1894, S. 54. be-
+handelte Frage, alle Variationsprobleme in der Ebene zu finden,
+für welche sämtliche Geraden der Ebene die Lösungen sind
+— eine Fragestellung, die mir weitgehender Verallgemeinerungen Vgl. die interessanten Untersuchungen von A. Hirsch, Mathematische
+Annalen, Bd. 49 und 50.
+fähig und würdig erscheint.
+5. Lie’s Begriff der continuirlichen Transformationsgruppe ohne die Annahme
+der Differenzirbarkeit der die Gruppe definirenden Functionen.
+Lie hat bekanntlich mit Hinzuziehung des Begriffs der con-
+tinuirlichen Transformationsgruppe ein System von Axiomen für
+die Geometrie aufgestellt und auf Grund seiner Theorie der Trans-
+formationsgruppen bewiesen, daß dieses System von Axiomen zum
+Aufbau der Geometrie hinreicht. Da Lie jedoch bei Begründung
+seiner Theorie stets annimmt, daß die die Gruppe definirenden
+Functionen differenzirt werden können, so bleibt in den
+Lieschen Entwickelungen unerörtert, ob die Annahme der Diffe-
+renzirbarkeit bei der Frage nach den Axiomen der Geometrie
+thatsächlich unvermeidlich ist oder nicht vielmehr als eine Folge
+des Gruppenbegriffs und der übrigen geometrischen Axiome er-
+scheint. Diese Ueberlegung, sowie auch gewisse Probleme hin-
+sichtlich der arithmetischen Axiome legen uns die allgemeinere
+Frage nahe, in wieweit der Liesche Begriff der continuirlichen
+Transformationsgruppe auch ohne Annahme der Differenzirbarkeit der
+Functionen unserer Untersuchung zugänglich ist.
+Bekanntlich definirt Lie die endliche continuirliche Trans-
+formationsgruppe als ein System von Transformationen
+
+
+D. Hilbert,
+von der Beschaffenheit, daß zwei beliebige Transformationen
+  des Systems, nacheinander ausgeführt, eine Transformation er-
+geben, welche wiederum dem System angehört und sich mithin in
+der Form
+ darstellen läßt, wo c1, …, cr gewisse Functionen von a1, …, ar;
+b1, …, br sind. Die Gruppeneigenschaft findet mithin ihren Aus-
+druck in einem System von Functionalgleichungen und erfordert
+an sich für die Functionen f1, …, fn, c1, …, cr keinerlei nähere
+Beschränkung. Doch die weitere Behandlungsweise jener Func-
+tionalgleichungen nach Lie, nämlich die Ableitung der bekannten
+grundlegenden Differentialgleichungen, setzt notwendig die Stetig-
+keit und Differenzirbarkeit der die Gruppe definirenden Functionen
+voraus.
+Was zunächst die Stetigkeit betrifft, so wird man gewiß an
+dieser Forderung zunächst festhalten — schon im Hinblick auf
+die geometrischen und arithmetischen Anwendungen, bei denen die
+Stetigkeit der in Frage kommenden Functionen als eine Folge des
+Stetigkeitsaxioms erscheint. Dagegen enthält die Differenzirbar-
+keit der die Gruppe definirenden Functionen eine Forderung, die
+sich in den geometrischen Axiomen nur auf recht gezwungene und
+complicirte Weise zum Ausdruck bringen läßt, und es entsteht
+mithin die Frage, ob nicht etwa durch Einführung geeigneter
+neuer Veränderlicher und Parameter die Gruppe stets in eine
+solche übergeführt werden kann, für welche die definirenden Func-
+tionen differenzirbar sind, oder ob wenigstens unter Hinzufügung
+gewisser einfacher Annahmen eine Ueberführung in die der Lie-
+schen Methode zugänglichen Gruppen möglich ist. Die Zurück-
+führung auf analytische Gruppen ist nach einem von Lie Lie-Engel, Theorie der Transformationsgruppen, Bd. 3, Leipzig 1893.
+§ 82 und § 144.
+aufgestellten und von Schur Ueber den analytischen Charakter der eine endliche continuirliche Trans-
+formationsgruppe darstellenden Functionen. Mathematische Annalen, Bd. 41. zuerst bewiesenen Satze stets
+dann möglich, sobald die Gruppe transitiv ist und die Existenz
+der ersten und gewisser zweiter Ableitungen der die Gruppe de-
+finirenden Functionen vorausgesetzt wird.
+
+mathematische Probleme.
+Auch für unendliche Gruppen ist, wie ich glaube, die Unter-
+suchung der entsprechenden Frage von Interesse. Ueberhaupt
+werden wir auf das weite und nicht uninteressante Feld der Func-
+tionalgleichungen geführt, die bisher meist nur unter der Voraus-
+setzung der Differenzirbarkeit der auftretenden Functionen unter-
+sucht worden sind. Insbesondere die von Abel Werke, Bd. 1 S. 1, 61, 389. mit so vielem
+Scharfsinn behandelten Functionalgleichungen, die Differenzenglei-
+chungen und andere in der Litteratur vorkommende Gleichungen
+weisen an sich nichts auf, was zur Forderung der Differenzirbar-
+keit der auftretenden Functionen zwingt, und bei gewissen Exi-
+stenzbeweisen in der Variationsrechnung fiel mir direkt die Auf-
+gabe zu, aus dem Bestehen einer Differenzengleichung die Diffe-
+renzirbarkeit der betrachteten Function beweisen zu müssen. In
+allen diesen Fällen erhebt sich daher die Frage, inwieweit etwa die
+Aussagen, die wir im Falle der Annahme differenzirbarer Functionen
+machen können, unter geeigneten Modifikationen ohne diese Voraus-
+setzung gültig sind.
+Bemerkt sei noch, daß H. Minkowski in seiner vorhin ge-
+nannten „Geometrie der Zahlen“ von der Functionalungleichung
+ ausgeht und aus dieser in der That die Existenz gewisser Diffe-
+rentialquotienten für die in Betracht kommenden Functionen zu
+beweisen vermag.
+Andererseits hebe ich hervor, daß es sehr wohl analytische
+Functionalgleichungen giebt, deren einzige Lösungen nichtdiffe-
+renzirbare Functionen sind. Beispielsweise kann man eine eindeu-
+tige stetige nichtdifferenzirbare Function φ (x) construiren, die die
+einzige Lösung zweier Functionalgleichungen
+φ (x + α) — φ (x) = f (x),
+φ (x + β) — φ (x) = 0
+darstellt, wo α, β zwei reelle Zahlen und f (x) eine für alle reellen
+Werte von x reguläre analytische eindeutige Function bedeutet.
+Man gelangt am einfachsten zu solchen Functionen mit Hülfe
+trigonometrischer Reihen durch einen ähnlichen Gedanken, wie ihn
+Borel nach einer jüngsten Mitteilung von Picard Quelques théories fondamentales dans l’analyse mathématique. Confé-
+rénces faites à Clark-University. Revue générale des Sciences 1900. S. 22. zur Construc-
+tion einer doppelperiodischen nichtanalytischen Lösung einer ge-
+wissen analytischen partiellen Differentialgleichung benutzt hat.
+
+D. Hilbert,
+6. Mathematische Behandlung der Axiome der Physik.
+Durch die Untersuchungen über die Grundlagen der Geometrie
+wird uns die Aufgabe nahe gelegt, nach diesem Vorbilde diejenigen
+physikalischen Disciplinen axiomatisch zu behandeln, in denen schon
+heute die Mathematik eine hervorragende Rolle spielt; dies sind in
+erster Linie die Wahrscheinlichkeitsrechnung und die Mechanik.
+Was die Axiome der Wahrscheinlichkeitsrechnung Vgl. Bohlmann, Ueber Versicherungsmathematik 2 te Vorlesung aus:
+Klein und Riecke, Ueber angewandte Mathematik und Physik, Leipzig und
+Berlin 1900. angeht, so
+scheint es mir wünschenswert, daß mit der logischen Untersuchung
+derselben zugleich eine strenge und befriedigende Entwickelung
+der Methode der mittleren Werte in der mathematischen Physik,
+speciell in der kinetischen Gastheorie Hand in Hand gehe.
+Ueber die Grundlagen der Mechanik liegen von physikalischer
+Seite bedeutende Untersuchungen vor; ich weise hin auf die
+Schriften von Mach Die Mechanik in ihrer Entwickelung, Leipzig, zweite Auflage. Leipzig 1889., Hertz Die Principien der Mechanik, Leipzig 1894., Boltzmann Vorlesungen über die Principe der Mechanik, Leipzig 1897. und Volk-
+mann Einführung in das Studium der theoretischen Physik, Leipzig 1900.; es ist daher sehr wünschenswert, wenn auch von den
+Mathematikern die Erörterung der Grundlagen der Mechanik auf-
+genommen würde. So regt uns beispielsweise das Boltzmann-
+sche Buch über die Principe der Mechanik an, die dort angedeu-
+teten Grenzprocesse, die von der atomistischen Auffassung zu den
+Gesetzen über die Bewegung der Continua führen, streng mathe-
+matisch zu begründen und durchzuführen. Umgekehrt könnte man
+die Bewegung über die Gesetze starrer Körper durch Grenzpro-
+cesse aus einem System von Axiomen abzuleiten suchen, die auf
+der Vorstellung von stetig veränderlichen, durch Parameter zu
+definirenden Zuständen eines den ganzen Raum stetig erfüllenden
+Stoffes beruhen — ist doch die Frage nach der Gleichberechtigung
+verschiedener Axiomensysteme stets von hohem principiellen In-
+teresse.
+Soll das Vorbild der Geometrie für die Behandlung der phy-
+sikalischen Axiome maßgebend sein, so werden wir versuchen, zu-
+nächst durch eine geringe Anzahl von Axiomen eine möglichst all-
+gemeine Klasse physikalischer Vorgänge zu umfassen und dann
+durch Adjunktion neuer Axiome der Reihe nach zu den specielle-
+ren Theorieen zu gelangen — wobei vielleicht ein Einteilungsprin-
+
+mathematische Probleme.
+cip aus der so tiefsinnigen Theorie der unendlichen Transformations-
+gruppen von Lie entnommen werden kann. Auch wird der Mathe-
+matiker, wie er es in der Geometrie gethan hat, nicht bloß die
+der Wirklichkeit nahe kommenden, sondern überhaupt alle lo-
+gisch möglichen Theorien zu berücksichtigen haben und stets
+darauf bedacht sein, einen vollständigen Ueberblick über die Ge-
+samtheit der Folgerungen zu gewinnen, die das gerade ange-
+nommene Axiomensystem nach sich zieht.
+Ferner fällt dem Mathematiker in Ergänzung der physika-
+lischen Betrachtungsweise die Aufgabe zu, jedes Mal genau zu
+prüfen, ob das neu adjungirte Axiom mit den früheren Axiomen
+nicht in Widerspruch steht. Der Physiker sieht sich oftmals durch
+die Ergebnisse seiner Experimente gezwungen, zwischendurch und
+während der Entwickelung seiner Theorie neue Annahmen zu
+machen, indem er sich betreffs der Widerspruchslosigkeit der
+neuen Annahmen mit den früheren Axiomen lediglich auf eben
+jene Experimente oder auf ein gewisses physikalisches Gefühl be-
+ruft — ein Verfahren, welches beim streng logischen Aufbau einer
+Theorie nicht statthaft ist. Der gewünschte Nachweis der Wider-
+spruchslosigkeit aller gerade gemachten Annahmen erscheint mir
+auch deshalb von Wichtigkeit, weil das Bestreben, einen solchen
+Nachweis zu führen, uns stets am wirksamsten zu einer exakten
+Formulirung der Axiome selbst zwingt.
+ Wir haben bisher lediglich Fragen über die Grundlagen
+mathematischer Wissenszweige berücksichtigt. In der That ist
+die Beschäftigung mit den Grundlagen einer Wissenschaft von be-
+sonderem Reiz und es wird die Prüfung dieser Grundlagen stets
+zu den vornehmsten Aufgaben des Forschers gehören. „Das End-
+ziel“ so hat Weierstrass einmal gesagt, „welches man stets
+im Auge behalten muß, besteht darin, daß man über die Funda-
+mente der Wissenschaft ein sicheres Urteil zu erlangen suche“
+.... „Um überhaupt in die Wissenschaften einzudringen, ist frei-
+lich die Beschäftigung mit einzelnen Problemen unerläßlich.“ In
+der That bedarf es zur erfolgreichen Behandlung der Grundlagen
+einer Wissenschaft des eindringenden Verständnisses ihrer spe-
+ziellen Theorien; nur der Baumeister ist im Stande, die Funda-
+mente für ein Gebäude sicher anzulegen, der die Bestimmung des
+Gebäudes selbst im Einzelnen gründlich kennt. So wenden wir
+uns nunmehr zu speciellen Problemen einzelner Wissenszweige der
+Mathematik und berücksichtigen dabei zunächst die Arithmetik
+und die Algebra.
+Kgl. Ges. d. Wiss. Nachrichten. Math.-phys. Klasse 1900. Heft 3. 20
+
+D. Hilbert,
+7. Irrationalität und Transcendenz bestimmter Zahlen.
+Hermite’s arithmetische Sätze über die Exponentialfunction
+und ihre Weiterführung durch Lindemann sind der Bewunde-
+rung aller mathematischer Generationen sicher. Aber zugleich
+erwächst uns die Aufgabe, auf dem betretenen Wege fortzu-
+schreiten. Ich möchte daher eine Klasse von Problemen kennzeich-
+nen, die meiner Meinung nach als die nächstliegenden hier in An-
+griff zu nehmen sind. Wenn wir von speciellen, in der Analysis
+wichtigen transcendenten Functionen erkennen, daß sie für gewisse
+algebraische Argumente algebraische Werte annehmen, so er-
+scheint uns diese Thatsache stets als besonders merkwürdig und
+der eingehenden Untersuchung würdig. Wir erwarten eben von
+transcendenten Funktionen, daß sie für algebraische Argumente
+im Allgemeinen auch transcendente Werte annehmen, und obgleich
+uns wohl bekannt ist, daß es thatsächlich ganze transcendente
+Functionen giebt, die für alle algebraischen Argumente sogar ra-
+tionale Werte besitzen, so werden wir es doch für höchst wahr-
+scheinlich halten, daß z. B. die Exponentialfunction eiπz die offen-
+bar für alle rationalen Argumente z stets algebraische Werte
+hat, andrerseits für alle irrationalen algebraischen Argumente z
+stets transcendente Zahlenwerte annimmt. Wir können dieser
+Aussage auch eine geometrische Einkleidung geben, wie folgt.
+Wenn in einem gleichschenkligen Dreieck das Verhältnis vom Basis-
+winkel zum Winkel an der Spitze algebraisch, aber nicht rational
+ist, so ist das Verhältnis zwischen Basis und Schenkel stets tran-
+scendent. Trotz der Einfachheit dieser Aussage und der Aehnlich-
+keit mit den von Hermite und Lindemann gelösten Pro-
+blemen halte ich doch den Beweis dieses Satzes für äußerst schwie-
+rig, ebenso wie etwa den Nachweis dafür, daß die Potenz αβ für
+eine algebraische Basis α und einen algebraisch irrationalen Exponenten
+β, z. B. die Zahl 2√2 oder eπ = i-2i, stets eine transcendente oder
+auch nur eine irrationale Zahl darstellt. Es ist gewiß, daß die Lö-
+sung dieser und ähnlicher Probleme uns zu ganz neuen Methoden
+und zu neuen Einblicken in das Wesen specieller irrationaler und
+transcendenter Zahlen führen muß.
+8. Primzahlenprobleme.
+In der Theorie der Verteilung der Primzahlen sind in neuerer
+Zeit durch Hadamard, de la Vallée Poussin, v. Mangoldt
+und Andere wesentliche Fortschritte gemacht worden. Zur voll-
+ständigen Lösung der Probleme, die uns die Riemannsche Ab-
+
+mathematische Probleme.
+handlung „Ueber die Anzahl der Primzahlen unter einer gege-
+benen Größe“ gestellt hat, ist es jedoch noch nötig, die Richtig-
+tigkeit der äußerst wichtigen Behauptung von Riemann nachzu-
+weisen, daß die Nullstellen der Function ζ(s), die durch die Reihe
+ dargestellt wird, sämtlich den reellen Bestandteil 1/2 haben — wenn
+man von den bekannten negativ ganzzahligen Nullstellen absieht.
+Sobald dieser Nachweis gelungen ist, so würde die weitere Auf-
+gabe darin bestehen, die Riemannsche unendliche Reihe für die
+Anzahl der Primzahlen genauer zu prüfen und insbesondere zu
+entscheiden, ob die Differenz zwischen der Anzahl der Primzahlen
+unterhalb einer Größe x und dem Integrallogarithmus von x in der
+That von nicht höherer als der 1/2 ten Ordnung in x unendlich wird,
+und ferner, ob dann die von den ersten complexen Nullstellen der
+Function ζ(s) abhängenden Glieder der Riemannschen Formel
+wirklich die stellenweise Verdichtung der Primzahlen bedingen,
+welche man bei den Zählungen der Primzahlen bemerkt hat.
+Nach einer erschöpfenden Diskussion der Riemannschen
+Primzahlenformel wird man vielleicht dereinst in die Lage kommen,
+an die strenge Beantwortung des Problems von Goldbach Vgl. P. Stäckel: Ueber Goldbach’s empirisches Theorem. Nachrichten
+der K. Ges. d. Wiss. zu Göttingen 1896 und Landau, ebenda 1900. zu
+gehen, ob jede gerade Zahl als Summe zweier Primzahlen dar-
+stellbar ist, ferner an die bekannte Frage, ob es unendlich viele
+Primzahlenpaare mit der Differenz 2 giebt oder gar an das allge-
+meinere Problem, ob die lineare Diophantische Gleichung
+ax+by+c = 0
+mit gegebenen ganzzahligen paarweise teilerfremden Coefficienten
+a, b, c stets in Primzahlen x, y lösbar ist.
+Aber von nicht geringerem Interesse und vielleicht von noch
+größerer Tragweite erscheint mir die Aufgabe, die für die Vertei-
+lung der rationalen Primzahlen gewonnenen Resultate auf die Theorie
+der Verteilung der Primideale in einem gegebenen Zahlkörper k zu
+übertragen — eine Aufgabe, die auf das Studium der dem Zahl-
+körper zugehörigen Function
+ 20*
+
+D. Hilbert,
+hinausläuft, wo die Summe über alle Ideale j des gegebenen Zahl-
+körpers k zu erstrecken ist und n(j) die Norm des Ideals j be-
+deutet.
+ Ich nenne noch drei speciellere Probleme aus der Zahlen-
+theorie, nämlich eines über die Reciprocitätsgesetze, eines über
+diophantische Gleichungen und ein drittes aus dem Gebiete der
+quadratischen Formen.
+9. Beweis des allgemeinsten Reciprocitätsgesetzes im beliebigen Zahlkörper.
+Für einen beliebigen Zahlkörper soll das Reciprocitätsgesetz der
+l ten Potenzreste bewiesen werden, wenn l eine ungerade Primzahl
+bedeutet und ferner, wenn l eine Potenz von 2 oder eine Potenz
+einer ungeraden Primzahl ist. Die Aufstellung des Gesetzes, so-
+wie die wesentlichen Hülfsmittel zum Beweise desselben werden
+sich, wie ich glaube, ergeben, wenn man die von mir entwickelte
+Theorie des Körpers der l ten Einheitswurzeln Bericht der Deutschen Mathematiker - Vereinigung über die Theorie der
+algebraischen Zahlkörper, Bd. IV, 1897. Fünfter Teil. und meine Theorie Mathematische Annalen, Bd. 51 und Nachrichten der K. Ges. d. Wiss.
+zu Göttingen 1898.
+des relativ - quadratischen Körpers in gehöriger Weise verallge-
+meinert.
+10. Entscheidung der Lösbarkeit einer Diophantischen Gleichung.
+Eine Diophantische Gleichung mit irgend welchen Unbe-
+kannten und mit ganzen rationalen Zahlencoefficienten sei vorge-
+legt: man soll ein Verfahren angeben, nach welchem sich mittelst
+einer endlichen Anzahl von Operationen entscheiden läßt, ob die Glei-
+chung in ganzen rationalen Zahlen lösbar ist.
+11. Quadratische Formen mit beliebigen algebraischen Zahlencoefficienten.
+Unsere jetzige Kenntnis der Theorie der quadratischen Zahl-
+körper Hilbert, Ueber den Dirichletschen biquadratischen Zahlenkörper, Mathe-
+matische Annalen, Bd. 45; Ueber die Theorie der relativquadratischen Zahl-
+körper, Berichte der Deutschen Mathematiker - Vereinigung 1897 und Mathema-
+tische Annalen. Bd. 51; Ueber die Theorie der relativ-Abelschen Körper, Nach-
+richten d. K. Ges. d. Wiss. zu Göttingen 1898; Grundlagen der Geometrie, Fest-
+schrift zur Enthüllung des Gauss - Weber - Denkmals in Göttingen, Leipzig 1899,
+Kapitel VIII § 83. setzt uns in den Stand, die Theorie der quadratischen
+
+mathematische Probleme.
+Formen mit beliebig vielen Variabeln und beliebigen algebraischen
+Zahlencoefficienten erfolgreich in Angriff zu nehmen. Damit gelangen
+wir insbesondere zu der interessanten Aufgabe, eine vorgelegte
+quadratische Gleichung beliebig vieler Variabeln mit algebraischen
+Zahlencoefficienten in solchen ganzen oder gebrochenen Zahlen zu
+lösen, die in dem durch die Coefficienten bestimmten algebraischen
+Rationalitätsbereiche gelegen sind.
+ Den Uebergang zur Algebra und Functionentheorie möge das
+folgende wichtige Problem bilden.
+12. Ausdehnung des Kronekerschen Satzes über Abelsche Körper auf einen belie-
+bigen algebraischen Rationalitätsbereich.
+Von Kronecker rührt der Satz her, daß jeder Abelsche
+Zahlkörper im Bereich der rationalen Zahlen durch Zusammen-
+setzung aus Körpern von Einheitswurzeln entsteht. Dieser fun-
+damentale Satz aus der Theorie der ganzzahligen Gleichungen ent-
+hält zwei Aussagen, nämlich
+erstens wird durch denselben die Frage nach der Anzahl
+und Existenz derjenigen Gleichungen beantwortet, die einen vor-
+geschriebenen Grad, eine vorgeschriebene Abelsche Gruppe und
+eine vorgeschriebene Diskriminante in Bezug auf den Bereich der
+rationalen Zahlen besitzen, und
+zweitens wird behauptet, daß die Wurzeln solcher Glei-
+chungen einen Bereich algebraischer Zahlen bilden, der genau mit
+demjenigen Bereiche übereinstimmt, den man erhält, wenn man in
+der Exponentialfunction eiπz für das Argument z der Reihe nach
+alle rationalen Zahlenwerte einträgt.
+Die erste Aussage betrifft die Frage der Bestimmung ge-
+wisser algebraischer Zahlen durch ihre Gruppe und ihre Verzwei-
+gung; diese Frage entspricht also dem bekannten Problem der
+Bestimmung algebraischer Functionen zu gegebener Riemann-
+scher Fläche. Die zweite Aussage liefert die verlangten Zahlen
+durch ein transcendentes Mittel, nämlich durch die Exponential-
+function eiπz.
+Da nächst dem Bereiche der rationalen Zahlen der Bereich
+der imaginären quadratischen Zahlkörper der einfachste ist, so
+entsteht die Aufgabe, den Kroneckerschen Satz auf diesen
+Fall auszudehnen. Kronecker selbst hat die Behauptung aus-
+gesprochen, daß die Abelschen Gleichungen im Bereiche eines
+quadratischen Körpers durch die Transformationsgleichungen der
+elliptischen Functionen mit singulären Moduln gegeben werden, so
+daß hiernach die elliptische Function die Rolle der Exponential-
+
+D. Hilbert,
+function im vorigen Falle übernimmt. Der Beweis der Kron-
+eckerschen Vermutung ist bisher nicht erbracht worden; doch
+glaube ich, daß derselbe auf Grund der von H. Weber Elliptische Functionen und algebraische Zahlen, Braunschweig 1891. ent-
+wickelten Theorie der complexen Multiplikation unter Hinzuzie-
+hung der von mir aufgestellten rein arithmetischen Sätze über
+Klassenkörper ohne erhebliche Schwierigkeit gelingen muß.
+Von der höchsten Bedeutung endlich erscheint mir die Aus-
+dehnung des Kroneckerschen Satzes auf den Fall, daß an Stelle
+des Bereichs der rationalen Zahlen oder des imaginären quadratischen
+Zahlenbereiches ein beliebiger algebraischer Zahlkörper als Rationali-
+tätsbereich zu GruudeGrunde gelegt wird; ich halte dies Problem für
+eines der tiefgehendsten und weittragendsten Pro-
+bleme der Zahlen- und Functionentheorie.
+Das Problem erweist sich von mannigfachen Seiten aus als
+zugänglich. Den wichtigsten Schlüssel zur Lösung des arithme-
+tischen Teils dieses Problemes erblicke ich in dem allgemeinen
+Reciprocitätsgesetze der l ten Potenzreste innerhalb eines beliebig
+vorgelegten Zahlkörpers.
+Was den functionentheoretischen Teil des Problems betrifft,
+so wird sich der Forscher auf diesem so anziehenden Gebiete
+durch die merkwürdigen Analogieen leiten lassen, die zwischen
+der Theorie der algebraischen Functionen einer Veränderlichen
+und der Theorie der algebraischen Zahlen bemerkbar sind. Das Ana-
+logon zur Potenzreihenentwickelung einer algebraischen Function in
+der Theorie der algebraischen Zahlen hat Hensel Jahresberichte der Deutschen Mathematiker-Vereinigung VI, sowie eine
+demnächst in den Mathematischen Annalen erscheinende Arbeit: „Ueber die Ent-
+wickelung der algebraischen Zahlen in Potenzreihen.“ aufgestellt
+und untersucht und das Analogon für den Riemann-Rochschen
+Satz hat Landsberg Mathematische Annalen, Bd. 50. 1898. behandelt. Auch die Analogie zwischen
+dem Begriff des Geschlechts einer Riemannschen Fläche und
+dem Begriff der Klassenanzahl eines Zahlkörpers fällt ins Auge. Be-
+trachten wir, um nur den einfachsten Fall zu berühren, eine Rie-
+mannsche Fläche vom Geschlecht p = 1 und andrerseits einen
+Zahlkörper von der Klassenanzahl h = 2, so entspricht dem Nach-
+weise der Existenz eines überall endlichen Integrals auf der Rie-
+mannschen Fläche der Nachweis der Existenz einer ganzen
+Zahl α im Zahlkörper, die von solcher Art ist, daß die Zahl √α
+einen relativ unverzweigten quadratischen Körper in Bezug auf
+
+mathematische Probleme.
+den Grundkörper darstellt. In der Theorie der algebraischen
+Functionen dient bekanntlich zum Nachweise jenes Riemann-
+schen Existenzsatzes die Methode der Randwertaufgabe; auch
+in der Theorie der Zahlkörper bietet der Nachweis der Existenz
+jener Zahl α gerade die meiste Schwierigkeit. Dieser Nachweis
+gelingt mit wesentlicher Hülfe des Satzes, daß es im Zahlkörper
+stets Primideale mit vorgeschriebenen Restcharakteren giebt; die
+letztere Thatsache ist also das zahlentheoretische Analogon zum
+Randwertproblem.
+Die Gleichung des Abelschen Theorems in der Theorie der
+algebraischen Functionen sagt bekanntlich die notwendige und hin-
+reichende Bedingung dafür aus, daß die betreffenden Punkte der Rie-
+mannschen Fläche die Nullstellen einer algebraischen zur Fläche
+gehörigen Function sind; das genaue Analogon des Abelschen
+Theorems ist in der Theorie des Zahlkörpers von der Klassenan-
+zahl h = 2 die Gleichung des quadratischen Reciprocitätsgesetzes Vgl. Hilbert, Ueber die Theorie der relativ - Abelschen Zahlkörper,
+Nachrichten der K. Ges. d. Wiss. zu Göttingen 1898.
+ welche aussagt, daß das Ideal j dann und nur dann ein Haupt-
+ideal des Zahlkörpers ist, wenn jene Zahl α in Bezug auf das
+Ideal j einen positiven quadratischen Restcharakter besitzt.
+Wie wir sehen, treten in dem eben gekennzeichneten Problem
+die drei grundlegenden Disciplinen der Mathematik, nämlich Zahlen-
+theorie, Algebra und Functionentheorie in die innigste gegensei-
+tige Berührung und ich bin sicher, daß insbesondere die Theorie
+der analytischen Functionen mehrerer Variabelen eine wesentliche
+Bereicherung erfahren würde, wenn es gelänge, diejenigen Func-
+tionen aufzufinden und zu diskutiren, die für einen beliebigen alge-
+braischen Zahlkörper die entsprechende Rolle spielen, wie die Expo-
+nentialfunction für den Körper der rationalen Zahlen und die ellip-
+tische Modulfunction für den imaginären quadratischen Zahlkörper.
+ Wir kommen nun zur Algebra; ich nenne im Folgenden ein
+Problem aus der Gleichungstheorie und eines, auf welches mich
+die Theorie der algebraischen Invarianten geführt hat.
+
+D. Hilbert,
+13. Unmöglichkeit der Lösung der allgemeinen Gleichung 7 ten7ten Grades mittelst
+Functionen von nur 2 Argumenten.
+Die Nomographie M. d’Ocagne, Traité de Nomographie, Paris 1899. hat die Aufgabe Gleichungen mittelst ge-
+zeichneter Curvenschaaren zu lösen, die von einem willkürlichen
+Parameter abhängen. Man sieht sofort, daß jede Wurzel einer
+Gleichung, deren Coefficienten nur von zwei Parametern abhängen,
+d. h. jede Function von zwei unabhängigen Veränderlichen auf man-
+nigfache Weise durch das der Nomographie zu Grunde liegende
+Princip darstellbar ist. Ferner sind durch dieses Princip offen-
+bar auch eine große Klasse von Functionen von drei und mehr
+Veränderlichen darstellbar, nämlich alle diejenigen Functionen,
+die man dadurch erzeugen kann, daß man zunächst eine Function
+von zwei Argumenten bildet, dann jedes dieser Argumente wieder
+gleich Functionen von zwei Argumenten einsetzt, an deren Stelle
+wiederum Functionen von zwei Argumenten treten u. s. f., wobei
+eine beliebige endliche Anzahl von Einschachtelungen der Func-
+tionen zweier Argumente gestattet ist. So gehört beispielsweise
+jede rationale Function von beliebig vielen Argumenten zur Klasse
+dieser durch nomographische Tafeln construirbaren Functionen;
+denn sie kann durch die Prozesse der Addition, Subtraction, Mul-
+tiplikation und Division erzeugt werden, und jeder dieser Pro-
+zesse repräsentirt eine Function von nur zwei Argumenten. Man
+sieht leicht ein, daß auch die Wurzeln aller Gleichungen, die in
+einem natürlichen Rationalitätsbereiche durch Wurzelziehen auf-
+lösbar sind, zu der genannten Klasse von Functionen gehören;
+denn hier kommt zu den vier elementaren Rechnungsoperationen
+nur noch der Prozeß des Wurzelziehens hinzu, der ja lediglich
+eine Function eines Argumentes repräsentirt. Desgleichen sind
+die allgemeinen Gleichungen 5 ten5ten und 6 ten6ten Grades durch geeig-
+nete nomographische Tafeln auflösbar; denn diese können durch
+solche Tschirnhausentransformationen, die ihrerseits nur
+Ausziehen von Wurzeln verlangen, in eine Form gebracht werden,
+deren Coefficienten nur von zwei Parametern abhängig sind.
+Wahrscheinlich ist nun die Wurzel der Gleichung 7 ten Gra-
+des eine solche Function ihrer Coefficienten, die nicht zu der ge-
+nannten Klasse nomographisch construirbarer Functionen gehört,
+d. h. die sich nicht durch eine endliche Anzahl von Einschachte-
+lungen von Functionen zweier Argumente erzeugen läßt. Um
+dieses einzusehen, wäre der Nachweis dafür nötig, daß die Glei-
+
+mathematische Probleme.
+chung 7 ten7ten Grades
+ nicht mit Hülfe beliebiger stetiger Functionen von nur zwei Argu-
+menten lösbar ist. Daß es überhaupt analytische Functionen von
+drei Argumenten x, y, z giebt, die nicht durch endlich-malige
+Verkettung von Functionen von nur zwei Argumenten erhalten
+werden können, davon habe ich mich, wie ich noch bemerken
+möchte, durch eine strenge Ueberlegung überzeugt.
+14. Nachweis der Endlichkeit gewisser voller Functionensysteme.
+In der Theorie der algebraischen Invarianten verdienen, wie
+mir scheint, die Fragen nach der Endlichkeit voller Formensy-
+steme ein besonderes Interesse. Es ist neuerdings L. Maurer Vgl. Sitzungsberichte der K. Akademie der Wiss. zu München 1899 und
+eine demnächst in den mathematischen Annalen erscheinende Arbeit.
+gelungen, die von P. Gordan und mir bewiesenen Endlichkeits-
+sätze der Invariantentheorie auf den Fall auszudehnen, daß nicht,
+wie in der gewöhnlichen Invariantentheorie, die allgemeine pro-
+jektive Gruppe, sondern eine beliebige Untergruppe der Definition
+der Invarianten zu Grunde gelegt wird.
+Die Beschäftigung mit der Frage nach der Endlichkeit der
+Invarianten hat mich auf ein einfaches Problem geführt, welches
+jene Frage nach der Endlichkeit der Invarianten als besonderen
+Fall in sich enthält, und zu dessen Lösung wahrscheinlich eine
+erheblich feinere Ausbildung der Theorie der Elimination und der
+Kroneckerschen algebraischen Modulsysteme nötig ist, als sie
+bisher gelungen ist.
+Es seien eine Anzahl m von ganzen rationalen Functionen
+X1, X2, …, Xm der n Variabeln x1, x2, …, xn vorgelegt:
+ (S) 
+ Jede ganze rationale Verbindung von X1, …, Xm wird offenbar
+durch Eintragung dieser Ausdrücke notwendig stets eine ganze
+rationale Function von x1, …, xn. Es kann jedoch sehr wohl ge-
+brochene rationale Functionen von X1, …, Xm geben, die nach
+Ausführung jener Substitution (S) zu ganzen Functionen in
+x1, …, xn werden. Eine jede solche rationale Function von X1, …, Xm,
+
+D. Hilbert,
+die nach Ausführung der Substitution (S) ganz in x1, … xn wird,
+möchte ich eine relativganze Function von X1, …, Xm nen-
+nen. Jede ganze Function von X1, …, Xm ist offenbar auch re-
+lativganz; ferner ist die Summe, die Differenz und das Product
+relativganzer Functionen stets wiederum relativganz.
+Das entstehende Problem ist nun zu entscheiden, ob es stets
+möglich ist, ein endliches System von relativganzen Functionen von
+X1, …, Xm aufzufinden, durch die sich jede andere relativganze Function
+von X1, …, Xm in ganzer rationaler Weise zusammensetzen läßt. Wir
+können das Problem noch einfacher formuliren, wenn wir den Be-
+griff des endlichen Integritätsbereiches einführen.
+Unter einem endlichen Integritätsbereiche möchte ich ein solches
+System von Functionen verstehen, aus welchem sich eine endliche
+Anzahl von Functionen auswählen läßt, mit deren Hülfe alle übri-
+gen Functionen des Systems in ganzer rationaler Weise ausdrück-
+bar sind. Unser Problem läuft dann darauf hinaus, zu zeigen,
+daß die sämtlichen relativganzen Functionen eines beliebigen
+Rationalitätsbereiches stets einen endlichen Integritätsbereich
+bilden.
+Es liegt auch nahe, das Problem zahlentheoretisch zu verfeinern,
+indem man die Coefficienten der gegebenen Functionen f1, …, fm
+als ganze rationale Zahlen annimmt und unter den relativganzen
+Functionen von X1, …, Xm nur solche rationalen Functionen
+dieser Argumente versteht, die nach Ausführung jener Substitu-
+tion (S) ganze rationale Functionen von x1, …, xn mit ganzen
+rationalen Coefficienten werden.
+Ein besonderer einfacher Fall dieses verfeinerten Problems
+ist der folgende: Gegeben seien m ganze rationale Functionen
+X1, …, Xm der einen Veränderlichen x mit ganzen rationalen
+Coefficienten und ferner eine Primzahl p. Man betrachte das Sy-
+stem derjenigen ganzen rationalen Functionen von x, welche sich
+in der Gestalt
+ darstellen lassen, wo G eine ganze rationale Function der Argu-
+mente X1, …, Xm und ph irgend eine Potenz der Primzahl p ist.
+Frühere Untersuchungen von mir Mathematische Annalen, Bd. 36 S. 485. zeigen dann unmittelbar, daß
+alle solchen Ausdrücke bei bestimmtem Exponenten h einen end-
+lichen Integritätsbereich bilden; die Frage ist aber hier, ob das
+Gleiche auch für alle Exponenten h zugleich gilt, d. h. ob sich eine
+
+mathematische Probleme.
+endliche Anzahl von solchen Ausdrücken auswählen läßt, durch
+die jeder andere Ausdruck von jener Gestalt für irgend einen
+Exponenten h ganz und rational darstellbar ist.
+     Aus den Grenzgebieten zwischen Algebra und Geometrie
+möchte ich zwei Probleme nennen: das eine betrifft den geome-
+trischen Abzählungskalkül und das zweite die Topologie alge-
+braischer Curven und Flächen.
+15. Strenge Begründung von Schuberts Abzählungskalkül.
+Das Problem besteht darin, diejenigen geometrischen Anzahlen
+strenge und unter genauer Feststellung der Grenzen ihrer Gültigkeit
+zu beweisen, die insbesondere Schubert Kalkül der abzählenden Geometrie. Leipzig 1879. auf Grund des soge-
+nannten Princips der speciellen Lage mittelst des von ihm ausgebildeten
+Abzählungskalküls bestimmt hat. Wenn auch die heutige Algebra
+die Durchführbarkeit der Eliminationsprocesse im Princip gewähr-
+leistet, so ist zum Beweise der Sätze der abzählenden Geometrie
+erheblich mehr erforderlich, nämlich die Durchführung der Elimi-
+nation bei besonders geformten Gleichungen in der Weise, daß
+der Grad der Endgleichungen und die Vielfachheit ihrer Lösungen
+sich voraussehen läßt.
+16. Problem der Topologie algebraischer Curven und Flächen.
+Die Maximalzahl der geschlossenen und getrennt liegenden
+Züge, welche eine ebene algebraische Curve n ter Ordnung haben
+kann, ist von Harnack Mathematische Annalen, Bd. 10. bestimmt worden; es entsteht die
+weitere Frage nach der gegenseitigen Lage der Curvenzüge in
+der Ebene. Was die Curven 6 ter6ter Ordnung angeht, so habe ich
+mich — freilich auf einem recht umständlichen Wege — davon
+überzeugt, daß die 11 Züge, die sie nach Harnack haben kann,
+keinesfalls sämtlich außerhalb von einander verlaufen dürfen, son-
+dern daß ein Zug existiren muß, in dessen Innerem ein Zug und
+in dessen Aeußerem neun Züge verlaufen oder umgekehrt. Eine
+gründliche Untersuchung der gegenseitigen Lage bei der Maximalzahl
+von getrennten Zügen scheint mir ebenso sehr von Interesse zu sein,
+wie die entsprechende Untersuchung über die Anzahl, Gestalt und
+Lage der Mäntel einer algebraischen Fläche im Raume — ist doch
+bisher noch nicht einmal bekannt, wieviel Mäntel eine Fläche 4 ter4ter
+
+D. Hilbert,
+Ordnung des dreidimensionalen Raumes im Maximum wirklich
+besitzt Vgl. Rohn, Flächen vierter Ordnung, Preisschriften der Fürstlich Jablo-
+nowskischen Gesellschaft, Leipzig 1886..
+Im Anschluß an dieses rein algebraische Problem möchte ich
+eine Frage aufwerfen, die sich, wie mir scheint, mittelst der näm-
+lichen Methode der continuirlichen Coefficientenänderung in An-
+griff nehmen läßt, und deren Beantwortung für die Topologie der
+durch Differentialgleichungen definirten Curvenschaaren von ent-
+sprechender Bedeutung ist — nämlich die Frage nach der Maxi-
+malzahl und Lage der Poincaréschen Grenzcykeln (cycles limites)
+für eine Differentialgleichung erster Ordnung und ersten Grades von
+der Form:
+ wo X, Y ganze rationale Funktionen n ten Grades in x, y sind,
+oder in homogener Schreibweise
+ wo X, Y, Z ganze rationale homogene Functionen n ten Grades
+von x, y, z bedeuten und diese als Funktionen des Parameters t
+zu bestimmen sind.
+17. Darstellung definiter Formen durch Quadrate.
+Definit heißt eine solche ganze rationale Funktion oder Form
+beliebig vieler Veränderlichen mit reellen Coefficienten, die für
+keine reellen Werte dieser Veränderlichen negativ ausfällt. Das
+System aller definiten Funktionen verhält sich invariant gegen-
+über den Operationen der Addition und der Multiplikation; aber
+auch der Quotient zweier definiten Funktionen ist — sofern er
+eine ganze Funktion der Veränderlichen wird — eine definite
+Form. Das Quadrat einer jeden beliebigen Form ist offenbar
+stets eine definite Form; da aber, wie ich gezeigt habe Mathematische Annalen Bd. 32., nicht
+jede definite Form durch Addition aus Formenquadraten zusammen-
+gesetzt werden kann, so entsteht die Frage — die ich für den
+Fall ternärer Formen in bejahendem Sinne entschieden habe Acta mathematica Bd. 17. —,
+ob nicht jede definite Form als Quotient von Summen von Formen-
+quadraten dargestellt werden kann. Zugleich ist es für gewisse
+
+mathematische Probleme.
+Fragen hinsichtlich der Möglichkeit gewisser geometrischer Con-
+struktionen wünschenswert, zu wissen, ob die Coefficienten der
+bei der Darstellung zu verwendenden Formen stets in demjenigen
+Rationalitätsbereiche angenommen werden dürfen, der durch die
+Coefficienten der dargestellten Form gegeben istVgl. Hilbert, Grundlagen der Geometrie, Leipzig 1899, Kap. VII, ins-
+besondere § 38..
+     Ich nenne noch eine geometrische Aufgabe.
+18. Aufbau des Raumes aus congruenten Polyedern.
+Wenn man nach denjenigen Gruppen von Bewegungen in der
+Ebene fragt, für die ein Fundamentalbereich existirt, so fällt be-
+kanntlich die Antwort sehr verschieden aus, jenachdem die be-
+trachtete Ebene die Riemannsche (elliptische), Euklidische
+oder Lobatschefskiysche (hyperbolische) ist. Im Falle der
+elliptischen Ebene giebt es eine endliche Anzahl wesentlich ver-
+schiedener Arten von Fundamentalbereichen und es reicht eine
+endliche Anzahl von Exemplaren congruenter Bereiche zur
+lückenlosen Ueberdeckung der ganzen Ebene aus: die Gruppe be-
+steht eben nur aus einer endlichen Anzahl von Bewegungen. Im
+Falle der hyperbolischen Ebene giebt es eine unendliche Anzahl
+wesentlich verschiedener Arten von Fundamentalbereichen, näm-
+lich die bekannten Poincaréschen Polygone; zur lückenlosen
+Ueberdeckung der Ebene ist eine unendliche Anzahl von
+Exemplaren congruenter Bereiche notwendig. Der Fall der Eu-
+klidischen Ebene steht in der Mitte; denn in diesem Falle
+giebt es nur eine endliche Anzahl von wesentlich verschiedenen
+Arten von Bewegungsgruppen mit Fundamentalbereich; aber zur
+lückenlosen Ueberdeckung der ganzen EebeneEbene ist eine unendliche
+Anzahl von Exemplaren congruenter Bereiche notwendig.
+Genau die entsprechenden Thatsachen gelten auch im drei-
+dimensionalen Raume. Die Thatsache der Endlichkeit der Be-
+wegungsgruppen im elliptischen Raume ist eine unmittelbare Folge
+eines fundamentalen Satzes von C. JordanJournal für Mathematik, Bd. 84 (1878) und Atti della Reale Accademia
+die Napoli 1880., wonach die Anzahl
+der wesentlich verschiedenen Arten von endlichen Gruppen
+linearer Substitutionen mit n Veränderlichen eine gewisse endliche,
+von n abhängige Grenze nicht überschreitet. Die Bewegungs-
+gruppen mit Fundamentalbereich im hyperbolischen Raume sind
+von Fricke und Klein in den Vorlesungen über die Theorie
+
+D. Hilbert,
+der automorphen Funktionen Leipzig 1897. Vgl. insbesondere Abschnitt I, Kap. 2—3. untersucht worden und endlich
+haben FedorowSymmetrie der regelmäßigen Systeme von Figuren 1890., SchoenfliesKrystallsysteme und Krystallstructur, Leipzig 1891. und neuerdings RohnMathematische Annalen Bd. 53. den Be-
+weis dafür erbracht, daß es im Euklidischen Raume nur eine
+endliche Zahl wesentlich verschiedener Arten von Bewegungsgruppen
+mit Fundamentalbereich giebt. Während nun die den elliptischen und
+hyperbolischen Raum betreffenden Resultate und Beweismethoden
+unmittelbar auch für den n-dimensionalen Raum Geltung haben,
+so scheint die Verallgemeinerung des den Euklidischen Raum be-
+treffenden Satzes erhebliche Schwierigkeiten zu bieten und es ist
+daher die Untersuchung der Frage wünschenswert, ob es auch im
+n-dimensionalen Euklidischen Raume nur eine endliche Anzahl
+wesentlich verschiedener Arten von Bewegungsgruppen mit Funda-
+mentalbereich giebt.
+Ein Fundamentalbereich einer jeden Bewegungsgruppe zu-
+sammen mit den congruenten aus der Gruppe entspringenden Be-
+reichen liefert offenbar eine lückenlose Ueberdeckung des Raumes.
+Es erhebt sich die Frage, ob ferner auch solche Polyeder existiren, die
+nicht als Fundamentalbereiche von Bewegungsgruppen auftreten und
+mittelst derer dennoch durch geeignete Aneinanderlagerung congruenter
+Exemplare eine lückenlose Erfüllung des ganzen Raumes möglich ist.
+Ich weise auf die hiermit in Zusammenhang stehende, für die Zahlen-
+theorie wichtige und vielleicht auch der Physik und Chemie ein-
+mal Nutzen bringende Frage hin, wie man unendlich viele Körper
+von der gleichen vorgeschriebenen Gestalt, etwa Kugeln mit ge-
+gebenem Radius oder reguläre Tetraeter mit gegebener Kante
+(bez. in vorgeschriebener Stellung) im Raume am dichtesten ein-
+betten, d. h. so lagern kann, daß das Verhältnis des erfüllten
+Raumes zum nichterfüllten Raume möglichst groß ausfällt.
+ Ueberblicken wir die Entwickelung der Theorie der Func-
+tionen im letzten Jahrhundert, so bemerken wir vor Allem die
+fundamentale Rolle derjenigen Klasse von Functionen, die wir
+heute als analytische Functionen bezeichnen — eine Klasse von
+Functionen, die wohl dauernd im Mittelpunkt des mathematischen
+Interesses stehen wird.
+Wir könnten nach sehr verschiedenen Gesichtspunkten aus
+der Fülle aller denkbaren Functionen umfassende Klassen heraus-
+
+mathematische Probleme.
+heben, die einer besonders eingehenden Untersuchung würdig sind.
+Betrachten wir beispielsweise die Klasse derjenigen Functionen,
+die sich durch gewöhnliche oder partielle algebra-
+ische Differentialgleichungen charakterisiren las-
+sen. In dieser Klasse von Functionen kommen, wie wir sofort be-
+merken, gerade solche Functionen nicht vor, die aus der Zahlen-
+theorie stammen und deren Erforschung für uns von höchster
+Wichtigkeit ist. Beispielsweise genügt die schon früher erwähnte
+Function ζ (s) keiner algebraischen Differentialgleichung, wie man
+leicht mit Hülfe der bekannten Relation zwischen ζ (s) und ζ (1 — s)
+erkennen kann, wenn man den von HölderMathematische Annalen, Bd. 28. bewiesenen Satz
+benutzt, daß die Function Γ (x) keine algebraische Differential-
+gleichung befriedigt. Ferner genügt die durch die unendliche Reihe
+ definirte Function der beiden Veränderlichen s und x, die mit
+jener Function ζ (s) in enger Beziehung steht, wahrscheinlich
+keiner partiellen algebraischen Differentialgleichung; bei der Unter-
+suchung dieser Frage wird man die Functionalgleichung zu be-
+nutzen haben:
+ Wenn wir andrerseits, was aus arithmetischen und geometri-
+schen Gründen nahe liegt, die Klasse aller derjenigen Functionen
+betrachten, welche stetig und unbegrenzt differenzir-
+bar sind, so würden wir bei deren Untersuchung auf das gefügige
+Werkzeug der Potenzreihe und auf den Umstand verzichten
+müssen, daß die Function durch die Wertezuordnung in jedem be-
+liebig kleinen Gebiet völlig bestimmt ist. Während also die vo-
+rige Abgrenzung des Functionsgebietes zu eng war, erscheint uns
+diese als zu weit.
+Der Begriff der analytischen Function dagegen nimmt in
+sich den ganzen Reichtum der für die Wissenschaft wichtigsten
+Functionen auf, mögen sie aus der Zahlentheorie, aus der Theorie
+der Differentialgleichungen oder der algebraischen Functionalglei-
+chungen, mögen sie aus der Geometrie oder der mathematischen
+Physik stammen; und so führt mit Recht die analytische Func-
+tion im Reiche der Functionen die unbedingte Herrschaft.
+
+D. Hilbert,
+19. Sind die Lösungen regulärer Variationsprobleme stets notwendig analytisch?
+Eine der begrifflich merkwürdigsten Thatsachen in den Ele-
+menten der Theorie der analytischen Functionen erblicke ich dar-
+in, daß es partielle Differentialgleichungen giebt, deren Integrale
+sämtlich notwendig analytische Functionen der unabhän-
+gigen Variabeln sind, die also, kurz gesagt, nur analytischer Lö-
+sungen fähig sind. Die bekanntesten partiellen Differentialglei-
+chungen dieser Art sind die Potentialgleichung
+ und gewisse von PicardJournal de l’École Polytechnique 1890. untersuchte lineare Differentialglei-
+chungen, ferner die Differentialgleichung
+ die partielle Differentialgleichung der Minimalfläche und andere.
+Die Mehrzahl dieser partiellen Differentialgleichungen haben als
+Merkmal miteinander gemein, daß sie die Lagrangeschen Diffe-
+rentialgleichungen gewisser Variationsprobleme sind und zwar sol-
+cher Variationsprobleme
+ bei denen für alle in Frage kommenden Argumente die Unglei-
+chung
+ gilt, während F selbst eine analytische Function ist. Wir wollen
+ein solches Variationsproblem ein reguläres Variationsproblem
+nennen. Die regulären Variationsprobleme sind es vornehmlich,
+die in der Geometrie, Mechanik und mathematischen Physik eine
+Rolle spielen, und es liegt die Frage nahe, ob alle Lösungen re-
+gulärer Variationsprobleme stets notwendig analytische Func-
+tionen sein müssen, d. h. ob jede Lagrangesche partielle Differen-
+tialgleichung eines regulären Variationsproblems die Eigenschaft hat,
+daß sie nur analytische Integrale zuläßt — selbst wenn man, wie
+bei dem Dirichletschen Potentialprobleme, der Function irgend
+welche stetige, aber nicht analytische Randwerte aufzwingt.
+
+mathematische Probleme.
+Ich bemerke noch, daß es beispielsweise Flächen von nega-
+tiver constanter Gaussscher Krümmung giebt, die durch ste-
+tige und fortgesetzt differenzirbare, aber nicht analytische Func-
+tionen dargestellt werden, während wahrscheinlich jede Fläche
+von positiver constanter Gaussscher Krümmung stets not-
+wendig eine analytische Fläche sein muß. Bekanntlich stehen ja
+auch die Flächen positiver constanter Krümmung in engster Ver-
+bindung mit dem regulären Variationsproblem, durch eine ge-
+schlossene Raumcurve eine Fläche kleinsten Flächeninhaltes zu
+legen, die mit einer festen Fläche durch die nämliche Raumcurve
+ein gegebenes Volumen abschließt.
+20. Allgemeines Randwertproblem.
+Ein wichtiges Problem, welches mit dem eben genannten in
+engem Zusammenhange steht, ist die Frage nach der Existenz von
+Lösungen von partiellen Differentialgleichungen mit vorgeschriebe-
+nen Randwerten. Die scharfsinnigen Methoden von H. A. Schwarz,
+C. Neumann und Poincaré haben dieses Problem für die Diffe-
+rentialgleichung des Potentials im Wesentlichen gelöst, doch er-
+scheinen diese Methoden im Allgemeinen nicht unmittelbar der
+Ausdehnung fähig auf den Fall, indem am Rande die Differen-
+tialquotienten oder Beziehungen zwischen diesen und den Werten
+der Function vorgeschrieben sind, oder wenn es sich nicht um Po-
+tentialflächen handelt, sondern etwa nach Flächen kleinsten Flächen-
+inhalts oder nach Flächen mit constanter positiver Gaussscher
+Krümmung gefragt wird, die durch eine vorgelegte Raumcurve
+hindurch laufen oder über eine gegebene Ringfläche zu spannen
+sind. Ich bin überzeugt, daß es möglich sein wird, diese Existenz-
+beweise durch einen allgemeinen Grundgedanken zu führen, auf
+den das Dirichletsche Princip hinweist und der uns dann
+vielleicht in den Stand setzen wird, der Frage näher zu treten,
+ob nicht jedes reguläre Variationsproblem eine Lösung besitzt, sobald
+hinsichtlich der gegebenen Grenzbedingungen gewisse Annahmen — etwa
+die Stetigkeit und stückweise öftere Differenziirbarkeit, der für die
+Randbedingungen maßgebenden Functionen — erfüllt sind und nöti-
+genfalls der Begriff der Lösung eine sinngemäße Erweiterung erfährtVgl. meinen Vortrag über das Dirichletsche Princip. Jahresbericht
+der Deutschen Mathematiker-Vereinigung VIII 1900, S. 184..
+21. Beweis der Existenz linearer Differentialgleichungen mit vorgeschriebener
+Monodromiegruppe.
+Aus der Theorie der linearen Differentialgleichungen mit
+einer unabhängigen Veränderlichen z möchte ich auf ein wichtiges
+Kgl. Ges. d. Wiss. Nachrichten. Math.-phys. Klasse 1900. Heft 3. 21
+
+D. Hilbert,
+Problem hinweisen, welches wohl bereits Riemann im Sinne ge-
+habt hat, und welches darin besteht, zu zeigen, daß es stets eine
+lineare Differentialgleichung der Fuchsschen Klasse mit gegebenen
+singulären Stellen und einer gegebenen Monodromiegruppe giebt. Die
+Aufgabe verlangt also die Auffindung von n Functionen der Va-
+riabeln z, die sich überall in der complexen z-Ebene regulär ver-
+halten, außer etwa in den gegebenen singulären Stellen: in diesen
+dürfen sie nur von endlich hoher Ordnung unendlich werden und
+beim Umlauf der Variabeln z um dieselben erfahren sie die gege-
+benen linearen Substitutionen. Die Existenz solcher Differen-
+tialgleichungen ist durch Constantenzählung wahrscheinlich gemacht
+worden, doch gelang der strenge Beweis bisher nur in dem be-
+sonderen Falle, wo die Wurzeln der Fundamentalgleichungen der
+gegebenen Substitutionen sämtlich vom absoluten Betrage 1 sind.
+Diesen Beweis hat L. SchlesingerHandbuch der Theorie der linearen Differentialgleichungen, Bd. 2, Teil 2
+No. 366. auf Grund der Poin-
+caréschen Theorie der Fuchsschen ζ-Functionen erbracht.
+Es würde offenbar die Theorie der linearen Differentialgleichungen
+ein wesentlich abgeschlosseneres Bild zeigen, wenn die allgemeine
+Erledigung des bezeichneten Problems gelänge.
+22. Uniformisirung analytischer Beziehungen mittelst automorpher Functionen.
+Wie Poincaré zuerst bewiesen hat, gelingt die Uniformi-
+sirung einer beliebigen algebraischen Beziehung zwischen zwei
+Variabeln stets durch automorphe Functionen einer Variabeln;
+d. h. wenn eine beliebige algebraische Gleichung zwischen zwei
+Variabeln vorgelegt ist, so lassen sich für dieselben stets solche
+eindeutigen automorphen Functionen einer Variabeln finden, nach
+deren Einsetzung die algebraische Gleichung identisch in dieser
+Variabeln erfüllt ist. Die Verallgemeinerung dieses fundamen-
+talen Satzes auf nicht algebraische, sondern beliebige analytische
+Beziehungen zwischen zwei Variabeln hat PoincaréBulletin de la Société Mathématique de France XI. 1883. ebenfalls
+mit Erfolg in Angriff genommen und zwar auf einem völlig an-
+deren Wege als derjenige war, der ihn bei dem anfangs genannten
+speciellen Probleme zum Ziele führte. Aus Poincarés Beweis
+für die Möglichkeit der Uniformisirung einer beliebigen analy-
+tischen Beziehung zwischen zwei Variabeln geht jedoch noch nicht
+hervor, ob es möglich ist, die eindeutigen Functionen der neuen
+Variabeln so zu wählen, daß, während diese Variabele das re-
+
+mathematische Probleme.
+guläre Gebiet jener Functionen durchläuft, auch wirklich die
+Gesamtheit aller regulären Stellen des vorgelegten analytischen
+Gebildes zur Darstellung gelangt. Vielmehr scheinen in Poin-
+carés Untersuchungen, abgesehen von den Verzweigungspunkten,
+noch gewisse andere im Allgemeinen unendlichviele diskrete Stellen
+vorgelegten analytischen Gebildes ausgenommen zu sein, zu denen
+man nur gelangt, indem man die neue Variable gewissen Grenzstellen
+der Functionen nähert. Eine Klärung und Lösung dieser Schwierig-
+keit scheint mir in Anbetracht der fundamentalen Bedeutung der
+Poincaréschen Fragestellung äußerst wünschenswert.
+Im Anschluß an dieses Problem bietet sich das Problem der
+Uniformisirung einer algebraischen oder beliebigen analytischen
+Beziehung zwischen drei oder mehr complexen Veränderlichen
+— ein Problem, das bekanntlich in zahlreichen besonderen Fällen
+lösbar ist, und für welches die neueren Untersuchungen von Pi-
+card über algebraische Functionen von zwei Variabeln als will-
+kommene und bedeutsame Vorarbeiten in Anspruch zu nehmen sind.
+23. Weiterführung der Methoden der Variationsrechnung.
+Bisher habe ich im Allgemeinen möglichst bestimmte und spe-
+cielle Probleme genannt, in der Erwägung, daß es gerade die be-
+stimmten und speciellen Probleme sind, die uns am meisten an-
+ziehen und von denen oft der nachhaltigste Einfluß auf die Ge-
+samtwissenschaft ausgeht. Dennoch möchte ich mit einem allge-
+meinen Probleme schließen, nämlich mit dem Hinweise auf eine
+Disciplin, die bereits mehrmals in meinem Vortrage Erwähnung
+fand — eine Disciplin, die trotz der erheblichen Förderung, die
+sie in neuerer Zeit durch Weierstrass erfahren hat, dennoch
+nicht die allgemeine Schätzung genießt, die ihr meiner Ansicht
+nach zukommt — ich meine die VariationsrechnungLehrbücher sind: Moigno-Lindelöf „Leçons du calcul des variations“,
+Paris 1861 und A. Kneser, „Lehrbuch der Variationsrechnung“, Braunschweig
+1900..
+Die Variationsrechnung im weitesten Sinne ist die Lehre vom
+Variiren der Functionen und erscheint uns als solche wie eine
+denknotwendige Fortsetzung der Differential- und Integralrech-
+nung. So aufgefaßt, bilden beispielsweise die Poincaréschen
+Untersuchungen über das Dreikörperproblem ein Kapitel der Va-
+riationsrechnung, insofern darin Poincaré aus bekannten Bahn-
+curven von gewisser Beschaffenheit durch das Princip des Va-
+riirens neue Bahncurven von ähnlicher Beschaffenheit ableitet.
+21*
+
+D. Hilbert,
+Den am Anfange meines Vortrags gemachten allgemeinen Be-
+merkungen über Variationsrechnung füge ich hier eine kurze Be-
+gründung hinzu.
+Das einfachste Problem der eigentlichen Variationsrechnung
+besteht bekanntlich darin, eine Funktion y der Veränderlichen x
+derart zu finden, daß das bestimmte Integral
+ einen Minimalwert erhält im Vergleich zu denjenigen Werten,
+die das Integral annimmt, wenn wir statt y andere Funktionen
+von x mit den nämlichen gegebenen Anfangs- und Endwerten in
+das bestimmte Integral einsetzen. Das Verschwinden der ersten
+Variation im üblichen Sinne
+ liefert für die gesuchte Funktion y die bekannte Differentialglei-
+chung zweiter Ordnung
+(1) 
+Um nun des Näheren die notwendigen und hinreichenden Kriterien
+für das Eintreten des verlangten Minimums zu untersuchen, be-
+trachten wir das Integral
+  und fragen, wie darin p als Funktion von x, y zu
+nehmen ist, damit der Wert dieses Integrals J* von
+dem Integrationswege d. h. von der Wahl der Funk-
+tion y der Variabeln x unabhängig wird. Das Integral
+J* hat die Form
+ wo A und B nicht yx enthalten, und das Verschwinden der ersten
+Variation
+ in dem Sinne, den die neue Fragestellung erfordert, liefert die
+Gleichung
+
+mathematische Probleme.
+ d. h. wir erhalten für die Funktion p der beiden Veränderlichen
+x, y die partielle Differentialgleichung erster Ordnung
+(1*) 
+Die gewöhnliche Differentialgleichung zweiter Ordnung (1) und
+die ebengefundene partielle Differentialgleichung (1*) stehen zu
+einander in engster Beziehung. Diese Beziehung wird uns un-
+mittelbar deutlich durch die folgende einfache Umformung:
+       Wir entnehmen nämlich hieraus folgende Thatsachen: wenn
+wir uns irgend eine einfache Schaar von Integralcurven der
+gewöhnlichen Differentialgleichung zweiter Ordnung (1) verschaffen
+und dann eine gewöhnliche Differentialgleichung erster Ordnung
+(2) yx = p (x, y)
+bilden, die diese Integralcurven ebenfalls als Lösungen zuläßt, so
+ist stets die Funktion p (x, y) ein Integral der partiellen Diffe-
+rentialgleichung erster Ordnung (1*); und umgekehrt, wenn p (x, y)
+irgend eine Lösung der partiellen Differentialgleichung erster
+Ordnung (1*) bedeutet, so sind die sämtlichen nicht singulären In-
+tegrale der gewöhnlichen Differentialgleichung erster Ordnung (2)
+zugleich Integrale der Differentialgleichung zweiter Ordnung (1);
+oder kurz ausgedrückt: wenn yx = p (x, y) eine Integralgleichung
+erster Ordnung der Differentialgleichung zweiter Ordnung (1) ist,
+so stellt p (x, y) ein Integral der partiellen Differentialgleichung
+(1*) dar und umgekehrt; die Integralcurven der gewöhnlichen
+Differentialgleichung zweiter Ordnung (1) sind also zugleich die
+Charakteristiken der partiellen DifferentialgleichnngDifferentialgleichung erster Ord-
+nung (1*).
+In dem vorliegenden Falle finden wir das nämliche Resultat
+auch mittelst einer einfachen Rechnung; diese liefert uns näm-
+lich die in Rede stehenden Differentialgleichungen (1) bez. (1*) in
+
+D. Hilbert,
+der Gestalt
+(1) 
+bez.
+(1*) 
+wo die unteren Indices in leichtverständlicher Schreibweise die
+partiellen Ableitungen nach x, y, p, yx bedeuten. Hieraus leuchtet
+die Richtigkeit der behaupteten Beziehung ein.
+Die vorhin aufgestellte und soeben bewiesene enge Beziehung
+zwischen der gewöhnlichen Differentialgleichung zweiter Ordnung
+(1) und der partiellen Differentialgleichung erster Ordnung (1*)
+ist, wie mir scheint, für die Variationsrechnung von grundlegen-
+der Bedeutung. Denn wegen der Unabhängigkeit des Integrales
+J* vom Integrationswege folgt nunmehr
+(3) 
+wenn wir das Integral linker Hand auf irgend einem Wege y und
+das Integral rechter Hand auf einer Integralcurve y̅ der Diffe-
+rentialgleichung
+ genommen denken. Mit Hülfe der Gleichung (3) gelangen wir zu
+der Weierstrass’schen Formel
+(4) 
+wo E den von den 4 Argumenten yx, p, y, x abhängigen Weier-
+strass’schen Ausdruck
+ bezeichnet. Da es hiernach lediglich darauf ankommt, die in Rede
+stehende Integralcurve y̅ in der xy-Ebene auf eindeutige und ste-
+tige Weise mit Werten einer entsprechenden Integralfunktion
+p (x, y) zu umgeben, so führen die eben angedeuteten Entwicke-
+lungen unmittelbar — ohne Heranziehung der zweiten Variation
+sondern allein durch Anwendung des Polarenprocesses auf die Dif-
+ferentialgleichung (1) — zur Aufstellung der Jacobi’schen Be-
+dingung und zur Beantwortung der Frage, inwiefern diese Ja-
+cobi’sche Bedingung im Verein mit der Weierstrass’schen
+Bedingung E &gt; 0 für das Eintreten eines Minimums notwendig
+und hinreichend ist.
+
+mathematische Probleme.
+Die angedeuteten Entwickelungen lassen sich, ohne daß eine
+weitere Rechnung nötig wäre, auf den Fall zweier oder mehr ge-
+suchter Funktionen, sowie auf den Fall eines Doppel- oder mehr-
+fachen Integrals übertragen. So liefert beispielsweise im Fall
+des über ein gegebenes Gebiet ω zu erstreckenden Doppelintegrals
+ das im üblichen Sinne zu verstehende Verschwinden der ersten
+Variation
+δJ = 0
+für die gesuchte Funktion z von x, y die bekannte Differential-
+gleichung zweiter Ordnung
+(I) 
+Andererseits betrachten wir das Integral
+  und fragen, wie darin p und q als Funktionen von
+x, y, z zu nehmen sind, damit der Wert dieses Inte-
+grals von der Wahl der durch die gegebene geschlos-
+sene Raumcurve gelegten Fläche d. h. von der Wahl
+der Funktion z der Variabeln x, y unabhängig wird.
+Das Integral J* hat die Form
+ und das Verschwinden der ersten Variation
+δJ* = 0
+in dem Sinne, den die neue Fragestellung erfordert, liefert die
+Gleichung
+ d. h. wir erhalten für die Funktionen p und q der drei Variabeln
+x, y, z die Differentialgleichung erster Ordnung
+(I*) 
+
+D. Hilbert,
+Fügen wir zu dieser Differentialgleichung noch die aus den Glei-
+chungen
+ resultirende partielle Differentialgleichung
+(I*) 
+hinzu, so stehen die partielle Differentialgleichung zweiter Ord-
+nung (I) für die Funktion z der zwei Veränderlichen x, y und das
+simultane System der zwei partiellen Differentialgleichungen erster
+Ordnung (I*) für die zwei Funktionen p und q der drei Veränder-
+lichen x, y, z zu einander genau in der analogen Beziehung, wie
+vorhin im Falle eines einfachen Integrals die Differentialglei-
+chungen (1) und (1*).
+Wegen der Unabhängigkeit des Integrals J* von der Wahl
+der Integrationsfläche z folgt:
+ wenn wir das Integral rechter Hand auf einer Integralfläche z̅
+der partiellen Differentialgleichungen
+ genommen denken und mit Hülfe dieser Formel gelangen wir
+dann sofort zu der Formel
+(IV) 
+ die für die Variation der Doppelintegrale die nämliche Rolle
+spielt, wie die vorhin angegebene Formel (4) für die einfachen In-
+tegrale und mit deren Hülfe wir wiederum die Frage beantworten
+können, inwiefern die Jacobische Bedingung im Verein mit
+der Weierstrassschen Bedingung E &gt; 0 für das Eintreten
+eines Minimums notwendig und hinreichend ist.
+ Die genannten Probleme sind nur Proben von Problemen;
+sie genügen jedoch, um uns vor Augen zu führen, wie reich,
+wie mannigfach und wie ausgedehnt die mathematische Wissen-
+schaft schon heute ist und es drängt sich uns die Frage auf,
+ob der Mathematik einst bevorsteht, was anderen Wissen-
+schaften längst widerfahren ist, nämlich daß sie in einzelne Teil-
+wissenschaften zerfällt, deren Vertreter kaum noch einander ver-
+
+mathematische Probleme.
+stehen und deren Zusammenhang daher immer loser wird. Ich
+glaube und wünsche dies nicht; die mathematische Wissenschaft
+ist meiner Ansicht nach ein unteilbares Ganze, ein Organismus,
+dessen Lebensfähigkeit durch den Zusammenhang seiner Teile
+bedingt wird. Denn bei aller Verschiedenheit des mathematischen
+Wissenstoffes im Einzelnen, gewahren wir doch sehr deutlich die
+Gleichheit der logischen Hülfsmittel, die Verwandtschaft der Ideen-
+bildungen in der ganzen Mathematik und die zahlreichen Analogieen
+in ihren verschiedenen Wissensgebieten. Auch bemerken wir: je
+weiter eine mathematische Theorie ausgebildet wird, desto harmo-
+nischer und einheitlicher gestaltet sich ihr Aufbau und ungeahnte
+Beziehungen zwischen bisher getrennten Wissenszweigen werden
+entdeckt. So kommt es, daß mit der Ausdehnung der Mathematik
+ihr einheitlicher Charakter nicht verloren geht, sondern desto deut-
+licher offenbar wird.
+Aber — so fragen wir — wird es bei der Ausdehnung des
+mathematischen Wissens für den einzelnen Forscher nicht schließ-
+lich unmöglich, alle Teile dieses Wissens zu umfassen? Ich möchte
+als Antwort darauf hinweisen, wie sehr es im Wesen der mathe-
+matischen Wissenschaft liegt, daß jeder wirkliche Fortschritt stets
+Hand in Hand geht mit der Auffindung schärferer Hülfsmittel
+und einfacherer Methoden, die zugleich das Verständnis früherer
+Theorieen erleichtern und umständliche ältere Entwickelungen be-
+seitigen und daß es daher dem einzelnen Forscher, indem er sich
+diese schärferen Hülfsmittel und einfacheren Methoden zu eigen
+macht, leichter gelingt, sich in den verschiedenen Wissenszweigen
+der Mathematik zu orientiren als dies für irgend eine andere
+Wissenschaft der Fall ist.
+Der einheitliche Charakter der Mathematik liegt im inneren
+Wesen dieser Wissenschaft begründet; denn die Mathematik ist
+die Grundlage alles exacten naturwissenschaftlichen Erkennens.
+Damit sie diese hohe Bestimmung vollkommen erfülle, mögen ihr
+im neuen Jahrhundert geniale Meister erstehen und zahlreiche in
+edlem Eifer erglühende Jünger!
+
+
+ 

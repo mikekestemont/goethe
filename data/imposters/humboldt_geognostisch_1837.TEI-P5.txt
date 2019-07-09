@@ -1,0 +1,1207 @@
+
+
+ 1837.  No. 2.
+  ANNALEN 
+DER PHYSIK UND CHEMIE.
+ 
+ BAND XXXX.  
+    I. Geognostische und physikalische Beobachtun-
+gen über die Vulkane des Hochlandes von
+Quito; von Alexander von Humboldt.
+(Vorgelesen in der Sitzung der Academie der Wissenschaften zu
+Berlin am 9. Febr. 1837.)
+
+Erste Abhandlung.
+Wenn Vulkanismus im weitesten Sinne des Worts alle
+Erscheinungen bezeichnet, die von der Reaction des In-
+neren flüssig gebliebenen Theils eines Planeten gegen
+seine oxydirte und durch Wärmestrahlung erhärtete Ober-
+fläche abhängen, so können wohl nur wenige Gegenden
+der Erde das Schauspiel von dem mannichfaltigsten Zu-
+sammenwirken vulkanischer Kräfte in einem gleichgroſsen
+Maaſsstabe darbieten, als das Hochland von Quito. Was
+bei einem achtmonatlichen Aufenthalte in dieser Gegend
+ich von Messungen und mir wahrscheinlichen Resultaten
+gesammelt, ist in mehreren Theilen meines Amerikani-
+schen Reisewerks zerstreut, vorzüglich in dem geognosti-
+schen und barometrischen Nivellement der Andeskette,
+in dem Buche über Schichtung und Lagerung der Ge-
+birgsarten, und in einer Abhandlung: Esquisse d'un
+Tableau géologique de l'Amérique méridionale au nord
+de la Rivière des Amazones. Die einzelnen topographi-
+schen Beschreibungen der Vulkane, gleichsam Monogra-
+phien derselben, sind noch ungedruckt geblieben. Geo-
+gnostische Beschreibungen einzelner Erdräume beruhen
+aber auf zwei ganz verschiedenen Fundamenten, von
+welchen die einen abhängig von der Zeit, von dem je-
+desmaligen Zustande unseres fortschreitenden physikali-
+schen und mineralogischen Wissens, die anderen durch
+Beziehung auf bloſs räumliche Verhältnisse (auf Gröſse,
+Poggendorff's Annal. Bd. XXXX. 11
+
+Stellung oder Lage) unveränderlich, und, wenn etwa Na-
+tur-Revolutionen die Configuration der Erdfläche umge-
+stalten, um so wichtiger sind, als sie die Möglichkeit ei-
+ner numerischen Vergleichung in dem Resultate der Um-
+gestaltung gewähren. Wo strenge Unterscheidung der
+Formationen nach zoologischen Charakteren, das ist nach
+dem epochenweise Zusammenleben vorweltlicher Orga-
+nismen, oder nach oryktognostischen Charakteren, das ist
+nach der Natur der krystallinischen Gewebe einer Gebirgs-
+art, erheischt werden, da verliert die aufgezeichnete Beob-
+achtung, wenn sie der Zeit und den Ansichten entrückt
+wird, unter deren Einfluſs sie angestellt wurde, von ihrer
+Bestimmtheit und ihrem wissenschaftlichen Werthe. Wer
+ein reines und inniges Interesse für seine Wissenschaft
+hegt, klagt nicht, wenn er je sich entschlieſsen muſs, ei-
+nen Blick auf seine früheren Arbeiten zu werfen, über
+diese Wirkung der fortschreitenden Zeit, über ein Ver-
+altern des Stoffes. Es gewährt ihm, neben dem regen
+Wunsche, das Halbgesehene noch einmal, und mit neue-
+rem Wissen bereichert, wiederzusehen, das frohe aufrich-
+tende Gefühl der zunehmenden Erweiterung der Wissen-
+schaft. Ein anderer Theil des Gesammelten, der topo-
+graphische, räumlich beschreibende, ist unabhängig von
+der Epoche des Einsammelns. Er beruht nicht auf wech-
+selnden Ansichten, sondern auf den alten Grundvesten
+mathematischen Wissens. Mit gröſserer Vervollkommnung
+der Instrumente erlangt allerdings auch die Weltstellung
+(astronomische Position), die trigonometrische oder baro-
+metrische Höhenbestimmung (Hypsometrie) eine gröſsere
+Schärfe, aber die Bedürfnisse des geognostischen und oro-
+graphischen Wissens sind leichter zu befriedigen, als die
+Bedürfnisse der Astronomie, wenn diese den Stand oder
+Lauf der Himmelskörper bestimmen, die Gestalt und Dich-
+tigkeit unseres Planeten ergründen, gleichsam »die Erde
+messen und wiegen« soll. Seit dem Ende des letzten
+Jahrhunderts sind die astronomischen und gaeodetischen
+
+Instrumente, deren Auswahl dem Reisenden zu Gebote
+steht, vollkommen genug, um besonders durch geschickte
+Benutzung feiner und dabei sicherer Winkelbestimmun-
+gen numerische Resultate zu erlangen, deren Genauigkeit
+innerhalb der Gränzen liegt, welche dem Zwecke der
+Untersuchung geeignet sind. Dieser orographische, mes-
+sende Theil der Beobachtungen gewährt dazu den Vor-
+theil, daſs, wenn das Detail der Messungen (wie immer
+geschehen sollte) publicirt oder wenigstens aufbewahrt
+wird, es noch nach Jahren das Maaſs des Vertrauens
+bestimmt, welches der Arbeit zukommt, ja zu neueren
+und besseren Combinationen führen kann.
+Indem ich freimüthig auf den Unterschied aufmerk-
+sam mache zwischen dem schnell veralternden und dem
+von der Zeit unabhängigen Theile geognostischer Beob-
+achtungen, habe ich den relativen Unwerth der Arbeit
+bezeichnet, die ich Ihnen heute vorlege. Jeder Reisende,
+der von Europa auch nur drei oder vier Jahre in Lagen
+entfernt bleibt, in denen er des wissenschaftlichen Ver-
+kehrs mit der Heimath entbehrte, fühlt schon am Tage
+seiner Rückkunft, wie sich mit der raschen Erweiterung
+der Ansichten über die Bildungsverhältnisse der Gebirgs-
+massen, auch die jene Ansichten bezeichnende Sprache
+verändert hat. Diese Entfremdung nun veranlaſst oft ei-
+nen unseligen Trieb des Anpassens und Deutens; und da
+zu jeder Epoche nur das allgemein gefällt, was dem herr-
+schenden Glauben entspricht, so unterliegt nach und nach
+das einfach Wahrgenommene den Verstandes-Operatio-
+nen theorisirender Deutung. Eine solche Gefahr, der es
+schwer ist, sich ganz zu entziehen, da ein rühmliches
+Bestreben den Menschen antreibt den rohen empirischen
+Stoff durch Ideen zu beherrschen, wird um so gröſser
+und drohender, als die Zahl der Jahre anwächst, die uns
+von dem Moment der wirklichen Beobachtung trennt.
+Wenn ich nun, unter den bezeichneten Verhältnissen,
+nicht anstehe zum Gegenstand meiner Abhandlungen Frag-
+11 *
+
+mente aus meinen noch ungedruckten südamerikanischen
+Tagebüchern zu wählen, so gründet sich dieser Muth auf
+dem festen Vorsatz, das Beobachtete groſsentheils mit den-
+selben Worten wiederzugeben, in denen es an Ort und
+Stelle niedergeschrieben wurde, auch das Beobachtete
+von den späteren Deutungen zu trennen: es gründet sich
+dieser Muth auf der Berichtigung der Nomenclatur der
+Gebirgsarten, welche die orytognostische Untersuchung
+der freilich nur sehr kleinen mitgebrachten Sammlungen
+gestattet: er gründet sich endlich (und dieſs ist das eigent-
+liche Motiv der Bekanntmachung) auf der Ansicht, daſs
+der gröſste Theil meiner geognostischen Arbeiten am Ab-
+hange der Vulkane von Quito vorzugsweise Raumverhält-
+nisse, Gestaltbeschreibungen der Oberfläche und die nicht
+veralternde physikalische Orographie eines wundervollen
+und seitdem nirgend beschriebenen Landstrichs berührt.
+In der langen, mauerartig hingedehnten, bald einfa-
+chen, bald zwei- und dreifach gereihten, und dann durch
+schmale Querjöcher gegliederten Andeskette verkündigt
+sich regelmäſsig und fast periodisch die Nähe thätiger
+Vulkane, durch das plötzliche Auftreten gewisser Gebirgs-
+arten, welche die vormals sogenannten uranfänglichen,
+wie die schiefrigen und sandsteinartigen Uebergangs- und
+Flötzformationen trennen. Ein so leicht zu beobachten-
+des Phänomen muſste früh die Ueberzeugung anregen,
+daſs jene sporadischen Gebirgsarten der eigentliche Sitz
+vulkanischer Erscheinungen wären, und daſs sie die vul-
+kanischen Ausbrüche bedingten. Was damals (um un-
+ter einem eingeschränkteren Gesichtspunkte hier bloſs an
+die mineralogische Zusammensetzung zu erinnern), in
+Süd-Amerika als eine eigene Art quarzloser Grünstein-
+und Syenit-Porphyre beschrieben ward, nahm später in Eu-
+ropa die Benennung Trachyt an, ein Name, durch wel-
+chen Haüy's Distribution minéralogique des Roches
+den älteren mehr charakteristischen Namen Domit ver-
+drängte. Die neueste Zeit hat gelehrt, daſs jene durch-
+
+brechenden Massen (bald als craterlose Glocken empor-
+gehoben, bald durch die vulkanischen Mächte dergestalt
+geöffnet, daſs eine permanente Verbindung zwischen dem
+Innern der Erde und dem Luftkreise gebildet wird) un-
+ter verschiedenen Zonen nicht immer dieselbe Zusammen-
+setzung darbieten. Es sind bald eigentliche Trachyte,
+welche der Feldspath charakterisirt, wie am Pic von Te-
+neriffa und am Siebengebirge, wo sich etwas Albit dem
+Feldspath beigesellte, Feldspath-Trachyte, die als thätige
+Vulkane häufig Obsidian und BimsteinBimsstein erzeugen; bald sind
+es Melaphyre, doleritartige Gemenge von Labrador und
+Augit, der Basaltformation näher stehend, wie am Aetna,
+Stromboli und Chimborazo; bald ist Albit mit Hornblende
+vorherrschend, wie in den neuerlich sogenannten Ande-
+siten der Vulkane von Chili, in den prächtigen als Dio-
+rit-Porphyr beschriebenen Säulen von Pisoje bei Popayan,
+am Fuſse des Vulkans von Purace, oder im mexicanischen
+Vulkan von Tolucca; bald sind es endlich Leucitophyre,
+Gemenge von Leucit und Augit, wie in der Somma, der
+alten Wand des Erhebungs-Craters des Vesuvs. Ueber
+diese wichtige Unterscheidung der Gebirgsmassen, durch
+welche vulkanische Ausbrüche sich einen Weg gebahnt
+haben, ist durch Gustav Rose's vortreffliche chemische
+und krystallographische Zergliederung der Feldspath-
+Gruppe ein neues, einem Theile der Geognosie wohl-
+thätiges Licht verbreitet worden. Wenn ich in die-
+sen Worten gleichsam nur ein gewichtvolleres Urtheil,
+an demselben Orte ausgesprochen, das Urtheil meines
+vieljährigen Freundes, Leopold von Buch, wieder-
+hole, so geschieht es zugleich, um an ein neues Epo-
+che machendes und durch viele Zusätze bereichertes Werk
+dieses groſsen Geognosten zu erinnern, welches alles, was
+er über die Natur der vulkanischen Erscheinungen er-
+gründet hat, in lichtvoller Darstellung umfaſst. Die fran-
+zösische Ausgabe der Physikalischen Beschreibung der
+Canarischen Inseln, welche so eben erschienen ist, ent-
+
+hält unter der Abtheilung: Central- und Reihen- Vulkane,
+die lebendigste und vollständigste Schilderung der Feuer-
+ausbrüche des ganzen Erdkreises, so weit derselbe bis-
+her einer wissenschaftlichen Bestrebung zugänglich gewe-
+sen ist.
+Die Vulkane des Hochlandes von Quito, mit de-
+nen ich mich in dieser Abhandlung beschäftige, gehö-
+ren, wegen der trefflichen geographischen Arbeiten von
+La Condamine, Bouguer und Pedro Maldonado,
+zu den Reihen-Vulkanen, deren Gruppirung in zwei,
+durch ein schmales Längenthal getrennten Cordilleren
+am frühesten richtig erkannt worden ist. Es finden da-
+her, mittelst der Vergleichung mit analogen Thatsachen,
+meine eigenen Beobachtungen in der vorerwähnten Auf-
+zählung der gesammten Erscheinungen das was Verallge-
+meinerung der Ideen immer gewährt, erhöhtes Interesse,
+Berichtigung der Ansichten, und eine Klarheit, die wie
+aus fernen Lichtpunkten zurückstrahlt.
+Ehe ich zu der Beschreibung des Vulkans von Pi-
+chincha übergehe, muſs ich, zu besserer Orientirung und
+genauerer Erläuterung der Lage der Hochebene, auf ei-
+nige Resultate von Messungen aufmerksam machen, die,
+einzeln genommen und auf das Niveau der nahen Süd-
+see bezogen, freilich keine geognostische Wichtigkeit ha-
+ben würden, aber bei Betrachtung des stufenweisen Zu-
+nehmens der Bodenhöhe in an einander gereihten Län-
+genthälern mannichfaltiges Interesse gewähren. Neue Be-
+stimmungen waren hier um so nothwendiger, als die ba-
+rometrischen der französischen Astronomen zur Zeit der
+berühmten Gradmessung, den dreifachen Fehler einer
+Vernachlässigung der Temperatur-Correction, einer irri-
+gen Annahme des mittleren Luftdruckes an der Meeres-
+fläche und einer Nicht-Berücksichtigung des Einflusses der
+stündlichen Variationen der Barometer-Höhe darbieten.
+Durch zufällige Compensationen nahen sich allerdings bis-
+weilen La Condamine's Resultate, den immer sehr
+befriedigend übereinstimmenden von Boussingault und
+
+mir; an den meisten anderen Punkten sind aber die Un-
+terschiede beträchtlich, bald positiv, bald negativ, und immer
+von sehr ungleichem Werthe, so daſs die älteren relativen
+Bestimmungen, überall, wo von der ungleich gehobenen
+Bergebenen über dem groſsen vulkanischen Heerde von
+Quito die Rede ist, nur wenig Vertrauen verdienen. Diese
+Mängel wirken natürlich auch auf die absoluten Resultate
+trigonometrisch gemessener Höhen, da bekanntlich bei die-
+sen Operationen die Standlinien (Basen), an deren End-
+punkte sich die Höhen-Winkel der Berge anlegen, nicht in
+der Küsten-Ebene lagen, und daher jede solcher Berg-
+messungen in der Andeskette nothwendig aus einer tri-
+gonometrischen und barometrischen zusammengesetzt ist.
+Wenn man einen Blick wirft auf den Entwurf ei-
+ner hypsometrischen Karte, in der ich, nach sorgfältigen
+Discussionen neuesten astronomischen Ortsbestimmungen,
+zuerst versucht habe das Streichen, die Mächtigkeit und
+die mannichfaltige Gliederung der vorher auf allen Kar-
+ten von Süd-Amerika so verunstalteten Andeskette dar-
+zustellen, und alle wichtigen Höhenverhältnisse einzutra-
+gen, die bis dahin (bis 1831, also nach Pentland's
+Entdeckungen in Bolivia) bekannt geworden waren,
+so sieht man, daſs die seit der französischen Gradmes-
+sung so berufene Bifurcation der Cordillere nur von 3° ¼
+südlicher bis 2° 20′ nördlicher Breite stattfindet zwischen
+dem Bergknoten von Loxa, der durch die herrlichen
+China-Wälder seines östlichen Abhanges berühmt ist,
+und dem Bergknoten der Quellen des groſsen Magdale-
+nen-Stromes. Nördlich und südlich von dieser Parallele
+der äuſsersten Bergknoten von Peru und Neu-Granada
+(Cundinamarca) sind die Andes in drei minder gleich-
+laufende Zweige getheilt. Die Breite der Bergketten
+wurde sogar ehemals gegen Osten aus Gründen vermehrt,
+die man in einer wundersamen Sprach-Unwissenheit su-
+chen muſs. Wo in der Karte von La Cruz Olmedilla, der
+Typus aller englischen, französischen und deutschen Kar-
+
+ten, die 40 Jahre lang erschienen sind, die Worte stan-
+den: »hier wachse wilder Cacao, aqui hay montes de
+Cacao,« haben berühmte Geographen Schneeberge in
+ihre Karte eingetragen, weil sie das in der spanischen
+Kolonie allgemein übliche Wort Monte (Wald) für Berg
+(Cerros, Serranias) hielten, und dabei vergaſsen, daſs
+Theobroma Cacao nur in den heiſsesten Ebenen bei ei-
+ner mittleren Temperatur von 23° R. gedeiht. Auch im
+reinsten Europaischspanischen Dialect heiſst monte alto
+Wald mit hohem Baumwuchs. Das groſse Längenthal,
+das sich zwischen den beiden oben genannten Bergkno-
+ten hinzieht, hat über 60 geographische Meilen (15 auf
+1°) Ausdehnung, aber nur eine mittlere Breite von 5
+Meilen. Es ist durch Querjöcher in fünf kleinere Bek-
+ken getheilt, deren Boden zu einer sehr ungleichen Höhe
+über der Meeresfläche sich erhebt. Die Hochebenen,
+welche diesen Thalboden bilden, sind die drei südliche-
+ren, in denen Cuenca, Tacunga und Quito liegen, 1350,
+1320 und 1340 Toisen hoch, merkwürdig übereinstim-
+mend; dann folgt die 1582 bis 1650 Toisen hohe Ebene
+de los Pastos, das vulkanische Tübet von Amerika, doch
+noch 355 Toisen niedriger als der Thalboden um den,
+von Pentland, Meyen und d'Orbigny neuerlichst
+besuchten See von Titicaca. Das nördlichste fünfte Bas-
+sin von Almaguer sinkt plötzlich bis zu 1164 Toisen
+herab. Von den Querjöchern ist nur eines wichtig, der
+Paſs von Assuay, mit Ruinen von Inca-Schlössern be-
+deckt, und dessen höchsten Punkt ich, wo der Weg über
+die Ladera de Cadlud führt, über 14500 Fuſs (2428
+Toisen) hoch fand. Nur 400 Toisen tiefer steht der Pa-
+last des Inca Tupayupangi mit Resten von Bädern,
+die (man muſs es hoffen) mit warmem Wasser in
+diesem unwirthlichen Klima gefüllt wurden. Da Pent-
+land's Messungen in der östlichen Cordillere von Bo-
+livia, wo der Sorata 3948 Toisen (23688 Par. Fuſsen),
+also nur 440 Toisen niedriger als der Dhavalagiri des
+Himalaya-Gebirges und volle 600 Toisen höher als der
+
+Chimborazo ist, zu der Meinung verleitet hat, es müſs-
+ten alle Structurverhältnisse in jenen südlichen Breiten
+colossaler als in der dem Aequator nahen Zone seyn,
+so mache ich hier darauf aufmerksam, daſs der Paſs über
+das Querjoch des Assuay, wo die groſse Handelsstraſse
+von Quito nach Cuenca und Lima geht, unter allen von
+Pentland gemessenen Pässen nur von zweien (und um
+ein sehr Geringes) an Höhe übertroffen wird. Der Paſs
+über die Altos de Toledo ist 25 und der von Chul-
+lunquani 17 T. höher. Denn überall verhalten sich die
+mittleren Höhen der Gebirgsrücken, deren Minima die
+Pässe uns kennen lehren, nicht wie die einzelnen Gipfel,
+wie die Culminations-Punkte der Ketten. Eine graphi-
+sche Darstellung der Alpen und Pyrenäen (die letzteren
+haben bekanntlich einen sehr hohen Rücken bei geringer
+Höhe der einzelnen Gipfel) bekräftigt diese Betrach-
+tungen.
+Da man von dem Felskamme des Vulkans von Pi-
+chincha hinweg über die menschenleeren und undurch-
+dringlichen Waldungen der Yumbos und der Provinz de
+las Esmeraldas in die Südsee hineinblickt, und da schon
+westlich von den Felsinseln Puna und St. Clara (el Amer-
+tajado) bei sehr heiterem Wetter der Chimborazo auf
+der Schifffahrt von Lima nach Guayaquil gesehen wer-
+den kann, so ist der wahre Abstand der Küste von den
+westlichen Cordilleren ein Gegenstand, mit dem ich mich
+besonders beschäftigen muſste. Die zu bestimmende Ent-
+fernung hängt hauptsächlich von der Längendifferenz zwi-
+schen den Städten Quito und Guayaquil, von dem Azi-
+muth und dem Höhenwinkel der Spitze des Chimborazo,
+wie dieselbe auf dem Littoral von Guayaquil gesehen
+wird, ab. Ich muſs mich hier begnügen zu bemerken, daſs
+die Zweifel, welche der Capitain Basil Hall gegen die
+von mir gefundene Länge von Guayaquil erhoben hatte,
+durch die letzte groſse englische Expedition in den Schif-
+fen Adventure und Beagle (Capit. King, Stokes und
+Fitz Roy) zur Aufnahme der Küste von West-Pata-
+
+gonien bis Guayaquil völlig und zu meiner Zufriedenheit
+gelöst worden sind. Nach den erst vor wenigen Mona-
+ten von Sir John Barrow bekannt  Journal of the Royal Geogn. Soc. T. 6 P. 2 p. 337. gemachten Resul-
+taten der Expedition ist Guayaquil, ungeachtet die Zeit
+von einem sehr fernen Punkte, Valparaiso, übertragen
+wurde, bis auf 17 Zeitsecunden mit meiner nun schon
+sehr alten Längenbestimmung übereinstimmend gefunden
+worden, ja für den Hafen Callao de Lima, auf den ich
+Guayaquil chronometrisch bezog, findet die letzte engli-
+sche Expedition, wie die Seefahrer ausdrücklich bemer-
+ken, ein mittleres Resultat, das nur um 2 Zeitsecunden
+von der Länge abweicht, welche Oltmanns aus meiner
+Beobachtung des Durchganges des Mercur auf der Sonnen-
+scheibe schloſs. Da bei so groſsen Höhen und auf so lan-
+gen Wegen (der Pichincha, um weniges höher als der Mont-
+blanc, kann, ohne Refraction, in der Entfernung von 34,
+der Chimborazo in einer 39 geogr. Meilen gesehen werden)
+die Wahrscheinlichkeit abnimmt, daſs der Lichtstrahl durch
+keine der neben und über einander gelagerten Wolken-
+schichten gehindert werde zu dem Auge zu gelangen, so
+genieſst man am Ufer der Südsee selten des erfreulichen
+Anblicks der majestätischen Andeskette. Ein Höhen-
+Winkel des Chimborazo (nur 1° 57′ 40′′), den der ge-
+lehrte spanische See-Officier, Don Josef Espinosa Memorias de los Navegantes Españoles, T.I p. 187.,
+während der Malaspina'schen Weltumsegelung am
+Strande von Guayaquil erlangte, ist der Gegenstand ei-
+nes auf diesem Wege nicht zu schlichtenden Streits über
+die wahre Höhe des Chimborazo geworden, da Refraction
+und Azimuth, wie die horizontale Entfernung selbst, nicht
+gehörig erörtert wurden.
+Ich habe noch einen anderen Punkt zu berühren,
+der sich auf die Positions- und Dimensions-Verhältnisse
+der Cordilleren bezieht. Leopold von Buch hat in
+
+seiner lichtverbreitenden Theorie des Hervortretens von
+Gebirgsketten durch Spalten mehrfach auf die Beziehungen
+hingewiesen, die man zwischen der Richtung der Gebirgs-
+ketten und naher oder ferner Küsten bemerkt. Das Phä-
+nomen thätiger, dauernder Vulkane ist in Süd-Amerika
+bekanntlich auf den Westrand des Continents beschränkt,
+und meine hypsometrische Darstellung der ganzen An-
+deskette, welche in die neuesten Karten von Brué über-
+tragen, nirgends aber richtiger und geschmackvoller wie-
+derholt worden ist, als in einer leider noch immer nicht
+erschienenen kleinen Karte von Berghaus Karte des ganzen Neuen Continents., zeugt für
+den innigsten Zusammenhang zwischen der Form (dem
+Umriſs) des Continents und dem wechselnden Streichen
+der Kette. Der Wendepunkt bei Arica, wo die Küste
+ihr nordsüdliches Streichen plötzlich in ein nordwestli-
+ches verwandelt, eine Einbiegung unter 18° ½ südlicher
+Breite, welche der ganz ähnlichen Einbiegung der West-
+küste des pyramidalen Continents von Afrika (in 4° ½
+nördlicher Breite), bei Fernando Po, entspricht, ist in
+seiner geologischen Bedeutsamkeit schon mehrmals von
+mir, an anderen Orten, bezeichnet worden. Das plötz-
+lich veränderte Streichen der Andeskette im Parallel von
+Arica ist nicht auf die der Südsee-Küste nahe westliche
+Cordillere eingeschränkt; sie erstreckt sich in eben dem
+Maaſse auf die östliche Kette, welche den frühesten Sitz
+menschlicher Cultur in Süd-Amerika, die Hochebenen
+von Titicaca, begränzt, und auf ihrem Rücken die erst
+neuerlichst bekannt gewordenen Bergkolosse des Sorata
+und Ilimani trägt. Der Parallelismus der Cordilleren un-
+ter sich, besonders zwischen 5° südlicher und 5° nörd-
+licher Breite ist so auffallend, als der Parallelismus mit
+den Sinuositäten des Littorals. Ein einziges, sein Strei-
+chen veränderndes abscharendes Trumm vereinigt die
+neuere Gebirgsspalte der Andes von Quito durch Neu
+Granada, östlich von Bogota, mit der älteren Gebirgs-
+spalte der Küstenkette von Caracas.
+
+Westlich vom Hochlande von Quito scheint die
+Richtung der Ketten selbst zu beweisen, daſs ein Küsten-
+Einschnitt, der Golf von Guayaquil, ein kleines zufälli-
+ges Phänomen späterer Entstehung ist, als die der Ket-
+ten-Hebung. Hier nähert sich die Küste bis auf 25 Bo-
+gen-Minuten der westlichen Cordillere, in der Gegend
+von Cuenca, südlich von dem oben erwähnten Quer-
+joch des Assuay, wo die viel besuchte Landstraſse fast
+die Höhe des Montblanc erreicht. Kein Einfluſs dieser
+gröſseren Meeres-Nähe auf die Stellung der Vulkane
+zeigt sich aber hier. Schon zwanzig geographische Mei-
+len nördlicher, seit dem Parallel des Tunguragua, ist
+die lange Reihe thätiger Vulkane gegen Süden geendigt.
+Hindernisse in den Gesteinschichten haben vielleicht hier,
+der Seeküste näher, den Durchbruch der elastischen Kräfte
+und eine permanente Verbindung mit dem Inneren ge-
+hindert. Auffallend ist es sogar, daſs das Hinderniſs we-
+niger groſs nach der von dem Littoral abgekehrten Seite
+gewesen ist; denn am Fuſs der östlichen Kette ist der
+Sangay, oder Vulkan von Macas, einen vollen halben
+Grad südlich vom Parallel des Tanguragua in einer wald-
+reichen Ebene, an den Quellen des Rio Morona, ausgebro-
+chen. Rüppel giebt dem rauchenden Kegelberge in Kor-
+dofan 84 Meilen Entfernung vom Meere, während der Pe-
+schan in Inner-Asien, von dem sich noch in späteren ganz
+historischen Zeiten Lavaströme ergossen haben, und an-
+dere thätige Vulkane der Kette Thianschan, nach mei-
+ner Skizze der Bergketten von Inner-Asien, drei Mal so
+weit, volle 260 geographische Meilen von allen Meeren
+entfernt und keinesweges von groſsen Binnen-Wassern
+umgeben liegen.
+Wenn gleich in einem groſsen Theile der Welt das
+Emporsteigen von Trachyt-, Andesit- und Dolerit-Mas-
+sen die höchsten Gipfel der Ketten oder Insel-Gruppen
+gebildet hat, so lehren dagegen andere Zonen (z. B. der
+Himalaya und die östliche Andes-Cordillere von Bolivia),
+
+daſs dieser Zusammenhang zwischen dem Maximum der
+Erhebung und der Natur des sichtbaren Gesteins kein
+nothwendiger ist. In Mexico, wo alle Vulkane auf ei-
+ner, den Isthmus und die Axe der Kette fast rechtwink-
+lich durchschneidenden Spalte emporgestiegen sind (Leo-
+pold von Buch vergleicht diese untergeordnete Quer-
+spaltung mit der im Inneren von Java), sind allerdings
+alle Nevados, das heiſst, alle Gipfel, welche hoch über
+die ewige Schneegränze hinausreichen, Vulkane, und aus
+den eben genannten Gebirgsarten zusammengesetzt. Eben-
+falls in dem Hochlande von Quito liegen die Culmina-
+tionspunkte der Cordillere allerdings in Dolerit-Glocken
+und Kegeln; aber auch in eben dem Hochlande, gegen-
+über dem Chimborazo und dem Vulkan Tunguragua, sind
+die hohen Nevados von Condorasto, Cuvillan und Col-
+lanes Glimmerschiefer und Gestellstein. Die höchsten
+Berge der ganzen Andes-Kette, der Sorata oder Tusu-
+baya, etwas westlich von der Mission Challana, und der
+Ilimani, südlich von dem Missions-Dörfchen Ocobaya,
+zwei Gipfel, von denen jener fast nur um eine groſse
+Thurmhöhe (78 Toisen) niedriger ist als der zweite und
+einzig gut gemessene Coloſs Jawahir 4026 Toisen, Sorata 3948 Toisen. des Himalaya, bestehen
+aus Grauwackenschiefer, aber, nach handschriftlichen No-
+ten von Pentland, die ich besitze, finden sich, wenig-
+stens am westlichen Abfalle des Ilimani, Syenit- und Por-
+phyr-Massen, in denen, als Zeugen des Durchbruchs,
+eckige Stücken von Grauwackenschiefer eingebacken sind.
+Alle diese Thatsachen beweisen, daſs die absolute Höhe
+einzelner Gipfel (ein Phänomen, welches von je her das
+populärste Interesse auf sich gezogen hat) bloſs eine lo-
+cale, in mehr oder minder Widerstand gegründete Zu-
+fälligkeit ist, geognostisch unwichtig in Vergleich mit
+Richtung der Axe, Beharrlichkeit im Streichen und mitt-
+lerer Höhe des Rückens einer Bergkette.
+Nach diesen allgemeinen Betrachtungen der Andes-
+
+Cordilleren gehe ich zu der Schilderung einzelner Vul-
+kane der Hochebene von Quito über. Ich beginne mit
+einem der niedrigsten Gipfel, Pichincha, weil er der Stadt
+am nächsten liegt, weil er eine von der der meisten
+feuerspeienden Berge sehr abweichende Form hat, und für
+mich der Gegenstand dreier Expeditionen war. In Eu-
+ropa hat dieser Berg in der Mitte des vorigen Jahrhun-
+derts einen groſsen, jetzt freilich längs verhallten Ruf ge-
+habt, da Bouguer und La Condamine auf seinem
+Rücken drei Wochen lang eine Hütte bewohnten, in der
+sie meteorologische Beobachtungen anstellten. Diese Hütte
+lag 2430 T. hoch, also nur 180 Fuſs tiefer als der Gi-
+pfel des Montblanc. Derjenige Theil des Längenthals
+zwischen der östlichen und westlichen Cordillere, oder,
+wie ich mich lieber ausdrücke; zwischen der Cordillere
+des Antisana und Cotopaxi, und der des Pichincha und
+Chimborazo, in welchem die Stadt Quito liegt, ist wie-
+derum durch eine niedrige Hügelkette, die von Ichimbio
+und Poingasi, der Länge nach von Süden nach Norden
+in zwei Hälften getheilt. Oestlich von diesen Hügeln lie-
+gen die fruchtbaren anmuthigen Ebenen von Puembo und
+Chillo, westlich dem Vulkan Pichincha näher, die öderen
+Graſsflächen von Iñaquito und Turabamba. Das Niveau
+beider Hälften des Thals ist verschieden. In der östli-
+chen milderen ist der Thalboden 8040, in der rauheren
+westlichen ist er fast 9000 Fuſs (nach mir 1492, nach
+Boussingault 1496 T.) über dem Meeresspiegel er-
+hoben. Die lateinische Inschrift, welche die französischen
+Astronomen in dem Jesuiten-Collegium aufgestellt haben,
+und welche die Länge von Quito viel zu westlich setzt,
+giebt auch die Höhe der Stadt, aus Gründen, die ich
+oben berührt habe, 270 Fuſs zu niedrig an. Wenn man
+nun erwägt, daſs Quito dicht an der Felsmauer des Pi-
+chincha erbaut und von vielen, sehr tiefen, offenen, meist
+wasserleeren Spalten, Guaycos, durchschnitten ist, die
+alle dem Vulkan rechtwinklich zulaufen, wenn man sich
+
+dazu erinnert, daſs wir daselbst fast in jedem Monate,
+mit und ohne Erdbeben, ein schreckhaftes unterirdisches
+Getöse (bramido) unter unseren Füſsen hörten, so darf
+man sich nicht wundern, daſs der dem Vulkan nä-
+here Thalboden in den Ebenen von Iñaquito und Turu-
+bamba durch die noch heute wirkenden vulkanischen
+Kräfte höher gehoben sey, als der Boden von Chillo in
+dem entfernteren östlicheren Theile des Thals. Die mitt-
+lere Wärme von Quito ist, nach meinen Beobachtungen,
+von Maximis und Minimis der Lufttemperatur in kaum
+vier Monaten 11°,5 R., nach Boussingault, aus
+der Wärme der trocknen Erde geschlossen, etwas hö-
+her, 12°,2. Unterschied 0°,7. Das ist fast die mittlere
+Wärme von Rom, aber auf der Höhe von Quito, und
+fast unter der Linie selbst; welche Verschiedenheit in
+der Vertheilung der Wärme! In Quito sind die Extreme
+4°,8 und 17°,6 R. Spuren von Eis oder dünnen Eisrin-
+den sieht man unendlich selten, und nur als Wirkung
+der Wärmestrahlung gegen einen wolkenfreien Himmel.
+Die französischen Academiker schildern das Klima milder
+als es jetzt ist. Die Vergleichung mit dem Thalkes-
+sel von Caschmir scheint vollends unpassend. Nach den
+neuesten Messungen von Victor Jacquemont Correspondance pendant son Voyage dans l'Inde, T. II p. 58.
+74. und
+Baron Hügel Journal of the Royal Geogr. Soc. T. VI P. 2 p. 348. Jacque-
+mont giebt 5350, Hügel 5850 engl. Fuſs; Mittel 875 Toisen. liegt die Stadt Caschemir volle 3700
+Fuſs niedriger als Quito. Von dem groſsen Stadtmarkte
+(Plaza major) aus sieht man in drohender Nähe die
+schroffen Abhänge (faldas) des Vulkans von Piachincha,
+nicht die Reihe der Gipfel, die wir bald beschreiben wer-
+den; man sieht auf einem kahlen hervortretenden Hügel,
+der freilich höher als der Pic von Teneriffa ist, das von
+La Condamine als Signal errichtete Kreuz (la Cruz
+
+de Pichincha), und, was einen schönen Anblick gewährt,
+westlicher und tiefer den silberglänzenden Wasserfall von
+Cantuna in nur 1728 Toisen Höhe. Der Fuſs des Was-
+serfalls bleibt unter einem vorspringenden Felsen ver-
+deckt.
+Pichincha.
+Ich habe einen topographischen Plan des Vulkans
+und aller Thäler, die am südöstlichen zugänglicheren Ab-
+hange zu seinem weit ausgedehnten Rücken führen, in
+Quito selbst entworfen, und zur Erläuterung dieser Karte
+eine Profil-Ansicht geliefert, wie man sie, bei heiterer
+Luft, unfern Chillo in der Graſsflur Cachapamba genieſst.
+Die Karte ist in dem Atlas von Süd-Amerika, der mei-
+nen Reisebericht begleitet, die pittoreske Ansicht aber in
+der Vues des Cordilleres erschienen. Auſser den baro-
+metrischen Messungen vieler einzelner Gipfel habe ich
+eine trigonometrische Messung aller Gipfel in der Ebene
+von Cachapamba vorgenommen, die vom Crater des Ru-
+cupichincha 14211 Toisen entfernt ist. Da mir eine ei-
+gentliche Triangulation zwischen den engen Schluchten
+des Vulkans, am Abhange selbst, unmöglich war, und viele
+Wochen Zeit erfordert haben würde, so ist die kürzere
+hypsometrische Methode, die sich der Höhenwinkel und
+senkrechten Standlinien bedient, vorgezogen worden, eine
+Methode, deren Genauigkeit durch meinen Versuch den
+Längenunterschied von Mexico und Veracruz in einer
+Entfernung von drei Längengraden hypsometrisch zu be-
+stimmen empfehlenswerth scheint. Aus den Winkeln hat
+sich dazu die Masse des ganzen Vulkans und der einzelnen
+Gipfel ergeben. Die Entfernung des noch brennenden
+Craters von dem Thurm de la Merced in Quito (ein
+Element, das die Einwohner dieser Stadt lebhaft interes-
+sirte) habe ich, von dem Hügel von Poingasi aus, wo
+man zugleich den Thurm und die den Crater umgeben-
+den drei Felsen sieht, durch eine etwas verwickelte Trian-
+gu-
+
+gulation bestimmt. Ich fand sie aus mehreren Combina-
+tionen 5586 T. Zu meiner groſsen Freude habe ich in
+Paris, lange nachdem mein Plan gestochen war, den er-
+sten Entwurf einer handschriftlichen Karte aus La Con-
+damine's Nachlaſs erhalten, deren Maaſsstab erlaubte,
+sich eines Abstandes von 8 bis 10 T. zu versichern. Diese
+Karte enthält, auſser der Stadt Quito und dem Thurme,
+der Kirche de la Merced, vom Pichincha selbst nur das
+Centrum des Kraters. Die darauf graphisch gesuchte
+Entfernung war 5520 T. Unterschied 66 T., oder \frac{1}{84°}
+Magnetische Azimuthe sind fast gar nicht, oder nur in
+Poingasi für secundäre Punkte in 1800 T. Entfernung von
+dem Abhange des Vulkans, also an einem Orte benutzt
+worden, wo ich mittelst eines Lambertischen vierzehn-
+zölligen Declinatoriums die locale magnetische Abweichung
+bestimmen konnte. Diese allgemeine, nur schon zu umständ-
+liche Uebersicht der bei der Construction meiner Karte an-
+gewandten Mittel soll die Richtigkeit der Haupt-Dimensio-
+nen eines Vulkans bewähren, der in seiner Hauptrichtung
+von SW. nach NO. eine isolirte, ununterbrochen fortlau-
+fende Wand bildet. Auch der Umriſs des Berges in der
+pittoresken Ansicht ist nach Horizontal- und Höhen-Win-
+keln gezeichnet, die wiederholt mit dem Sextanten gemes-
+sen wurden.
+Die Beschreibungen, welche La Condamine an
+mehreren Stellen des Mesure de la Méridienne von dem
+Vulkan von Pichincha giebt, sind überaus unbestimmt.
+Er spricht zwar von mehreren Gipfeln, nennt deren aber
+nur drei, statt vier. Den höchsten, südwestlichsten Gi-
+pfel, aus dem allein die groſsen Ausbrüche erfolgt sind,
+haben die französischen Academiker gar nicht gemessen.
+Die einzige Kuppe, deren in der Inschrift des Jesuiten-
+Collegiums erwähnt ist, und die bloſs als Cacumen la-
+pideum bezeichnet wird, ist der dritte thurmähnliche Gipfel,
+von SW. nach NO. gerechnet. Wo übrigens die Hütte
+stand, in der die Beobachter mit so rühmlicher Ausdauer
+Poggendorff's Annal. Bd. XXXX. 12
+
+Wochen lang schliefen, ist nach der angegebenen Baro-
+meterhöhe und bei aller mangelnden Tradition schwer zu
+ergründen. Klarheit kann man nur in die Beschreibung
+der Structur des Berges bringen, wenn man sich der in-
+dischen, sehr bestimmten Benennungen der Gipfel be-
+dient.
+Was zuerst am Pichincha auffällt, ist seine von der
+gewöhnlichen Kegelform der Vulkane so verschiedene Ge-
+stalt. Den gröſsten Contrast bietet der Pichincha mit dem
+Cotopaxi dar, dessen Schnee-Mantel die kleinsten Uneben-
+heiten eines vollkommenen Kegels bedeckt, und von dem
+die spanischen Creolen mit Recht sagen, er sey wie von
+der Drehbank gekommen, hecho al torno (fait au tour) Man vergleiche meine Vues des Cordilleres, Pl. 10 und 61..
+Pichincha bildet eine lange Mauer, und diese Ausdehnung
+in der Länge bei einer in Verhältniſs geringen Höhe
+(kaum 15000 Fuſs) vermindert, an Punkten, wo man
+das ganze isolirt stehende Gebirge mit einem Blick um-
+fassen kann, den majestätischen Eindruck der Ansicht.
+Pichincha liegt auf dem Rücken der westlichen Cor-
+dilleren, als ein Ganzes betrachtet, allerdings in einem
+Alignement, d. h. in derselben Axenrichtung mit den
+Schneebergen Iliniza, Corazon und Cotocachi; er bildet
+eine Reihe mit ihnen, aber bei dem jähen Absturz, den
+die Cordilleren gegen das Meer hin zeigen, kann man
+sagen, daſs Pichincha, speciell betrachtet, die fortlaufende
+Cordillere wie mit einem Mauer-Stücke krönt, und daſs die
+Richtung dieser Mauer von der Richtung der Basis, auf der
+sie ruht (von der allgemeinen Axe der Cordillere) um volle
+35° abweicht. Die Axe der westlichen Cordillere liegt,
+zwischen 0° 40′ südl. und 0° 20′ nördl. Breite, N. 21° O.,
+die specielle Axe des Vulkans durch seine Gipfelreihe ge-
+legt, liegt N. 56° O. Nach neueren Ansichten würde
+man daher sagen, daſs die später entstandene Mauer, die
+wir Pichincha nennen, auf einer engeren Spalte, die mehr
+vom Meridian gegen Osten abweicht, hervorgetreten ist.
+
+Von diesen Erscheinungen, die den allgemeinen unterge-
+ordnet sind, giebt auch die groſse Bergebene des Antisana
+in 12600 Fuſs Höhe ein merkwürdiges Beispiel. Der
+schneebedeckte runde Gipfel des Berges erhebt sich in-
+selförmig in dieser Ebene, aber gegen Westen ist aus
+derselben, in der Richtung von Norden gegen Süden, eine
+schwarze Felswand hervorgestiegen, der Chussolongo, der
+im kleinen, der Form nach, an den Pichincha erinnert.
+Der letztere ist zwar von allen Seiten isolirt, doch ist er
+es minder gegen den Corazon und gegen Iliniza hin, wo
+der Atacazo sich ihm naht, als gegen Norden, gegen den
+Cerro de Cuicocha und den Nevado de Cotocachi hin,
+wo in einer weiten Oeffnung der Fluſs Guallabamba sich
+aus der obsidianreichen Hochebene von Quinche einen
+Weg nach der Südsee bahnt. Zu besserer Verständi-
+gung des Folgenden füge ich im Allgemeinen noch hinzu,
+daſs die vier Gipfel des Pichincha, die aus der Ferne
+theils als Kegel, theils als Thurmspitzen und Ruinen von
+Bergschlössern erscheinen, von NO. gegen SW. folgende
+Reihe bilden: 1) ein ungenannter Kegelberg, nahe bei
+dem Rücken Ingapilca, den ich, nach der Frequenz der
+groſsen Condor-Geyer, und weil gegen ihn die tiefe Spalte
+von Cundurguachana endigt, durch welche Blöcke in die
+schöne Grasebene (Exido) von Iñaquito gekommen sind,
+den Condor-Gipfel nenne. 2) Guaguapichincha, das heiſst,
+das Kind des alten Vulkans. 3) Picacho de los Ladrillos,
+wegen der mauerartigen Spaltung so benannt und durch
+einen schmalen Sattel, mit einen anderen mehr südlich vor-
+liegenden Kegel, Tablahuma, zusammenhängend. 4) Ru-
+cupichincha, der Alte oder Vater, den Krater enthaltend,
+und, da er etwas auſserhalb der Reihe, mehr gegen die
+Südsee gerichtet ist, von Chillo oder Poingasi aus unter
+einem etwas kleineren Höhenwinkel erscheinend, als der ka-
+stelartige Gipfel des Guaguapichincha. Die kupferfarbigen
+Eingeborenen nennen Vulkane, weil es für sie gleichsam In-
+dividuen (einzelne Kegel) sind, die ganzen Berg-Colosse des
+12 *
+
+Cotopaxi und Tungurahua; aber am Pichincha nennen sie
+el Volcan bloſs den südwestlichsten Theil, von dem sie,
+der Tradition nach, wissen, daſs in den Jahren 1533,
+1539, 1560 1566, 1577, 1580 und 1660 so groſse
+Feuerausbrüche stattfanden, daſs die Stadt Quito ganze
+Tage lang durch fallende Asche in tiefe Finsterniſs ge-
+hüllt war. Sie bedienen sich sogar, wenn sie für mehr
+lateinisirt (muy latinos), d. h. gebildet gehalten werden
+wollen, der Benennung Vulkan für den letzten und vier-
+ten Gipfel öfter als der Benennung Rucupichincha.
+Erste Besteigung. — Wir machten den ersten Ver-
+such, an den Crater des Pichincha zu gelangen, an ei-
+nem heiteren Morgen im Monat April Den 14. April 1802.. Unsere Beglei-
+tung war zahlreicher, als wir es gewünscht hätten, ein
+Uebel, das man bei keiner Reise vermeiden kann, in
+welcher die Instrumente, deren man sich bedient, die
+Neugierde der Einwohner des Landes auf sich ziehen. Da
+in den unteren Revieren des Vulkans häufig gejagt wird,
+auch die Indianer ein Gemisch von Hagel und Schnee, frei-
+lich nicht von dem schneebedeckten Gipfel des Craters,
+sondern aus tieferen Schnee und Eishöhlen, zur Stadt brin-
+gen, so rühmten sich alle unsere Begleiter, Weiſse und Far-
+bige, der Gegend sehr kundig zu seyn. Ich war gerade
+vor einem Monat mit Hrn. Bonpland und dem jungen
+Sohne des Marquès de Selvalegre, Carlos Montu-
+far, der uns nach dem Amazonen-Strome, Lima, Mexico
+und Paris begleitete, aber nach seiner Zurückkunft von Eu-
+ropa, in dem edlen Kampfe für die Freiheit seines Vaterlan-
+des den Tod fand, auf dem Antisana gewesen. Wir gelang-
+ten dort auf einem Felskamme, der über die ewige Schnee-
+gränze hinausreichte, zu der Höhe von mehr als 17000 F.,
+so daſs die Erreichung des höchsten Gipfels des Pichincha,
+der den Montblanc kaum um 180 Fuſs übersteigt, uns ver-
+gleichungsweise ein leicht auszuführendes Unternehmen
+schien. Der Erfolg hat gezeigt, daſs die spaltähnlichen
+tiefen Thäler, welche die vier Hauptgipfel des Pichincha
+
+trennen, an vielen Punkten unübersteigliche Hindernisse
+darbieten. Wir nahmen unseren Weg von Quito aus
+gegen Nordwesten, um, neben dem Klostergarten Reco-
+leccion de la Merced vorbei, zu dem Wasserfall Chorro
+de la Cantuna zu gelangen. Die Recoleccion liegt zwi-
+schen zweien der Guaycos oder offenen Spalten von 30
+bis 40 Fuſs Breite, von denen ich oben sprach, und die alle
+dem Berggehänge zulaufen. Beide Spalten vereinigen sich
+etwas nördlich von der Kirche de la Merced, wo eine
+Brücke über sie geschlagen ist. Weiter hin, nach dem
+Platze des heiligen Franciscus, werden die Guaycos un-
+sichtbar, da hohe Gebäude durch Wölbungen sie ver-
+decken. Einige dieser Guaycos gleichen mächtigen offenen
+Gängen, 60 bis 80 Fuſs tief. An vielen Punkten sind
+sie, in 30 bis 40 Lachter Länge, gar nicht nach oben geöff-
+net, sondern bilden natürliche Stollen, unterirdische Wei-
+tungen. Es ist ein Volksglaube in Quito, daſs die Stadt
+darum so wenig an ihren prächtigen Kirchen und hohen
+Häusern bei häufigem Erbeben leidet, weil diese in an-
+derer Hinsicht geognostich wichtigen offenen Klüfte den
+(elastischen) Dämpfen, à los vapores, freien Ausgang gewäh-
+ren. Eine solche, auch von Ulloa angenommene Theo-
+rie, die mit der uralten römischen Meinung vom Nutzen
+der Brunnen bei Erdstöſsen zusammenhängt, wird aber
+durch die Erfahrung wenig bestätigt. Aufmerksame Beob-
+achter haben bemerkt, daſs einige östlichere Quartiere
+der Stadt Quito, bei Santa Barbara und San Juan Evan-
+gelista, die von keinen Guaycos durchschnitten sind, minder
+leiden, als die den Guaycos näheren. Die wenig steilen
+Abhänge (faldas), die zum Wasserfall führen, sind mit
+kurzem Rasen von geselligen Grasarten (Podòsaemum
+debile, Gymnotrix und Stipa eminens, Cavan.) bedeckt.
+In dem Rasen blühen vereinzelnt einige Calceolarien.
+Der Wasserfall von Cantuna, 1728 T. über dem Meere
+gelegen, war gerade sehr dürftig, und hatte in anderen
+Monaten, von der Plaza major aus gesehen, unsere Er-
+
+wartungen mehr gespannt. Wir folgten weiter aufwärts
+einer engen Schlucht, durch die wir, das weit gesehene
+Kreuz von La Condamine, La Cruz de Pichincha,
+(2072 T.) rechts zur Seite lassend, in eine kleine, ganz
+horizontale Ebene (Llano de la Toma oder Llano de
+Palmascuchu) gelangten. Die absolute Höhe dieser Ebene
+ist 2280 T. Eine ganz ähnliche Ebene, aber fast zur Hälfte
+kleiner, von kaum 300 T. Breite, Llano de Altarcuchu,
+liegt weiter westlich, ebenfalls dicht an dem Hauptkamm
+oder Rücken des Gebirges. Beide Ebenen, altem See-
+boden ähnlich, bilden das Ende aufsteigender Thäler, und
+sind durch ein Bergjoch getrennt, auf dessen Fortsetzung
+der groteske Gipfel Guaguapichincha emporsteigt. Auf der
+ersten nordöstlicher gelegenen kleinen Ebene von Palmas-
+cuchu genossen wir eines herrlichen Anblickes auf Antisana,
+den sogenannten Vulkan von Ansango, auf Cotopaxi und
+Sinchulahua, alle zur östlichen Cordillere gehörig. Es war
+11 Uhr Morgens, und trotz der Höhe stieg das Thermo-
+meter im Schatten auf 11° R. Guaguapichincha aus der
+Ebene gesehen, erscheint wie eine zertrümmerte hohe Burg.
+Wir glaubten anfangs, daſs diese Burg aus gegliederten
+senkrechten Säulen bestehe, als wir aber an ihr hinauf-
+klimmten, fanden wir ein pechsteinähnliches, schwarzes
+Gestein, das in ganz dünne Schichten gespalten war. Die
+Schichten hatten oft nur 2 bis 3 Zoll Mächtigkeit; ei-
+nige Gruppen waren 12 bis 14 Zoll dick, alle fielen sehr
+regelmäſsig mit 85° gegen Norden. Ihr Streichen war
+hor. 6,4 unseres deutschen Gruben-Compasses. Quer-
+spalten gaben dem sehr frischen, glänzenden, unverwit-
+terten Gestein, bei der fast seigeren Schichtung, in der
+Ferne einige Aehnlichkeit mit einem Fels von Porphyr-
+schiefer. Ich nannte das Gestein damals pechsteinartigen
+Trapp-Porphyr. Wo ich Hornblende in dem Gewebe
+vermuthet hatte, erkannte Leopold von Buch, der
+meine damals etwas reichhaltigeren Sammlungen bald nach
+meiner Rückkunft unter der Lupe sorgfältig untersuchte,
+
+deutlich Augitkrystalle. Er fand diese auch in den vul-
+kanischen Gesteinen des Chimborazo. Nach einer neue-
+ren Untersuchung meines Freundes Gustav Rose ent-
+hält die schwarze pechsteinartige Grundmasse von Gua-
+guapichincha in 2378 T. Höhe, auſser dem Augit, auch
+Labrador, nicht Feldspath, nicht Albit, nicht Hornblende.
+Der Glanz des Gesteins ist geringer als beim eigentlichen
+Pechstein; die Grundmasse ist nur schimmernd, an den
+Kanten schwach durchscheinend und uneben im Bruch.
+Vor dem Löthrohr sah sie Gustav Rose (schwierig
+und nur an den Kanten) zu einem weiſsen Glase schmel-
+zen. Der Labrador findet sich daran in Zwillingskrystal-
+len mit einspringenden Winkeln. Die Krystalle sind weiſs,
+stark durchscheinend, auf dem Bruche stark perlmutter-
+glänzend. Sie erscheinen nur klein und schmal, auf den
+Spaltungsflächen mit den einspringenden Winkeln etwa
+zwei Linien lang, und sind in der Grundmasse sehr häufig
+zerstreut. Die Augitkrystalle sind schwärzlichgrün, nur
+klein und sehr sparsam eingewachsen. Wir haben also am
+Pichincha wieder, wie am Aetna, ein Dolerit-Gestein mit
+vorwaltendem Labrador. Die Umrisse des Guaguachincha
+sind wunderbar zackig, was bei vielem schwarzen vulkani-
+schen Gestein der Andes bemerkt wird. Gegen Südwesten
+sahen wir Zapfen und Zacken, die, bei kaum 10 Zoll
+Dicke, wohl 8 bis 9 Fuſs Höhe hatten, und senkrecht
+aufstiegen. Die Zeichnung, die ich bei 80maliger Vergrö-
+ſserung von dem Umriſs des Guaguapichincha (aus der
+Ebene von Chillo, also in einer Entfernung von 13326 T.)
+mit Sorgfalt gemacht habe, lehrt, daſs Guaguapichincha wohl
+das acutum et lapideum cacumen der Jesuiten-Inschrift
+von La Condamine ist. Die oberste Spitze ist thurm-
+artig abgestumpft.
+Wir hatten im Hinaufsteigen durch die enge Schlucht,
+die nach der kleinen Ebene Palsmascuchu an den Fuſs
+des Guaguapichincha führt, schon unterhalb dem Signal-
+
+Kreuze, etwa in 1800 T. Höhe, den nackten Felsen hie
+und da mit Bimsstein bedeckt gefunden. Diese Lagen
+Bimsstein wurden häufiger, je höher wir stiegen. Es
+wurde uns auch bald auffallend, daſs der Bimsstein an
+dem grotesken Gipfel von Guaguapichincha sich mehr an
+dem westlichen und südwestlichen Abhange (also nach
+der Seite des Craters von Rucupichincha hin), denn in
+entgegengesetzter Richtung fand. Es contrastirte sonder-
+bar seine weiſse, bisweilen gelbliche Farbe mit der
+Schwärze des Augit-Gesteins.
+Die Eingebornen, die uns zu Führern dienten, ge-
+standen uns bald selbst, daſs sie nie bis zu dem Ge-
+birgskamme gelangt wären: sie wuſsten keinen anderen
+Rath, um zu dem dritten Gipfel, Pico de los Ladrillos,
+und so dem Crater näher, zu gelangen, als uns erst in
+die Ebene von Palmascuchu, und dann (das steile Berg-
+joch von Loma Gorda, das zwei benachbarte und ziem-
+lich parallele Spalten trennt, überschreitend) in die Ne-
+ben-Schlucht von Altar- und Verdecuchu hinabsteigen zu
+lassen. Ein Blick auf die Karte wird die sonderbare,
+aber doch eigentlich einförmige Structur des Berges er-
+läutern. Viele wasserleere Thäler (eigentlich Spalten)
+ziehen sich vom Kamm gegen die Hochebene von Quito
+herab. Es sind die Spalten von Cundurguachana, wel-
+chen, wie wir bald erwähnen werden, eine gewisse Oeff-
+nung bei Guapulo, dem Pichincha gegenüber, entspricht;
+die Quebrada, die nach Palmascuchu führt; dann Verde-
+cuchu, und das breitere Thal von Yuyucha; endlich eine
+fünfte Schlucht, welche aus der bimssteinreichen Ebene am
+Fuſs des Rucupichincha in das Thal von Lloa Chiquito führt.
+Die Ausmündungen dieser engen Schluchten sind so gele-
+gen, daſs groſse Wasserfluthen, die der schmelzende Schnee
+bei jedem vulkanischen Ausbruch erregt, von der Stadt Quito
+abgelenkt werden, und nach Lloa und in die Ebene der
+Turubamba gelangen. Nach den Ansichten der neueren
+
+Geognosie darf man auf dieses Phänomen der Spalten
+von Pichincha wohl einige Wichtigkeit legen. Ihre Ent-
+stehung hängt mit der Hebung des Berges zusammen, sie
+sind nicht durch Wasser eingefurcht, können aber spä-
+ter Wasserbecken schmelzenden Schnees eingeschlossen
+haben, da, wo sie durch Querdämme getrennt waren. In
+der That glaube ich, als wir von der kleinen Ebene von
+Verdecuchu (2173 T.) in die Ebene von Altarcuchu
+(2256 T.) hinaufstiegen, diese stufenweise Lage von Bek-
+ken ehemaliger kleiner Alpenseen, dem Gebirgsrücken
+nahe, deutlich erkannt zu haben.
+Statt auf dem mit Bimsstein ganz überschütteten
+schmalen Kamme, der Guaguapichincha mit dem Picacho de
+los Ladrillos (dem Ziegelberge) verbindet, zu diesem letz-
+teren zu gelangen, lieſsen uns die Indianer aus dem von
+fast senkrecht abgestürzten Felswänden umgebenen Becken
+von Altarcuchu auf den Ziegelberg selbst steigen. Die re-
+lative senkrechte Höhe betrug nur 900 Fuſs. Der Gipfel
+des Ziegelberges ist ein fast ganz mit Bimsstein bedeckter Ke-
+gel. Dieſs Ersteigen erinnerte uns an den Aschenkegel
+(Pan de azucar) des Pics von Teneriffa. Ein Kranz von
+schwarzem pechsteinartigen Gestein, in dünne senkrechte
+Schichten gespalten, hat den Namen Pico de los La-
+drillos veranlaſst. Die Eingebornen nennen es ein Ge-
+mäuer. Die Aehnlichkeit mit dünnen Basaltsäulen ist,
+von fern gesehen, sehr groſs. Dieser Kranz von Dolerit-
+Gestein ist übrigens durch eine sonderbare Schicht von
+Bimsstein, die inselförmig darin liegt, unterbrochen. Ich
+habe die Ansicht des Kegels zweimal gezeichnet, einmal
+ganz nahe in einer Entfernung von 500 T., und dann durch
+das Fernrohr von Chillo aus. Beide Skizzen sind sehr über-
+einstimmend, und der inselförmige Bimssteinflecken hat mich
+oft davor gesichert, nicht einen Gipfel mit dem andern, bei
+Winkelmessungen, zu verwechseln. Wir fanden die Höhe
+des Pico de los Ladrillos 2402 T. Es war auf demselben
+Raum genug, um ein Graphometer von Ramsden auf sein
+
+Gestell zu schrauben, und mittelst des Sextanten, zur Be-
+gründung der Karte des Vulkans und zur Bestimmung
+der relativen Lage seiner einzelnen Kuppen gegen die be-
+nachbarten Schneeberge, die nöthigen Winkel zu messen.
+Die Kälte war sehr empfindlich, gegen 3° R. Einzelne
+Schneemassen bedeckten den Abhang. In Westsüdwe-
+sten erblickten wir nun in seiner vollen Pracht, aber
+leider durch Abgründe von uns getrennt, den ganz mit
+Schnee bedeckten Rucupichincha. Wo der Crater sich
+geöffnet, blieb uns damals noch unbekannt, denn seit
+dem Junius 1742 war Niemand an seinen Rand gelangt.
+Man wuſste nur noch, daſs er sich gegen das Südmeer
+hin öffne.
+Nach eben dieser Seite hin genieſst man von dem Gi-
+pfel des Pics de los Ladrillos einen der wundervollsten
+Anblicke, die sich mir je auf allen meinen Gebirgsreisen
+dargeboten haben. Der südwestliche Absturz des Pichin-
+cha ist überaus jäh. Auch dort ist derselbe in parallele,
+auf den Kamm senkrecht zulaufende Spalten getheilt. Wir
+erfuhren, bei anderen Excursionen, nur die Namen zweier
+dieser Thal-Klüfte, der Quebrada de Nina Urcu, und,
+dem Rucupichincha näher, die Quebrada de las minas
+de Melizaldi. Auch in diesen hohen Einöden, mitten im
+vulkanischen Gestein, hat man bald nach Erzen, bald
+nach vergrabenen Schätzen geschürft. Den Vordergrund,
+nach dem unteren Theile des Abhanges zu, bildet die
+Waldvegetation von los Yumbos, die, fast undurch-
+dringlich, sich bis an die Meeresküste erstreckt und
+die weite heiſse Ebene erfüllt. Um zu untersuchen,
+welcher Theil des Littorals dem Vulkan am nächsten
+liegt, kann man bis jetzt nur zu den Aufnahmen von
+Malaspina, Espinosa und Bauza seine Zuflucht neh-
+men. Die Expedition der Descubierta und Atrevida
+ist der Küste, von Guayaquil an bis zum Vorgebirge
+Guasacama, in einer Nähe von 15 bis 16 Seemeilen
+(60 auf einen Grad) gefolgt. Der Irrthum von ¾ Län-
+gengrad, die meine Beobachtungen für die Stadt Quito
+
+haben kennen gelehrt, und die ebenfalls viel zu öst-
+liche Lage, welche Malaspina und alle späteren See-
+fahrer und Geographen dem Hafen Guayaquil geben, ha-
+ben natürlich einen wichtigen Einfluſs auf die Bestim-
+mung der Entfernung, in der die Küste der Südsee dem
+Vulkan am nächsten gelegen ist. Da die chronometri-
+schen Längen von Malaspina auf Differenzen mit dem
+Meridian von Guayaquil beruhen, so bedurften sie einer
+Correction von 18 Bogenminuten, woraus, wenn ich Pi-
+chincha auf das nahe Quito beziehe, und diesem seine
+wahre Länge von 81° 4′ gebe, folgt, daſs die dem Auge
+nächste Küste der Südsee in einer Entfernung von 88 Bogen-
+minuten oder 22 geogr. Meilen liegt. Dieſs ist unmittel-
+bar westlich vom Vulkane die Entfernung der Mündung des
+Rio de Palmar wie gegen Nordwesten die Entfernung des
+kleinen Busen de las Sardinas und San Mateo, nahe beim
+Fluſs Esmeraldas. In der übrigens mit Recht sehr belobten
+Karte der Provinz Quito von La Condamine und Mal-
+donado sind leider die Küsten so falsch verzeichnet, daſs
+die zuerst genannte Entfernung, gegen den Rio Esmaraldas
+hin, um mehr als 30 Bogenminuten falsch ist. Die Krüm-
+mung der Erde erlaubt für die Höhe des Pichincha ei-
+nen Gesichtskreis von 2° 13′ Halbmesser, ohne Refraction;
+mit dieser, wie sie unter dem Aequator gewöhnlich ist,
+etwa 2° 25′. Es bleibt also kein Zweifel übrig, daſs man
+von dem Kamm des Vulkans weit in das Meer hineinsehen
+kann. Der Meerhorizont, welcher sich bekanntlich bis zur
+Höhe des Auges erhebt, so daſs alle näheren Gegenstände
+auf der Meeresfläche projicirt erscheinen, liegt für Pichincha
+noch 56 Bogenminuten oder 14 geogr. Meilen jenseits des
+Littorals. Die dichten Urwälder der Yumbos und der
+ehemaligen, von vielen Strömen durchschnittenen Gover-
+nacion de Esmaraldas, ergieſsen eine ungeheure Masse
+von Wasserdämpfen in die Atmosphäre. Daher fanden
+wir, als wir auf den Kamm des Gebirges gelangt waren,
+gegen SO., nach der Hochebene von Quito zu, den
+
+reinsten wolkenleersten Himmel (das Saussuresche Cya-
+nometer zeigte 37°), während über der vegetationsrei-
+chen Fläche gegen Westen dickes Gewölk hing. In
+diesem Gewölk war eine einzige Oeffnung, und durch
+diese erblickten wir eine weite bläuliche Fläche. War
+es eine der dünnen Wolkenschichten, die ich über dem
+Ocean ausgebreitet am frühen Morgen auf dem Pic von
+Teneriffa und auf mehreren Gipfeln der Cordilleren ge-
+sehen, und deren obere Fläche oft ganz ohne alle Un-
+ebenheiten ist, oder war es (wie meine Begleiter behaup-
+teten, und die Farbe anzudeuten schien) die Südsee selbst?
+Ich wage nicht zu entscheiden. Wenn der Meerhorizont
+über zwei Grad entfernt liegt, ist die Masse des von dem
+Wasser reflectirten Lichts so gering, daſs durch den langen
+Weg, bis zu dem Gipfel eines Berges, der auch nur 15000
+Fuſs Höhe hat, der gröſsere Theil durch Absorption in der
+Atmosphäre verloren geht. Dann scheint die Gränze des
+Gesichtskreises nicht mehr die Luft selbst, auf einer Was-
+serlinie ruhend, zu seyn, sondern man sieht in das Leere,
+als wäre man in einem Luftball, zu welchem, nach Gay-
+Lussac's Erfahrung, Schallwellen höher als schwaches
+vom Horizont reflectirtes Erdenlicht gelangen.
+Bei der sehr niedrigen Temperatur von 3° (in un-
+gefähr gleicher Höhe und bei einer südlichen Breite von
+0° 11′ haben, in ihrer Hütte, die französischen Astrono-
+men das Reaumur'sche Thermometer bei Nacht bis fast
+5° unter den Gefrierpunkt sinken sehen) stand das De-
+luc'sche Fischbein-Hygrometer zwischen 12 und 1 Uhr
+im Schatten 32°. Diese groſse Trockenheit erhielt sich
+zu meinem Erstaunen auch dann, wenn wir kurz vorher
+in leichten Nebel, vorübergehend, gehüllt gewesen waren.
+Das Hygrometer stieg dann nicht über 34°. Die elek-
+trische Spannung der Atmosphäre bot eine sonderbare
+Erscheinung dar: so lange wir nicht von Nebel umgeben
+waren, zeigte ein Volta'sches Elektrometer mit einem
+aufgeschrobenen metallischen Leiter, also 8 Fuſs hoch
+
+über dem Felsen, 3 Linien positiver Elektricität. Es war
+unnöthig die Spitze mit rauchendem Schwamme zu be-
+waffnen. So wie wir aber in eine Nebelschicht traten,
+wurde plötzlich die Elektricität negativ, etwa eine Li-
+nie, und ging dann abwechselnd während des Nebels vom
+negativen zum positiven über. Es war also wie ein klei-
+ner, sonst unbemerkbarer Gewitterproceſs in den Dunst-
+bläschen, die wahrscheinlich in abgesonderten Schichten
+gelagert waren.
+Von dem Pico de los Ladrillos, auf dem wir stan-
+den, geht ein schmaler Felskamm, ganz mit Bimsstein
+überschüttet, zu der etwas niedrigeren Neben-Kuppe,
+Tablahuma, einem vollkommenen Kegel. Der horizon-
+tale Kamm liegt 46 T. niedriger als der Ziegelberg, 34 T.
+niedriger als Tablahuma. Wo das Gestein sichtbar wird,
+ist es wieder dünngeschichtet, stark einfallend, dem Por-
+phyrschiefer durch seine Absonderung ähnlich. Ich hatte
+mir zu meiner Reise von dem geschickten Mechaniker Paul
+in Genf, auſser dem ziemlich unvollkommenen Cyanome-
+ter, den von Saussure gebrauchten sehr schönen Appa-
+rat zur Bestimmung des Siedpunktes auf groſsen Berghö-
+hen anfertigen lassen. Ich benutzte das Bouilloire thermo-
+scopique nicht, wie nur zu oft von neueren Reisenden in
+Klein-Asien, Persien und der Bucharei geschehen ist, um
+Höhen nach einer schon 1739 von Le Monnier ausge-
+führten Methode zu bestimmen (der Fehler eines Fah-
+renheitschen Grades in der Bestimmung des beobachteten
+Siedpunktes kann einen Fehler von 340 Fuſs Höhe nach
+sich ziehen); ich beobachtete vielmehr den Stand des Ba-
+rometers, die Luft- und Quecksilbertemperatur und den
+Siedgrad des Wassers so oft ich konnte gleichzeitig, um
+Thatsachen zur Berichtigung der damals noch so schwan-
+kenden Deluc'schen Theorie von dem Siedpunkte zu sam-
+meln. Als der Apparat eben aufgestellt war, entdeckten
+wir mit Bedauern, daſs der Indianer, der das gewöhnliche
+Feuerzeug trug, die Anhöhe noch nicht erreicht hatte. Glück-
+licherweise war heller Sonnenschein. Wir wuſsten, daſs
+
+eine wollige, von uns zuerst beschriebene Alpenpflanze
+aus der Familie der Compositen, eine Pflanze, die erst
+in 13500 Fuſs zu wachsen anfängt, Culcitium rufescens,
+sehr leicht entzündliche, stets trockne Materie (yesca) dar-
+bietet. Dieser Frailejon von Pichincha ist nicht mit dem
+gleichnamigen und eben so wolligen Frailejon von Neu-
+Granada, einer Espeletia, zu verwechseln. Wir schroben
+das Objectiv aus einem groſsen Dollond'schen Fern-
+rohr ab und zündeten die Blattwolle des Culcitiums, das
+sich mit der Oberhaut wie ein Handschuh abziehen läſst,
+durch die Sonnenstrahlen an. Das Gefäſs mit Schneewas-
+ser gefüllt, gab den Siedpunkt zu 187°,2 Fahr., etwas
+unter 69°,0 R. an. Das Barometer zeigte ganz in der
+Nähe, auf den Nullpunkt reducirt, 16 Zoll 4,64 Linien
+(altes französisches Maaſs). Professor Poggendorf fin-
+det, daſs meine Beobachtungen des Siedpunkts, nach einer
+auf Gay-Lussac's Versuchen gegründeten Tafel von
+August, entsprechen 199,4 Par. Linien, nach der auf
+Dalton's Versuchen gegründeten Tafel von Biot etwa
+anderthalb Linien mehr, 200,92 Par. Linien (die Queck-
+silbersäulen immer auf den Gefrierpunkt reducirt). Ich
+las, durch unmittelbare Beobachtung, auf dem Felskamme,
+der den Ziegelberg mit der Kuppe Tablahuma verbindet,
+an meinem Barometer 196,64 Par. Lin. (auf 0° reducirt),
+der Gay-Lussac-August'schen Tafel also näher als
+der Dalton-Biot'schen; man vergesse nicht, daſs in
+diesen Beobachtungen ein Grad Fahrenheit schon 4,5 Li-
+nien Barometerhöhe entspricht. Wäre den jetzigen Ta-
+feln und den Elasticitäts-Bestimmungen des Wasserdampfs
+unter 80° R. mehr zu trauen, so würde aus diesen Ver-
+gleichungen folgen, daſs ich den Südpunkt des Schnee-
+wassers in einem Gefäſs, aus dem, nach Saussure's
+Vorschrift, die Dämpfe leicht entweichen könnten, doch
+um einige Bruchtheile zu hoch gefunden habe.
+Der feuerspeiende Gipfel Rucupichincha war noch,
+wie ich schon oben bemerkt, in beträchtlicher Entfernung,
+
+durch eine ungeheure Kluft von uns getrennt. Des We-
+ges unkundig, wäre es unvorsichtig gewesen, da wir nur
+auf drei Stunden Tageshelle rechnen konnten, den Ver-
+such zu wagen, die Kluft, oder vielmehr das groſse Bek-
+ken des Sienega del Vulcan zu umgehen. Ein zufälliger
+Umstand, so unwichtig er auch war, bewog meine Be-
+gleiter auf eine sehr baldige Rückkehr zu dringen. Ich
+war eine Zeit lang allein auf dem Kamm von Tablahuma
+geblieben, um den Versuch des Siedpunkts zu gröſserer
+Befriedigung zu wiederholen. Ermüdung nach zehnstün-
+diger Wanderung zu Fuſs auf steilen Wegen, Kälte und
+dichter Kohlendampf, eine Gluth, über die ich mich, um
+sie genau zu beobachten, unvorsichtig hingebeugt (weil,
+wie bekannt, in Höhen von nur 15 bis 16 Zoll Luftdruck
+die Flammen schwer zusammenzuhalten sind) verursachte
+mir Schwindel und Ohnmacht. Ich habe nie, bei gröſse-
+rer Anstrengung und viele tausend Fuſs höher, vorher
+und nachher etwas Aehnliches erfahren. Der Kohlen-
+dampf wirkte gewiſs mehr, als die unbeträchtliche Höhe
+von 2356 T. Meine Begleiter, die auf dem östlichen
+Abhange standen, erkannten bald den Unfall und eilten
+mich aufzurichten, und durch etwas Wein zu stärken.
+Wir stiegen nun durch das Thal von Yuyucha langsam
+herab, und wurden, auf dem Rückwege, durch den An-
+blick des vom Monde herrlich erleuchteten Vulkans Co-
+topaxi erfreut. Unter allen Schneebergen ist es der, wel-
+cher (vielleicht wegen seiner vollkommenen Kegelform
+und wegen des gänzlichen Mangels an Unebenheiten der
+Oberfläche) am häufigsten ganz wolkenfrei bleibt. Wir
+gelangten schon um 7 Uhr Abends nach Quito.
+Die Gebirgsart des Pichincha ist in der unteren Region
+von der der oberen, den Bestandtheilen nach wahrscheinlich
+wenig verschieden, aber das minder feinkörnige Gemenge
+hat ein verschiedenes Ansehen. Ein Steinbruch (Can-
+tera) nahe bei dem Panecillo (Javirac), einer freistehen-
+den rundlichen Kuppe, unter der die Incas einen Stol-
+
+len (Durchgang) nach Turubamba versucht haben, ist geo-
+gnostisch von vielem Interesse. Das Gestein wird dort
+von dem Volke Sandstein genannt; es ist ungeschichtet,
+meist grünlichgrau, in einzelnen Massen röthlich und mit
+Blättchen schwarzen Glimmers sparsam gemengt. Ich hatte
+es auf der Reise einen feinkörnigen Grünsteinporphyr ge-
+nannt. Nach Gustav Rose's genauer und mehr wis-
+senschaftlicher Bestimmung ist es ebenfalls ein Doleritge-
+stein voll kleiner Poren. In der Grundmasse liegen
+weiſse Krystalle von Labrador mit deutlich einspringen-
+den Winkeln, und viele schwärzlichgrüne Krystalle von
+Augit. Hornblende ist nicht darin zu finden. In noch
+tieferem Niveau habe ich, in dem Boden der Stadt Quito
+selbst, bei der Kirche San Roque, in einer Ausgrabung
+von 15 Fuſs Tiefe, in einem Thonlager, 8 bis 10 Zoll
+dicke Streifen von Bimsstein gefunden.
+Am Schluſs dieser ersten Expedition nach dem Vul-
+kan Pichincha, muſs ich noch der vielen scharfkantigen
+Blöcke erwähnen, welche am nordöstlichen Ende des lan-
+gen Berges in der schönen Grasebene von Iñaquito zer-
+streut liegen, einer Ebene, welche durch die daselbst
+1546 zwischen Gonzalo Pizarro und dem Vice-Kö-
+nig Blasco Nuñez Vela gelieferten Schlacht berühmt
+geworden ist. Die Blöcke von ungeheurer Gröſse, scharf-
+kantig und nicht porös, sind dem pechsteinartigen Ge-
+steine von Guaguapichincha sehr ähnlich. Die Einge-
+bornen nennen sie eine Reventazon, ein unbestimmtes
+Wort, mit dem sie die Folge einer vulkanischen Erschüt-
+terung wie auch Ausbruchphänomene bezeichnen. Die
+Blöcke liegen ziemlich reihenweise hinter einander, aber im-
+mer dicht am Fuſs des Vulkans. Der Ort heiſst Rumi-
+pamba. Ich glaube daſs die Blöcke vielleicht bei Erhebung
+des Berges, durch die Spalte Cundurguachana herabgesto-
+ſsen worden sind. Sehr auffallend war mir, daſs in dersel-
+ben Richtung die kleine Hügelkette, welche die Ebene von
+Iñaquito oder Añaquito östlich begränzt, durch eine Spalte,
+die
+
+die einen eigenen Namen (Boca de Nayon) führt, durch-
+brochen ist. Ich finde in meinem Tagebuche die Worte:
+dieselbe Kraft (Ursache), welche an dem Abhange des
+Vulkans das enge Thal Cundurguachana aufgerissen hat,
+wird auch wohl diese Spaltöffnung hervorgebracht ha-
+ben. Die Boca de Nayon, ein natürliches Thor, führt
+in einen kleinen Kessel, dessen Boden 840 Fuſs tiefer
+als die Ebenen der Blöcke liegt. Ein wohlhabendes
+Dorf, Guapulo, dessen schöne Kirche mit Säulen dori-
+scher Ordnung geziert ist, liegt an dem engen Becken.
+Das Ganze gleicht einer offenen Gangkluft, und man
+kann sich kaum der Besorgniſs erwehren, daſs in einem
+Lande, welches so groſsen Revolutionen der Erdoberflä-
+che noch immer ausgesetzt ist, die Bergkluft sich ein-
+mal schlieſsen, und Dorf und Kirche mit dem wunderthä-
+tigsten aller Heiligen-Bilder von Quito spurlos in Schutt
+vergraben werde.
+
+ Poggendorff's Annal. Bd. XXXX. 13
+ 

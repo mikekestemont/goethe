@@ -1,0 +1,2117 @@
+
+
+
+
+
+
+
+
+Über
+die Erhaltung der Kraft,
+eine physikalische Abhandlung,
+vorgetragen in der Sitzung der physikalischen Gesellschaft zu Berlin
+am 23sten Juli 1847
+von
+Dr. H. Helmholtz.
+ Berlin,
+Druck und Verlag von G. Reimer.
+1847.
+
+
+Inhalt.
+ Seite
+Einleitung 1
+I. Das Princip von der Erhaltung der lebendigen Kraft 7
+II. Das Princip von der Erhaltung der Kraft 13
+III. Die Anwendung des Princips in den mechanischen Theo-
+remen 20
+IV. Das Kraftäquivalent der Wärme 25
+V. Das Kraftäquivalent der electrischen Vorgänge 37
+VI. Kraftäquivalent des Magnetismus und Electromagnetismus 60
+
+
+
+
+ Einleitung.
+ Vorliegende Abhandlung musste ihrem Hauptinhalte nach
+hauptsächlich für Physiker bestimmt werden, ich habe es
+daher vorgezogen, die Grundlagen derselben unabhängig
+von einer philosophischen Begründung rein in der Form
+einer physikalischen Voraussetzung hinzustellen, deren Fol-
+gerungen zu entwickeln, und dieselben in den verschiedenen
+Zweigen der Physik mit den erfahrungsmässigen Gesetzen
+der Naturerscheinungen zu vergleichen. Die Herleitung der
+aufgestellten Sätze kann von zwei Ausgangspuncten ange-
+griffen werden, entweder von dem Satze, dass es nicht
+möglich sein könne, durch die Wirkungen irgend einer Com-
+bination von Naturkörpern auf einander in das Unbegrenzte
+Arbeitskraft zu gewinnen, oder von der Annahme, dass
+alle Wirkungen in der Natur zurückzuführen seien auf an-
+ziehende und abstossende Kräfte, deren Intensität nur von
+der Entfernung der auf einander wirkenden Puncte abhängt.
+Dass beide Sätze identisch sind, ist im Anfange der Abhand-
+lung selbst gezeigt worden. Indessen haben dieselben noch
+eine wesentlichere Bedeutung für den letzten und eigent-
+1
+
+lichen Zweck der physikalischen Naturwissenschaften über-
+haupt, welchen ich in dieser abgesonderten EnleitungEinleitung dar-
+zulegen versuchen werde.
+Aufgabe der genannten Wissenschaften ist es einmal,
+die Gesetze zu suchen, durch welche die einzelnen Vor-
+gänge in der Natur auf allgemeine Regeln zurückgeleitet,
+und aus den letzteren wieder bestimmt werden können.
+Diese Regeln, z. B. das Gesetz der Brechung oder Zurück-
+werfung des Lichts, das von Mariotte und Gay Lussac
+für das Volum der Gasarten, sind offenbar nichts als allge-
+meine Gattungsbegriffe, durch welche sämmtliche dahin ge-
+hörige Erscheinungen umfasst werden. Die Aufsuchung
+derselben ist das Geschäft des experimentellen Theils un-
+serer Wissenschaften. Der theoretische Theil derselben
+sucht dagegen, die unbekannten Ursachen der Vorgänge
+aus ihren sichtbaren Wirkungen zu finden; er sucht diesel-
+ben zu begreifen nach dem Gesetze der Causalität. Wir
+werden genöthigt und berechtigt zu diesem Geschäfte durch
+den Grundsatz, dass jede Veränderung in der Natur eine
+zureichende Ursache haben müsse. Die nächsten Ursachen,
+welche wir den Naturerscheinungen unterlegen, können
+selbst unveränderlich sein oder veränderlich; im letzteren
+Falle nöthigt uns derselbe Grundsatz nach anderen Ursachen
+wiederum dieser Veränderung zu suchen, und so fort, bis
+wir zuletzt zu letzten Ursachen gekommen sind, welche
+nach einem unveränderlichen Gesetz wirken, welche folg-
+lich zu jeder Zeit unter denselben äusseren Verhältnissen
+dieselbe Wirkung hervorbringen. Das endliche Ziel der
+theoretischen Naturwissenschaften ist also, die letzten un-
+veränderlichen Ursachen der Vorgänge in der Natur aufzu-
+finden. Ob nun wirklich alle Vorgänge auf solche zurück-
+
+zuführen seien, ob also die Natur vollständig begreiflich
+sein müsse, oder ob es Veränderungen in ihr gebe, die sich
+dem Gesetze einer nothwendigen Causalität entziehen, die
+also in das Gebiet einer Spontaneität, Freiheit, fallen, ist
+hier nicht der Ort zu entscheiden; jedenfalls ist es klar,
+dass die Wissenschaft, deren Zweck es ist, die Natur zu
+begreifen, von der VoraussetzuugVoraussetzung ihrer Begreiflichkeit aus-
+gehen müsse, und dieser Voraussetzung gemäss schliessen
+und untersuchen, bis sie vielleicht durch unwiderlegliche
+Facta zur Anerkenntniss ihrer Schranken genöthigt sein sollte.
+Die Wissenschaft betrachtet die Gegenstände der Aussen-
+welt nach zweierlei Abstractionen: einmal ihrem blossen
+Dasein nach, abgesehen von ihren Wirkungen auf andere
+Gegenstände oder unsere Sinnesorgane; als solche bezeichnet
+sie dieselben als Materie. Das Dasein der Materie an sich
+ist uns also ein ruhiges, wirkungsloses; wir unterscheiden
+an ihr die räumliche Vertheilung und die Quantität (Masse),
+welche als ewig unveränderlich gesetzt wird. Qualitative
+Unterschiede dürfen wir der Materie an sich nicht zuschrei-
+ben, denn wenn wir von verschiedenartigen Materien spre-
+chen, so setzen wir ihre Verschiedenheit immer nur in die
+Verschiedenheit ihrer Wirkungen d. h. in ihre Kräfte. Die
+Materie an sich kann deshalb auch keine andere Verände-
+rung eingehen, als eine räumliche, d. h. Bewegung. Die
+Gegenstände der Natur sind aber nicht wirkungslos, ja wir
+kommen überhaupt zu ihrer Kenntniss nur durch die Wir-
+kungen, welche von ihnen aus auf unsere Sinnesorgane er-
+folgen, indem wir aus diesen Wirkungen auf ein Wirkendes
+schliessen. Wenn wir also den Begriff der Materie in der
+Wirklichkeit anwenden wollen, so dürfen wir dies nur, in-
+dem wir durch eine zweite Abstraction demselben wiederum
+1*
+
+hinzufügen, wovon wir vorher abstrahiren wollten, nämlich
+das Vermögen Wirkungen auszuüben, d. h. indem wir der-
+selben Kräfte zuertheilen. Es ist einleuchtend, dass die Be-
+griffe von Materie und Kraft in der Anwendung auf die
+Natur nie getrennt werden dürfen. Eine reine Materie wäre
+für die übrige Natur gleichgültig, weil sie nie eine Verän-
+derung in dieser oder in unseren Sinnesorganen bedingen
+könnte; eine reine Kraft wäre etwas, was dasein sollte und
+doch wieder nicht dasein, weil wir das Daseiende Materie
+nennen. Ebenso fehlerhaft ist es, die Materie für etwas
+Wirkliches, die Kraft für einen blossen Begriff erklären zu
+wollen, dem nichts Wirkliches entspräche; beides sind viel-
+mehr Abstractionen von dem Wirklichen, in ganz gleicher
+Art gebildet; wir können ja die Materie eben nur durch
+ihre Kräfte, nie an sich selbst, wahrnehmen.
+Wir haben oben gesehen, dass die Naturerscheinungen
+auf unveränderliche letzte Ursachen zurückgeführt werden
+sollen; diese Forderung gestaltet sich nun so, dass als letzte
+Ursachen der Zeit nach unveränderliche Kräfte gefunden
+werden sollen. Materien mit unveränderlichen Kräften (un-
+vertilgbaren Qualitäten) haben wir in der Wissenschaft
+(chemische) Elemente genannt. Denken wir uns aber das
+Weltall zerlegt in Elemente mit unveränderlichen Qualitä-
+ten, so sind die einzigen noch möglichen Aenderungen in
+einem solchen System räumliche d. h. Bewegungen, und
+die äusseren Verhältnisse, durch welche die Wirkung der
+Kräfte modificirt wird, können nur noch räumliche sein, also
+die Kräfte nur Bewegungskräfte, abhängig in ihrer Wirkung
+nur von den räumlichen Verhältnissen.
+Also näher bestimmt: Die Naturerscheinungen sollen
+zurückgeführt werden auf Bewegungen von Materien mit
+
+unveränderlichen Bewegungskräften, welche nur von den
+räumlichen Verhältnissen abhängig sind.
+Bewegung ist Aenderung der räumlichen Verhältnisse.
+Räumliche Verhältnisse sind nur möglich gegen abgegrenzte
+Raumgrössen, nicht gegen den unterschiedslosen leeren
+Raum. Bewegung kann deshalb in der Erfahrung nur vor-
+kommen als Aenderung der räumlichen Verhältnisse wenig-
+stens zweier materieller Körper gegen einander; Bewegungs-
+kraft, als ihre Ursache, also auch immer nur erschlossen wer-
+den für das Verhältniss mindestens zweier Körper gegen ein-
+ander, sie ist also zu definiren als das Bestreben zweier Massen,
+ihre gegenseitige Lage zu wechseln. Die Kraft aber, welche
+zwei ganze Massen gegen einander ausüben, muss aufgelöst
+werden in die Kräfte aller ihrer Theile gegen einander; die
+Mechanik geht deshalb zurück auf die Kräfte der materiellen
+Puncte, d. h. der Puncte des mit Materie gefüllten Raums.
+Puncte haben aber keine räumliche Beziehung gegen einander
+als ihre Entfernung, denn die Richtung ihrer Verbindungslinie
+kann nur im Verhältniss gegen mindestens noch zwei an-
+dere Puncte bestimmt werden. Eine Bewegungskraft, welche
+sie gegen einander ausüben, kann deshalb auch nur Ursache
+zur Aenderung ihrer Entfernung sein, d. h. eine anziehende
+oder abstossende. Dies folgt auch sogleich aus dem Satz
+vom zureichenden Grunde. Die Kräfte, welche zwei Mas-
+sen auf einander ausüben, müssen nothwendig ihrer Grösse
+und Richtung nach bestimmt sein, sobald die Lage der
+Massen vollständig gegeben ist. Durch zwei Puncte ist
+aber nur eine einzige Richtung vollständig gegeben, nämlich
+die ihrer Verbindungslinie; folglich müssen die Kräfte, welche
+sie gegen einander ausüben, nach dieser Linie gerichtet sein,
+und ihre Intensität kann nur von der Entfernung abhängen.
+
+Es bestimmt sich also endlich die Aufgabe der physi-
+kalischen Naturwissenschaften dahin, die Naturerscheinungen
+zurückzuführen auf unveränderliche, anziehende und ab-
+stossende Kräfte, deren Intensität von der Entfernung ab-
+hängt. Die Lösbarkeit dieser Aufgabe ist zugleich die Be-
+dingung der vollständigen Begreiflichkeit der Natur. Die
+rechnende Mechanik hat bis jetzt diese Beschränkung für
+den Begriff der Bewegungskraft nicht angenommen, einmal
+weil sie sich über den Ursprung ihrer Grundsätze nicht klar
+war, und dann, weil es ihr darauf ankommt, auch den Er-
+folg zusammengesetzter Bewegungskräfte berechnen zu kön-
+nen in solchen Fällen, wo die Auflösung derselben in ein-
+fache noch nicht gelungen ist. Doch gilt ein grosser Theil
+ihrer allgemeinen Principien der Bewegung zusammenge-
+setzter Systeme von Massen nur für den Fall, dass diesel-
+ben durch unveränderliche anziehende oder abstossende
+Kräfte auf einander wirken; nämlich das Princip der vir-
+tuellen Geschwindigkeiten, das von der Erhaltung der Be-
+wegung des Schwerpuncts, von der Erhaltung der Haupt-
+rotationsebene und des Moments der Rotation freier Sy-
+steme, das von der Erhaltung der lebendigen Kraft. Für
+irdische Verhältnisse finden von diesen Principien haupt-
+sächlich nur das erste und letzte Anwendung, weil sich die
+anderen nur auf vollkommen freie Systeme beziehen, das
+erste ist wieder, wie wir zeigen werden, ein specieller Fall
+des letzteren, welches deshalb als die allgemeinste und wich-
+tigste Folgerung der gemachten Herleitung erscheint.
+Die theoretische Naturwissenschaft wird daher, wenn
+sie nicht auf halbem Wege des Begreifens stehen bleiben
+will, ihre Ansichten mit der aufgestellten Forderung über
+die Natur der einfachen Kräfte und deren Folgerungen in
+
+Einklang setzen müssen. Ihr Geschäft wird vollendet sein,
+wenn einmal die Zurückleitung der Erscheinungen auf ein-
+fache Kräfte vollendet ist, und zugleich nachgewiesen wer-
+den kann, dass die gegebene die einzig mögliche Zurück-
+leitung sei, welche die Erscheinungen zulassen. Dann wäre
+dieselbe als die nothwendige Begriffsform der Naturauffas-
+sung erwiesen, es würde derselben alsdann also auch ob-
+jective Wahrheit zuzuschreiben sein.
+ I.
+Das Princip von der Erhaltung der lebendigen
+Kraft.
+Wir gehen aus von der Annahme, dass es unmöglich sei,
+durch irgend eine Combination von Naturkörpern bewe-
+gende Kraft fortdauernd aus nichts zu erschaffen. Aus die-
+sem Satze haben schon Carnot und Clapeyron Poggendorffs Annalen LIX 446. 566. eine Reihe
+theils bekannter, theils noch nicht experimentell nachge-
+wiesener Gesetze über die specifische und latente Wärme
+der verschiedensten Naturkörper theoretisch hergeleitet.
+Zweck der vorliegenden Abhandlung ist es, ganz in dersel-
+ben Weise das genannte Princip in allen Zweigen der Phy-
+sik durchzuführen, theils um die Anwendbarkeit desselben
+nachzuweisen in allen denjenigen Fällen, wo die Gesetze
+der Erscheinungen schon hinreichend erforscht sind, theils
+um mit seiner Hülfe, unterstützt durch die vielfältige Ana-
+logie der bekannteren Fälle auf die Gesetze der bisher nicht
+
+vollständig untersuchten weiterzuschliessen, und dadurch
+dem Experiment einen Leitfaden an die Hand zu geben.
+Das erwähnte Princip kann folgendermassen dargestellt
+werden: Denken wir uns ein System von Naturkörpern,
+welche in gewissen räumlichen Verhältnissen zu einander
+stehen, und unter dem Einfluss ihrer gegenseitigen Kräfte
+in Bewegung gerathen, bis sie in bestimmte andere Lagen
+gekommen sind: so können wir ihre gewonnenen Geschwin-
+digkeiten als eine gewisse mechanische Arbeit betrachten,
+und in solche verwandeln. Wollen wir nun dieselben Kräfte
+zum zweiten Male wirksam werden lassen, um dieselbe Ar-
+beit noch einmal zu gewinnen, so müssen wir die Körper
+auf irgend eine Weise in die anfänglichen Bedingungen
+durch Anwendung anderer uns zu Gebote stehender Kräfte
+zurückversetzen; wir werden dazu also eine gewisse Arbeits-
+grösse der letzteren wieder verbrauchen. In diesem Falle
+fordert nun unser Princip, dass die Arbeitsgrösse, welche
+gewonnen wird, wenn die Körper des Systems aus der
+Anfangslage in die zweite, und verloren wird, wenn sie aus
+der zweiten in die erste übergehen, stets dieselbe sei, welches
+auch die Art, der Weg oder die Geschwindigkeit dieses
+Uebergangs sein mögen. Denn wäre dieselbe auf irgend
+einem Wege grösser als auf dem andern, so würden wir
+den ersteren zur Gewinnung der Arbeit benutzen können,
+den zweiten zur Zurückführung, zu welcher wir einen Theil
+der so eben gewonnenen Arbeit anwenden könnten, und
+würden so ins Unbestimmte mechanische Kraft gewinnen,
+ein perpetuum mobile gebaut haben, welches nicht nur sich
+selbst in Bewegung erhielte, sondern auch noch im Stande
+wäre, nach aussen Kraft abzugeben.
+Suchen wir nach dem mathematischen Ausdruck dieses
+
+Princips, so finden wir ihn in dem bekannten Gesetz von
+der Erhaltung der lebendigen Kraft. Die Arbeitsgrösse,
+welche gewonnen und verbraucht wird, kann bekanntlich
+ausgedrückt werden als ein auf eine bestimmte Höhe h ge-
+hobenes Gewicht m; sie ist dann mgh, wo g die Intensität
+der Schwerkraft. Um senkrecht frei in die Höhe h emporzu-
+steigen braucht der Körper m die Geschwindigkeit ;
+und erlangt dieselbe wieder beim Herabfallen. Es ist also
+½mv2 = mgh; folglich kann die Hälfte des Products mv2,
+welches in der Mechanik bekanntlich „die Quantität der le-
+bendigen Kraft des Körpers m” genannt wird, auch an die
+Stelle des Maasses der Arbeitsgrösse gesetzt werden. Der
+besseren Uebereinstimmung wegen mit der jetzt gebräuch-
+lichen Art, die Intensität der Kräfte zu messen, schlage ich
+vor, gleich die Grösse ½mv2 als Quantität der lebendigen
+Kraft zu bezeichnen, wodurch sie identisch wird mit dem
+Maasse der Arbeitsgrösse. Für die bisherige Anwendung
+des Begriffs der lebendigen Kraft, der nur auf das bespro-
+chene Princip beschränkt war, ist diese Abänderung ohne
+Bedeutung, während sie uns im Folgenden wesentliche Vor-
+theile gewähren wird. Das Princip von der Erhaltung der
+lebendigen Kraft sagt nun bekanntlich aus: Wenn sich eine
+beliebige Zahl beweglicher Massenpuncte nur unter dem
+Einfluss solcher Kräfte bewegt, welche sie selbst gegen ein-
+ander ausüben, oder welche gegen feste Centren gerichtet
+sind: so ist die Summe der lebendigen Kräfte aller zusam-
+men genommen zu allen Zeitpuncten dieselbe, in welchen
+alle Puncte dieselben relativen Lagen gegen einander und
+gegen die etwa vorhandenen festen Centren einnehmen, wie
+auch ihre Bahnen und Geschwindigkeiten in der Zwischen-
+zeit gewesen sein mögen. Denken wir die lebendigen
+
+Kräfte angewendet, um die Theile des Systems, oder ihnen
+äquivalente Massen auf gewisse Höhen zu heben, so folgt
+aus dem, was wir eben gezeigt haben, dass auch die so
+dargestellten Arbeitsgrössen unter den genannten Bedin-
+gungen gleich sein müssen. Dieses Princip gilt aber nicht
+für alle möglichen Arten von Kräften; es wird in der Me-
+chanik gewöhnlich angeknüpft an das Princip der virtuellen
+Geschwindigkeiten, und dies kann nur für materielle Puncte
+mit anziehenden und abstossenden Kräften bewiesen wer-
+den. Wir wollen hier zunächst zeigen, dass das Princip
+von der Erhaltung der lebendigen Kräfte ganz allein da
+gilt, wo die wirkenden Kräfte sich auflösen lassen in Kräfte
+materieller Puncte, welche in der Richtung der Verbin-
+dungslinie wirken, und deren Intensität nur von der Ent-
+fernung abhängt; in der Mechanik sind solche Kräfte ge-
+wöhnlich Centralkräfte genannt worden. Es folgt daraus
+wiederum auch rückwärts, dass bei allen Wirkungen von
+Naturkörpern aufeinander, wo das besprochene Princip ganz
+allgemein auch auf alle kleinsten Theilchen dieser Körper
+angewendet werden kann, als einfachste Grundkräfte solche
+Centralkräfte anzunehmen seien.
+Betrachten wir zunächst einen materiellen Punct von
+der Masse m, der sich bewegt unter dem Einfluss der Kräfte
+von mehreren zu einem festen System A verbundenen Kör-
+pern, so zeigt uns die Mechanik die Mittel an, für jeden
+einzelnen Zeitpunct die Lage und Geschwindigkeit dieses
+Punctes bestimmen zu können. Wir würden also die Zeit t
+als die Urvariable betrachten, und von ihr abhängen lassen
+die Ordinaten x, y, z von m in Beziehung auf ein gegen
+das System A festbestimmtes Coordinatensystem, seine
+Tangentialgeschwindigkeit q, die den Axen parallelen Compo-
+
+nenten derselben , , , und endlich die
+Componenten der wirkenden Kräfte
+.
+Unser Princip fordert nun, dass ½mq2, also auch q2, stets
+dasselbe sei, wenn m dieselbe Lage gegen A hat, also nicht
+allein als Function der Urvariablen t, sondern auch als
+blosse Function der Coordinaten x, y, z hingestellt werden
+könne, d. h. dass
+. 1)
+Da q2 = u2 + v2 + w2, so ist d(q2) = 2udu + 2vdv + 2wdw.
+Wird statt u hier , statt du aber  aus den oben hin-
+gestellten Werthen gesetzt, eben so für v und w die ana-
+logen Werthe, so erhalten wir
+. 2)
+Da die Gleichungen 1 und 2 für jedes beliebige dx,
+dy, dz zusammen stattfinden müssen, so folgt, dass auch
+einzeln
+,  und .
+Ist aber q2 blosse Function von x, y, z, so folgt hieraus,
+dass auch X, Y und Z, d. h. Richtung und Grösse der
+wirkenden Kraft nur Functionen der Lage von m gegen
+A sei.
+Denken wir uns nun auch statt des Systems A einen
+einzelnen materiellen Punct a, so folgt aus dem oben be-
+
+wiesenen, dass die Richtung und Grösse der Kraft, welche
+von a auf m einwirkt, nur bestimmt werde durch die rela-
+tive Lage von m gegen a. Da nun die Lage von m durch
+seine Beziehung zu dem einzelnen Punct a nur noch der
+Entfernung ma nach bestimmt ist, so würde in diesem Falle
+das Gesetz dahin zu modificiren sein, dass Richtung und
+Grösse der Kraft Functionen dieser Entfernung r sein müs-
+sen. Denken wir uns die Coordinaten auf irgend ein be-
+liebiges Axensystem bezogen, dessen Anfangspunct in a
+liegt, so muss hiernach
+md(q2) = 2 Xdx + 2Ydy + 2Zdz = 0 3)
+sein, so oft
+d(r2) = 2xdx + 2ydy + 2zdz = 0
+ist, d. h. so oft
+.
+Dieser Werth in Gleichung 3 gesetzt, giebt
+ für jedes beliebige dx und dy, also auch einzeln
+,
+d. h. die Resultante muss nach dem Anfangspuncte der Co-
+ordinaten, nach dem wirkenden Puncte a, gerichtet sein.
+Es müssen folglich in Systemen, welche ganz allgemein
+dem Gesetz von der Erhaltung der lebendigen Kraft Folge
+leisten, die einfachen Kräfte der materiellen Puncte Cen-
+tralkräfte sein.
+
+II.
+Das Princip von der Erhaltung der Kraft.
+Wir wollen dem besprochenen Gesetze für die Fälle,
+wo Centralkräfte wirken, nun noch einen allgemeineren
+Ausdruck geben.
+Ist φ die Intensität der Kraft, welche in der Richtung
+von r wirkt, wenn sie anzieht, als positiv, wenn sie ab-
+stösst, als negativ gesetzt, also
+ 1)
+so ist gemäss der Gleichung 2 des vorigen Abschnitts
+; also
+.
+Oder wenn Q und R, q und r zusammengehörige Tan-
+gentialgeschwindigkeiten und Entfernungen vorstellen,
+. 2)
+Betrachten wir diese Gleichung näher, so finden wir auf
+der linken Seite den Unterschied der lebendigen Kräfte,
+welche m bei zwei verschiedenen Entfernungen hat. Um
+die Bedeutung der Grösse  zu finden, denken wir
+uns die Intensitäten von φ, welche zu verschiedenen Puncten
+der Verbindungslinie von m und a gehören, durch recht-
+winklig aufgesetzte Ordinaten dargestellt, so würde die ge-
+nannte Grösse den Flächeninhalt bezeichnen, den die Curve
+
+zwischen den zu R und r gehörigen Ordinaten mit der
+Abscissenaxe einschliesst. Wie man sich nun diesen Flächen-
+raum als die Summe aller der unendlich vielen in ihm lie-
+genden Abscissen vorstellen kann, so ist jene Grösse der
+Inbegriff aller Kraftintensitäten, welche in den zwischen R
+und r liegenden Entfernungen wirken. Nennen wir nun die
+Kräfte, welche den Punct m zu bewegen streben, so lange
+sie eben noch nicht Bewegung bewirkt haben, Spann-
+kräfte, im Gegensatz zu dem, was die Mechanik leben-
+dige Kraft nennt, so würden wir die Grösse  als
+die Summe der Spannkräfte zwischen den Entfernun-
+gen R und r bezeichnen können, und das obige Gesetz
+würde auszusprechen sein: Die Zunahme der lebendigen
+Kraft eines Massenpunctes bei seiner Bewegung unter dem
+Einfluss einer Centralkraft ist gleich der Summe der zu der
+betreffenden Aenderung seiner Entfernung gehörigen Spann-
+kräfte.
+Denken wir uns zwei Puncte unter der Wirkung einer
+anziehenden Kraft stehend, in einer bestimmten Entfernung
+R, so werden sie durch Wirkung der Kraft selbst nach den
+kleineren Entfernungen r hingetrieben, und dabei wird ihre
+Geschwindigkeit, ihre lebendige Kraft, zunehmen; sollen sie
+aber nach grösseren Entfernungen r gelangen, so muss ihre
+lebendige Kraft abnehmen, und endlich ganz verbraucht
+werden; wir können deshalb bei anziehenden Kräften die
+Summe der Spannkräfte für die Entfernungen zwischen
+r = 0 und , als die noch vorhandenen, die
+aber zwischen r = R und r = ∞ als die verbrauchten be-
+zeichnen; die ersteren können unmittelbar, die letzteren erst
+
+nach einem äquivalenten Verlust an lebendiger Kraft in
+Wirksamkeit treten. Umgekehrt ist es bei abstossenden
+Kräften. Befinden sich die Puncte in der Entfernung R,
+so werden sie bei ihrer Entfernung lebendige Kraft gewin-
+nen, und als die vorhandenen Spannkräfte werden die zu
+bezeichnen sein zwischen r = R und r = ∞, als die ver-
+lorenen, die zwischen r = 0 und r = R.
+Um nun unser Gesetz ganz allgemein durchzuführen,
+denken wir uns eine beliebige Anzahl materieller Puncte
+von den Massen m1, m2, m3 u. s. w. allgemein bezeichnet
+mit ma, deren Coordinaten xa, ya, za; die den Axen paral-
+lelen Componenten der darauf wirkenden Kräfte seien Xa,
+Ya, Za, die nach den Axen zerlegten Geschwindigkeiten
+ua, va, wa, die Tangentialgeschwindigkeiten qa; die Entfer-
+nung zwischen ma und mb sei rab, die Centralkraft zwischen
+beiden φab. Es ist nun für einen einzelnen Punct mn ana-
+log der Gleichung 1.
+ wo das Summationszeichen Σ sich auf alle die Glieder be-
+zieht, welche entstehn, wenn man nach einander für den
+Index a alle einzelnen Indices 1, 2, 3 etc. mit Ausnahme
+von n setzt.
+Multipliciren wir die erste Gleichung mit dxn = undt,
+die zweite mit dyn = vndt, die dritte mit dzn = wndt, und
+denken wir uns die drei dann entstehenden Gleichungen
+
+für alle einzelnen Puncte mb aufgestellt, wie es hier für mn
+geschehen ist, und alle addirt, so erhalten wir
+ Die Glieder der Reihe links werden erhalten, wenn man
+erst statt a alle einzelnen Indices 1, 2, 3 u. s. w. setzt, und
+bei jedem einzelnen auch für b alle grösseren und alle klei-
+neren Werthe, als a schon hat. Die Summen zerfallen also
+in zwei Theile, in deren einem a stets grösser ist als b,
+im andern stets kleiner, und es ist klar, dass für jedes
+Glied des einen Theils
+ in dem anderen eines vorkommen muss
+ beide addirt geben
+ Machen wir diese Zusammenziehung in den Summen, ad-
+diren sie alle drei und setzen
+ so erhalten wir
+ 3)
+oder
+
+ 4)
+wenn R und Q sowie r und q zusammengehörige Werthe
+bezeichnen.
+Wir haben hier links wieder die Summe der verbrauch-
+ten Spannkräfte, rechts die der lebendigen Kräfte des gan-
+zen Systems, und wir können das Gesetz jetzt so ausspre-
+chen: In allen Fällen der Bewegung freier materieller Puncte
+unter dem Einfluss ihrer anziehenden und abstossenden Kräfte,
+deren Intensitäten nur von der Entfernung abhängig sind,
+ist der Verlust an Quantität der Spannkraft stets gleich dem
+Gewinn an lebendiger Kraft, und der Gewinn der ersteren
+dem Verlust der letzteren. Es ist also stets die Summe
+der vorhandenen lebendigen und Spannkräfte
+constant. In dieser allgemeinsten Form können wir un-
+ser Gesetz als das Princip von der Erhaltung der
+Kraft bezeichnen.
+In der gegebenen Ableitung des Gesetzes ändert sich
+nichts, wenn ein Theil der Puncte, welche wir mit dem
+durchlaufenden Buchstaben d bezeichnen wollen, fest ge-
+dacht wird, so dass qd constant = 0; es ist dann die Form
+des Gesetzes:
+. 5)
+Es bleibt noch übrig zu bemerken, in welchem Ver-
+hältniss das Princip von der Erhaltung der Kraft zu dem
+allgemeinsten Gesetze der Statik, dem sogenannten Princip
+der virtuellen Geschwindigkeiten steht. Dieses folgt näm-
+lich unmittelbar aus unseren Gleichungen 3 und 5. Soll
+Gleichgewicht stattfinden bei einer bestimmten Lagerung
+der Puncte ma, d. h. soll für den Fall, dass diese Puncte
+Helmholtz üb. Erhalt. d. Kraft. 2
+
+ruhen, also qa = 0, dieser Zustand der Ruhe auch beste-
+hen bleiben, also alle dqa = 0, so folgt aus der Gleichung 3
+, 6)
+oder wenn auch Kräfte von Puncten md ausserhalb des Sy-
+stems einwirken, aus Gleichung 5
+. 7)
+In diesen Gleichungen sind unter dr Aenderungen der
+Entfernung zu verstehen, welche bei beliebigen, durch die
+anderweitigen Bedingungen des Systems zugelassenen, klei-
+nen Verschiebungen der Puncte ma eintreten. Wir haben
+in den früheren Deductionen gesehen, dass eine Vermehrung
+der lebendigen Kraft, also auch ein Uebergang aus Ruhe
+in Bewegung, nur durch einen Verbrauch von Spannkraft
+erzeugt werden kann; die letzten Gleichungen sagen dem
+entsprechend aus, dass unter solchen Bedingungen, wo
+durch keine einzige der möglichen Bewegungsrichtungen in
+dem ersten Augenblicke Spannkraft verbraucht wird, das
+System, wenn es einmal in Ruhe ist, auch in Ruhe blei-
+ben muss.
+Dass aus den hingestellten Gleichungen sämmtliche Ge-
+setze der Statik hergeleitet werden können, ist bekannt.
+Die für die Natur der wirkenden Kräfte wichtigste Folge-
+rung ist diese: Denken wir uns statt der beliebigen kleinen
+Verschiebungen der Puncte m solche gesetzt, wie sie statt-
+finden könnten, wenn das System in sich fest verbunden
+wäre, so dass in Gleichung 7 alle drab = 0, so folgt einzeln
+ und
+.
+Dann müssen also sowohl die äussern, wie die inneren Kräfte
+für sich der Gleichgewichtsbedingung genügen. Wird dem-
+nach ein beliebiges System von Naturkörpern durch äussere
+
+Kräfte in eine bestimmte Gleichgewichtslage gebracht, so
+wird das Gleichgewicht nicht aufgehoben, 1) wenn wir die
+einzelnen Puncte des Systems in ihrer jetzigen Lage unter
+sich fest verbunden denken, und 2) wenn wir dann die
+Kräfte wegnehmen, welche dieselben gegen einander aus-
+üben. Daraus folgt nun aber weiter: Werden die Kräfte,
+welche zwei Massenpuncte aufeinander ausüben, durch zwei
+an dieselben angebrachte äussere Kräfte in Gleichgewicht
+gesetzt, so müssen sich diese auch das Gleichgewicht hal-
+ten, wenn statt der Kräfte der Puncte gegeneinander eine
+feste Verbindung derselben substituirt wird. Kräfte, welche
+zwei Puncte einer festen geraden Linie angreifen, halten
+sich aber nur im Gleichgewicht, wenn sie in dieser Linie
+selbst liegen, gleich und entgegengesetzt gerichtet sind. Es
+folgt also auch für die Kräfte der Puncte selbst, welche
+den äusseren gleich und entgegengesetzt sind, dass diesel-
+ben in der Richtung der verbindenden Linie liegen, also
+anziehende oder abstossende sein müssen.
+Wir können die aufgestellten Sätze folgendermaassen
+zusammenfassen:
+1) So oft Naturkörper vermöge anziehender oder ab-
+stossender Kräfte, welche von der Zeit und Geschwindig-
+keit unabhängig sind, auf einander einwirken, muss die
+Summe ihrer lebendigen und Spannkräfte eine constante
+sein; das Maximum der zu gewinnenden Arbeitsgrösse also
+ein bestimmtes, endliches.
+2) Kommen dagegen in den Naturkörpern auch Kräfte
+vor, welche von der Zeit und Geschwindigkeit abhängen,
+oder nach anderen Richtungen wirken als der Verbindungs-
+linie je zweier wirksamer materieller Puncte, also z. B. ro-
+tirende, so würden Zusammenstellungen solcher Körper
+2*
+
+möglich sein, in denen entweder in das Unendliche Kraft
+verloren geht, oder gewonnen wird.
+3) Beim Gleichgewicht eines Körpersystems unter der
+Wirkung von Centralkräften müssen sich die innern und die
+äussern Kräfte für sich im Gleichgewicht halten, sobald wir
+die Körper des Systems unter sich unverrückbar verbunden
+denken, und nur das ganze System gegen ausser ihm lie-
+gende Körper beweglich. Ein festes System solcher Kör-
+per wird deshalb nie durch die Wirkung seiner inneren
+Kräfte in Bewegung gesetzt werden können, sondern nur
+durch Einwirkung äusserer Kräfte. Gäbe es dagegen an-
+dere als Centralkräfte, so würden sich feste Verbindungen
+von Naturkörpern herstellen lassen, welche sich von selbst
+bewegten, ohne einer Beziehung zu anderen Körpern zu
+bedürfen.
+III.
+Die Anwendung des Princips in den mecha-
+nischen Theoremen.
+Wir gehen jetzt zu den speciellen Anwendungen des
+Gesetzes von der Constanz der Kraft über. Zuerst haben
+wir diejenigen Fälle kurz zu erwähnen, in denen das Prin-
+cip von der Erhaltung der lebendigen Kraft bisher schon
+benutzt und anerkannt ist.
+1) Alle Bewegungen, welche unter dem Ein-
+fluss der allgemeinen Gravitationskraft vor sich
+gehen, also die der himmlischen und der schweren irdi-
+schen Körper. Bei jenen spricht sich das Gesetz aus in
+der Zunahme ihrer Geschwindigkeit, sobald sie sich in ihrer
+Bahn dem Centralkörper nähern, in der Unveränderlichkeit
+
+ihrer grossen Bahnaxen, ihrer Umlaufs- und Rotationszeit;
+bei diesen in dem bekannten Gesetz, dass die Endgeschwin-
+digkeit des Falls nur von der Fallhöhe, nicht von der Rich-
+tung und Form der durchlaufenen Bahn abhängt, und dass
+diese Geschwindigkeit, wenn sie nicht durch Reibung oder
+unelastischen Stoss vernichtet wird, gerade hinreicht, die
+gefallenen Körper wieder zu derselben Höhe emporzutrei-
+ben, aus der sie herabgefallen sind. Dass die Fallhöhe
+eines bestimmten Gewichts als Maass der Arbeitsgrössen
+unserer Maschinen benutzt wird, ist schon erwähnt worden.
+2) Die Uebertragung der Bewegungen durch
+die incompressibeln festen und flüssigen Körper,
+sobald nicht Reibung oder Stoss unelastischer Stoffe statt-
+findet. Unser allgemeines Princip wird für diese Fälle ge-
+wöhnlich als die Regel ausgesprochen, dass eine durch
+mechanische Potenzen fortgepflanzte und abgeänderte Be-
+wegung stets in demselben Verhältniss an Kraftintensität
+abnimmt, als sie an Geschwindigkeit zunimmt. Denken wir
+uns also durch eine Maschine, in welcher durch irgend ei-
+nen Vorgang gleichmässig Arbeitskraft erzeugt wird, das
+Gewicht m mit der Geschwindigkeit c gehoben, so wird
+durch eine andere mechanische Einrichtung das Gewicht nm
+gehoben werden können, aber nur mit der Geschwindig-
+keit , so dass in beiden Fällen die Quantität der von der
+Maschine in der Zeiteinheit erzeugten Spannkraft durch
+mgc darzustellen ist, wo g die Intensität der Schwerkraft
+darstellt.
+3) Die Bewegungen vollkommen elastischer
+fester und flüssiger Körper. Als Bedingung der voll-
+kommenen Elasticität müssen wir nur der gewöhnlich hin-
+
+gestellten, dass der in seiner Form oder seinem Volumen
+veränderte Körper dieselben vollständig wiedererlange, auch
+noch hinzufügen, dass in seinem Innern keine Reibung der
+Theilchen stattfinde. Bei den Gesetzen dieser Bewegungen
+ist unser Princip am frühesten erkannt, und am häufigsten
+benutzt worden. Als die gewöhnlichsten Fälle der Anwen-
+dung bei den festen Körpern sind zu erwähnen der elasti-
+sche Stoss, dessen Gesetze sich leicht aus unserem Princip
+und dem von der Erhaltung des Schwerpuncts herleiten
+lassen, und die mannigfaltigen elastischen Vibrationen, wel-
+che fortdauern auch ohne neuen Anstoss, bis sie durch die
+Reibung im Innern und die Abgabe der Bewegung an
+äussere Medien vernichtet sind. Bei den flüssigen Körpern,
+sowohl tropfbaren (offenbar auch elastisch, nur mit sehr
+hohem Elasticitätsmodulus und mit einer Gleichgewichtslage
+der Theilchen versehen) als auch gasigen (mit niedrigem
+Elasticitätsmodulus und ohne Gleichgewichtslage) setzen
+sich im Allgemeinen alle Bewegungen bei ihrer Ausbrei-
+tung in Wellenform um. Dazu gehören die Wellen der
+Oberfläche tropfbarer Flüssigkeiten, die Bewegung des
+Schalls, und wahrscheinlich die des Lichts und der strah-
+lenden Wärme.
+Die lebendige Kraft eines einzelnen Theilchens Δm in
+einem von einem Wellenzuge durchzogenen Medium ist
+offenbar zu bestimmen durch die Geschwindigkeit, welche
+dasselbe in der Gleichgewichtslage hat. Die allgemeine
+Wellengleichung bestimmt die Geschwindigkeit u bekannt-
+lich, wenn a2 die Intensität, λ die Wellenlänge, α die
+Fortpflanzungsgeschwindigkeit, x die Abscisse und t die
+Zeit ist, folgendermaassen:
+
+
+Für die Gleichgewichtslage ist u = a, folglich die lebendige
+Kraft des Theilchens Δm während der Wellenbewegung
+½Δma2, proportional der Intensität. Breiten sich Wellen von
+einem Centrum kugelförmig aus, so setzen sie immer grössere
+Massen in Bewegung, folglich muss die Intensität abneh-
+men, wenn die lebendige Kraft dieselbe bleiben soll. Da
+nun die von der Welle umfassten Massen zunehmen wie
+die Quadrate der Entfernung, so folgt das bekannte Gesetz,
+dass die Intensitäten im umgekehrten Verhältnisse abnehmen.
+Die Gesetze der Zurückwerfung, Brechung und Pola-
+risation des Lichts an der Grenze zweier Medien von ver-
+schiedener Wellengeschwindigkeit sind bekanntlich schon
+von Fresnel hergeleitet worden aus der Annahme, dass die
+Bewegung der Grenztheilchen in beiden Mitteln dieselbe
+sei, und aus der Erhaltung der lebendigen Kraft. Bei der
+Interferenz zweier Wellenzüge findet keine Vernichtung der
+lebendigen Kraft statt, sondern nur eine andere Verthei-
+lung. Zwei Wellenzüge von den Intensitäten a2 und b2,
+welche nicht interferiren, geben allen getroffenen Puncten
+die Intensität a2 + b2; interferiren sie, so haben die Maxima
+(a + b)2, um 2ab grösser, die Minima (a — b)2, um eben so
+viel kleiner als a2 + b2.
+Vernichtet wird die lebendige Kraft der elastischen
+Wellen erst bei denjenigen Vorgängen, welche wir als
+Absorption derselben bezeichnen. Die Absorption der Schall-
+wellen finden wir hauptsächlich durch das Gegenstossen
+gegen nachgiebige unelastische Körper, z. B. Vorhänge,
+Decken befördert, dürfen sie also wohl hauptsächlich für
+einen Uebergang der Bewegung an die getroffenen Körper
+und Vernichtung in diesen durch Reibung halten; ob die
+Bewegung auch durch Reibung der Lufttheilchen gegen
+
+einander vernichtet werden könne, möchte noch nicht zu
+entscheiden sein. Die Absorption der Wärmestrahlen wird
+von einer proportionalen Wärmeentwicklung begleitet; in
+wiefern die letztere einem gewissen Kraftäquivalente ent-
+spreche, werden wir im nächsten Abschnitt behandeln. Die
+Erhaltung der Kraft würde stattfinden, wenn so viel Wärme,
+als in dem ausstrahlenden Körper verschwindet, in dem
+bestrahlten wiedererscheint, vorausgesetzt, dass keine Ab-
+leitung stattfinde, und kein Theil der Strahlung anderswo-
+hin gelangt. Das Theorem ist bei den Versuchen über
+Wärmestrahlung bisher wohl vorausgesetzt worden, doch
+sind mir keine Versuche zu seiner Begründung bekannt.
+Bei der Absorption der Lichtstrahlen durch die unvollkom-
+men oder gar nicht durchsichtigen Körper kennen wir
+dreierlei Vorgänge. Zuerst nehmen die phosphorescirenden
+Körper das Licht in solcher Weise in sich auf, dass sie es
+nachher wieder als Licht entlassen können. Zweitens schei-
+nen die meisten, vielleicht alle Lichtstrahlen Wärme zu er-
+regen. Der Annahme von der Identität der wärmenden,
+leuchtenden und chemischen Strahlen des Spectrum sind in
+der neueren Zeit die scheinbaren Hindernisse immer mehr
+aus dem Wege geräumt S. Melloni in Poggd. Ann. Bd. LVII. S. 300. Brücke in Ann.
+Bd. LXV. 593., nur scheint das Wärmeäquiva-
+lent der chemischen und leuchtenden Strahlen ein höchst
+geringes zu sein im Vergleich zu ihrer intensiven Wirkung
+auf das Auge. Sollte sich die Gleichartigkeit dieser ver-
+schieden wirkenden Strahlungen aber nicht bestätigen, so
+würden wir allerdings das Ende der Lichtbewegung für ein
+unbekanntes erklären müssen. In vielen Fällen drittens er-
+
+zeugt das absorbirte Licht chemische Wirkungen. In Be-
+zug auf die Kraftverhältnisse werden hier zweierlei Arten
+solcher Wirkungen unterschieden werden müssen, einmal
+diejenigen, wo es nur den Anstoss zur Thätigkeit der che-
+mischen Verwandtschaft giebt, ähnlich den katalytisch wir-
+kenden Körpern, z. B. die Wirkung auf ein Gemenge von
+Chlor und Wasserstoff; und zweitens diejenigen, wo es den
+chemischen Verwandtschaften entgegenwirkt, z. B. bei der
+Zersetzung der Silbersalze, bei der Einwirkung auf grüne
+Pflanzentheile. Bei den meisten dieser Vorgänge sind aber
+die Resultate der Lichteinwirkung noch so wenig gekannt,
+dass wir über die Grösse der dabei auftretenden Kräfte
+noch gar nicht urtheilen können; bedeutend durch ihre
+Quantität und Intensität scheinen dieselben nur bei der Ein-
+wirkung auf die grünen Pflanzentheile zu sein.
+IV.
+Das Kraftäquivalent der Wärme.
+Diejenigen mechanischen Vorgänge, bei welchen man
+bisher einen absoluten Verlust von Kraft angenommen
+hat, sind:
+1) Der Stoss unelastischer Körper. Derselbe
+ist meist mit einer Formveränderung und Verdichtung der
+gestossenen Körper verbunden, also mit Vermehrung der
+Spannkräfte; dann finden wir bei oft wiederholten Stössen
+der Art eine beträchtliche Wärmeentwicklung z. B. beim
+Hämmern eines Metallstücks; endlich wird ein Theil der
+Bewegung als Schall an die anstossenden festen und luft-
+förmigen Körper abgegeben.
+
+2) Die Reibung, sowohl an den Oberflächen zweier
+sich über einander hinbewegender Körper, als im Innern
+derselben bei Formveränderungen, durch die Verschiebung
+der kleineren Theilchen aneinander hervorgebracht. Auch
+bei der Reibung finden meistens geringe Veränderungen in
+der molecülären Constitution der Körper namentlich im An-
+fang ihres Aneinanderreibens statt; späterhin pflegen sich
+die Oberflächen einander so zu accommodiren, dass diese
+Veränderungen bei fernerer Bewegung als verschwindend
+klein zu setzen sein möchten. In manchen Fällen fehlen
+dieselben wohl ganz, z. B. wenn Flüssigkeiten sich an
+festen Körpern oder unter einander reiben. Ausserdem
+finden aber stets auch thermische und electrische Aende-
+rungen statt.
+Man pflegt in der Mechanik die Reibung als eine Kraft
+darzustellen, welche der vorhandenen Bewegung entgegen
+wirkt, und deren Intensität eine Function der Geschwindig-
+keit ist. Offenbar ist diese Auffassung nur ein zum Behuf
+der Rechnungen gemachter, höchst unvollständiger Ausdruck
+des complicirten Vorgangs, bei welchem die verschiedensten
+Molecülarkräfte in Wechselwirkung treten. Aus jener Auf-
+fassung folgte, dass bei der Reibung lebendige Kraft abso-
+lut verloren ginge, ebenso nahm man es beim elastischen
+Stosse an. Dabei ist aber nicht berücksichtigt worden, dass
+abgesehen von der Vermehrung der Spannkräfte durch die
+Compression der reibenden oder gestossenen Körper, uns
+sowohl die gewonnene Wärme eine Kraft repräsentirt, durch
+welche wir mechanische Wirkungen erzeugen können, als
+auch die meistentheils erzeugte Electricität entweder direct
+durch ihre anziehenden und abstossenden Kräfte, oder in-
+direct dadurch dass sie Wärme entwickelt. Es bliebe also
+
+zu fragen übrig, ob die Summe dieser Kräfte immer der
+verlorenen mechanischen Kraft entspricht. In den Fällen,
+wo die molecülaren Aenderungen und die Electricitätsent-
+wicklung möglichst vermieden sind, würde sich diese Frage
+so stellen, ob für einen gewissen Verlust an mechanischer
+Kraft jedesmal eine bestimmte Quantität Wärme entsteht,
+und inwiefern eine Wärmequantität einem Aequivalent me-
+chanischer Kraft entsprechen kann. Zur Lösung der erste-
+ren Frage sind erst wenige Versuche angestellt. Joule J. P. Joule. On the existence of an equivalent relation between
+heat and the ordinary forms of mechanical power. Phil. mag. XXVII. 205.
+hat die Wärmemengen untersucht, welche bei der Reibung
+des Wassers in engen Röhren und in einem Gefässe ent-
+wickelt werden, wo es durch ein nach Art einer Turbine
+construirtes Rad in Bewegung gesetzt wurde; er hat im
+ersteren Falle gefunden, dass die Wärme, welche 1 Kilogr.
+Wasser um 1°C erwärmt, 452 Kilogr. um ein Meter hebt,
+im zweiten 521 Kilogr. Indessen entsprechen seine Mes-
+sungsmethoden zu wenig der Schwierigkeit der Untersu-
+chung, als dass diese Resultate irgendwie auf Genauigkeit
+Anspruch machen könnten; wahrscheinlich sind diese Zah-
+len zu hoch, weil bei seinem Verfahren wohl leicht Wärme
+für die Beobachtung verloren werden konnte, dagegen der
+nothwendige Verlust der mechanischen Kraft in den übri-
+gen Maschinentheilen von dieser nicht in Abrechnung ge-
+bracht ist.
+Wenden wir uns nun zu der ferneren Frage, in wie
+weit Wärme einem Kraftäquivalent entsprechen könne. Die
+materielle Theorie der Wärme muss nothwendig die Quan-
+tität des Wärmestoffs als constant ansehen; mechanische
+
+Kraft kann er nach ihr nur durch sein Streben sich auszu-
+dehnen erzeugen. Für sie kann das Kraftäquivalent der
+Wärme also auch nur in der Arbeit bestehen, welche die-
+selbe bei ihrem Uebergang aus einer höheren in eine nie-
+dere Temperatur leistet; in diesem Sinne haben Carnot und
+Clapeyron die Aufgabe bearbeitet, und alle Folgerungen aus
+der Annahme eines solchen Aequivalents wenigstens für
+Gase und Dämpfe bestätigt gefunden.
+Um die Reibungswärme zu erklären, muss die mate-
+rielle Theorie entweder annehmen, dass dieselbe von aussen
+zugeleitet sei, nach W. Henry Mem. of the Society of Manchester. T. V. p. 2. London 1802., oder dass dieselbe nach
+Berthallet Statique chimique. T. I. p. 247. durch Compression der Oberflächen und der
+abgeriebenen Theile entstehe. Der ersteren Annahme fehlt
+bisher noch jede Erfahrung, dass in der Umgegend gerie-
+bener Theile eine der oft gewaltigen Wärmemenge ent-
+sprechende Kälte entwickelt werde; die zweite, abgesehen
+davon, dass sie eine ganz unwahrscheinlich grosse Wirkung
+der durch die hydrostatische Wage meist nicht wahrnehm-
+baren Verdichtung annehmen muss, scheitert ganz bei der
+Reibung von Flüssigkeiten, und bei den Versuchen, wo
+Eisenkeile durch Hämmern glühend und weich gemacht,
+Eisstücke durch Reibung geschmolzen werden Humphrey Davy, Essay on heat, light and the combinations
+of light., da doch
+das weichgewordene Eisen und das durch Schmelzung ent-
+standene Wasser nicht in dem comprimirten Zustande ge-
+blieben sein können. Ausserdem beweist uns aber auch die
+Erzeugung von Wärme durch electrische Bewegungen, dass
+
+die Quantität der Wärme in der That absolut vermehrt
+werden könne. Wenn wir auch die Reibungselectricität
+und die voltaische übergehn, weil man annehmen könnte,
+durch irgend eine Verbindung und Beziehung der Electri-
+citäten zum Wärmestoff, werde in diesen Fällen derselbe
+nur von der Ursprungsstelle fortgeführt und in dem er-
+wärmten Leitungsdrath abgesetzt: so bleiben uns noch zwei
+Wege übrig, electrische Spannungen auf rein mechanischem
+Wege hervorzubringen, wobei nirgends Wärme vorhanden
+ist, welche fortgeführt werden könnte, nämlich durch Ver-
+theilung und durch Bewegung von Magneten. Haben wir
+einen positiv electrischen vollkommen isolirten Körper, der
+seine Electricität nicht verlieren kann, so wird ein ange-
+näherter isolirter Leiter freie + E zeigen, wir werden diese
+auf die Innenseite einer Batterie entladen können, den Leiter
+entfernen, worauf er freie — E enthält, welche in die Aussen-
+seite der ersten oder in eine zweite Batterie entladen wird.
+Wir werden durch Wiederholung dieses Verfahrens offen-
+bar eine beliebig grosse Batterie beliebig oft laden, und
+durch ihre Entladung Wärme erzeugen können, ohne dass
+dieselbe irgendwo verschwindet. Dagegen werden wir eine
+gewisse mechanische Kraftgrösse verbraucht haben, weil
+bei jeder Entfernung des negativ geladenen Leiters von dem
+positiven vertheilenden Körper die Anziehung zwischen bei-
+den überwunden werden muss. Im Wesentlichen wird
+dieses Verfahren offenbar ausgeführt bei dem Gebrauche
+des Electrophors zur Ladung einer Leydner Flasche. Der-
+selbe Fall findet bei den magnetelectrischen Maschinen statt;
+so lange Magnet und Anker gegeneinander bewegt werden,
+entstehen electrische Ströme, welche im Schliessungsdrath
+Wärme erzeugen; und indem sie der Bewegung des Ankers
+
+gegen den Magneten fortdauernd entgegenwirken, dafür ei-
+nen gewissen Theil der mechanischen Kraft zerstören. Es
+kann hier offenbar aus den die Maschine constituirenden
+Körpern in das Unendliche Wärme entwickelt werden, ohne
+dass dieselbe irgendwo verschwände. Dass der magnet-
+electrische Strom auch in dem direct unter dem Einfluss
+des Magneten stehenden Theil der Spirale Wärme, und nicht
+Kälte, erzeugt, hat direct durch das Experiment Joule Philos. Magazine. 1844. zu
+beweisen gesucht. Aus diesen Thatsachen folgt nun, dass
+die Quantität der Wärme absolut vermehrt werden könne
+durch mechanische Kräfte, dass deshalb die Wärmeerschei-
+nungen nicht hergeleitet werden können von einem Stoffe,
+welcher durch sein blosses Vorhandensein dieselben bedinge,
+sondern dass sie abzuleiten seien von Veränderungen, von
+Bewegungen, sei es eines eigenthümlichen Stoffes, sei es
+der schon sonst bekannten ponderablen und imponderablen
+Körper, z. B. der Electricitäten oder des Lichtäthers. Das,
+was bisher Quantität der Wärme genannt worden ist, würde
+hiernach der Ausdruck sein erstens für die Quantität der
+lebendigen Kraft der Wärmebewegung und zweitens für die
+Quantität derjenigen Spannkräfte in den Atomen, welche
+bei einer Veränderung ihrer Anordnung eine solche Bewe-
+gung hervorbringen können; der erstere Theil würde dem
+entsprechen, was bisher freie, der zweite dem, was latente
+Wärme genannt ist. Wenn es erlaubt ist, einen Versuch
+zu machen, den Begriff dieser Bewegung noch bestimmter
+zu fassen, so scheint im Allgemeinen eine der Ansicht von
+Ampère sich anschliessende Hypothese dem jetzigen Zustand
+der Wissenschaft am besten zu entsprechen. Denken wir
+
+uns die Körper aus Atomen gebildet, welche selbst aus
+differenten Theilchen bestehen, (chemischen Elementen,
+Electricitäten etc.) so können an einem solchen Atom drei-
+erlei Arten von Bewegungen unterschieden werden, näm-
+lich 1) Verschiebung des Schwerpuncts, 2) Drehung um
+den Schwerpunct, 3) Verschiebungen der Theilchen des
+Atoms gegeneinander. Die beiden ersteren würden durch
+die Kräfte der Nachbaratome ausgeglichen werden, und
+sich deshalb auf diese in Wellenform fortpflanzen, eine
+Fortpflanzungsart, welche wohl der Strahlung, nicht aber
+der Leitung der Wärme entspricht. Bewegungen der
+einzelnen Theile des Atoms gegen einander, würden sich
+durch die innerhalb des Atoms befindlichen Kräfte ausglei-
+chen, und die Nachbaratome nur langsam in Mitbewegung
+setzen können, wie eine schwingende Saite die andere,
+dafür aber selbst eine gleiche Quantität Bewegung verlie-
+ren; diese Art der Fortpflanzung scheint der der geleiteten
+Wärme ähnlich zu sein. Auch ist im Allgemeinen klar,
+dass solche Bewegungen in den Atomen Aenderungen in
+den Molecülarkräften, also Ausdehnung und Aenderung des
+Aggregatzustands, hervorbringen können; welcher Art aber
+diese Bewegungen seien, zu bestimmen, dazu fehlen uns
+alle Anhaltspuncte, auch ist für unseren Zweck die Einsicht
+der Möglichkeit hinreichend, dass die Wärmeerscheinungen
+als Bewegungen gefasst werden können. Die Erhaltung
+der Kraft würde bei dieser Bewegung so weit stattfinden,
+als bisher die Erhaltung der Quantität des Wärmestoffs er-
+kannt ist, nämlich bei allen Erscheinungen der Leitung und
+Strahlung aus einem Körper zu dem andern, bei der Bin-
+dung und Entbindung von Wärme durch Aenderung des
+Aggregatzustandes.
+
+Von den verschiedenen Entstehungsweisen der Wärme
+haben wir die durch Einstrahlung und durch mechanische
+Kräfte besprochen, die durch Electricität werden wir unten
+durchgehen. Es bleibt die Wärmeentwicklung durch che-
+mische Processe. Man hat dieselbe bisher für ein Freiwer-
+den von Wärmestoff erklärt, welcher in den sich verbin-
+denden Körpern latent vorhanden sei. Da man hiernach
+jedem einfachen Körper und jeder chemischen Verbindung,
+die noch weitere Verbindungen höherer Ordnung eingehen
+kann, eine bestimmte Quantität latenter Wärme beilegen
+musste, welche nothwendig mit zu ihrer chemischen Con-
+stitution gehörte: so folgte hieraus das Gesetz, welches man
+auch theilweise in der Erfahrung bewahrheitet hat, dass
+nämlich bei der chemischen Verbindung mehrerer Stoffe zu
+gleichen Producten stets gleich viel Wärme hervorgebracht
+werde, in welcher Ordnung und in welchen Zwischenstufen
+auch die Verbindung vor sich gehen möge Hess in Poggd. Ann. L 392. LVI 598.. Nach un-
+serer Vorstellungsweise würde die bei chemischen Proces-
+sen entstehende Wärme die Quantität der lebendigen Kraft
+sein, welche durch die bestimmte Quantität der chemischen
+Anziehungskräfte hervorgebracht werden kann, und das
+obige Gesetz würde der Ausdruck für das Princip von der
+Erhaltung der Kraft in diesem Falle werden.
+Ebenso wenig, als man die Bedingungen und Gesetze
+der Erzeugung von Wärme untersucht hat, obgleich eine
+solche unzweifelhaft stattfindet, ist dies für das Verschwinden
+derselben geschehen. Bisher kennt man nur die Fälle, wo
+chemische Verbindungen aufgehoben wurden, oder dünnere
+Aggregatzustände eintraten, und dadurch Wärme latent
+
+wurde. Ob bei der Erzeugung mechanischer Kraft Wärme
+verschwinde, was ein nothwendiges Postulat der Erhaltung
+der Kraft sein würde, ist noch niemals gefragt worden.
+Ich kann dafür nur einen Versuch von Joule Philos. Magaz. XXVI 369. anführen,
+der ziemlich zuverlässig zu sein scheint. Derselbe fand
+nämlich, dass die Luft bei dem Ausströmen aus einem Be-
+hälter von 136,5 Cubikzollen, in welchem sie unter 22
+Atmosphären Druck stand, das umgebende Wasser um
+4°,085 F. erkältete, sobald sie in die Atmosphäre ausströmte,
+also deren Widerstand zu überwinden hatte. Dagegen trat
+keine Temperaturveränderung ein, wenn dieselbe in ein
+luftleeres, ebenso grosses Gefäss überströmte, welches in
+demselben Wassergefäss stand, wo sie also keinen Wider-
+stand zu überwinden hatte, und keine mechanische Kraft
+ausübte.
+Wir haben jetzt noch zu untersuchen, in welchem Ver-
+hältniss die Versuche von Clapeyron Poggd. Ann. Bd. LIX 446. 566. und Holtzmann Ueber die Wärme und Elasticität der Gase und Dämpfe.
+Mannheim, 1845. Ein Auszug davon in Poggd. Ann. Ergänzungsbd. II.,
+das Kraftäquivalent der Wärme herzuleiten, zu dem unsri-
+gen stehn. Clapeyron geht aus von der Betrachtung, dass
+die Wärme nur durch ihre Verbreitung aus einem wärme-
+ren Körper in einen anderen kälteren als Mittel zur Erzeu-
+gung mechanischer Kraft benutzt werden könne, und dass
+das Maximum der letzteren gewonnen werden müsse, wenn
+die Ueberleitung der Wärme nur zwischen Körpern gleicher
+Temperatur stattfinde, die Temperaturänderungen aber durch
+Compression und Dilatation der erwärmten Körper bewirkt
+würden. Dieses Maximum müsse aber für alle Naturkörper,
+Helmholtz üb. Erhalt. d. Kraft. 3
+
+welche durch Erwärmung und Erkältung eine mechanische
+Arbeit leisten könnten, dasselbe sein; denn wäre es ver-
+schieden, so würde man den einen Körper, in welchem ein
+gewisses Wärmequantum die grössere Wirkung giebt, zur
+Gewinnung von mechanischer Arbeit benutzen können, und
+einen Theil dieser letztern dann, um mit dem andern Kör-
+per rückwärts die Wärme wieder aus der kältern in die
+wärmere Quelle zurückzubringen, und man würde so in
+das Unendliche mechanische Kraft gewinnen, wobei aber
+stillschweigend vorausgesetzt wird, dass die Quantität der
+Wärme dadurch nicht verändert werde. Analytisch stellt
+er dies Gesetz in folgendem allgemeinen Ausdrucke dar:
+ worin q die Quantität der Wärme, welche ein Körper ent-
+hält, t seine Temperatur, beide ausgedrückt als Functionen
+von v dem Volumen und p dem Druck.  ist die mecha-
+nische Arbeit, welche die Einheit der Wärme (die 1 Kilogr.
+Wasser um 1°C erwärmt) leistet, wenn sie in eine um 1°
+niedrigere Temperatur übergeht. Dieselbe soll für alle
+Naturkörper identisch sein, aber nach der Temperatur ver-
+änderlich. Für Gase wird diese Formel
+.
+Clapeyrons Folgerungen aus der Allgemeingültigkeit dieser
+Formel haben wenigstens für Gase eine grosse Zahl von
+erfahrungsmässigen Analogien für sich. Seine Ableitung
+des Gesetzes kann nur zugegeben werden, wenn die abso-
+lute Quantität der Wärme als unveränderlich betrachtet
+
+wird; übrigens folgt seine speciellere Formel für Gase,
+welche allein durch Vergleichung mit der Erfahrung unter-
+stützt ist, auch aus der Formel von Holtzmann, wie wir
+sogleich zeigen werden. Von der allgemeinen Formel hat
+er nur zu zeigen gesucht, dass das daraus folgende Gesetz
+der Erfahrung wenigstens nicht widerspricht. Dieses Ge-
+setz ist, dass wenn der Druck auf verschiedene Körper,
+genommen bei gleicher Temperatur, um eine kleine Grösse
+erhöht wird, Wärmemengen entwickelt werden, die pro-
+portional sind ihrer Ausdehnbarkeit durch die Wärme. Nur
+auf eine mindestens sehr unwahrscheinliche Folgerung die-
+ses Gesetzes will ich aufmerksam machen. Compression
+des Wassers bei dem Wendepunct seiner Dichtigkeit würde
+nämlich keine Wärme, zwischen diesem und dem Gefrier-
+punct aber Kälte erzeugen.
+Holtzmann geht aus von der Betrachtung, dass eine
+gewisse Wärmemenge, welche in ein Gas eintritt, darin
+entweder eine Temperaturerhöhung oder eine Ausdehnung
+ohne Temperaturerhöhung erzeugen kann. Die durch diese
+Ausdehnung zu leistende Arbeit nahm er als das mecha-
+nische Aequivalent der Wärme, und berechnete aus den
+Schallversuchen von Dulong über das Verhältniss der bei-
+den specifischen Wärmen der Gase für die Wärme, welche
+1 Kilogr. Wasser um 1°C erwärmt, 374 Kilogr. gehoben
+um 1 Meter. Diese Art der Berechnung ist von unseren
+Betrachtungen aus nur zulässig, wenn die ganze lebendige
+Kraft der hinzugetretenen Wärme wirklich als Arbeitskraft
+abgegeben ist, also die Summe der lebendigen und Spann-
+kräfte, d. h. die Quantität der freien und latenten Wärme
+in dem stärker ausgedehnten Gase ganz dieselbe ist, wie
+in dem dichteren von derselben Temperatur. Danach müsste
+3*
+
+ein Gas, welches ohne Leistung einer Arbeit sich ausdehnt,
+seine Temperatur nicht ändern, wie es aus dem oben er-
+wähnten Experiment von Joule wirklich hervorzugehen
+scheint, und die Temperaturerhöhung und Erniedrigung
+bei der Compression und Dilatation unter den gewöhn-
+lichen Umständen würde von einer Erzeugung von Wärme
+durch mechanische Kraft und umgekehrt herrühren. Für
+die Richtigkeit des Gesetzes von Holtzmann spricht die
+grosse Menge der mit der Erfahrung übereinstimmend ge-
+zogenen Folgerungen, namentlich die Herleitung der For-
+mel für die Elasticität des Wasserdampfs bei verschiedenen
+Temperaturen.
+Joule bestimmt aus seinen eigenen Versuchen das Kraft-
+äquivalent, welches Holtzmann aus fremden zu 374 berech-
+net hat, zu 481, 464, 479, während er durch Reibung für
+das Kraftäquivalent der Wärmeeinheit 452 und 521 gefun-
+den hatte.
+Die Formel von Holtzmann ist übereinstimmend mit
+der von Clapeyron für Gase, nur ist darin auch die unbe-
+stimmte Function der Temperatur C gefunden, und dadurch
+wird die vollständige Bestimmung des Integrals möglich
+Die erstere lautet nämlich
+ wo a das Kraftäquivalent der Wärmeeinheit; die von Cla-
+peyron
+.
+Beide sind also übereinstimmend, wenn C =  oder da
+p =  (1 + αt), wo α der Ausdehnungscoefficient, k eine
+
+Constante ist, wenn
+.
+Die von Clapeyron berechneten Werthe von  stim-
+men nun wirklich ziemlich mit dieser Formel, wie aus der
+nachstehenden Zusammenstellung hervorgeht.
+ Die Zahl unter a ist aus der Schallgeschwindigkeit in der
+Luft berechnet, die Reihe b aus den latenten Wärmen des
+Dampfes von Aether, Alkohol, Wasser, Terpenthinöl, c aus
+der Expansivkraft des Wasserdunstes für verschiedene Tem-
+peraturen. Clapeyrons Formel für Gase ist hiernach iden-
+tisch mit der von Holtzmann; ihre Anwendbarkeit auf feste
+und tropfbar flüssige Körper bleibt vorläufig zweifelhaft.
+V.
+Das Kraftäquivalent der electrischen Vorgänge.
+Statische Electricität. Die Maschinenelectricität
+kann uns auf zweierlei Weise Ursache von Krafterzeugung
+werden, einmal indem sie sich mit ihren Trägern bewegt,
+durch ihre anziehende und abstossende Kraft, dann indem
+
+sie sich in den Trägern bewegt, durch Wärmeentwicklung.
+Die ersteren mechanischen Erscheinungen hat man bekannt-
+lich aus den im umgekehrten Verhältnisse des Quadrats der
+Entfernung wirkenden, anziehenden und abstossenden Kräf-
+ten zweier electrischer Fluida hergeleitet, und die Erfah-
+rungen, soweit dieselben mit der Theorie verglichen wer-
+den konnten, mit der Rechnung übereinstimmend gefunden.
+Gemäss unserer anfänglichen Herleitung, muss die Erhal-
+tung der Kraft für solche Kräfte stattfinden. Wir wollen
+deshalb auf die specielleren Gesetze der mechanischen Wir-
+kungen der Electricität nur so weit eingehn, als es uns
+für die Ableitung des Gesetzes der electrischen Wärmeent-
+wicklung nöthig ist.
+Sind e͵ und e͵͵ zwei electrische Massenelemente, deren
+Einheit diejenige ist, welche eine ihr gleiche in der Ent-
+fernung = 1 mit der Kraft = 1 abstösst, werden die ent-
+gegengesetzten Electricitäten durch entgegengesetzte Vor-
+zeichen der Massen bezeichnet, und ist r die Entfernung
+zwischen e͵ und e͵͵, so ist die Intensität ihrer Centralkraft
+.
+Der Gewinn an lebendiger Kraft, indem sie aus der Ent-
+fernung R in die r übergehn, ist:
+.
+Wenn sie aus der Entfernun ∞ in die r übergehn, ist der-
+selbe — . Bezeichnen wir diese letztere Grösse, die
+Summe der bei der Bewegung von ∞ bis r verbrauchten
+Spannkräfte und gewonnenen lebendigen Kräfte gemäss der
+
+Bezeichnung, welche Gauss bei den Magnetismen ange-
+wendet hat, mit dem Namen Potential der beiden electri-
+schen Elemente für die Entfernung r, so ist die Zunahme
+an lebendiger Kraft bei irgend einer Bewegung gleich zu
+setzen dem Ueberschuss des Potentials am Ende des Wegs
+über das am Anfange.
+Bezeichnen wir ebenso die Summe der Potentiale ei-
+nes electrischen Elements gegen sämmtliche Elemente eines
+electrisirten Körpers als das Potential des Elements gegen
+den Körper, und die Summe der Potentiale aller Elemente
+eines electrischen Körpers gegen alle eines andern als das
+Potential der beiden Körper, so wird uns wieder der Ge-
+winn an lebendiger Kraft durch den Unterschied der Po-
+tentiale gegeben, vorausgesetzt, dass die Vertheilung der
+Electricität in den Körpern nicht geändert werde, dass die-
+selben also idioelectrische sind. Aendert sich die Verthei-
+lung, so ändert sich auch die Quantität der electrischen
+Spannkräfte in den Körpern selbst, die gewonnene leben-
+dige Kraft muss also dann eine andere sein.
+Durch alle Methoden des Electrisirens werden gleiche
+Quantitäten positiver und negativer Electricität erzeugt; bei
+der Ausgleichung der Electricitäten zwischen zwei Körpern,
+deren einer A eben so viel positive Electricität enthält, als
+der andere B negative, geht die Hälfte positiver Electrici-
+tät von A nach B, dagegen die Hälfte negativer von B
+nach A. Nennen wir die Potentiale der Körper auf sich
+selbst Wa und Wb, das Potential derselben gegen einan-
+der V, so finden wir die ganze gewonnene lebendige Kraft,
+wenn wir das Potential der übergehenden electrischen Mas-
+sen vor der Bewegung gegen jede der anderen Massen und
+auf sich selbst abziehen von denselben Potentialen nach der
+
+Bewegung. Dabei ist zu bemerken, dass das Potential
+zweier Massen sein Zeichen wechselt, wenn eine der Mas-
+sen dasselbe wechselt. Es kommen also in Betracht fol-
+gende Potentiale:
+1) des bewegten + ½E aus A
+ 2) des bewegten — ½E aus B
+ Diese Grösse giebt uns also das Maximum der zu erzeu-
+genden lebendigen Kraft, und die Quantität der Spannkraft
+an, welche durch das Electrisiren gewonnen wird.
+Um nun statt dieser Potentiale geläufigere Begriffe in
+die Rechnung einzuführen, brauchen wir folgende Betrach-
+tung. Denken wir uns Flächen construirt, für welche das
+Potential eines in ihnen liegenden electrischen Elements in
+Bezug auf einen oder mehrere vorhandene electrische Kör-
+per gleiche Werthe hat, und nennen diese Gleichgewichts-
+oberflächen, so muss die Bewegung eines electrischen Theil-
+chens von irgend einem Puncte der einen zu irgend einem
+Puncte einer bestimmten andern stets die lebendige Kraft
+um eine gleiche Grösse vermehren, dagegen wird eine Be-
+wegung in der Fläche selbst die Geschwindigkeit des Theil-
+chens nicht verändern. Es wird also die Resultante
+
+sämmtlicher electrischer Anziehungskräfte für jeden einzel-
+nen Punct des Raums auf der durch ihn gehenden Gleich-
+gewichtsoberfläche senkrecht stehen müssen, und jede Fläche,
+auf der diese Resultanten senkrecht stehn, wird eine Gleich-
+gewichtsoberfläche sein müssen.
+Das electrische Gleichgewicht in einem Leiter wird
+nun nicht eher bestehen, als bis die Resultanten sämmt-
+licher Anziehungskräfte seiner eigenen Electricitäten und
+etwa noch vorhandener anderer electrisirter Körper senk-
+recht auf seiner Oberfläche stehen, weil durch dieselben
+sonst die electrischen Theilchen längs der Oberfläche ver-
+schoben werden müssten. Folglich wird die Oberfläche ei-
+nes electrisirten Leiters selbst eine Gleichgewichtsoberfläche
+sein, und die lebendige Kraft, welche ein verschwindend
+kleines electrisches Theilchen bei seinem Uebergange von
+der Oberfläche eines Leiters zu der eines andern gewinnt,
+eine Constante. Bezeichnet Ca die lebendige Kraft, welche
+die Einheit der positiven Electricität gewinnt bei ihrem
+Uebergange von der Oberfläche des Leiters A in unendliche
+Entfernung, so dass Ca für positiv electrische Ladungen
+positiv ist, Aa das Potential derselben Electricitätsmenge,
+wenn sie sich in einem bestimmten Puncte der Oberfläche
+von A befindet gegen A, Ab dasselbe gegen B, Wa das
+Potential von A auf sich selbst, Wb dasselbe von B, V das
+von A auf B, und Qa die Quantität der Electricität in A,
+Qb in B: so ist die lebendige Kraft, welche das electrische
+Theilchen e bei seinem Uebergange aus unendlicher Ent-
+fernung auf die Oberfläche von A gewinnt,
+— eCa = e(Aa + Ab).
+Setzt man statt e nach einander alle electrischen Theilchen
+der Oberfläche von A, und für Aa und Ab die zugehörigen
+
+Potentiale, und addirt alle, so erhält man
+.
+Ebenso für den Leiter B
+.
+Die Constante C muss nun nicht nur für die ganze
+Oberfläche eines und desselben Leiters gleich sein, sondern
+auch für getrennte Leiter, wenn dieselben bei Herstellung
+einer Verbindung, durch welche die Vertheilung ihrer Electri-
+citäten nicht merklich geändert wird, keine Electricität mit
+einander austauschen, d. h. sie muss gleich sein für alle
+Leiter von gleicher freier Spannung. Wir können als Maass
+der freien Spannung eines electrisirten Körpers diejenige
+Quantität von Electricität gebrauchen, welche ausserhalb
+der Vertheilungsweite in einer Kugel vom Radius = 1 an-
+gehäuft, mit jenem Körper im electrischen Gleichgewicht
+steht. Ist die Electricität gleichmässig über die Kugel ver-
+breitet, so wirkt sie bekanntlich nach aussen, als wäre sie
+ganz im Mittelpunct derselben zusammengedrängt. Bezeich-
+nen wir die Masse der Electricität mit E, den Radius der
+Kugel mit R = 1, so ist für diese Kugel die Constante
+.
+Also die Constante C ist unmittelbar gleich der freien Span-
+nung.
+Danach findet sich die Quantität von Spannkräften
+zweier Leiter, welche gleiche Quantitäten Q von positiver
+und negativer Electricität enthalten,
+.
+Da Cb negativ ist, so ist die algebraische Differenz Ca — Cb
+
+gleich ihrer absoluten Summe. Ist die Ableitungsgrösse des
+Leiters B sehr gross, also nahehin C = 0, so ist die Quan-
+tität der Spannkräfte .
+Die lebendige Kraft, welche bei der Bewegung zweier
+electrischer Massen entsteht, haben wir gefunden gleich der
+Abnahme der Summe . Diese lebendige Kraft
+gewinnen wir als mechanische, wenn die Geschwindigkeit,
+womit sich die Electricität in den Körpern bewegt, ver-
+schwindend klein ist gegen die Fortpflanzungsgeschwindig-
+keit der electrischen Bewegung; wir müssen sie als Wärme
+empfangen, wenn dies nicht der Fall ist. Die bei der Ent-
+ladung gleicher Quantitäten Q entgegengesetzter Electricität
+erzeugte Wärme Θ findet sich demnach
+,
+wo a das mechanische Aequivalent der Wärmeeinheit be-
+zeichnet, oder wenn Cb = 0, wie in Batterien, deren äussere
+Belegung nicht isolirt ist, deren Ableitungsgrösse S ist, so
+dass C S = Q
+.
+Riess Poggd. Ann. XLIII 47. hat durch Experimente bewiesen, dass bei ver-
+schiedenen Ladungen und verschiedener Anzahl gleich con-
+struirter Flaschen die in jedem einzelnen Theile desselben
+Schliessungsdrathes entwickelte Wärme proportional sei der
+Grösse . Nur bezeichnet er mit S die Oberfläche der
+
+Belegung der Flaschen. Bei gleich construirten Flaschen
+muss diese aber der Ableitungsgrösse proportional sein. Aus
+seinen Versuchen hat ferner Vorsselmann de Heer Poggd. Ann. XLVIII. 292. Dazu die Bemerkung von Riess
+ebendas. S. 320. gefol-
+gert, so wie Knochenhauer Ann. LXII. 364. LXIV. 64. aus den eigenen, dass die
+Wärmeentwickelung bei derselben Ladung derselben Bat-
+terie dieselbe bleibe, wie auch der Schliessungsdrath abge-
+ändert werden möge. Der Letztere hat dieses Gesetz auch
+bei Verzweigung der Schliessungsdräthe und bei Nebenströ-
+men durchgeführt. Ueber die Grösse der Constante 
+liegen bis jetzt noch keine Beobachtungen vor.
+Zu erklären ist dieses Gesetz leicht, sobald wir uns
+die Entladung einer Batterie nicht als eine einfache Bewe-
+gung der Electricität in einer Richtung vorstellen, sondern
+als ein Hin- und Herschwanken derselben zwischen den
+beiden Belegungen in Oscillationen, welche immer kleiner
+werden, bis die ganze lebendige Kraft derselben durch die
+Summe der Widerstände vernichtet ist. Dafür, dass der
+Entladungsstrom aus abwechselnd entgegengerichteten Strö-
+men besteht, spricht erstens die abwechselnd entgegenge-
+setzte magnetisirende Wirkung desselben, zweitens die Er-
+scheinung, welche Wollaston bei dem Versuch, Wasser
+durch electrische Schläge zu zersetzen, wahrnahm, dass
+sich nämlich beide Gasarten an beiden Electroden entwik-
+keln. Zugleich erklärt diese Annahme, warum bei diesem
+Versuch die Electroden möglichst geringe Oberfläche haben
+müssen.
+
+Galvanismus. Wir haben in Beziehung auf die gal-
+vanischen Erscheinungen zwei Klassen von Leitern zu un-
+terscheiden: 1) diejenigen, welche nach Art der Metalle
+leiten, und dem Gesetz der galvanischen Spannungsreihe
+folgen; 2) diejenigen, weche diesem Gesetze nicht folgen.
+Alle diese letzteren sind zusammengesetzte Flüssigkeiten,
+und erleiden durch jede Leitung eine der Quantität der ge-
+leiteten Electricität proportionale Zersetzung.
+Wir können danach die experimentellen Thatsachen
+eintheilen 1) in solche, welche nur zwischen Leitern der
+ersten Klasse stattfinden, die Ladung verschiedener sich
+berührender Metalle mit ungleichen Electricitäten, und 2) in
+solche zwischen Leitern beider Klassen, die electrischen
+Spannungsunterschiede der offenen und die electrischen
+Ströme der geschlossenen Ketten. Durch eine beliebige
+Combination von Leitern erster Klasse können niemals
+electrische Ströme hervorgebracht werden, sondern nur
+electrische Spannungen. Diese Spannungen sind aber nicht
+äquivalent einer gewissen Kraftgrösse, wie die bisher be-
+trachteten, welche eine Störung des electrischen Gleichge-
+wichts bezeichneten; die galvanischen Spannungen sind
+vielmehr entstanden durch die Herstellung des electrischen
+Gleichgewichts, durch sie kann keine Bewegung der Electri-
+cität hervorgerufen werden ausser bei Lagenveränderungen
+der Leiter selbst durch die geänderte Vertheilung der ge-
+bundenen Electricität. Denken wir uns alle Metalle der
+Erde mit einander in Berührung gebracht, und die ent-
+sprechende Vertheilung der Electricität erfolgt, so kann
+durch keine andere Verbindung derselben irgend eines eine
+Aenderung seiner electrischen freien Spannung erleiden,
+ehe nicht eine Berührung mit einem Leiter zweiter Klasse
+
+erfolgt ist. Den Begriff der Contactkraft, der Kraft, welche
+an der Berührungsstelle zweier verschiedenen Metalle thä-
+tig ist, und ihre verschiedenen electrischen Spannungen er-
+zeugt und unterhält, hat man bisher nicht näher bestimmt
+als eben so, weil man mit demselben auch die Erscheinun-
+gen der Berührung von Leitern erster und zweiter Klasse
+zu umfassen suchte zu einer Zeit, wo man den constanten
+und wesentlichen Unterschied beider Erscheinungen, den
+chemischen Process, noch nicht als solchen kannte. In
+dieser dadurch nothwendig gemachten Unbestimmtheit der
+Begriffsfassung erscheint nun allerdings die Contactkraft als
+eine solche, welche in das Unendliche Quantitäten freier
+Electricität und somit mechanische Kräfte, Wärme und
+Licht erzeugen könnte, wenn es einen einzigen Leiter zwei-
+ter Klasse gäbe, welcher nicht durch die Leitung electro-
+lysirt würde. Gerade dieser Umstand ist es auch wohl,
+welcher der Contacttheorie troz ihrer einfachen und präci-
+sen Erklärung der Erscheinungen ein so entschiedenes Wi-
+derstreben entgegengesetzt hat S. Faraday Experimentaluntersuchungen über Electricität.
+17te Reihe. Philos. Transact. 1840 p. I. No. 2071. und Poggd. Ann.
+LIII. 568.. Dem von uns hier durch-
+zuführenden Princip widerspricht der bisherige Begriff die-
+ser Kraft also direct, wenn nicht die Nothwendigkeit der
+chemischen Processe mit in denselben aufgenommen wird.
+Geschieht dies aber, nehmen wir an, dass die Leiter zwei-
+ter Klasse der galvanischen Spannungsreihe eben deshalb
+nicht folgen, weil sie nur durch Electrolyse leiten, so lässt
+sich der Begriff der Contactkraft sogleich wesentlich ver-
+einfachen und auf anziehende und abstossende Kräfte zu-
+
+rückführen. Es lassen sich nämlich offenbar alle Erschei-
+nungen in Leitern erster Klasse herleiten aus der Annahme,
+dass die verschiedenen chemischen Stoffe verschiedene An-
+ziehungskräfte haben gegen die beiden Electricitäten, und
+dass diese Anziehungskräfte nur in unmessbar kleinen Ent-
+fernungen wirken, während die Electricitäten auf einander
+es auch in grösseren thun. Die Contactkraft würde danach
+in der Differenz der Anziehungskräfte bestehen, welche die
+der Berührungsstelle zunächst liegenden Metalltheilchen auf
+die Electricitäten dieser Stelle ausüben, und das electrische
+Gleichgewicht eintreten, wenn ein electrisches Theilchen,
+welches von dem einen zum andern übergeht, nichts mehr
+an lebendiger Kraft verliert oder gewinnt. Sind c͵ und c͵͵
+die freien Spannungen der beiden Metalle, a͵e und a͵͵e die
+lebendigen Kräfte, welche das electrische Theilchen e bei
+seinem Uebergange auf das eine oder das andere nicht ge-
+ladene Metall gewinnt, so ist die Kraft, welche es beim
+Uebergang von dem einen geladenen Metall zum andern
+gewinnt:
+ Beim Gleichgewicht muss diese = 0 sein, also
+ d. h. die Spannungsdifferenz muss bei verschiedenen Stücken
+derselben Metalle constant sein, und bei verschiedenen Me-
+tallen dem Gesetz der galvanischen Spannungsreihe folgen.
+Bei den galvanischen Strömen haben wir in Bezug auf
+die Erhaltung der Kraft hauptsächlich folgende Wirkungen
+zu betrachten: Wärmeentwicklung, chemische Processe und
+Polarisation. Die electrodynamischen Wirkungen werden
+wir beim Magnetismus durchnehmen. Die Wärmeentwick-
+
+lung ist allen Strömen gemein; nach den beiden anderen
+Wirkungen können wir sie für unseren Zweck unterschei-
+den in solche, welche blos chemische Zersetzungen, in
+solche, welche blos Polarisation, und in solche, welche
+beides hervorbringen.
+Zuerst wollen wir die Bedingungen der Erhaltung der
+Kraft untersuchen an solchen Ketten, bei welchen die Po-
+larisation aufgehoben ist, weil diese die einzigen sind, für
+welche wir bis jetzt bestimmte durch Messungen bewährte
+Gesetze haben. Die Intensität des Stromes J einer Kette
+von n Elementen wird gegeben durch das Ohmsche Gesetz,
+ wo die Constante A die electromotorische Kraft des ein-
+zelnen Elements und W der Widerstand der Kette genannt
+wird; A und W sind in diesen Ketten unabhängig von der
+Intensität. Da während eines gewissen Zeitraums der Wir-
+kung einer solchen Kette nichts in ihr geändert wird, als
+die chemischen Verhältnisse und die Wärmemenge, so
+würde das Gesetz von der Erhaltung der Kraft fordern,
+dass die durch die vorgegangenen chemischen Processe zu
+gewinnende Wärme gleich sei der wirklich gewonnenen.
+In einem einfachen Stück einer metallischen Leitung vom
+Widerstand w ist nach Lenz S. Poggd. Ann. LIX. S. 203 u. 407 aus den Bull. de l’acad. d.
+scienc. de St. Petersbourg. 1843. die während der Zeit t ent-
+wickelte Wärme
+ϑ = J2wt,
+wenn man als Einheit von w die Drathlänge nimmt, in
+welcher die Einheit des Stroms in der Zeiteinheit die Wärme-
+
+einheit entwickelt. Für verzweigte Schliessungsdräthe, wo
+die Widerstände der einzelnen Zweige mit wa bezeichnet
+werden, ist der Gesammtwiderstand w gegeben durch die
+Gleichung
+ die Intensität Jn im Zweige wn durch
+ also die Wärme ϑn in demselben Zweige
+ und die in der ganzen verzweigten Leitung entwickelte
+Wärme
+ Folglich ist die in einer mit beliebigen Verzweigungen der
+Leitung versehenen Kette entwickelte Gesammtwärme, wenn
+das Gesetz von Lenz auch auf flüssige Leiter passt, wie es
+Joule gefunden hat:
+Θ = J2 W t = n A J t.
+Wir haben zweierlei Arten von constanten Ketten, die
+nach dem Schema der Danielschen und die nach dem der
+Groveschen construirten. Bei den ersteren besteht der
+chemische Vorgang darin, dass sich das positive Metall in
+einer Säure auflöst, und aus einer Lösung in derselben
+Säure das negative sich niederschlägt. Nehmen wir als
+Einheit der Stromintensität diejenige, welche in der Zeit-
+einheit ein Aequivalent Wasser zersetzt, (etwa O = 1 grm.
+Helmholtz üb. Erhalt. d. Kraft. 4
+
+genommen) so werden in der Zeit t gelöst n J t Aequiva-
+lente des positiven Metalls, und eben so viele des negativen
+niedergeschlagen. Ist nun die Wärme, welche ein Aequi-
+valent des positiven Metalls bei seiner Oxydation und Lö-
+sung des Oxyds in der betreffenden Säure entwickelt, az,
+und die gleiche für das negative ac, so würde die chemisch
+zu entwickelnde Wärme sein
+= n J t (az — ac).
+Die chemische würde also der electrischen gleich sein, wenn
+A = az — ac,
+d. h. wenn die electromotorischen Kräfte zweier so combi-
+nirten Metalle dem Unterschied der bei ihrer Verbrennung
+und Verbindung mit Säuren zu entwickelnden Wärme pro-
+portional wären.
+In den nach Art der Groveschen Kette gebauten Ele-
+menten wird die Polarisation dadurch aufgehoben, dass der
+auszuscheidende Wasserstoff sogleich zur Reduction der
+sauerstoffreichen Bestandtheile der Flüssigkeit verbraucht
+wird, welche das negative Metall umgiebt. Es sind dahin
+zu rechnen die Groveschen und Bunsenschen Elemente:
+amalgamirtes Zink, verdünnte Schwefelsäure, rauchende
+Salpetersäure, Platin oder Kohle; ferner die mit Chrom-
+säure gebauten constanten Ketten, unter denen genaueren
+Messungen unterworfen sind: amalgamirtes Zink, verdünnte
+Schwefelsäure, Lösung von saurem chromsaurem Kali mit
+Schwefelsäure, Kupfer oder Platin. Die chemischen Pro-
+cesse sind in den beiden mit Salpetersäure gebauten Ketten
+gleich, eben so die in den beiden genannten mit Chrom-
+säure; daraus würde gemäss der eben gemachten Deduction
+folgen, dass auch die electromotorischen Kräfte gleich seien,
+
+und das ist in der That nach den Messungen von Poggen-
+dorf Poggd. Ann. LIV. 429 und LVII. 104. sehr genau der Fall. Die mit Kohle gebaute Chrom-
+säure-Kette ist sehr inconstant, und hat eine beträchtlich
+höhere electromotorische Kraft, wenigstens im Anfang; die-
+selbe ist deshalb hier nicht herzurechnen, sondern zu den
+Ketten mit Polarisation. Bei diesen constanten Ketten ist
+also die electromotorische Kraft unabhängig von dem nega-
+tiven Metall; wir können sie uns auf den Typus der Da-
+nielschen Kette zurückbringen, wenn wir als den letzten
+die Flüssigkeit unmittelbar berührenden Leiter erster Klasse
+die dem Platin zunächst liegenden Theilchen von salpetri-
+ger Säure und Chromoxyd ansehn, so dass wir die Grove-
+schen und Bunsenschen Elemente als Ketten zwischen Zink
+und salpetriger Säure, die mit Chromsäure gebauten als
+Zink-Chromoxydketten erklären würden.
+Unter den Ketten mit Polarisation können wir solche
+unterscheiden, welche blos Polarisation und keine chemi-
+sche Zersetzung hervorbringen, und solche welche beides
+bewirken. Zu den ersteren, welche einen inconstanten
+meist bald verschwindenden Strom geben, gehören unter
+den einfachen Ketten die von Faraday Experimentaluntersuchungen über Electricität. 16te Reihe.
+Philos. Transact. 1840 p. I. u. Poggd. Ann. LII. S. 163 u. 547. mit Lösung von
+Aetzkali, Schwefelkalium, salpetriger Säure gebildeten Com-
+binationen, ferner die der stärker negativen Metalle in den
+gewöhnlichen Säuren, wenn das positivere derselben die
+Säure nicht mehr zu zersetzen vermag, z. B. Kupfer mit
+Silber, Gold, Platin, Kohle in Schwefelsäure u. s. w.; von
+den zusammengesetzten alle mit eingeschalteten Zersetzungs-
+4*
+
+zellen, deren Polarisation die electromotorische Kraft der
+anderen Elemente überwiegt. Scharfe messende Versuche
+haben über die Intensitäten dieser Ketten bis jetzt wegen
+der grossen Veränderlichkeit des Stroms nicht gemacht
+werden können. Im Allgemeinen scheint die Intensität ihrer
+Ströme von der Natur der eingetauchten Metalle abzuhän-
+gen, ihre Dauer wächst mit der Grösse der Oberflächen
+und mit der Abschwächung der Stromintensität; aufgefrischt
+können sie werden, auch wenn sie fast ganz verschwunden
+sind, durch Bewegungen der Platten in der Flüssigkeit und
+durch Berührung derselben mit der Luft, wodurch die Po-
+larisation der Wasserstoffplatte aufgehoben wird. Von sol-
+chen Einwirkungen mag auch wohl der geringe, nicht auf-
+hörende Rest des Stromes herrühren, den feinere galvano-
+metrische Instrumente immer anzugeben pflegen. Der ganze
+Vorgang ist also eine Herstellung des electrischen Gleich-
+gewichts der Flüssigkeitstheilchen mit den Metallen; dabei
+scheinen sich einmal die Flüssigkeitstheilchen anders zu
+ordnen, und dann, wenigstens in vielen Fällen S. Ohm in Poggd. Ann. LXIII. 389., auch
+chemische Umänderungen der oberflächlichen Metallschich-
+ten zu entstehen. Bei den zusammengesetzten Ketten, wo
+die Polarisation ursprünglich gleicher Platten die Wirkung
+des Stroms anderer Elemente ist, können wir die dabei
+verlorene Kraft des ursprünglichen Stroms als secundären
+Strom wiedergewinnen, nachdem wir die erregenden Ele-
+mente entfernt, und die Metalle der polarisirten unter sich
+geschlossen haben. Um das Princip von der Erhaltung der
+Kraft hier näher anzuwenden, fehlen uns bis jetzt noch alle
+speciellen Thatsachen.
+
+Den verwickeltesten Fall bilden diejenigen Ketten, in
+welchen Polarisation und chemische Zersetzung neben ein-
+ander vor sich gehen; dazu gehören die Ketten mit Gas-
+entwickelung. Der Strom derselben ist, wie der der blossen
+Polarisationsketten, zu Anfang am stärksten, und sinkt
+schneller oder langsamer auf eine ziemlich constant blei-
+bende Grösse. Bei einzelnen Elementen dieser Art, oder
+Ketten, welche nur aus solchen zusammengesetzt sind, hört
+der Polarisationsstrom nur äusserst langsam auf; leichter
+gelingt es dagegen, schnell constante Ströme zu erhalten,
+bei Combination von constanten Ketten mit einzelnen in-
+constanten, namentlich, wenn die Platten der letzteren ver-
+hältnissmässig klein sind. Bisher sind aber an solchen Zu-
+sammenstellungen nur wenige Messungsreihen gemacht wor-
+den; aus den wenigen, welche ich aufgefunden habe, von
+Lenz Poggd. Ann. LIX. 229. und Poggendorf Ann. LXVII. 531., geht hervor, dass die Intensi-
+täten solcher Ketten bei verschiedenen Drathwiderständen
+nicht durch die einfache Ohmsche Formel gegeben werden
+können, sondern wenn man die Constanten derselben bei
+geringen Intensitäten berechnet, werden die Ergebnisse der
+Rechnung für höhere Intensitäten zu gross. Man muss des-
+halb den Zähler oder den Nenner derselben, oder beide als
+Functionen der Intensität betrachten; die bisher bekannten
+Thatsachen liefern uns keine Entscheidung dafür, welcher
+von diesen Fällen eigentlich stattfinde.
+Suchen wir das Princip von der Erhaltung der Kraft
+auf diese Ströme anzuwenden, so müssen wir dieselben in
+zwei Theile theilen, in den inconstanten oder Polarisations-
+
+strom, über den dasselbe gilt, was wir über die reinen
+Polarisationsströme gesagt haben, und in den constanten
+oder Zersetzungsstrom. Auf den letzteren ist dieselbe Be-
+trachtungsweise anwendbar, wie für die constanten Ströme
+ohne Gasentwickelung. Die durch den Strom erzeugte
+Wärme muss gleich sein der durch den chemischen Pro-
+cess zu erzeugenden. Ist z. B. in einer Combination von
+Zink und einem negativen Metalle in verdünnter Schwefel-
+säure die Wärmeentbindung eines Atoms Zink bei seiner
+Auflösung und der Austreibung des Wasserstoffs az — ah,
+so ist die in der Zeit dt zu erzeugende Wärme
+J(az — ah)dt.
+Wäre nun die Wärmeentwickelung in allen Theilen einer
+solchen Kette proportional dem Quadrate der Intensität,
+also J2W dt, so hätten wir wie oben
+,
+also die einfache Ohmsche Formel. Da diese aber ihre
+Anwendung hier nicht findet, so folgt, dass es Querschnitte
+in der Kette giebt, in denen die Wärmeentwicklung einem
+andern Gesetze folgt, deren Widerstand also nicht als con-
+stant zu setzen ist. Ist z. B. die Entbindung von Wärme
+in irgend einem Querschnitt direct proportional der Inten-
+sität, wie es unter andern die durch Aenderung der Aggre-
+gatzustände gebundene Wärme sein muss, also ϑ = μ J dt,
+so ist
+.
+Die Grösse μ würde also mit in dem Zähler der Ohmschen
+
+Formel erscheinen. Der Widerstand eines solchen Quer-
+schnitts würde sein . Ist nun aber die
+Wärmeentwickelung desselben nicht genau proportional der
+Intensität, also die Grösse μ nicht ganz constant, sondern
+mit der Intensität steigend, so erhalten wir den Fall, wel-
+cher den Beobachtungen von Lenz und Poggendorf ent-
+spricht.
+Als electromotorische Kraft einer solchen Kette würde
+nach Analogie der constanten Ketten, sobald der Polari-
+sationsstrom aufgehört hat, die zwischen Zink und Wasser-
+stoff zu bezeichnen sein. In der Ausdrucksweise der Con-
+tacttheorie wäre es die zwischen Zink und dem negativen
+Metall, vermindert um die Polarisation des letztern in Was-
+serstoff. Wir müssen dann nur dieses Maximum der Pola-
+risation für unabhängig von der Intensität des Stroms an-
+sehen, und für verschiedene Metalle um eben so viel ver-
+schieden, als es die electromotorischen Kräfte dieser Me-
+talle sind. Der Zähler der Ohmschen Formel, berechnet
+aus Intensitätsmessungen bei verschiedenen Widerständen,
+kann aber ausser der electromotorischen Kraft einen Sum-
+manden enthalten, welcher von dem Uebergangswiderstande
+herrührt, und welcher bei verschiedenen Metallen vielleicht
+verschieden ist. Dass ein Uebergangswiderstand existire,
+folgt nach dem Princip von der Erhaltung der Kraft aus
+der Thatsache, dass die Intensitäten dieser Ketten nicht
+nach dem Ohmschen Gesetz zu berechnen sind, da doch
+die chemischen Processe dieselben bleiben. Dafür, dass in
+Ketten, wo die Polarisationsströme aufgehört haben, der
+Zähler der Ohmschen Formel von der Natur des negativen
+Metalls abhänge, habe ich noch keine sicheren Beobach-
+
+tungen auffinden können. Um die Polarisationsströme schnell
+zu beseitigen ist es hierbei nöthig, die Dichtigkeit des Stroms
+an der polarisirten Platte möglichst zu erhöhen theils durch
+Einfügung von Zellen mit constanter electromotorischer
+Kraft, theils durch Verkleinerung der Oberfläche dieser
+Platte. In den hierher gehörenden Versuchen von Lenz
+und Saweljev Bull. de la classe phys. math. de l’acad. d. scienc. de St.
+Petersbourg. T. V. p. 1. und Poggd. Ann. LVII. 497. ist nach ihrer eigenen Angabe die Constanz
+der Ströme nicht erreicht worden, die von ihnen berech-
+neten electromotorischen Kräfte enthalten demnach noch
+die der Polarisationsströme. Sie fanden für Zink Kupfer
+in Schwefelsäure 0,51, für Zink Eisen 0,76, für Zink Queck-
+silber 0,90.
+Schliesslich bemerke ich noch, dass ein Versuch, die
+Gleichheit der auf chemischem und electrischem Wege ent-
+wickelten Wärme experimell nachzuweisen, gemacht ist
+von Joule Philos. Magaz. 1841. vol. XIX. S. 275. u. 1843. XX. S. 204.. Doch ist gegen seine Messungsmethoden
+mancherlei einzuwenden. Er setzt z. B. für die Tangenten-
+bussole das Gesetz der Tangenten als richtig voraus bis in
+die höchsten Grade hinein, hat keine constanten Ströme,
+sondern berechnet deren Intensität nur nach dem Mittel der
+Anfangs- und Endablenkung, setzt electromotorische Kraft
+und Widerstand von Zellen mit Gasentwickelung als con-
+stant voraus. Auf die Abweichung seiner quantitativen
+Wärmebestimmungen von anderweitig gefundenen Zahlen
+hat Hess schon aufmerksam gemacht. Dasselbe Gesetz
+will E. Becquerel empirisch bestätigt gefunden haben nach
+einer Anzeige desselben in den Comptes rendues (1843. No. 16).
+
+Wir haben oben uns genöthigt gesehen, den Begriff
+der Contactkraft zurückzuführen auf einfache Anziehungs-
+und Abstossungskräfte, um denselben mit unserem Princip
+in Uebereinstimmung zu bringen. Versuchen wir nun auch,
+die electrischen Bewegungen zwischen Metallen und Flüs-
+sigkeiten darauf zurückzuführen. Denken wir uns die Theile
+des zusammengesetzten Atoms einer Flüssigkeit mit ver-
+schiedenen Anziehungskräften gegen die Electricitäten be-
+gabt, und demgemäss verschieden electrisch. Scheiden
+diese Atomtheile an den metallischen Electroden aus, so
+giebt jedes Atom nach dem electrolytischen Gesetz eine
+von seinen electromotorischen Kräften unabhängige Menge
+± E an dieselben ab. Wir können uns deshalb vorstellen,
+dass auch in der chemischen Verbindung schon die Atome
+mit Aequivalenten ± E verbden sind, welche für alle
+ebenso gleich sind, wie die chiometrischen Aequivalente
+der wägbaren Stoffe in verschiedenen Verbindungen. Tau-
+chen nun zwei verschiedene electrische Metalle in eine
+Flüssigkeit ein, ohne dass ein chemischer Process stattfindet,
+so werden die positiven Bestandtheile derselben von dem
+negativen Metall, die negativen vom positiven angezogen.
+Der Erfolg wird also eine veränderte Richtung und Ver-
+theilung der verschieden electrischen Flüssigkeitstheilchen
+sein, deren Eintreten wir als Polarisationsstrom wahrneh-
+men. Die bewegende Kraft dieses Stromes würde die
+electrische Differenz der Metalle sein, ihr müsste deshalb
+auch seine anfängliche Intensität proportional sein; seine
+Dauer muss bei gleicher Intensität der Menge der an den
+Platten anzulagernden Atome, also ihrer Oberfläche pro-
+portional sein. Bei den mit chemischer Zersetzung verbun-
+denen Strömen kommt es dagegen nicht zu einem dauern-
+
+den Gleichgewicht der Flüssigkeitstheilchen mit den Me-
+tallen, weil die positiv geladene Oberfläche des positiven
+Metalls fortdauernd entfernt wird, dadurch dass sie selbst
+zum Bestandtheil der Flüssigkeit wird, also eine stete Er-
+neuerung der Ladung hinter ihr stattfinden muss. Durch
+jedes Atom des positiven Metalls, welches mit einem Aequi-
+valent positiver Electricität vereinigt in die Lösung eintritt,
+wofür ein Atom des negativen Bestandtheils neutral electrisch
+ausscheidet, wird eine Beschleunigung der einmal begon-
+nenen Bewegung hervorgerufen, sobald die Quantität der
+Anziehungskraft des ersteren Atoms zur + E, bezeichnet
+durch az, grösser ist als die des letzteren ac. Die Bewe-
+gung würde dadurch in das Unbegrenzte an Geschwindig-
+keit zunehmen, wenn nicht auch zugleich der Verlust an
+lebendiger Kraft durch Wärmeentwicklung wüchse. Sie
+wird deshalb nur wachsen bis dieser Verlust, J2 Wdt, gleich
+ist dem Verbrauch an Spannkraft J (az — ac) dt oder bis
+.
+Ich glaube, dass in dieser Unterscheidung der galvanischen
+Ströme in solche, welche Polarisation, und in solche, welche
+Zersetzung hervorbringen, wie sie durch das Princip von
+der Erhaltung der Kraft bedingt wird, der einzige Ausweg
+zu finden sein möchte, um gleichzeitig die Schwierigkeiten
+der chemischen und der Contactheorie zu umgehen.
+Thermoelectrische Ströme. Bei diesen Strömen
+müssen wir die Quelle der Kraft in den von Peltier ge-
+fundenen Wirkungen auf die Löthstellen suchen, welche
+einen dem gegebenen Strom entgegengesetzten erzeugen
+würden.
+
+Denken wir uns einen hydroelectrischen constanten
+Strom, in dessen Leitungsdrath ein Stück eines andern
+Metalls eingelöthet ist, dessen Löthstellen die Temperatu-
+ren t' und t'' haben, so wird der electrische Strom wäh-
+rend des Zeittheilchens dt in der ganzen Leitung die Wärme
+J2 Wdt erzeugen, ausserdem in der einen Löthstelle q͵dt
+entwickeln, in der andern q͵͵dt verschlucken. Ist A die
+electromotorische Kraft der hydroelectrischen Kette, also
+AJdt die chemisch zu erzeugende Wärme, so folgt aus
+dem Gesetz von der Erhaltung der Kraft
+AJ = J2W + q͵ — q͵͵ 1)
+Ist Bt die electromotorische Kraft der Thermokette, wenn
+eine der Löthstellen die Temperatur t und die andere irgend
+eine constante Temperatur z. B. 0° hat, so ist für die ganze
+Kette
+. 2)
+Für t͵ = t͵͵ wird
+.
+Dies in die Glelchung 1) gesetzt giebt
+q͵ = q͵͵
+d. h. bei gleicher Temperatur der Löthstellen derselben Me-
+talle und gleicher Intensität des Stroms müssen die entwik-
+kelten und verschluckten Wärmemengen gleich sein, unab-
+hängig vom Querschnitt. Dürfen wir annehmen, dass dieser
+Vorgang in jedem Puncte des Querschnitts derselbe ist, so
+folgt, dass die in gleichen Flächenräumen verschiedener
+Querschnitte durch denselben Strom entwickelten Wärme-
+mengen sich wie die Dichtigkeiten des Stroms verhalten,
+
+und daraus wieder, dass die durch verschiedene Ströme in
+den ganzen Querschnitten entwickelten sich direct wie die
+Intensitäten der Ströme verhalten.
+Sind die Löthstellen von verschiedener Temperatur, so
+folgt aus den Gleichungen 1) und 2)
+(Bt͵ — Bt͵͵) J = q͵ — q͵͵
+dass also bei gleichen Stromintensitäten die Wärme ent-
+wickelnde und bindende Kraft in demselben Maasse mit der
+Temperatur steigt, als die electromotorische.
+Für beide Folgerungen sind mir bis jetzt noch keine
+messenden Versuche bekannt.
+VI.
+Kraftäquivalent des Magnetismus und Electro-
+magnetismus.
+Magnetismus. Ein Magnet ist vermöge seiner an-
+ziehenden und abstossenden Kräfte gegen andere Magnete
+und unmagnetisches Eisen fähig, eine gewisse lebendige
+Kraft zu erzeugen. Da die Anziehungserscheinungen von
+Magneten vollständig herzuleiten sind aus der Annahme
+zweier Fluida, welche sich umgekehrt wie die Quadrate
+der Entfernung anziehen und abstossen, so folgt hieraus
+allein schon nach der im Anfang unserer Abhandlung ge-
+gebenen Herleitung, dass die Erhaltung der Kraft bei der
+Bewegung magnetischer Körper gegen einander stattfinden
+müsse. Der folgenden Theorie der Induction wegen müs-
+sen wir auf die Gesetze dieser Bewegungen etwas näher
+eingehen.
+
+1) Sind m͵ und m͵͵ zwei magnetische Massenelemente,
+deren Einheit diejenige ist, welche eine gleiche in der Ent-
+fernung = 1 mit der Kraft = 1 abstösst, werden entgegen-
+gesetzte Magnetismen mit entgegengesetzten Vorzeichen der
+Massen bezeichnet, und ist r die Entfernung zwischen m͵
+und m͵͵, so ist die Intensität ihrer Centralkraft
+.
+Der Gewinn an lebendiger Kraft beim Uebergange aus un-
+endlicher Entfernung in die r ist .
+2) Bezeichnen wir diese Grösse als Potential der bei-
+den Elemente, und übertragen wir die Benennung Poten-
+tial auf magnetische Körper wie bei den Electricitäten, so
+erhalten wir den Gewinn an lebendiger Kraft bei der Be-
+wegung zweier Körper, deren Magnetismus sich nicht än-
+dert, also von Stahlmagneten, wenn wir von dem Werth
+des Potentials am Ende der Bewegung den zu Anfang der
+Bewegung abziehen. Dagegen wird wie bei den Electrici-
+täten der Gewinn an lebendiger Kraft bei der Bewegung
+magnetischer Körper, deren Vertheilung sich ändert, ge-
+messen durch die Veränderungen der Summe
+ wo V das Potential der Körper gegen einander, Wa und Wb
+das derselben auf sich selbst ist. Ist der Körper B ein un-
+veränderlicher Stahlmagnet, so erzeugt die Annäherung ei-
+nes Körpers von veränderlichem Magnetismus eine lebendige
+Kraft, gleich der Zunahme der Summe V + ½Wa.
+3) Es ist bekannt, dass die Wirkungen eines Magneten
+nach aussen stets durch eine gewisse Vertheilung der magne-
+Helmholtz üb. Erhalt. d. Kraft. 5
+
+tischen Fluida an seiner Oberfläche ersetzt werden können.
+Wir können also statt der Potentiale der Magneten die Po-
+tentiale solcher Oberflächen setzen. Dann finden wir wie
+bei den leitenden electrischen Oberflächen für ein vollkom-
+men weiches Eisen A, welches durch Vertheilung von ei-
+nem Magneten B magnetisirt ist, den Gewinn C an leben-
+diger Kraft für die Einheit der Quantität des als positiv
+bezeichneten Magnetismus bei dem Uebergange von der
+Oberfläche des Eisens in unendliche Entfernung gegeben
+durch die Gleichung
+— QC = V + Wa.
+Da nun jeder Magnet so viel nördlichen wie südlichen
+Magnetismus enthält, also Q in jedem gleich 0 ist, so folgt
+für ein solches Eisenstück, oder für ein Stahlstück von
+derselben Form, Lage und Vertheilung des Magnetismus,
+dessen Magnetismus also vollständig durch den Magneten B
+gebunden ist, dass
+V = — Wa.
+4) V ist aber die lebendige Kraft, welche der Stahl-
+magnet bei seiner Annäherung bis zur Bindung seiner Magne-
+tismen erzeugt; sie muss nach dieser Gleichung dieselbe
+sein, an welchen Magneten er sich auch annähern möge,
+sobald es nur bis zur vollständigen Bindung kommt, weil
+Wa immer dasselbe bleibt. Dagegen ist die lebendige Kraft
+eines gleichen Eisenstücks, welches bis zu derselben Verthei-
+lung des Magnetismus genähert wird, wie oben gezeigt ist
+,
+also nur halb so gross als die des schon magnetisirten
+Stückes; zu bedenken ist, dass W an sich negativ ist, also
+— ½W stets positiv.
+
+Wird ein Stahlstück dem vertheilenden Magneten un-
+magnetisch genähert, und behält es beim Entfernen den
+erlangten Magnetismus, so wird dabei — ½W an mecha-
+nischer Arbeit verloren, dafür ist der nunmehrige Magnet
+auch im Stande — ½W Arbeit mehr zu leisten, als es das
+Stahlstück vorher konnte.
+Electromagnetismus. Die electrodynamischen Er-
+scheinungen sind zurückgeführt worden von Ampère auf
+anziehende und abstossende Kräfte der Stromelemente, deren
+Intensität von der Geschwindigkeit und Richtung der Ströme
+abhängt. Seine Herleitung umfasst aber die Inductions-
+erscheinungen nicht. Letztere sind dagegen zugleich mit
+den electrodynamischen von W. Weber zurückgeführt worden
+auf anziehende und abstossende Kräfte der electrischen
+Fluida selbst, deren Intensität abhängt von der Näherungs-
+oder Entfernungsgeschwindigkeit und der Zunahme derselben.
+Für jetzt ist noch keine Hypothese aufgefunden worden,
+vermöge deren man diese Erscheinungen auf constante
+Centralkräfte zurückführen könnte. Die Gesetze der indu-
+cirten Ströme sind von Neumann Poggd. Ann. LXVII. 31. entwickelt worden, in-
+dem er die experimentell für ganze Ströme gefundenen
+Gesetze von Lenz auf die kleinsten Theilchen derselben
+übertrug, und dieselben stimmen bei geschlossenen Strö-
+men mit den Entwicklungen von Weber überein. Ebenso
+stimmen die Gesetze von Ampère und Weber für die electro-
+dynamischen Wirkungen geschlossener Ströme mit der Her-
+leitung derselben aus Rotationskräften von Grassmann Ann. LXIV. 1..
+Weiter giebt uns auch die Erfahrung keine Aufschlüsse,
+
+weil bis jetzt nur mit geschlossenen oder beinahe geschlos-
+senen Strömen experimentirt worden ist. Wir wollen des-
+halb auch unser Princip nur auf geschlossene Ströme an-
+wenden, und zeigen, dass daraus dieselben Gesetze her-
+folgen.
+Es ist schon von Ampère gezeigt worden, dass die
+electrodynamischen Wirkungen eines geschlossenen Stroms
+stets ersetzt werden können durch eine gewisse Vertheilung
+der magnetischen Fluida an einer beliebigen von dem Strom
+begränzten Fläche. Neumann hat daher den Begriff des
+Potentials auf die geschlossenen Ströme übertragen, indem
+er dafür das Potential einer solchen Fläche setzt.
+5) Bewegt sich ein Magnet unter dem Einfluss eines
+Stroms, so muss die lebendige Kraft, die er dabei gewinnt,
+geliefert werden aus den Spannkräften, welche in dem
+Strome verbraucht werden. Diese sind während des Zeit-
+theilchens dt nach der schon oben gebrauchten Bezeich-
+nungsweise A J dt in Wärmeeinheiten, oder a A J dt in me-
+chanischen, wenn a das mechanische Aequivalent der Wärme-
+einheit ist. Die in der Strombahn erzeugte lebendige Kraft
+ist a J2 W dt, die vom Magneten gewonnene , wo V
+sein Potential gegen den von der Stromeinheit durchlaufe-
+nen Leiter ist. Also
+ folglich
+.
+Wir können die Grösse  als eine neue electromo-
+
+torische Kraft bezeichnen, als die des Inductionsstromes.
+Sie wirkt stets der entgegen, welche den Magneten in der
+Richtung, die er hat, bewegen, oder seine Geschwindigkeit
+vermehren würde. Da diese Kraft unabhängig ist von der
+Intensität des Stroms, muss sie auch dieselbe bleiben, wenn
+vor der Bewegung des Magneten gar kein Strom vorhan-
+den war.
+Ist die Intensität wechselnd, so ist der ganze während
+einer gewissen Zeit inducirte Strom
+ wo V͵ das Potential zu Anfang und V͵͵ zu Ende der Be-
+wegung bedeutet. Kommt der Magnet aus sehr grosser
+Entfernung, so ist
+ unabhängig von dem Wege und der Geschwindigkeit des
+Magneten.
+Wir können das Gesetz so aussprechen: Die gesammte
+electromotorische Kraft des Inductionsstroms, den eine La-
+genänderung eines Magneten gegen einen geschlossenen
+Stromleiter hervorbringt, ist gleich der Veränderung, die
+dabei in dem Potentiale des Magneten gegen den Leiter
+vor sich geht, wenn letzterer von dem Strome  durch-
+flossen gedacht wird. Einheit der electromotorischen Kraft
+ist dabei die, durch welche die willkührliche Stromeinheit
+in der Widerstandseinheit hervorgebracht wird. Letztere
+aber diejenige, in welcher jene Stromeinheit in der Zeit-
+einheit die Wärmeeinheit entwickelt. Dasselbe Gesetz bei
+
+Neumann l. c. §. 9., nur hat er statt  eine unbestimmte
+Constante ε.
+6) Bewegt sich ein Magnet unter dem Einfluss eines
+Leiters, gegen den sein Potential bei der Stromeinheit φ
+sei, und eines durch diesen Leiter magnetisirten Eisenstücks,
+gegen welches sein Potential für den durch die Stromein-
+heit erregten Magnetismus χ sei, so ist wie vorher
+ also
+.
+Die electromotorische Kraft des Inductionsstroms, welcher
+von der Anwesenheit des Eisenstücks herrührt, ist also
+.
+Wird in dem Electromagneten durch den Strom n die-
+selbe Vertheilung des Magnetismus hervorgerufen, wie durch
+den genäherten Magneten, so muss nach dem in No. 4 ge-
+sagten das Potential desselben gegen den Magneten, nχ,
+gleich sein seinem Potential gegen den Leitungsdrath nV,
+wenn V dasselbe für die Stromeinheit bedeutet. Es ist
+also χ = V. Wird also ein Inductionsstrom hervorgerufen,
+dadurch dass das Eisenstück durch Vertheilung von dem
+Magneten magnetisirt wird, so ist die electromotorische
+Kraft , und wie in No.  der
+Gesammtstrom
+
+,
+wo V͵ und V͵͵ die Potentiale des magnetisirten Eisens ge-
+gen den Leitungsdrath vor und nach der Magnetisirung sind.
+— Neumann folgert dies Gesetz aus der Analogie mit dem
+vorigen Falle.
+7) Wird ein Electromagnet unter dem Einfluss eines
+Stromes magnetisch, so geht durch den Inductionsstrom
+Wärme verloren; ist das Eisenstück weich, so wird bei
+der Oeffnung derselbe Inductionsstrom in entgegengesetzter
+Richtung gehn, und die Wärme wieder gewonnen. Ist es
+ein Stahlstück, welches seinen Magnetismus behält, so bleibt
+jene Wärme verloren, und an ihrer Stelle gewinnen wir
+magnetische Arbeitskraft, gleich dem halben Potential jenes
+Magneten bei vollständiger Bindung, wie in No. 4 gezeigt
+ist. Aus der Analogie der vorigen Fälle möchte es indes-
+sen nicht unwahrscheinlich sein, dass die electromotorische
+Kraft seinem ganzen Potential entspricht, wie Neumann den
+gleichen Schluss macht, und dass ein Theil der Bewegung
+der magnetischen Fluida wegen der Schnelligkeit derselben
+als Wärme verloren geht, welche hierbei in dem Magneten
+gewonnen wird.
+8) Werden zwei geschlossene Stromleiter gegen ein-
+ander bewegt, so kann die Intensität des Stroms in beiden
+verändert werden. Ist V ihr Potential für die Stromeinheit
+gegen einander, so muss wie in den vorigen Fällen und
+aus denselben Gründen sein
+.
+Ist nun die Stromintensität in dem einen Leiter W͵͵ sehr
+
+viel geringer als in dem andern W͵, so dass die electro-
+motorische Inductionskraft, welche von W͵͵ in W͵ erregt
+wird, gegen die Kraft A͵ verschwindet, und wir 
+setzen können, so erhalten wir aus der Gleichung
+.
+Die electromotorische Inductionskraft ist also dieselbe, wel-
+che ein Magnet erzeugen würde, der dieselbe electrodyna-
+mische Kraft hat als der inducirende Strom. Dieses Gesetz
+hat W. Weber Electrodynamische Maassbestimmungen. S. 71—75. experimentell erwiesen.
+Ist dagegen die Intensität in W͵ verschwindend klein
+gegen die in W͵͵, so findet sich
+ Die electromotorischen Kräfte der Leiter aufeinander sind
+sich also gleich, wenn die Stromintensitäten gleich sind,
+wie auch die Form der Leiter sein mag.
+Die gesammte Inductionskraft, welche während einer
+gewissen Bewegung der Leiter gegen einander ein Strom
+liefert, der selbst durch die Induction nicht verändert wird,
+ist hiernach wieder gleich der Aenderung in dem Potentiale
+desselben gegen den andern von  durchflossenen Leiter.
+In dieser Form erschliesst Neumann das Gesetz aus der
+Analogie der magnetischen und electrodynamischen Kräfte
+l. c. §. 10, und dehnt es auch auf den Fall aus, wo die
+
+Induction in ruhenden Leitern durch Verstärkung oder
+Schwächung der Ströme hervorgebracht wird. W. Weber
+zeigt die Uebereinstimmung seiner Annahme für die electro-
+dynamischen Kräfte mit diesen Theoremen l. c. S. 147—153.
+Aus dem Gesetz von der Erhaltung der Kräfte ist für die-
+sen Fall keine Bestimmung zu entnehmen; nur muss durch
+Rückwirkung des inducirten Stroms auf den inducirenden
+eine Schwächung des letzteren eintreten, welche einem ebenso
+grossen Wärmeverlust entspricht, als in dem inducirten Strome
+gewonnen wird. Dasselbe Verhältniss muss bei der Wirkung
+des Stroms auf sich selbst zwischen der anfänglichen Schwä-
+chung und dem Extracurrent stattfinden. Indessen lassen
+sich hieraus keine weiteren Folgerungen ziehen, weil die
+Form des Ansteigens der Ströme nicht bekannt ist, und
+ausserdem das Ohmsche Gesetz nicht unmittelbar anwendbar
+ist, da diese Ströme wohl nicht gleichzeitig die ganze Aus-
+dehnung der Leitung einnehmen möchten.
+ Es bleiben uns von den bekannten Naturprocessen noch
+die der organischen Wesen übrig. In den Pflanzen sind
+die Vorgänge hauptsächlich chemische, und ausserdem fin-
+det, wenigstens in einzelnen, eine geringe Wärmeentwick-
+lung statt. Vornehmlich wird in ihnen eine mächtige Quan-
+tität chemischer Spannkräfte deponirt, deren Aequivalent
+uns als Wärme bei der Verbrennung der Pflanzensubstanzen
+geliefert wird. Die einzige lebendige Kraft, welche dafür
+nach unseren bisherigen Kenntnissen während des Wachs-
+thums der Pflanzen absorbirt wird, sind die chemischen
+Strahlen des Sonnenlichts. Es fehlen uns indessen noch
+alle Angaben zur näheren Vergleichung der Kraftäquiva-
+5*
+
+lente, welche hierbei verloren gehen, und gewonnen wer-
+den. Für die Thiere haben wir schon einige nähere An-
+haltpuncte. Dieselben nehmen die complicirten oxydablen
+Verbindungen, welche von den Pflanzen erzeugt werden,
+und Sauerstoff in sich auf, geben dieselben meist verbrannt,
+als Kohlensäure und Wasser, theils auf einfachere Verbin-
+dungen reducirt wieder von sich, verbrauchen also eine
+gewisse Quantität chemischer Spannkräfte, und erzeugen
+dafür Wärme und mechanische Kräfte. Da die letzteren
+eine verhältnissmässig geringe Arbeitsgrösse darstellen ge-
+gen die Quantität der Wärme, so reducirt sich die Frage
+nach der Erhaltung der Kraft ungefähr auf die, ob die Ver-
+brennung und Umsetzung der zur Nahrung dienenden Stoffe
+eine gleiche Wärmequantität erzeuge, als die Thiere abge-
+ben. Diese Frage kann nach den Versuchen von Dulong
+und Despretz wenigstens annähernd bejaht werden Näher eingegangen bin ich auf diese Frage in dem Encycl.
+Wörterbuch der medicinischen Wissenschaften. Art.
+„Wärme”, und in den Fortschritten der Physik im Jahre
+1845, dargestellt von der physikalischen Gesellschaft
+zu Berlin. S. 346..
+Schliesslich muss ich noch einiger Bemerkungen von
+Matteucci gegen die hier durchgeführte Betrachtungsweise
+erwähnen, welche sich in der Biblioth. univ. de Genève
+Suppl. No. 16. 1847. 15. Mai. S. 375 finden. Derselbe geht
+aus von dem Satze, dass nach derselben ein chemischer
+Process nicht so viel Wärme erzeugen könne, wenn er
+Electricität, Magnetismus oder Licht zugleich entwickelt,
+als wenn dies nicht der Fall sei. Er führt dagegen an,
+dass, wie er durch eine Reihe von Messungen zu zeigen
+sich bemüht, Zink bei seiner Auflösung in Schwefelsäure
+
+ebenso viel Wärme erzeugt, wenn dieselbe unmittelbar durch
+die chemische Verwandtschaft geschieht, als wenn es mit
+Platin eine Kette bildet, und dass ein electrischer Strom,
+der einen Magneten in Ablenkung erhält, ebenso viel
+chemische und thermische Wirkungen erzeuge als ohne
+diese Ablenkung. Dass Matteucci diese Thatsachen als
+Einwürfe betrachtet, rührt von einem vollständigen Miss-
+verstehen der Ansicht her, welche er widerlegen will, wie
+sich aus einem Vergleich mit unserer Darstellung dieser
+Verhältnisse sogleich ergiebt. Dann führt er zwei calo-
+rimetrische Versuche an über die Wärme, welche bei der
+Verbindung von Aetzbaryt mit concentrirter oder verdünn-
+ter Schwefelsäure sich entwickelt, und über die, welche
+in einem Drathe in Gasen von verschiedenem Abkühlungs-
+vermögen durch denselben electrischen Strom erzeugt wird,
+wobei jene Masse und der Drath bald glühend werden, bald
+nicht. Er findet diese Wärmemengen im ersteren Fall nicht
+kleiner als im letzteren. Wenn man aber die Unvollkom-
+menheit unserer calorimetrischen Vorrichtungen bedenkt, so
+kann es nicht auffallen, dass Unterschiede der Abkühlung
+durch Strahlung nicht bemerkt werden, welche davon her-
+rühren könnten, dass diese Strahlung je nach der leuchten-
+den oder nicht leuchtenden Natur derselben die umgebenden
+diathermanen Mittel leichter oder schwerer durchdringt. In
+dem ersteren Versuche von Matteucci geschieht die Ver-
+einigung des Baryts mit der Schwefelsäure noch dazu in
+einem nicht diathermanen Gefässe von Blei, wo die leuch-
+tenden Strahlen gar nicht einmal herausdringen können.
+Die Unvollkommenheiten von Matteucci’s Methoden bei
+diesen Messungen können wir daher wohl unerwähnt
+lassen.
+
+Ich glaube durch das Angeführte bewiesen zu haben,
+dass das besprochene Gesetz keiner der bisher bekannten
+Thatsachen der Naturwissenschaften widerspricht, von einer
+grossen Zahl derselben aber in einer auffallenden Weise
+bestätigt wird. Ich habe mich bemüht, die Folgerungen
+möglichst vollständig aufzustellen, welche aus der Combi-
+nation desselben mit den bisher bekannten Gesetzen der
+Naturerscheinungen sich ergeben, und welche ihre Bestäti-
+gung durch das Experiment noch erwarten müssen. Der
+Zweck dieser Untersuchung, der mich zugleich wegen der
+hypothetischen Theile derselben entschuldigen mag, war,
+den Physikern in möglichster Vollständigkeit die theoreti-
+sche, practische und heuristische Wichtigkeit dieses Gesetzes
+darzulegen, dessen vollständige Bestätigung wohl als eine
+der Hauptaufgaben der nächsten Zukunft der Physik be-
+trachtet werden muss.
+ Berichtigung.
+S. 43 von Zeile 2 v. o. ab lies: also nahehin Cb = 0, so ist die
+Quantität der electrischen Spannkräfte ; ist auch
+die Entfernung beider Leiter sehr gross, so ist dieselbe — ½Wa.
+
+
+
+  

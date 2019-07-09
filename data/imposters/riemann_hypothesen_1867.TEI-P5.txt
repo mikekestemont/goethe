@@ -1,0 +1,651 @@
+
+
+
+
+
+
+
+
+ABHANDLUNGEN
+DER
+KÖNIGLICHEN GESELLSCHAFT DER WISSENSCHAFTEN
+ZU GÖTTINGEN.
+ DREIZEHNTER BAND
+VON DEN JAHREN 1866 UND 1867.
+MIT EINER KARTE UND VIER TAFELN.
+ GÖTTINGEN,
+IN DER DIETERICHSCHEN BUCHHANDLUNG.
+1868.
+
+Ueber
+die Hypothesen, welche der Geometrie zu Grunde liegen.
+Von
+B. Riemann.
+ Aus dem Nachlass des Verfassers mitgetheilt durch R. DedekindDiese Abhandlung ist am 10. Juni 1854 von dem Verfasser bei dem zum
+Zweck seiner Habilitation veranstalteten Colloquium mit der philosophischen Facultät
+zu Göttingen vorgelesen worden. Hieraus erklärt sich die Form der Darstellung,
+in welcher die analytischen Untersuchungen nur angedeutet werden konnten; in
+einem besonderen Aufsatze gedenke ich demnächst auf dieselben zurückzukommen.
+Braunschweig, im Juli 1867. R. Dedekind..
+ Plan der Untersuchung.
+Bekanntlich setzt die Geometrie sowohl den Begriff des Raumes, als
+die ersten Grundbegriffe für die Constructionen im Raume als etwas
+Gegebenes voraus. Sie giebt von ihnen nur Nominaldefinitionen, wäh-
+rend die wesentlichen Bestimmungen in Form von Axiomen auftreten.
+Das Verhältniss dieser Voraussetzungen bleibt dabei im Dunkeln; man
+sieht weder ein, ob und in wie weit ihre Verbindung nothwendig, noch
+a priori, ob sie möglich ist.
+Diese Dunkelheit wurde auch von Euklid bis auf Legendre,
+um den berühmtesten neueren Bearbeiter der Geometrie zu nennen,
+weder von den Mathematikern, noch von den Philosophen, welche sich
+damit beschäftigten, gehoben. Es hatte dies seinen Grund wohl darin,
+dass der allgemeine Begriff mehrfach ausgedehnter Grössen, unter wel-
+chem die Raumgrössen enthalten sind, ganz unbearbeitet blieb. Ich
+habe mir daher zunächst die Aufgabe gestellt, den Begriff einer mehrfach
+ausgedehnten Grösse aus allgemeinen Grössenbegriffen zu construiren.
+Es wird daraus hervorgehen, dass eine mehrfach ausgedehnte Grösse ver-
+
+B. RIEMANN,
+schiedener Massverhältnisse fähig ist und der Raum also nur einen be-
+sonderen Fall einer dreifach ausgedehnten Grösse bildet. Hiervon aber
+ist eine nothwendige Folge, dass die Sätze der Geometrie sich nicht aus
+allgemeinen Grössenbegriffen ableiten lassen, sondern dass diejenigen Ei-
+genschaften, durch welche sich der Raum von anderen denkbaren drei-
+fach ausgedehnten Grössen unterscheidet, nur aus der Erfahrung ent-
+nommen werden können. Hieraus entsteht die Aufgabe, die einfachsten
+Thatsachen aufzusuchen, aus denen sich die Massverhältnisse des Raumes
+bestimmen lassen — eine Aufgabe, die der Natur der Sache nach nicht
+völlig bestimmt ist; denn es lassen sich mehrere Systeme einfacher That-
+sachen angeben, welche zur Bestimmung der Massverhältnisse des Rau-
+mes hinreichen; am wichtigsten ist für den gegenwärtigen Zweck das von
+Euklid zu Grunde gelegte. Diese Thatsachen sind wie alle Thatsachen
+nicht nothwendig, sondern nur von empirischer Gewissheit, sie sind Hy-
+pothesen; man kann also ihre Wahrscheinlichkeit, welche innerhalb der
+Grenzen der Beobachtung allerdings sehr gross ist, untersuchen und hie-
+nach über die Zulässigkeit ihrer Ausdehnung jenseits der Grenzen der
+Beobachtung, sowohl nach der Seite des Unmessbargrossen, als nach der
+Seite des Unmessbarkleinen urtheilen.
+I. Begriff einer nfach ausgedehnten Grösse.
+Indem ich nun von diesen Aufgaben zunächst die erste, die Ent-
+wicklung des Begriffs mehrfach ausgedehnter Grössen zu lösen versuche,
+glaube ich um so mehr auf eine nachsichtige Beurtheilung Anspruch
+machen zu dürfen, da ich in dergleichen Arbeiten philosophischer Natur,
+wo die Schwierigkeiten mehr in den Begriffen, als in der Construction
+liegen, wenig geübt bin und ich ausser einigen ganz kurzen Andeutun-
+gen, welche Herr Geheimer Hofrath Gauss in der zweiten Abhandlung
+über die biquadratischen Reste, in den Göttingenschen gelehrten Anzeigen
+und in seiner Jubiläumsschrift darüber gegeben hat, und einigen philo-
+sophischen Untersuchungen Herbart’s, durchaus keine Vorarbeiten be-
+nutzen konnte.
+
+UEB. D. HYPOTHESEN, WELCHE DER GEOMETRIE ZU GRUNDE LIEGEN.
+§. 1.
+Grössenbegriffe sind nur da möglich, wo sich ein allgemeiner Begriff
+vorfindet, der verschiedene Bestimmungsweisen zulässt. Je nachdem
+unter diesen Bestimmungsweisen von einer zu einer andern ein stetiger
+Uebergang stattfindet oder nicht, bilden sie eine stetige oder discrete
+Mannigfaltigkeit; die einzelnen Bestimmungsweisen heissen im erstern
+Falle Punkte, im letztern Elemente dieser Mannigfaltigkeit. Begriffe,
+deren Bestimmungsweisen eine discrete Mannigfaltigkeit bilden, sind so
+häufig, dass sich für beliebig gegebene Dinge wenigstens in den gebilde-
+teren Sprachen immer ein Begriff auffinden lässt, unter welchem sie ent-
+halten sind (und die Mathematiker konnten daher in der Lehre von den
+discreten Grössen unbedenklich von der Forderung ausgehen, gegebene
+Dinge als gleichartig zu betrachten), dagegen sind die Veranlassungen
+zur Bildung von Begriffen, deren Bestimmungsweisen eine stetige Man-
+nigfaltigkeit bilden, im gemeinen Leben so selten, dass die Orte der
+Sinnengegenstände und die Farben wohl die einzigen einfachen Begriffe
+sind, deren Bestimmungsweisen eine mehrfach ausgedehnte Mannigfaltig-
+keit bilden. Häufigere Veranlassung zur Ergeuzung und Ausbildung
+dieser Begriffe findet sich erst in der höhern Mathematik.
+Bestimmte, durch ein Merkmal oder eine Grenze unterschiedene
+Theile einer Mannigfaltigkeit heissen Quanta. Ihre Vergleichung der
+Quantität nach geschieht bei den discreten Grössen durch Zählung, bei
+den stetigen durch Messung. Das Messen besteht in einem Aufeinander-
+legen der zu vergleichenden Grössen; zum Messen wird also ein Mittel
+erfordert, die eine Grösse als Massstab für die andere fortzutragen. Fehlt
+dieses, so kann man zwei Grössen nur vergleichen, wenn die eine ein
+Theil der andern ist, und auch dann nur das Mehr oder Minder, nicht
+das Wieviel entscheiden. Die Untersuchungen, welche sich in diesem
+Falle über sie anstellen lassen, bilden einen allgemeinen von Massbe-
+stimmungen unabhängigen Theil der Grössenlehre, wo die Grössen nicht
+als unabhängig von der Lage existirend und nicht als durch eine Ein
+heit ausdrückbar, sondern als Gebiete in einer Mannigfaltigkeit betrachtet
+werden. Solche Untersuchungen sind für mehrere Theile der Mathematik,
+
+B. RIEMANN,
+namentlich für die Behandlung der mehrwerthigen analytischen Functionen
+ein Bedürfniss geworden, und der Mangel derselben ist wohl eine Haupt-
+ursache, dass der berühmte Abel’sche Satz und die Leistungen von La-
+grange, Pfaff, Jacobi für die allgemeine Theorie der Differentialglei-
+chungen so lange unfruchtbar geblieben sind. Für den gegenwärtigen
+Zweck genügt es, aus diesem allgemeinen Theile der Lehre von den aus-
+gedehnten Grössen, wo weiter nichts vorausgesetzt wird, als was in dem
+Begriffe derselben schon enthalten ist, zwei Punkte hervorzuheben, wovon
+der erste die Erzeugung des Begriffs einer mehrfach ausgedehnten Man-
+nigfaltigkeit, der zweite die Zurückführung der Ortsbestimmungen in einer
+gegebenen Mannigfaltigkeit auf Quantitätsbestimmungen betrifft und das
+wesentliche Kennzeichen einer nfachen Ausdehnung deutlich machen wird.
+§. 2.
+Geht man bei einem Begriffe, dessen Bestimmungsweisen eine ste-
+tige Mannigfaltigkeit bilden, von einer Bestimmungsweise auf eine be-
+stimmte Art zu einer andern über, so bilden die durchlaufenen Bestim-
+mungsweisen eine einfach ausgedehnte Mannigfaltigkeit, deren wesent-
+liches Kennzeichen ist, dass in ihr von einem Punkte nur nach zwei
+Seiten, vorwärts oder rückwärts, ein stetiger Fortgang möglich ist. Denkt
+man sich nun, dass diese Mannigfaltigkeit wieder in eine andere, völlig
+verschiedene, übergeht, und zwar wieder auf bestimmte Art, d. h. so,
+dass jeder Punkt in einen bestimmten Punkt der andern übergeht, so bil-
+den sämmtliche so erhaltene Bestimmungsweisen eine zweifach ausgedehnte
+Mannigfaltigkeit. In ähnlicher Weise erhält man eine dreifach ausge-
+dehnte Mannigfaltigkeit, wenn man sich vorstellt, dass eine zweifach aus-
+gedehnte in eine völlig verschiedene auf bestimmte Art übergeht, und es
+ist leicht zu sehen, wie man diese Construction fortsetzen kann. Wenn
+man, anstatt den Begriff als bestimmbar, seinen Gegenstand als verän-
+derlich betrachtet, so kann diese Construction bezeichnet werden als eine
+Zusammensetzung einer Veränderlichkeit von n + 1 Dimensionen aus
+einer Veränderlichkeit von n Dimensionen und aus einer Veränderlichkeit
+von einer Dimension.
+
+ÜB. D. HYPOTHESEN, WELCHE DER GEOMETRIE ZU GRUNDE LIEGEN.
+§. 3.
+Ich werde nun zeigen, wie man umgekehrt eine Veränderlichkeit,
+deren Gebiet gegeben ist, in eine Veränderlichkeit von einer Dimension
+und eine Veränderlichkeit von weniger Dimensionen zerlegen kann. Zu
+diesem Ende denke man sich ein veränderliches Stück einer Mannigfal-
+tigkeit von einer Dimension — von einem festen Anfangspunkte an ge-
+rechnet, so dass die Werthe desselben unter einander vergleichbar sind —
+welches für jeden Punkt der gegebenen Mannigfaltigkeit einen bestimm-
+ten mit ihm stetig sich ändernden Werth hat, oder mit andern Worten,
+man nehme innerhalb der gegebenen Mannigfaltigkeit eine stetige Fun-
+ction des Orts an, und zwar eine solche Function, welche nicht längs
+eines Theils dieser Mannigfaltigkeit constant ist. Jedes System von
+Punkten, wo die Function einen constanten Werth hat, bildet dann eine
+stetige Mannigfaltigkeit von weniger Dimensionen, als die gegebene.
+Diese Mannigfaltigkeiten gehen bei Aenderung der Function stetig in
+einander über; man wird daher annehmen können, dass aus einer von
+ihnen die übrigen hervorgehen, und es wird dies, allgemein zu reden,
+so geschehen können, dass jeder Punkt in einen bestimmten Punkt der
+andern übergeht; die Ausnahmsfälle, deren Untersuchung wichtig ist,
+können hier unberücksichtigt bleiben. Hierdurch wird die Ortsbestim-
+mung in der gegebenen Mannigfaltigkeit zurückgeführt auf eine Grössen-
+bestimmung und auf eine Ortsbestimmung in einer minderfach ausge-
+dehnten Mannigfaltigkeit. Es ist nun leicht zu zeigen, dass diese Man-
+nigfaltigkeit n — 1 Dimensionen hat, wenn die gegebene Mannigfaltigkeit
+eine nfach ausgedehnte ist. Durch nmalige Wiederholung dieses Ver-
+fahrens wird daher die Ortsbestimmung in einer nfach ausgedehnten Man-
+nigfaltigkeit auf n Grössenbestimmungen, und also die Ortsbestimmung
+in einer gegebenen Mannigfaltigkeit, wenn dieses möglich ist, auf eine
+endliche Anzahl von Quantitätsbestimmungen zurückgeführt. Es giebt
+indess auch Mannigfaltigkeiten, in welchen die Ortsbestimmung nicht
+eine endliche Zahl, sondern entweder eine unendliche Reihe oder eine
+stetige Mannigfaltigkeit von Grössenbestimmungen erfordert. Solche Man-
+nigfaltigkeiten bilden z. B. die möglichen Bestimmungen einer Function
+Mathem. Classe. XIII. S
+
+B. RIEMANN,
+für ein gegebenes Gebiet, die möglichen Gestalten einer räumlichen
+Figur u. s. w.
+II. Massverhältnisse, deren eine Mannigfaltigkeit von
+n Dimensionen fähig ist, unter der Voraussetzung, dass die
+Linien unabhängig von der Lage eine Länge besitzen, also
+jede Linie durch jede messbar ist.
+Es folgt nun, nachdem der Begriff, einer nfach ausgedehnten Man-
+nigfaltigkeit construirt und als wesentliches Kennzeichen derselben ge-
+funden worden ist, dass sich die Ortsbestimmung in derselben auf n Grö-
+ssenbestimmungen zurückführen lässt, als zweite der oben gestellten Auf-
+gaben eine Untersuchung über die Massverhältnisse, deren eine solche
+Mannigfaltigkeit fähig ist, und über die Bedingungen, welche zur Bestim-
+mung dieser Massverhältnisse hinreichen. Diese Massverhältnisse lassen
+sich nur in abstracten Grössenbegriffen untersuchen und im Zusammen-
+hange nur durch Formeln darstellen; unter gewissen Voraussetzungen
+kann man sie indess in Verhältnisse zerlegen, welche einzeln genommen
+einer geometrischen Darstellung fähig sind, und hiedurch wird es mög-
+lich, die Resultate der Rechnung geometrisch auszudrücken. Es wird
+daher, um festen Boden zu gewinnen, zwar eine abstracte Untersuchung
+in Formeln nicht zu vermeiden sein, die Resultate derselben aber werden
+sich dann im geometrischen Gewande darstellen lassen. Zu Beidem sind
+die Grundlagen enthalten in der berühmten Abhandlung des Herrn Ge-
+heimen Hofraths Gauss über die krummen Flächen.
+§. 1.
+Massbestimmungen erfordern eine Unabhängigkeit der Grössen vom
+Ort, die in mehr als einer Weise stattfinden kann; die zunächst sich
+darbietende Annahme, welche ich hier verfolgen will, ist wohl die, dass
+die Länge der Linien unabhängig von der Lage sei, also jede Linie durch
+jede messbar sei. Wird die Ortsbestimmung auf Grössenbestimmungen
+zurückgeführt, also die Lage eines Punktes in der gegebenen nfach aus-
+
+ÜB. D. HYPOTHESEN, WELCHE DER GEOMETRIE ZU GRUNDE LIEGEN.
+gedehnten Mannigfaltigkeit durch n veränderliche Grössen x1, x2, x3,
+und so fort bis xn ausgedrückt, so wird die Bestimmung einer Linie
+darauf hinauskommen, dass die Grössen x als Functionen einer Verän-
+derlichen gegeben werden. Die Aufgabe ist dann, für die Länge der
+Linien einen mathematischen Ausdruck aufzustellen, zu welchem Zwecke
+die Grössen x als in Einheiten ausdrückbar betrachtet werden müssen.
+Ich werde diese Aufgabe nur unter gewissen Beschränkungen behandeln
+und beschränke mich erstlich auf solche Linien, in welchen die Ver-
+hältnisse zwischen den Grössen dx — den zusammengehörigen Aende-
+rungen der Grössen x — sich stetig ändern; man kann dann die Li-
+nien in Elemente zerlegt denken, innerhalb deren die Verhältnisse der
+Grössen dx als constant betrachtet werden dürfen, und die Aufgabe
+kommt dann darauf zurück, für jeden Punkt einen allgemeinen Aus-
+druck des von ihm ausgehenden Linienelements ds aufzustellen, welcher
+also die Grössen x und die Grössen dx enthalten wird. Ich nehme nun
+zweitens an, dass die Länge des Linienelements, von Grössen zweiter
+Ordnung abgesehen, ungeändert bleibt, wenn sämmtliche Punkte dessel-
+ben dieselbe unendlich kleine Ortsänderung erleiden, worin zugleich
+enthalten ist, dass, wenn sämmtliche Grössen dx in demselben Verhält-
+nisse wachsen, das Linienelement sich ebenfalls in diesem Verhältnisse
+ändert. Unter diesen Annahmen wird das Linienelement eine beliebige
+homogene Function ersten Grades der Grössen dx sein können, welche
+ungeändert bleibt, wenn sämmtliche Grössen dx ihr Zeichen ändern, und
+worin die willkührlichen Constanten stetige Functionen der Grössen x
+sind. Um die einfachsten Fälle zu finden, suche ich zunächst einen
+Ausdruck für die n̅—̅1̅fach ausgedehnten Mannigfaltigkeiten, welche vom
+Anfangspunkte des Linienelements überall gleich weit abstehen, d. h.
+ich suche eine stetige Function des Orts, welche sie von einander un-
+terscheidet. Diese wird vom Anfangspunkt aus nach allen Seiten ent-
+weder ab- oder zunehmen müssen; ich will annehmen, dass sie nach
+allen Seiten zunimmt und also in dem Punkte ein Minimum hat. Es
+muss dann, wenn ihre ersten und zweiten Differentialquotienten endlich
+sind, das Differential erster Ordnung verschwinden und das zweiter Ord-
+S 2
+
+B. RIEMANN,
+nung darf nie negativ werden; ich nehme an, dass es immer positiv
+bleibt. Dieser Differentialausdruck zweiter Ordnung bleibt alsdann con-
+stant, wenn ds constant bleibt und wächst im quadratischen Verhält-
+nisse, wenn die Grössen dx und also auch ds sich sämmtlich in demsel-
+ben Verhältnisse ändern; er ist also = const. ds2 und folglich ist ds =
+der Quadratwurzel aus einer immer positiven ganzen homogenen Function
+zweiten Grades der Grössen dx, in welcher die Coefficienten stetige
+Functionen der Grössen x sind. Für den Raum wird, wenn man die
+Lage der Punkte durch rechtwinklige Coordinaten ausdrückt, ds = ;
+der Raum ist also unter diesem einfachsten Falle enthalten. Der nächst
+einfache Fall würde wohl die Mannigfaltigkeiten umfassen, in welchen
+sich das Linienelement durch die vierte Wurzel aus einem Differential-
+ausdrucke vierten Grades ausdrücken lässt. Die Untersuchung dieser
+allgemeinern Gattung würde zwar keine wesentlich andere Principien er-
+fordern, aber ziemlich zeitraubend sein und verhältnissmässig auf die
+Lehre vom Raume wenig neues Licht werfen, zumal da sich die Resul-
+tate nicht geometrisch ausdrücken lassen; ich beschränke mich daher
+auf die Mannigfaltigkeiten, wo das Linienelement durch die Quadrat-
+wurzel aus einem Differentialausdruck zweiten Grades ausgedrückt wird.
+Man kann einen solchen Ausdruck in einen andern ähnlichen transfor-
+miren, indem man für die n unabhängigen Veränderlichen Functionen
+von n neuen unabhängigen Veränderlichen setzt. Auf diesem Wege
+wird man aber nicht jeden Ausdruck in jeden transformiren können;
+denn der Ausdruck enthält  Coefficienten, welche willkührliche
+Functionen der unabhängigen Veränderlichen sind; durch Einführung
+neuer Veränderlicher wird man aber nur n Relationen genügen und also
+nur n der Coefficienten gegebenen Grössen gleich machen können. Es
+sind dann die übrigen  durch die Natur der darzustellenden Man-
+nigfaltigkeit schon völlig bestimmt, und zur Bestimmung ihrer Mass-
+verhältnisse also  Functionen des Orts erforderlich. Die Mannig-
+
+ÜB. D. HYPOTHESEN, WELCHE DER GEOMETRIE ZU GRUNDE LIEGEN.
+faltigkeiten, in welchen sich, wie in der Ebene und im Raume, das Li-
+nienelement auf die Form  bringen lässt, bilden daher nur einen
+besondern Fall der hier zu untersuchenden Mannigfaltigkeiten; sie ver-
+dienen wohl einen besondern Namen, und ich will also diese Mannig-
+faltigkeiten, in welchen sich das Quadrat des Linienelements auf die
+Summe der Quadrate von vollständigen Differentialien bringen lässt, eben
+nennen. Um nun die wesentlichen Verschiedenheiten sämmtlicher in
+der vorausgesetzten Form darstellbarer Mannigfaltigkeiten übersehen zu
+können, ist es nöthig, die von der Darstellungsweise herrührenden zu
+beseitigen, was durch Wahl der veränderlichen Grössen nach einem be-
+stimmten Princip erreicht wird.
+§. 2.
+Zu diesem Ende denke man sich von einem beliebigen Punkte aus
+das System der von ihm ausgehenden kürzesten Linien construirt; die
+Lage eines unbestimmten Punktes wird dann bestimmt werden können
+durch die Anfangsrichtung der kürzesten Linie, in welcher er liegt, und
+durch seine Entfernung in derselben vom Anfangspunkte und kann daher
+durch die Verhältnisse dx0 der Grössen dx in dieser kürzesten Linie und
+durch die Länge s dieser Linie ausgedrückt werden. Man führe nun
+statt dx0 solche aus ihnen gebildete lineäre Ausdrücke dα ein, dass der
+Anfangswerth des Quadrats des Linienelements gleich der Summe der
+Quadrate dieser Ausdrücke wird, so dass die unabhängigen Variabeln
+sind: die Grösse s und die Verhältnisse der Grössen dα und setze
+schliesslich statt dα solche ihnen proportionale Grössen x1, x2, …, xn,
+dass die Quadratsumme = s2 wird. Führt man diese Grössen ein, so
+wird für unendlich kleine Werthe von x das Quadrat des Linienelements
+= Σ dx2, das Glied der nächsten Ordnung in demselben aber gleich
+einem homogenen Ausdruck zweiten Grades der  Grössen
+(x1 dx2—x2 dx1), (x1 dx3—x3 dx1), …, also eine unendlich kleine Grösse
+von der vierten Dimension, so dass man eine endliche Grösse erhält, wenn
+man sie durch das Quadrat des unendlich kleinen Dreiecks dividirt, in
+
+B. RIEMANN,
+dessen Eckpunkten die Werthe der Veränderlichen sind (0, 0, 0, …),
+(x1, x2, x3, …), (dx1, dx2, dx3, ….). Diese Grösse behält denselben
+Werth, so lange die Grössen x und dx in denselben binären Linearfor-
+men enthalten sind oder so lange die beiden kürzesten Linien von den
+Werthen 0 bis zu den Werthen x und von den Werthen 0 bis zu den
+Werthen dx in demselben Flächenelement bleiben, und hängt also nur
+von Ort und Richtung desselben ab. Sie wird offenbar = 0, wenn die
+dargestellte Mannigfaltigkeit eben, d. h. das Quadrat des Linienelements
+auf Σ dx2 reducirbar ist, und kann daher als das Mass der in diesem
+Punkte in dieser Flächenrichtung stattfindenden Abweichung der Man-
+nigfaltigkeit von der Ebenheit angesehen werden. Multiplicirt mit — ¾
+wird sie der Grösse gleich, welche Herr Geheimer Hofrath Gauss das
+Krümmungsmass einer Fläche genannt hat. Zur Bestimmung der Mass-
+verhältnisse einer nfach ausgedehnten in der vorausgesetzten Form dar-
+stellbaren Mannigfaltigkeit wurden vorhin  Functionen des Orts
+nöthig gefunden; wenn also das Krümmungsmass in jedem Punkte in
+ Flächenrichtungen gegeben wird, so werden daraus die Mass-
+verhältnisse der Mannigfaltigkeit sich bestimmen lassen, wofern nur zwi-
+schen diesen Werthen keine identischen Relationen stattfinden, was in
+der That, allgemein zu reden, nicht der Fall ist. Die Massverhältnisse
+dieser Mannigfaltigkeiten, wo das Linienelement durch die Quadratwurzel
+aus einem Differentialausdruck zweiten Grades dargestellt wird, lassen
+sich so auf eine von der Wahl der veränderlichen Grössen völlig unab-
+hängige Weise ausdrücken. Ein ganz ähnlicher Weg lässt sich zu die-
+sem Ziele auch bei den Mannigfaltigkeiten einschlagen, in welchen das
+Linienelement durch einen weniger einfachen Ausdruck, z. B. durch die
+vierte Wurzel aus einem Differentialausdruck vierten Grades, ausgedrückt
+wird. Es würde sich dann das Linienelement, allgemein zu reden, nicht
+mehr auf die Form der Quadratwurzel aus einer Quadratsumme von
+Differentialausdrücken bringen lassen und also in dem Ausdrucke für das
+Quadrat des Linienelements die Abweichung von der Ebenheit eine un-
+
+ÜB. D. HYPOTHESEN, WELCHE DER GEOMETRIE ZU GRUNDE LIEGEN.
+endlich kleine Grösse von der zweiten Dimension sein, während sie bei jenen
+Mannigfaltigkeiten eine unendlich kleine Grösse von der vierten Dimension
+war. Diese Eigenthümlichkeit der letztern Mannigfaltigkeiten kann daher
+wohl Ebenheit in den kleinsten Theilen genannt werden. Die für den jetzi-
+gen Zweck wichtigste Eigenthümlichkeit dieser Mannigfaltigkeiten, derent-
+wegen sie hier allein untersucht worden sind, ist aber die, dass sich die
+Verhältnisse der zweifach ausgedehnten geometrisch durch Flächen darstel-
+len und die der mehrfach ausgedehnten auf die der in ihnen enthaltenen
+Flächen zurückführen lassen, was jetzt noch einer kurzen Erörterung bedarf.
+§. 3.
+In die Auffassung der Flächen mischt sich neben den inneren Mass-
+verhältnissen, bei welchen nur die Länge der Wege in ihnen in Betracht
+kommt, immer auch ihre Lage zu ausser ihnen gelegenen Punkten. Man
+kann aber von den äussern Verhältnissen abstrahiren, indem man solche
+Veränderungen mit ihnen vornimmt, bei denen die Länge der Linien in
+ihnen ungeändert bleibt, d. h. sie sich beliebig — ohne Dehnung — ge-
+bogen denkt, und alle so auseinander entstehenden Flächen als gleich-
+artig betrachtet. Es gelten also z. B. beliebige cylindrische oder coni-
+sche Flächen einer Ebene gleich, weil sie sich durch blosse Biegung aus
+ihr bilden lassen, wobei die innern Massverhältnisse bleiben, und sämmt-
+liche Sätze über dieselben — also die ganze Planimetrie — ihre Gültig-
+keit behalten; dagegen gelten sie als wesentlich verschieden von der Ku-
+gel, welche sich nicht ohne Dehnung in eine Ebene verwandeln lässt.
+Nach der vorigen Untersuchung werden in jedem Punkte die innern
+Massverhältnisse einer zweifach ausgedehnten Grösse, wenn sich das Li-
+nienelement durch die Quadratwurzel aus einem Differentialausdruck
+zweiten Grades ausdrücken lässt, wie dies bei den Flächen der Fall ist,
+charakterisirt durch das Krümmungsmass. Dieser Grösse lässt sich nun
+bei den Flächen die anschauliche Bedeutung geben, dass sie das Product
+aus den beiden Krümmungen der Fläche in diesem Punkte ist, oder auch,
+dass das Product derselben in ein unendlich kleines aus kürzesten Linien
+gebildetes Dreieck gleich ist dem halben Ueberschusse seiner Winkel-
+
+B. RIEMANN,
+summe über zwei Rechte in Theilen des Halbmessers. Die erste Defini-
+tion würde den Satz voraussetzen, dass das Product der beiden Krüm-
+mungshalbmesser bei der blossen Biegung einer Fläche ungeändert bleibt,
+die zweite, dass an demselben Orte der Ueberschuss der Winkelsumme
+eines unendlich kleinen Dreiecks über zwei Rechte seinem Inhalte pro-
+portional ist. Um dem Krümmungsmass einer nfach ausgedehnten Man-
+nigfaltigkeit in einem gegebenen Punkte und einer gegebenen durch ihn
+gelegten Flächenrichtung eine greifbare Bedeutung zu geben, muss man
+davon ausgehen, dass eine von einem Punkte ausgehende kürzeste Linie
+völlig bestimmt ist, wenn ihre Anfangsrichtung gegeben ist. Hienach
+wird man eine bestimmte Fläche erhalten, wenn man sämmtliche von dem
+gegebenen Punkte ausgehenden und in dem gegebenen Flächenelement
+liegenden Anfangsrichtungen zu kürzesten Linien verlängert, und diese
+Fläche hat in dem gegebenen Punkte ein bestimmtes Krümmungsmass,
+welches zugleich das Krümmungsmass der nfach ausgedehnten Mannig-
+faltigkeit in dem gegebenen Punkte und der gegebenen Flächenrich-
+tung ist.
+§. 4.
+Es sind nun noch, ehe die Anwendung auf den Raum gemacht
+wird, einige Betrachtungen über die ebenen Mannigfaltigkeiten im All-
+gemeinen nöthig, d. h. über diejenigen, in welchen das Quadrat des Li-
+nienelements durch eine Quadratsumme vollständiger Differentialien dar-
+stellbar ist.
+In einer ebenen nfach ausgedehnten Mannigfaltigkeit ist das Krüm-
+mungsmass in jedem Punkte in jeder Richtung Null; es reicht aber nach
+der frühern Untersuchung, um die Massverhältnisse zu bestimmen, hin
+zu wissen, dass es in jedem Punkte in  Flächenrichtungen, deren
+Krümmungsmasse von einander unabhängig sind, Null sei. Die Mannig-
+faltigkeiten, deren Krümmungsmass überall = 0 ist, lassen sich betrach-
+ten als ein besonderer Fall derjenigen Mannigfaltigkeiten, deren Krüm-
+mungsmass allenthalben constant ist. Der gemeinsame Charakter dieser
+Mannigfaltigkeiten, deren Krümmungsmass constant ist, kann auch so
+
+ÜB. D. HYPOTHESEN, WELCHE DER GEOMETRIE ZU GRUNDE LIEGEN.
+ausgedrückt werden, dass sich die Figuren in ihnen ohne Dehnung be-
+wegen lassen. Denn offenbar würden die Figuren in ihnen nicht belie-
+big verschiebbar und drehbar sein können, wenn nicht in jedem Punkte
+in allen Richtungen das Krümmungsmass dasselbe wäre. Andererseits
+aber sind durch das Krümmungsmass die Massverhältnisse der Mannig-
+faltigkeit vollständig bestimmt; es sind daher um einen Punkt nach allen
+Richtungen die Massverhältnisse genau dieselben, wie um einen andern,
+und also von ihm aus dieselben Constructionen ausführbar, und folglich
+kann in den Mannigfaltigkeiten mit constantem Krümmungsmass den Fi-
+guren jede beliebige Lage gegeben werden. Die Massverhältnisse dieser
+Mannigfaltigkeiten hängen nur von dem Werthe des Krümmungsmasses
+ab, und in Bezug auf die analytische Darstellung mag bemerkt werden,
+dass, wenn man diesen Werth durch α bezeichnet, dem Ausdruck für
+das Linienelement die Form
+ gegeben werden kann.
+§. 5.
+Zur geometrischen Erläuterung kann die Betrachtung der Flächen
+mit constantem Krümmungsmass dienen. Es ist leicht zu sehen, dass sich
+die Flächen, deren Krümmungsmass positiv ist, immer auf eine Kugel,
+deren Radius gleich 1 dividirt durch die Wurzel aus dem Krümmungs-
+mass ist, wickeln lassen werden; um aber die ganze Mannigfaltigkeit
+dieser Flächen zu übersehen, gebe man einer derselben die Gestalt einer
+Kugel und den übrigen die Gestalt von Umdrehungsflächen, welche sie
+im Aequator berühren. Die Flächen mit grösserem Krümmungsmass,
+als diese Kugel, werden dann die Kugel von innen berühren und eine
+Gestalt annehmen, wie der äussere der Axe abgewandte Theil der Ober-
+fläche eines Ringes; sie würden sich auf Zonen von Kugeln mit kleine-
+rem Halbmesser wickeln lassen, aber mehr als einmal herumreichen.
+Die Flächen mit kleinerem positiven Krümmungsmass wird man erhalten,
+Mathem. Classe. XIII. T
+
+B. RIEMANN,
+wenn man aus Kugelflächen mit grösserem Radius ein von zwei grössten
+Halbkreisen begrenztes Stück ausschneidet und die Schnittlinien zusam-
+menfügt. Die Fläche mit dem Krümmungsmass Null wird eine auf dem
+Aequator stehende Cylinderfläche sein; die Flächen mit negativem Krüm-
+mungsmass aber werden diesen Cylinder von aussen berühren und wie
+der innere der Axe zugewandte Theil der Oberfläche eines Ringes ge-
+formt sein. Denkt man sich diese Flächen als Ort für in ihnen beweg-
+liche Flächenstücke, wie den Raum als Ort für Körper, so sind in allen
+diesen Flächen die Flächenstücke ohne Dehnung beweglich. Die Flächen
+mit positivem Krümmungsmass lassen sich stets so formen, dass die Flä-
+chenstücke auch ohne Biegung beliebig bewegt werden können, nämlich
+zu Kugelflächen, die mit negativem aber nicht. Ausser dieser Unabhän-
+gigkeit der Flächenstücke vom Ort findet bei der Fläche mit dem Krüm-
+mungsmass Null auch eine Unabhängigkeit der Richtung vom Ort statt,
+welche bei den übrigen Flächen nicht stattfindet.
+III. Anwendung auf den Raum.
+§. 1.
+Nach diesen Untersuchungen über die Bestimmung der Massverhält-
+nisse einer nfach ausgedehnten Grösse lassen sich nun die Bedingungen
+angeben, welche zur Bestimmung der Massverhältnisse des Raumes hin-
+reichend und nothwendig sind, wenn Unabhängigkeit der Linien von der
+Lage und Darstellbarkeit des Linienelements durch die Quadratwurzel
+aus einem Differentialausdrucke zweiten Grades, also Ebenheit in den
+kleinsten Theilen vorausgesetzt wird.
+Sie lassen sich erstens so ausdrücken, dass das Krümmungsmass in
+jedem Punkte in drei Flächenrichtungen = 0 ist, und es sind daher die
+Massverhältnisse des Raumes bestimmt, wenn die Winkelsumme im Dreieck
+allenthalben gleich zwei Rechten ist.
+Setzt man aber zweitens, wie Euklid, nicht bloss eine von der Lage
+unabhängige Existenz der Linien, sondern auch der Körper voraus, so
+
+ÜB. D. HYPOTHESEN, WELCHE DER GEOMETRIE ZU GRUNDE LIEGEN.
+folgt, dass das Krümmungsmass allenthalben constant ist, und es ist dann
+in allen Dreiecken die Winkelsumme bestimmt, wenn sie in einem be-
+stimmt ist.
+Endlich könnte man drittens, anstatt die Länge der Linien als un-
+abhängig von Ort und Richtung anzunehmen, auch eine Unabhängigkeit
+ihrer Länge und Richtung vom Ort voraussetzen. Nach dieser Auffas-
+sung sind die Ortsänderungen oder Ortsverschiedenheiten complexe in
+drei unabhängige Einheiten ausdrückbare Grössen.
+§. 2.
+Im Laufe der bisherigen Betrachtungen wurden zunächst die Aus-
+dehnungs- oder Gebietsverhältnisse von den Massverhältnissen gesondert,
+und gefunden, dass bei denselben Ausdehnungsverhältnissen verschiedene
+Massverhältnisse denkbar sind; es wurden dann die Systeme einfacher
+Massbestimmungen aufgesucht, durch welche die Massverhältnisse des
+Raumes völlig bestimmt sind und von welchen alle Sätze über dieselben
+eine nothwendige Folge sind; es bleibt nun die Frage zu erörtern, wie,
+in welchem Grade und in welchem Umfange diese Voraussetzungen durch
+die Erfahrung verbürgt werden. In dieser Beziehung findet zwischen den
+blossen Ausdehnungsverhältnissen und den Massverhältnissen eine we-
+sentliche Verschiedenheit statt, insofern bei erstern, wo die möglichen
+Fälle eine discrete Mannigfaltigkeit bilden, die Aussagen der Erfahrung
+zwar nie völlig gewiss, aber nicht ungenau sind, während bei letztern,
+wo die möglichen Fälle eine stetige Mannigfaltigkeit bilden, jede Bestim-
+mung aus der Erfahrung immer ungenau bleibt — es mag die Wahr-
+scheinlichkeit, dass sie nahe richtig ist, noch so gross sein. Dieser Um-
+stand wird wichtig bei der Ausdehnung dieser empirischen Bestimmun-
+gen über die Grenzen der Beobachtung in’s Unmessbargrosse und Un-
+messbarkleine; denn die letztern können offenbar jenseits der Grenzen
+der Beobachtung immer ungenauer werden, die ersteren aber nicht.
+Bei der Ausdehnung der Raumconstructionen in’s Unmessbargrosse
+ist Unbegrenztheit und Unendlichkeit zu scheiden; jene gehört zu den
+Ausdehnungsverhältnissen, diese zu den Massverhältnissen. Dass der
+T*
+
+B. RIEMANN,
+Raum eine unbegrenzte dreifach ausgedehnte Mannigfaltigkeit sei, ist
+eine Voraussetzung, welche bei jeder Auffassung der Aussenwelt ange-
+wandt wird, nach welcher in jedem Augenblicke das Gebiet der wirk-
+lichen Wahrnehmungen ergänzt und die möglichen Orte eines gesuchten
+Gegenstandes construirt werden und welche sich bei diesen Anwendungen
+fortwährend bestätigt. Die Unbegrenztheit des Raumes besitzt daher eine
+grössere empirische Gewissheit, als irgend eine äussere Erfahrung.
+Hieraus folgt aber die Unendlichkeit keineswegs; vielmehr würde der
+Raum, wenn man Unabhängigkeit der Körper vom Ort voraussetzt, ihm
+also ein constantes Krümmungsmass zuschreibt, nothwendig endlich sein,
+so bald dieses Krümmungsmass einen noch so kleinen positiven Werth
+hätte. Man würde, wenn man die in einem Flächenelement liegenden
+Anfangsrichtungen zu kürzesten Linien verlängert, eine unbegrenzte
+Fläche mit constantem positiven Krümmungsmass, also eine Fläche er-
+halten, welche in einer ebenen dreifach ausgedehnten Mannigfaltigkeit
+die Gestalt einer Kugelfläche annehmen würde und welche folglich
+endlich ist.
+§. 3.
+Die Fragen über das Unmessbargrosse sind für die Naturerklärung
+müssige Fragen. Anders verhält es sich aber mit den Fragen über das
+Unmessbarkleine. Auf der Genauigkeit, mit welcher wir die Erschei-
+nungen in’s Unendlichkleine verfolgen, beruht wesentlich die Erkenntniss
+ihres Causalzusammenhangs. Die Fortschritte der letzten Jahrhunderte
+in der Erkenntniss der mechanischen Natur sind fast allein bedingt durch
+die Genauigkeit der Construction, welche durch die Erfindung der Ana-
+lysis des Unendlichen und die von Archimed, Galliläi und Newton auf-
+gefundenen einfachen Grundbegriffe, deren sich die heutige Physik be-
+dient, möglich geworden ist. In den Naturwissenschaften aber, wo die
+einfachen Grundbegriffe zu solchen Constructionen bis jetzt fehlen, ver-
+folgt man, um den Causalzusammenhang zu erkennen, die Erscheinungen
+in’s räumlich Kleine, so weit es das Mikroskop nur gestattet. Die Fra-
+
+ÜB. D. HYPOTHESEN, WELCHE DER GEOMETRIE ZU GRUNDE LIEGEN.
+gen über die Massverhältnisse des Raumes im Unmessbarkleinen gehören
+also nicht zu den müssigen.
+Setzt man voraus, dass die Körper unabhängig vom Ort existiren,
+so ist das Krümmungsmass überall constant, und es folgt dann aus den
+astronomischen Messungen, dass es nicht von Null verschieden sein kann;
+jedenfalls müsste sein reciprocer Werth eine Fläche sein, gegen welche
+das unsern Teleskopen zugängliche Gebiet verschwinden müsste. Wenn
+aber eine solche Unabhängigkeit der Körper vom Ort nicht stattfindet,
+so kann man aus den Massverhältnissen im Grossen nicht auf die im
+Unendlichkleinen schliessen; es kann dann in jedem Punkte das Krüm-
+mungsmass in drei Richtungen einen beliebigen Werth haben, wenn nur
+die ganze Krümmung jedes messbaren Raumtheils nicht merklich von
+Null verschieden ist; noch complicirtere Verhältnisse können eintreten,
+wenn die vorausgesetzte Darstellbarkeit eines Linienelements durch die
+Quadratwurzel aus einem Differentialausdruck zweiten Grades nicht statt-
+findet. Nun scheinen aber die empirischen Begriffe, in welchen die
+räumlichen Massbestimmungen gegründet sind, der Begriff des festen
+Körpers und des Lichtstrahls, im Unendlichkleinen ihre Gültigkeit zu
+verlieren; es ist also sehr wohl denkbar, dass die Massverhältnisse des
+Raumes im Unendlichkleinen den Voraussetzungen der Geometrie nicht
+gemäss sind, und dies würde man in der That annehmen müssen, sobald
+sich dadurch die Erscheinungen auf einfachere Weise erklären liessen.
+Die Frage über die Gültigkeit der Voraussetzungen der Geometrie
+im Unendlichkleinen hängt zusammen mit der Frage nach dem innern
+Grunde der Massverhältnisse des Raumes. Bei dieser Frage, welche
+wohl noch zur Lehre vom Raume gerechnet werden darf, kommt die
+obige Bemerkung zur Anwendung, dass bei einer discreten Mannigfal-
+tigkeit das Princip der Massverhältnisse schon in dem Begriffe dieser
+Mannigfaltigkeit enthalten ist, bei einer stetigen aber anders woher hin-
+zukommen muss. Es muss also entweder das dem Raume zu Grunde
+liegende Wirkliche eine discrete Mannigfaltigkeit bilden, oder der Grund
+der Massverhältnisse ausserhalb, in darauf wirkenden bindenden Kräften,
+gesucht werden.
+
+B. RIEMANN, ÜB. DIE HYPOTHESEN u. s. w.
+Die Entscheidung dieser Fragen kann nur gefunden werden, indem
+man von der bisherigen durch die Erfahrung bewährten Auffassung der
+Erscheinungen, wozu Newton den Grund gelegt, ausgeht und diese durch
+Thatsachen, die sich aus ihr nicht erklären lassen, getrieben allmählich
+umarbeitet; solche Untersuchungen, welche, wie die hier geführte, von
+allgemeinen Begriffen ausgehen, können nur dazu dienen, dass diese
+Arbeit nicht durch die Beschränktheit der Begriffe gehindert und der
+Fortschritt im Erkennen des Zusammenhangs der Dinge nicht durch
+überlieferte Vorurtheile gehemmt wird.
+Es führt dies hinüber in das Gebiet einer andern Wissenschaft, in
+das Gebiet der Physik, welches wohl die Natur der heutigen Veranlas-
+sung nicht zu betreten erlaubt.
+
+
+Uebersicht.
+ Plan der Untersuchung S. 133
+I. Begriff einer nfach ausgedehnten Grösse Art. I. bildet zugleich die Vorarbeit für Beiträge zur analysis situs. „ 134
+§. 1. Stetige und discrete Mannigfaltigkeiten. Bestimmte Theile einer Mannig-
+faltigkeit heissen Quanta. Eintheilung der Lehre von den stetigen Grössen
+in die Lehre
+1) von den blossen Gebietsverhältnissen, bei welcher eine Unabhängigkeit
+der Grössen vom Ort nicht vorausgesetzt wird,
+2) von den Massverhältnissen, bei welcher eine solche Unabhängigkeit
+vorausgesetzt werden muss „ 135
+§. 2. Erzeugung des Begriffs einer einfach, zweifach, …, nfach ausgedehnten
+Mannigfaltigkeit „ 136
+§. 3. Zurückführung der Ortsbestimmung in einer gegebenen Mannigfaltigkeit
+auf Quantitätsbestimmungen. Wesentliches Kennzeichen einer nfach ausge-
+dehnten Mannigfaltigkeit „ 137
+II. Massverhältnisse, deren eine Mannigfaltigkeit von n Dimensionen fähig ist Die Untersuchung über die möglichen Massbestimmungen einer nfach ausgedehnten
+Mannigfaltigkeit ist sehr unvollständig, indess für den gegenwärtigen Zweck wohl ausreichend.,
+unter der Voraussetzung, dass die Linien unabhängig von der Lage eine Länge
+besitzen, also jede Linie durch jede messbar ist „ 138
+§. 1. Ausdruck des Linienelements. Als eben werden solche Mannigfaltigkeiten
+betrachtet, in denen das Linienelement durch die Wurzel aus einer Quadrat-
+summe vollständiger Differentialien ausdrückbar ist „ 138
+§. 2. Untersuchung der nfach ausgedehnten Mannigfaltigkeiten, in welchen das
+Linienelement durch die Quadratwurzel aus einem Differentialausdruck zwei-
+ten Grades dargestellt werden kann. Mass ihrer Abweichung von der
+Ebenheit (Krümmungsmass) in einem gegebenen Punkte und einer gegebenen
+Flächenrichtung. Zur Bestimmung ihrer Massverhältnisse ist es (unter ge-
+wissen Beschränkungen) zulässig und hinreichend, dass das Krümmungsmass in
+jedem Punkte in n  Flächenrichtungen beliebig gegeben wird „ 141
+
+ÜBERSICHT.
+§. 3. Geometrische Erläuterung S. 143
+§. 4. Die ebenen Mannigfaltigkeiten (in denen das Krümmungsmass allenthalben
+= 0 ist) lassen sich betrachten als einen besondern Fall der Mannigfaltig-
+keiten mit constantem Krümmungsmass. Diese können auch dadurch de-
+finirt werden, dass in ihnen Unabhängigkeit der nfach ausgedehnten Grössen
+vom Ort (Bewegbarkeit derselben ohne Dehnung) stattfindet „ 144
+§. 5. Flächen mit constantem Krümmungsmasse „ 145
+III. Anwendung auf den Raum „ 146
+§. 1. Systeme von Thatsachen, welche zur Bestimmung der Massverhältnisse
+des Raumes, wie die Geometrie sie voraussetzt, hinreichen „ 146
+§. 2. In wie weit ist die Gültigkeit dieser empirischen Bestimmungen wahr-
+scheinlich jenseits der Grenzen der Beobachtung im Unmessbargrossen? „ 147
+§. 3. In wie weit im Unendlichkleinen? Zusammenhang dieser Frage mit der
+Naturerklärung Der §. 3 des Art. III. bedarf noch einer Umarbeitung und weitern Ausführung. „ 148
+
+
+
+
+  

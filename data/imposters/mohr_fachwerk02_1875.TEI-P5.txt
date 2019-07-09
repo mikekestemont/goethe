@@ -1,0 +1,756 @@
+         
+
+
+
+
+
+
+
+                 ZEITSCHRIFT
+des
+Architekten- und                     Ingenieur-Vereins
+zu
+HANNOVER.                 
+                 Neue Folge des Notizblattes.                 
+                 Herausgegeben von dem Vorstande des Vereins.
+Redigirt                     von
+
+Launhardt,
+Direktor der polytechnischen Schule zu                     Hannover.
+(Heft 1 und 2.)
+
+und
+
+Keck,
+Professor an der polytechnischen                     Schule zu Hannover.
+(Heft 3 und 4.)                 
+                 Band XXI.
+Heft 1-4.                 
+Mit 31 Blatt Zeichnungen und vielen in den Text eingedruckten                     Holzschnitten.                 
+                                  HANNOVER.
+SCHMORL &amp; VON                     SEEFELD.
+
+1875.                 
+
+
+Hofbuchdruckerei der Gebr. Jänecke in Hannover             
+
+
+
+
+
+
+
+
+                                                                            Beitrag zur Theorie des Fachwerks;                                                       
+vom Baurath                          Mohr                     , Professor am Polytechnikum zu Dresden.                 
+(Mit Figuren auf den Blättern 614 und 615.)
+(Fortsetzung                     des Aufsatzes in Band XX Heft 4.)                                            
+             
+                                      Anwendung auf das zusammengesetzte Bogenfachwerk.                                  
+Unter der Bezeichnung Bogenfachwerk kann
+man alle                     diejenigen Fachwerke zusammenfassen, welche
+in mehr als                         einem Stützpunkt eine horizontale
+Auflagerreaktion aufzunehmen haben. Die Anzahl der
+festen Stützpunkte ist in der Regel zwei, und man
+pflegt bei der Berechnung solcher Fachwerke                     anzu-
+nehmen, dass die Entfernung A B (Fig. 18) dieser beiden
+Punkte von                     einander vollkommen unveränderlich sei.
+                         Fig. 18.                     
+ Diese Voraussetzung ist ohne Zweifel nicht genau                     richtig,
+denn jedes Widerlager wird unter der Einwirkung                     der
+Auflagerdrücke theils bleibende theils elastische                     Form-
+veränderungen annehmen. Es ist sogar wahrscheinlich,
+dass die                     ungünstigen Erfahrungen, welche man mit
+elastischen Bogenträgern an manchen                     Orten gemacht
+hat, zum Theil in diesem Umstande ihren Grund hatten.
+Auf                     jeden Fall ist es zu empfehlen, die Möglichkeit
+
+und die Folgen solcher Bewegungen der                     Widerlager
+bei der Konstruktion und Berechnung des Trägers                     zu
+berücksichtigen. Es kann dies in sehr einfacher Form
+geschehen, wenn                     man das Bogenfachwerk in ein Balken-
+fachwerk verwandelt, indem man bei der                     Berechnung
+annimmt, es seien die beiden Knotenpunkte A und B
+durch einen                     Konstruktionstheil A B verbunden und das
+eine der beiden Auflager sei wie                     bei einem Balken
+horizontal verschiebbar. Die inneren Kräfte                     dieses
+Balkens werden unter sonst gleichen Umständen offen-
+bar mit                     denjenigen des Bogenträgers übereinstimmen,
+vorausgesetzt, dass man dem                     Konstruktionstheil A B
+des Balkens, dessen Spannung den Horizontalschub                     der
+Widerlager des Bogens repräsentirt, genau dieselben
+Längenänderungen                     beilegt wie der Stützweite A B des
+Bogens. Wendet man das im Vorhergehenden                     ent-
+wickelte Verfahren zur Berechnung des zusammenge-
+setzten                     Balkenfachwerks auf den so eben beschriebenen
+Balken an, indem man A B als                         überzähligen Kon-
+struktionstheil einführt, so                     ergeben sich nach Form und
+Inhalt genau dieselben Resultate, welche in der                     Ab-
+handlung über die Theorie des Bogenfachwerks in dem
+zweiten Hefte                     des Jahrgangs 1874 enthalten sind. Es
+erscheint demnach überflüssig, auf                     diesen Gegenstand
+hier näher einzugehen.                 
+2                 
+
+
+Mohr, Beitrag zur Theorie des                     Fachwerks.                 
+                                                   Anwendung auf das kontinuirliche Balkenfachwerk.                                  
+Für praktische Zwecke genügt es, die Untersuchung
+auf den Fall zu                     beschränken, in welchem die Anzahl
+der überzähligen                     Konstruktionstheile eben so gross
+ist wie die Anzahl der Mittelstützen des Trägers.
+Dies ist, wie man leicht erkennt, der                     Fall, wenn die
+ununterbrochenen Gurtungen durch ein                     System von
+Füllungstheilen mit einander verbunden sind. Kommen
+mehrere                     Systeme von Füllungstheilen zur Anwendung,
+so kann man, ohne einen                     erheblichen Fehler zu be-
+gehen, dieselben zusammenlegen und für die so                     ver-
+einfachte Form des Trägers die äusseren Kräfte be-
+stimmen. Die                     Bedingungen, welche die Stützenlage
+der                     Formveränderung des Trägers auferlegt, kann man
+auf einfache Weise in                     Rechnung bringen, indem man
+ganz ähnlich wie bei der Berechnung des                     Bogenfach-
+werks fingirte Konstruktionstheile in die                     Betrachtung
+einführt. Man kann nämlich offenbar, ohne am Zustand
+des                     Trägers irgend Etwas zu verändern, die beweg-
+lichen Mittelstützen durch                     pendelförmige Auflager 1, 2
+(Fig. 19) ersetzen, welche um ihre unteren                     festen End-
+punkte frei sich drehen. Betrachtet man nun diese
+                         Fig. 19.                     
+ Pendel als Theile des Balkens und zwar als die über-
+zähligen Konstruktionstheile, so kann man das                     im
+Obigen entwickelte und durch Zahlenbeispiele erläuterte
+Verfahren zur                     Berechnung zusammengesetzter Balken-
+fachwerke ohne Weiteres auf die hier                     vorliegende Auf-
+gabe anwenden. Auf diesem Wege soll im Folgenden
+ein                         graphisches Verfahren zur Bestimmung der                     Auf-
+lagerreaktionen entwickelt werden. Für die analy-
+tische Behandlung der Aufgabe erscheint es,                     nament-
+lich wenn man die Voraussetzung der horizontalen
+Stützenlage der Betrachtung zu Grunde legen will,                     noch
+etwas bequemer, als überzählige                     Konstruktionstheile
+diejenigen Gurtungstheile                     einzuführen, deren Mo-
+mentenpunkte in den Vertikalen der Mittelstützen                     lie-
+gen. Durch Beseitigung dieser Konstruktionstheile wird
+das                     kontinuirliche Balkenfachwerk in eine Anzahl ein-
+facher Balkenfachwerke zerlegt, welche die                     einzelnen
+Tragfelder überspannen. S bezeichnet                     sonach die Span-
+nungen, welche von den Belastungen in diesen                     ein-
+fachen, von einander unabhängigen Fachwerken her-
+vorgerufen                     werden.                 
+Bezeichnet man ferner mit h die Trägerhöhe zwi-
+schen den Schwerpunkten der                     beiden Gurtungsquer-
+schnitte und mit s1, s2, s3, … die                     Stützweiten des
+1sten, 2ten, 3ten, … Tragfeldes, so ist in Bezug                     auf
+die Bestimmung der Zahlenwerthe u zu berücksichtigen,
+dass eine                     Zugspannung gleich Eins eines der über-
+zähligen                     Konstruktionstheile z. B. des Theils 3 (Fi-
+gur 20) vertikale                     Auflagerreaktionen der drei benach-
+
+barten Stützen 2, 3 und 4 von der Grösse                     
+und  erzeugt und dass also in allen                     Konstruktions-
+theilen der beiden einfachen Fachwerke über dem
+dritten und vierten Tragfelde                     Spannungen u3 sich
+                         (Fig. 20.)                     
+ bilden. Ebenso erstrecken sich die Spannungen u1 auf
+die Theile des ersten und zweiten, die                     Spannungen u2
+auf die Theile des zweiten und                     dritten Tragfeldes u. s. f.
+Man erkennt hieraus, dass die Produkte u1 · u2 nur
+für die Konstruktionstheile des zweiten, die Produkte
+u2 ·                         u3 nur für die Theile des dritten Tragfeldes sich
+bilden lassen. Deutet man also durch die                     Zeichen
+ an, dass die Summirung auf die                     Konstruktionstheile
+des ersten oder des ersten und zweiten Tragfeldes
+sich erstreckt, so                     nehmen die Gleichungen 9) im vor-
+liegenden Falle folgende Form an:
+18)                                      
+Diese Gleichungen können in Bezug auf die Unbe-
+kannten S1, S2, S3 ......                     aufgelöst werden ohne Bezug-
+nahme auf einen bestimmten Belastungsfall.                     Nachdem
+dies geschehen ist, müssen für jeden Belastungsfall,
+welcher in                     Betracht gezogen werden soll, die Werthe
+der Summen Σ u · S · r berechnet und in die Ausdrücke
+für die                     Spannungen S1, S2, S3 .... eingesetzt werden.
+Es ist nur noch daran zu                     erinnern, dass die Produkte
+aus diesen Spannungen und der Trägerhöhe h                     gleich
+den Biegungsmomenten M1, M2, M3                     … der äusse-
+ren Kräfte in Bezug auf die Querschnitte durch                     die
+erste, zweite, dritte … Mittelstütze sind und dass,                     so-
+bald jene Momente ermittelt sind, die Bestimmung und
+graphische                     Darstellung der Spannungen in den übrigen
+Konstruktionstheilen auf sehr                     einfache Weise geschehen
+kann.                 
+Aus der Uebereinstimmung in der Form der Glei-
+chungen 18) mit den bekannten                         Clapeyron’schen
+Gleichungen                                             Die Clapeyron’schen Gleichungen                             beziehen sich offen-
+bar auf einen besonderen Fall der vorliegenden                             viel allge-
+meineren Untersuchung und können daher aus den                             Gleichungen
+18 abgeleitet werden. Dieser Fall tritt ein, wenn die                             Gurtun-
+gen einen konstanten Querschnitt F                             und die Theile dersel-
+ben unendlich kleine                             Längen d x haben, wenn ferner die
+Längenänderungen der Füllungstheile vernachlässigt wer-
+den                             dürfen und wenn endlich die Belastungen über die Länge
+eines jeden                             Tragfeldes gleichmässig vertheilt sind. Es                             möge                      lässt sich folgern, dass die Theorie
+
+
+Mohr, Beitrag zur Theorie                         des Fachwerks.
+des kontinuirlichen Balkenfachwerks genau in                     derselben
+Form entwickelt werden kann wie die jetzt allgemein
+angewandte                     Theorie der kontinuirlichen Träger. Wir
+haben es nicht für zweckmässig                     gehalten, die weitere
+Entwickelung hier auszuführen, weil Gründe für                     die
+Annahme vorliegen, dass die Resultate dieser genaueren
+hier beispielsweise die Clapeyron’sche                             Gleichung für das zweite
+und dritte Tragfeld aus der zweiten der Gleichungen                             18 ent-
+wickelt werden. Zu dem Zwecke bezeichnen wir mit q2 und q3
+die                             Belastungen für die Längeneinheit des zweiten und                             dritten
+Tragfeldes; und mit x die horizontale, variable Entfernung                             des
+betrachteten Gurtungstheils von der zweiten Mittelstütze.
+Für jeden Gurtungstheil von der                             Länge d x, dem Quer-
+schnitt F und dem Elasticitätsmodul E                             ist
+ Ferner ergeben sich aus der Betrachtung der                             nachstehenden
+Figuren für jeden Gurtungstheil des zweiten Tragfeldes die
+Werthe:
+                                 Fig. 21.                             
+                                                                                           Fig. 22.                             
+                                                                                           Fig. 23.                             
+                              und für jeden Gurtungstheil des dritten Tragfeldes
+ Die oberen Vorzeichen gelten                             für die Theile der oberen und
+die unteren für die Theile der unteren                             Gurtung. Die in den
+Gleichungen 18) vorkommenden Summenwerthe haben                             demnach
+für beide Gurtungen gleiche Grössen und Vorzeichen und es
+genügt                             daher, in jene Gleichungen nur die Summenwerthe für
+die obere Gurtung einzusetzen. Hiernach                             ist:
+                                          
+Theorie in der Regel nur unerheblich von den                     Ergeb-
+nissen des bislang gebräuchlichen einfacheren Verfah-
+rens                     abweichen. Man pflegt bekanntlich bei der Wahl
+der Querschnittsdimensionen                     eines kontinuirlichen Bal-
+kenfachwerks diejenigen äusseren Kräfte zu                     berück-
+sichtigen, welche auf einen Träger von konstantem
+Querschnitt unter sonst gleichen Umständen                     einwirken
+würden. Wenn es erlaubt ist, aus einigen durchgerech-
+neten                     Beispielen einen solchen Schluss zu ziehen, so
+darf jenes Verfahren als                     zulässig anerkannt werden.
+Jedenfalls dürfte es genügen, nachdem die                     Querschnitts-
+dimensionen in der eben angegebenen Weise gewählt
+worden                     sind, die Richtigkeit und Brauchbarkeit der
+Ergebnisse durch Anwendung des                     oben entwickelten
+Verfahrens auf einige wichtige Belastungsfälle zu                     prüfen.
+Für diesen Zweck bedarf es einer weiteren Entwicke-
+lung der                     Theorie nicht, da die Gleichungen 18) direkt
+in Anwendung gebracht werden                     können. Die ziemlich
+zeitraubenden Zahlenrechnungen, welche hiermit                     ver-
+bunden sind, kann man umgehen durch Anwendung
+des im Folgenden                     beschriebenen graphischen Verfahrens.                          
+                                      Graphische Bestimmung der Durchbiegungen eines                         ein-
+fachen Balkenfachwerks.                                  
+                     Fig. 24.                                  
+                 Ein Polygon A C B (Fig. 24), dessen vertikale Or-
+dinaten y1, y2, y3 .... in Bezug auf eine Abscissen-
+achse A B von beliebiger Lage                     die Durchbiegungen der
+Knotenpunkte der unteren                     Gurtung eines Balkenfach-
+werks darstellen, nennen wir das Biegungspolygon
+jener Gurtung. Die Möglichkeit,                     dieses Polygon zu
+oder
+ ferner:
+ und                             endlich:
+ Setzt man diese Werthe in die zweite der                             Gleichungen 18
+ein, so ergibt sich die                             Beziehung:
+                                          2*
+
+
+Mohr, Beitrag zur Theorie                         des Fachwerks.
+konstruiren, beruht auf der folgenden                     statischen Be-
+trachtung.                 
+Es sei K (Fig. 25) die bewegliche Belastung eines
+in seinen Endpunkten A und                     B unterstützten Balkens;
+                                              Fig. 25.                     
+                         Fig. 26.                     
+                         Fig. 27.                     
+C und D seien zwei Punkte der Geraden A B, ferner
+E F ein                     Schnitt, welcher zwischen C und D den Balken
+schneidet und endlich G ein                     Punkt von beliebiger
+Lage in der Vertikalebene des Balkens. Die Last                     K
+bewegt sich von A nach C, überspringt die Strecke C D
+und bewegt sich                     darauf von D nach B. Für jede Lage
+der Last K soll das Moment der links vom                     Schnitt E F
+auf den Balken einwirkenden Aussenkräfte in Bezug
+auf den                     Punkt G bestimmt werden. Dasselbe ist ab-
+hängig von der Stützweite s, sowie                     von den Abscissen b
+und x des Punktes G und der Kraft K. Das Moment
+ist                     offenbar gleich
+oder gleich 
+je nachdem die Last K zwischen A                     und C oder zwi-
+schen B und D liegt.                 
+Es seien ferner K1 K2 ....                     (Fig. 26) eine beliebige
+Anzahl ruhender Vertikalkräfte, welche zwischen C                     und
+D auf den Balken einwirken und deren Mittelkraft,
+von der Grösse und                     Richtung der Kraft K, durch den
+Punkt G geht. Diese Vertikalkräfte erzeugen                     zwei Auf-
+lagerreaktionen von der Grösse
+ und demnach in jedem                     Querschnitt zwischen A und C
+ein Biegungsmoment gleich
+ und in                     jedem Querschnitt zwischen D und B ein Bie-
+
+gungsmoment von der Grösse
+ wenn man                     mit x die Abscisse des Querschnitts be-
+zeichnet. Das Seilpolygon A H J B A                     (Fig. 27), welches
+in bekannter Weise diese Biegungsmomente                     graphisch
+darstellt, ergibt also zugleich die in der zuerst                     be-
+sprochenen Aufgabe gesuchten Momente, indem für jede
+Lage der                     beweglichen Last K das Produkt aus der
+entsprechenden Ordinate y des                     Seilpolygons und dem
+Horizontalzug desselben die Grösse des gesuchten                     Mo-
+mentes in Bezug auf den Punkt G darstellt. Wir be-
+nutzen diese                     Beziehung zunächst um folgende Aufgabe
+zu lösen.                 
+Es ist das Biegungspolygon zu konstruiren,
+welches                     entsteht, wenn nur ein einziger Konstruktions-
+theil C D (Fig. 28) eines einfachen Balkenfachwerks
+seine Länge um das kleine                     Mass Δl verändert. Für
+                                              Fig. 28.                     
+                         Fig. 29.                     
+irgend einen Knotenpunkt z. B. E ist die gesuchte
+Durchbiegung                     nach Gleichung 2)
+ wenn man mit u diejenige Spannung des                     Konstruktions-
+theils C D bezeichnet, welche durch eine im Knoten-
+punkt                     E angebrachte Belastung von der Grösse Eins
+hervorgerufen wird. Die Berechnung der Spannung u
+nimmt                     bekanntlich die einfachste Form an, wenn es
+möglich ist, das Fachwerk durch                     einen Schnitt F F so
+zu zerlegen, dass ausser C D nur noch zwei                     Konstruk-
+tionstheile C H und D G, welche mit C D nicht in ei-
+nem                     Knotenpunkt zusammentreffen, geschnitten werden.
+Wenn man die                     Momentengleichung auf den Schnitt-
+punkt J dieser beiden Konstruktionstheile                     bezieht, so
+ist u die einzige Unbekannte in derselben. Bezeichnet
+man                     den Hebelarm der Spannung u in Bezug auf den
+Drehpunkt J mit a, so ist                     zufolge jener Momenten-
+gleichung das Moment u · a gleich der                     Momentensumme
+der links (oder rechts) vom Schnitt F F auf den                     Träger
+wirkenden Aussenkräfte. Das Moment u · a wird von
+der Belastung                         Eins hervorgerufen; dasselbe nimmt
+
+
+Mohr, Beitrag zur Theorie                         des Fachwerks.
+demnach die Grösse u · Δ l an, wenn                     man auf den
+Knotenpunkt E anstatt der Belastung Eins die Last
+                     einwirken lässt. Die in Rede stehende Aufgabe ist
+hierdurch auf folgende                     zurückgeführt: Eine Belastung
+ nimmt nach einander die sämmtlichen                     durch die
+Knotenpunkte der unteren Gurtung bestimmten Lagen
+an; es ist                     für jede Lage dieser Last die Grösse u · Δ l
+des Moments der                     links vom Schnitt F F liegenden
+Aussenkräfte in Bezug auf den Punkt J zu                     bestimmen.
+Diese Aufgabe wird nach dem Obigen auf graphischem
+Wege                     gelöst, indem man zwischen den Knotenpunkten
+G und D, welche den geschnittenen Theil G D der
+unteren Gurtung begrenzen, Vertikalkräfte K1, K2 …
+anbringt, deren                     Mittelkraft von der Grösse  durch
+den Punkt J geht, und wenn man                     alsdann die von
+jenen Belastungen erzeugten Biegungsmomente                     vermit-
+telst eines Seilpolygons konstruirt. Dieses Seilpolygon
+ist das                     verlangte Biegungspolygon und zwar steht der
+Massstab der Abscissen zum                     Massstab der Durchbie-
+gungen in demselben Verhältnisse, wie der                     Horizontal-
+zug oder die Poldistanz des Seilpolygons zu Eins. Ist
+also                     z. B. der Massstab der Abscissen 1 : 1000, so hat
+man die Poldistanz gleich                         0,001 aufzutragen, um die
+Durchbiegungen in                         natürlicher Grösse zu konstruiren.                 
+In Bezug auf die Richtungen der Belastungen K
+ist                     zunächst daran zu erinnern, dass in der Gleichung
+ die Grössen positive Werthe haben, wenn Δ y eine
+Hebung des betreffenden Knotenpunktes, u eine Zug-
+spannung und Δ l eine Verlängerung des betrach-
+teten Konstruktionstheils                     C D bezeichnet; sie sind da-
+gegen negativ, wenn                     Δ y eine Senkung, u eine
+Druckspannung und Δ l eine Verkürzung darstellt.
+Die Durchbiegung eines Knotenpunktes hat                     demnach
+die Richtung nach unten oder nach oben, je nachdem
+Δ                     l und das auf den Knotenpunkt bezügliche u gleiche
+oder entgegengesetzte Vorzeichen                     haben. Es ist
+zweckmässig, bei der Konstruktion des Biegungspolygons
+die                     Lage des Pols im Kräftepolygon so zu wählen,
+dass die Durchbiegungen in                     Bezug auf die Schlusslinie
+dieselbe Richtung — nach oben oder                     unten — erhalten
+wie die erzeugende Belastung K. Unter dieser                     Voraus-
+setzung ergeben sich folgende Regeln:                 
+Gehört der betrachtete Konstruktionstheil C D (Fi-
+gur 30) einer der beiden                         Gurtungen an, so kann die
+Belastung
+                                              Fig. 30.                     
+                         Fig. 31.                     
+
+ unmittelbar in der Vertikalen des Momentenpunktes J
+angebracht                     werden, und zwar ist K nach unten oder
+nach oben gerichtet, je nachdem u und Δ l gleiche
+oder entgegengesetzte Vorzeichen haben; hierbei
+ist zu beachten, dass                     alle Werthe von u für jeden Theil
+der unteren                     Gurtung positiv und für jeden Theil
+der oberen                     Gurtung negativ sind.                 
+Ist dagegen der betrachtete Konstruktionstheil C D
+ein Füllungstheil (Fig. 32), so muss, weil der Mo-
+                                              Fig. 32.                     
+                         Fig. 33.                     
+mentenpunkt J nicht zwischen G und D liegt, die
+Mittelkraft K                     in zwei Kräfte K1 und K2                     zerlegt wer-
+den, die man zweckmässig in den Endpunkten G
+und D des vom Schnitt F F getroffenen unteren                     Gur-
+tungstheils anbringt. Die Belastungen K1 und                         K2 zu
+beiden Seiten des Schnittes F F haben                     immer entge-
+gengesetzte Richtungen, und zwar ist                     die Belastung
+nach unten gerichtet auf derjenigen                     Seite des Schnit-
+tes, auf welcher Spannungen u von demselben Vor-
+zeichen wie Δ l erzeugt werden. Hierbei                     ist zu beach-
+ten, dass der Schnitt F F das Fachwerk in zwei                     Theile
+zerlegt, von welchen der eine den oberen                     Knotenpunkt
+C und der andere den unteren Knotenpunkt                     D des
+betrachteten Füllungstheils C D enthält, und dass alle
+Belastungen                     des erstgenannten Trägertheils negative,
+dagegen alle Belastungen des                     letztgenannten Träger-
+theils positive Spannungen u hervorrufen. Es                     ergibt
+sich hiernach folgendes Verfahren: man versehe den
+oberen                     Knotenpunkt des Füllungstheils (Figur 32) mit
+dem Zeichen —, den                     unteren mit dem Zeichen + und
+den Füllungstheil selbst mit dem Vorzeichen                     von Δ l.
+Für Figur 32 ist beispielsweise eine Verkürzung                     des
+Füllungstheils C D angenommen und derselbe demge-
+mäss mit                     — bezeichnet. Auf derjenigen Seite des
+Schnittes F F, auf welcher                     das Vorzeichen des Knoten-
+punktes mit dem Vorzeichen des Füllungstheils über-
+einstimmt, hat die Belastung des                     Biegungspolygons
+— in Figur 33 die Belastung K1 — die Richtung nach
+unten und auf der                     anderen Seite die Richtung nach
+
+
+Mohr, Beitrag zur Theorie                         des Fachwerks.
+oben. Man kann diese beiden Richtungen, wie es                     in
+den folgenden Beispielen geschehen ist, durch die Vor-
+zeichen                     — und + von einander unterscheiden.                 
+Es ist zu empfehlen, die Bestimmung der Grössen
+der                     Belastungen K1 und K2 von                     der Länge a, welche
+sehr häufig auf der Zeichnung nicht mit der                     erwünsch-
+ten Genauigkeit gemessen werden kann, unabhängig zu
+machen. Es                     geschieht dies, indem man die Gerade
+D L parallel zu C G zieht und die                     beiden Abstände a1
+und a2 der Punkte G und L von dem betrachteten
+Konstruktionstheil C D                     misst. Denn offenbar ist:
+19)                  
+Die vorstehenden Regeln lassen sich nicht ohne
+Weiteres anwenden, wenn jeder                     Schnitt durch den be-
+trachteten Konstruktionstheil entweder mehr oder                     weni-
+ger als zwei andere Theile trifft. In Figur 34                     sind
+alle Formen dieses Ausnahmefalles, welche für den
+vorliegenden                     Zweck in Betracht zu ziehen sind, dar-
+gestellt, und zwar beziehen sich                     dieselben auf die Kon-
+struktionstheile 2, 7, 11 und 16. Schaltet man,                     ohne
+im Uebrigen die Form des Fachwerks zu verändern,
+statt der                     Knotenpunkte A, B, C, D Gurtungstheile A A,
+B B, C C, D D (Fig. 35) von unendlich kleiner Länge
+ein und ertheilt man z. B.                     jedem der beiden Theile
+7 und 7a in Figur 35 dieselbe Längenänderung                     Δ l wie
+dem Theil 7 in Figur 34, so wird die                     Formverände-
+rung des Fachwerks in beiden Fällen offenbar genau
+dieselbe                     sein. Auf das Fachwerk (Fig. 35) lassen sich
+aber die oben entwickelten                     Regeln anwenden, und es
+ist also hierdurch der Ausnahmefall auf die                     regelmässige
+Behandlung der Aufgabe zurückgeführt.                 
+                     Fig. 34.                                  
+                                      Fig. 35.                                  
+                 Zur Vereinfachung der Darstellung wurden bis
+jetzt nur diejenigen                     Durchbiegungen in Betracht ge-
+zogen, welche von der Längenänderung eines                     einzigen
+Konstruktionstheils hervorgerufen werden. Wenn statt
+dessen die                     Formveränderung des Fachwerks durch die
+Längenänderungen einer beliebigen                     Anzahl oder aller
+Konstruktionstheile herbeigeführt wird, so ergibt                     sich,
+indem man eine bekannte Eigenschaft des Seilpolygons
+zur Anwendung                     bringt, das Biegungspolygon, wenn
+man nach den vorstehenden Regeln die                     Belastungen K
+
+oder K1 und K2 für alle Konstruktionstheile bestimmt
+und das                     Seilpolygon dieser sämmtlichen Belastungen
+konstruirt.                 
+Die im Vorstehenden beschriebene Konstruktion des
+Biegungspolygons wird, wenn                     es sich nur um die Durch-
+biegung eines bestimmten Knotenpunktes für einen                     ein-
+zelnen Belastungsfall handelt, im Vergleich mit der
+Berechnung der                     Durchbiegung nach der Gleichung 2
+keine Vortheile gewähren. Der Nutzen des                     graphischen
+Verfahrens ergibt sich erst durch die Anwendung                     der
+folgenden Beziehung:                 
+Sind C und D zwei beliebige Knotenpunkte des
+Fachwerks, so ist die                     Durchbiegung des Knotenpunktes
+C, welche von einer Belastung P des                     Knotenpunktes D
+hervorgerufen wird, genau so gross wie die                     Durchbie-
+gung des Knotenpunktes D in Folge derselben Bela-
+stung des                     Knotenpunktes C. Der Beweis für die
+Richtigkeit dieser Behauptung ergibt                     sich fast unmittel-
+bar aus der Gleichung 2. Denn bezeichnet man                     die
+Werthe von u für den Knotenpunkt C mit u1 und                     für
+den Knotenpunkt D mit u2, so erzeugt die                     Belastung P
+des Knotenpunktes D Spannungen der Konstruktions-
+theile von                     der Grösse
+ also elastische Längenänderungen
+ und in                     Folge dessen eine Durchbiegung des Knoten-
+punktes C von der                     Grösse:
+                 Ist dagegen der Knotenpunkt C mit P belastet, so
+wird
+ und die                     Durchbiegung des Knotenpunktes D
+ also eben so gross, wie die                     Durchbiegung des Punktes
+C im ersten Falle.                 
+Bezeichnet man demnach mit (Fig. 37 auf Bl. 614)
+y1, y2, y3 ....                     diejenigen Durchbiegungen, welche die
+Knotenpunkte I, II, III .... des                     Fachwerks (Fig. 36)
+erleiden, wenn ein bestimmter Knotenpunkt z. B.                     VI
+mit dem Gewichte R belastet ist, so ergibt sich für
+den Fall, in                     welchem die Knotenpunkte I, II, III ....
+mit P1,                         P2, P3 .... belastet                     sind, die Durchbiegung y
+des Knotenpunktes VI aus der Formel:
+20)                                      
+Wenn die Belastungen P1, P2,                         P3… nicht in den
+Knotenpunkten I,                     II, III … angebracht sind, sondern
+an beliebigen Stellen zwischen                     jenen Punkten auf den
+Fahrbahnträger einwirken, so ist es für die                     Anwendung
+der Gleichung 20) nicht erforderlich, die Belastungen
+auf die                     Knotenpunkte zu vertheilen, sondern man ge-
+langt auf einfacherem Wege zu                     demselben Resultat,
+wenn man bei der Bildung der Summe Σ P · y                     jede
+Belastung P ohne Weiteres mit der in ihrer Vertikalen
+zu messenden                     Ordinate y des Biegungspolygons multi-
+
+
+Mohr, Beitrag zur Theorie                         des Fachwerks.
+plicirt. Die Bildung der rechten Seite der                     Gleichung 20
+kann demnach in allen Fällen auf sehr einfache                     Weise
+vermittelst eines Seilpolygons erfolgen.                 
+Beispiel. Auf Blatt 614 sind eine Anzahl                     Durch-
+biegungen des in Figur 36 dargestellten Brückenträgers
+konstruirt                     worden, und zwar Durchbiegungen desjeni-
+gen Knotenpunktes VI, welcher die                     Länge der unteren
+Gurtung halbirt. Der Fahrbahnträger der Brücke ist
+in                     den Knotenpunkten der unteren Gurtung aufge-
+hängt                     und demgemäss ist in Figur 37 das Biegungs-
+polygon A der unteren Gurtung                     konstruirt, welches
+
+entsteht, wenn man den Knotenpunkt VI mit
+R =                     100 Millionen Tonnen
+belastet. Wäre der Fahrbahnträger von den                     Knoten-
+punkten der oberen Gurtungen unterstützt, so                     hätte in
+ganz ähnlicher Weise das Biegungspolygon der oberen
+Gurtung                     konstruirt werden müssen.                 
+Zu dem angegebenen Zwecke sind in dem Kräfte-
+plane Figur 38 die                     Spannungen
+S = u · R
+bestimmt. Es sind darauf in der folgenden Tabelle                     mit
+Hülfe der gegebenen Längen und Querschnitte der
+
+
+
+Mohr, Beitrag zur Theorie                         des Fachwerks.
+Konstruktionstheile die Belastungen                      des Biegungs-
+polygons ermittelt worden, wobei der Elasticitätsmodul
+des                     Schmiedeisens gleich 2000 Tonnen für den □Zenti-
+meter gesetzt                     ist. Das Biegungspolygon A ist mit einer
+Poldistanz gleich Tausend                     konstruirt. Wollte man die
+Formveränderungen der Füllungstheile vernach-
+lässigen und nur diejenigen der Gurtungstheile be-
+rücksichtigen, so würden als                     Belastungen des Biegungs-
+polygons nur die den Gurtungstheilen entsprechenden
+Werthe von , welche in                     der Tabelle besonders sum-
+mirt sind, in Betracht kommen. Das                     Biegungspolygon
+würde alsdann die Form des Seilpolygons B (Figur                     37)
+annehmen, welches ebenfalls mit einer Poldistanz gleich
+Tausend                     konstruirt ist. Beide Polygone A und B haben
+selbstverständlich in Bezug auf                     die Vertikalachse durch
+die Trägermitte eine symmetrische Form; vom                     Polygon
+B ist daher nur die Hälfte gezeichnet. Die Abwei-
+chungen                     zwischen den Ordinaten der Polygone A und B
+zeigen den beträchtlichen                     Einfluss der Längenänderun-
+gen der Füllungstheile auf die Grösse der                     Durchbiegung.
+Dieser Einfluss macht sich, wie die Figur zeigt,                     vor-
+zugsweise geltend, wenn der Balken in der Nähe der
+Trägermitte                     belastet ist. Um beispielsweise für eine
+gleichmässige Belastung von 13                     Tonnen auf jeden der
+elf Knotenpunkte der unteren Gurtung die                     Durchbie-
+gung des Knotenpunktes VI zu ermitteln, ist durch                     das
+Seilpolygon C (Figur 37) die Grösse  Σ P · y                     (Glei-
+chung 20) konstruirt worden. Da dieses Seilpolygon
+mit einer                     Poldistanz gleich 200 Tonnen, das Seilpolygon
+A dagegen mit einer Poldistanz                     gleich Tausend kon-
+struirt wurde, so ergibt sich in dem erstgenannten                     Po-
+lygon die Durchbiegung in einem
+ vergrösserten Massstabe.                     Die Abscissen in Figur 37
+sind im Massstab 1 : 500 dargestellt; die                     Durchbiegung
+im Polygon C erhält folglich die natürliche                         Grösse.
+Hiernach ist die gesuchte Durchbiegung gleich 39                     Milli-
+meter. Entnimmt man die Ordinaten y nicht aus dem
+Biegungspolygon                     A, sondern aus dem Polygon B, be-
+rücksichtigt man also nur die                     Längenänderungen der
+Gurtungstheile, so findet man                     vermittelst des Seil-
+polygons D, welches ebenfalls mit 200 Tonnen                     Pol-
+distanz konstruirt wurde, die Durchbiegung für den-
+selben                     Belastungsfall gleich 35 Millimeter, also um etwa
+10 Procent kleiner als                     oben. Endlich ist vermittelst
+des Seilpolygons E die Durchbiegung                     konstruirt, welche
+von der zwischen den Figuren 36 und 37                     dargestell-
+ten, aus 15 Einzelkräften bestehenden                     unregelmässigen
+Belastung hervorgerufen wird. Diese Durchbiegung hat
+die                     Grösse von 20 Millimetern.                          
+                     Anwendung auf die Bestimmung der Auflagerdrücke                         des
+kontinuirlichen Balkenfachwerks.                 
+Man nehme an, es seien die sämmtlichen Mittel-
+
+stützen beseitigt (Figur 40, Blatt 615) und der                     auf
+seinen Endstützen A und B ruhende gewichtlose Trä-
+ger sei in                     demjenigen Knotenpunkte C, welcher mit
+der ersten                     Mittelstütze in Berührung stand, mit einem
+Gewichte R belastet. Man                     konstruire für diesen Be-
+lastungsfall das Biegungspolygon A (Fig. 41, Blatt                     615)
+derjenigen Knotenpunkte, welche die Fahrbahn des
+Brückenträgers                     unterstützen und bezeichne mit: y1, y2,
+y3 ...... die                     Ordinaten dieses Polygons in den Ver-
+tikalen der Einzellasten P1, P2, P3 ...., welche die
+gegebene Belastung des kontinuirlichen Trägers                     bilden;
+ferner mit Q1, Q2, Q3 .... die von dieser                     Belastung
+erzeugten Auflagerreaktionen der 1sten, 2ten, 3ten                     ....
+Mittelstütze und endlich mit y(1), y(2), y(3) .... die                     Ordi-
+naten des oben bezeichneten Biegungspolygons in den
+Vertikalen der                     1sten, 2ten, 3ten … Mittelstütze.
+Wenn nun bei dieser                     Belastung die erste Mittel-
+stütze in der Horizontalen der beiden                     Endauflager bleibt,
+oder mit anderen Worten: wenn die Durchbiegung                     des
+in seinen beiden Endpunkten unterstützten und mit
+den                     Vertikalkräften P1, P2, P3 … Q1, Q2, Q3 …                     be-
+lasteten Balkens in der Vertikalen der ersten Mittel-
+stütze gleich                     Null ist, so muss nach Gleichung 20
+ oder
+21)                     
+sein. Liegt die erste Mittelstüze dagegen nicht in                     der
+Horizontalen der beiden Endstützen, sondern um das
+Mass z1 unter derselben, so wird die rechte Seite                     der
+Gleichung 21 anstatt Null gleich R · z1.
+Indem man das beschriebene Verfahren für                     jede
+Mittelstütze wiederholt, ergeben sich Beziehungen von
+der Form der                     Gleichung 21, welche zur Bestimmung
+der unbekannten Auflagerreaktionen Q                     benutzt werden
+können.
+Die Summen Σ P · y sind                     zweckmässig auf gra-
+phischem Wege zu ermitteln, während die                     Entwicke-
+lung der Werthe Q aus den Gleichungen 21 in der
+Regel durch                     Rechnung erfolgen muss.
+Vergleicht man das hier beschriebene                     Verfahren mit
+der Anwendung der Gleichungen 18, so wird man den
+Vorzug                     des ersteren hauptsächlich darin erkennen, dass
+die Bildung der Werthe                     Σ P · y bei Weitem weniger
+zeitraubend ist als diejenige der                     Werthe Σ u · S · r in
+den Gleichungen                     18. Dieser Vortheil wird desto er-
+heblicher, eine je grössere Anzahl von                     Belastungsfällen
+man in Betracht zu ziehen hat.
+Beispiel. Das oben beschriebene Verfahren ist
+auf                     Blatt 615 auf ein kontinuirliches Balkenfachwerk
+mit drei Tragfeldern von                         73,6 Meter Stützweite ange-
+wandt                     worden.
+Die folgende Tabelle enthält die Berechnung                     der
+Belastungen  des Biegungspolygons A der unteren
+Gurtung                     (Figur 41), welches entsteht, wenn der gewicht-
+
+
+Mohr, Beitrag zur Theorie                         des Fachwerks.
+lose Träger in seinen Endpunkten A und B                     gestützt
+und im Knotenpunkte C mit
+R = 300 Millionen Tonnen
+belastet                     wird. Zur besseren Uebersicht sind die Werthe
+von  in die Figur 40                     eingeschrieben und die hieraus
+sich ergebenden Belastungen des                     Biegungspolygons unter
+der Figur zusammengestellt. Da Form und                     Dimensio-
+nen des Fachwerks in Bezug auf die durch die Trä-
+germitte                     gelegte Vertikalachse symmetrisch angeordnet
+sind, so ergibt sich für den                     Fall, in welchem die Be-
+lastung R auf den Knotenpunkt D einwirkt, ein                     dem
+Polygon A symmetrisch geformtes Biegungspolygon B.
+Die Ordinaten                     dieser beiden Polygone in den Vertika-
+len der beiden Mittelstützen sind                         117,5 und 102,4                     Milli-
+meter. Die Gleichungen 21 nehmen daher in dem
+vorliegenden Falle                     folgende Form an:
+ oder
+ und
+ wenn man                     durch die Zeichen ∑A und ∑B andeutet,
+dass die Ordinaten y des Polygons A                     oder diejenigen
+des Polygons B in Rechnung zu bringen sind.
+Es                     mögen zunächst die Auflagerdrücke ermittelt
+werden, welche von einer                     gleichmässig vertheilten Be-
+lastung eines jeden der drei Tragfelder                     hervorgerufen
+werden. Belastet man das erste                     Tragfeld gleichmässig
+mit 100 Tonnen, so dass die Knotenpunkte A und                     C
+(Fig. 40) je 5 Tonnen und die übrigen neun Knotenpunkte
+der unteren                     Gurtung des ersten Tragfeldes je 10 Tonnen
+aufzunehmen haben, so ergeben die                     Seilpolygone C und
+E (Fig. 41), welche mit einer Poldistanz gleich                     100
+Tonnen konstruirt sind, die Längen
+ und
+ Bei                     dieser Belastung ist sonach:
+ und
+ Belastet man in                     gleicher Weise das zweite Tragfeld
+mit 100 Tonnen,                     so ergibt das Seilpolygon D (Fig. 41)
+die Längen
+
+ Für diesen Belastungsfall ist demnach:
+                 Endlich ergeben sich die von einer Belastung von
+100 Tonnen des dritten Tragfeldes erzeugten Auf-
+lagerreaktionen                     nach dem Gesetz der Symmetrie:
+                 Bezeichnet man die gleichmässig vertheilte Bela-
+stung des ersten, zweiten,                     dritten Tragfeldes mit G1,
+G2 und G3, so ist nach den obigen                     Resultaten:
+ und
+                 Für einen kontinuirlichen Träger von konstan-
+tem                     Querschnitt und drei gleichen Tragfeldern ist:
+                     und
+                 Die Auflagerdrücke des hier berechneten Balken-
+fachwerks weichen also nur                     sehr wenig von denjenigen
+eines Trägers von konstantem Querschnitt ab.                     Dass
+diese Differenzen nicht allein bei gleichmässiger Be-
+lastung der                     einzelnen Tragfeder, sondern auch bei jeder
+anderen unregelmässigen                     Belastung sehr klein ausfal-
+len, erkennt man, wenn man die Biegungskurve A                     für
+einen Träger von konstantem Querschnitt konstruirt
+und ihre                     Ordinaten mit denjenigen des Polygons A in
+Figur 41 vergleicht. Diese Kurve                     ist in Figur 41 des-
+halb nicht eingetragen worden, weil die                     Abweichungen
+zwischen beiden Linien so klein sind, dass sie im
+Massstabe                     jener Zeichnung nicht deutlich zur Anschau-
+ung gebracht werden                     können.
+Endlich sind in der rechten Hälfte der Figur 41
+für eine                     unregelmässige, aus sechs Einzellasten be-
+stehende Belastung vermittelst                     der Seilpolygone F und
+G, deren Poldistanz 30 Tonnen beträgt, die                     Längen
+ und
+ konstruirt worden. Die von dieser                     Belastung erzeugten
+Auflagerreaktionen sind also:
+                     und
+                 3
+
+
+Mohr, Beitrag zur Theorie des                     Fachwerks.
+Tabelle, enthaltend die Berechnung der Belastungen
+                                                                                                         
+
+
+Mohr, Beitrag zur Theorie                         des Fachwerks.
+des Biegungspolygons A in Figur 41 Blatt 615.
+
+                                                                                                                     3*
+
+
+
+Band                     XXI.
+Zeitschrift des Arch- und Jng-Vereins zu                     Hannover Blatt 614.
+Graphische Bestimmung der Durchbiegungen eines Fachwerks.
+Fig.                         36.
+Numerirung der Constructionstheile. Dimensionen in Centimetern.                         (M.:1:500)                     
+
+
+
+      

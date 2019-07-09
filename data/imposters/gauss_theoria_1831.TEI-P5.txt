@@ -1,0 +1,549 @@
+
+
+
+
+
+
+
+ Goͤttingiſche
+gelehrte Anzeigen.
+Unter der Aufſicht
+der koͤnigl. Geſellſchaft der Wiſſenſchaften.
+ Der erſte Band
+auf das Jahr 1831.
+
+ Goͤttingen,
+gedruckt bey Friedrich Ernſt Huth.
+
+
+
+ Goͤttingiſche
+gelehrte Anzeigen
+unter der Aufſicht
+der Koͤnigl. Geſellſchaft der Wiſſenſchaften.
+ 64. Stuͤck.
+Den 23. April 1831.
+ Goͤttingen.
+Eine am 15. April von dem Hofr. Gauß der
+Koͤnigl. Societaͤt uͤberreichte Vorleſung: Theo-
+ria residuorum biquadraticorum, commen-
+tatio secunda, iſt die Fortſetzung der bereits im
+ſechsten Bande der Commentationes novae ab-
+gedruckten Abhandlung, wovon auch in unſern
+Blaͤttern zu ſeiner Zeit 1825 S. 59 eine Anzeige
+gemacht war. Auch dieſe Fortſetzung, obgleich
+mehr als doppelt ſtaͤrker wie die erſte Abhand-
+lung, erſchoͤpft den uͤberaus reichhaltigen Gegen-
+ſtand noch nicht, und erſt einer kuͤnftigen dritten
+Abhandlung wird die Vollendung des Ganzen
+vorbehalten bleiben.
+Obgleich die Grundbegriffe dieſer Lehren und
+der Inhalt der erſten Abhandlung als allen, die
+aus der hoͤhern Arithmetik ein Studium gemacht
+haben, bekannt vorausgeſetzt werden koͤnnen, wol-
+len wir doch jene zur Bequemlichkeit ſolcher Freun-
+de dieſes Theils der Mathematik, welchen die
+erſte Abhandlung nicht gleich zur Hand iſt, hier
+[56]
+
+Goͤttingiſche gel. Anzeigen
+kurz in Erinnerung bringen. In Beziehung auf
+eine beliebige ganze Zahl p heißt eine andere k
+ein biquadratiſcher Reſt, wenn es Zahlen der
+Form x4 — k gibt, die durch p theilbar ſind;
+im entgegengeſetzten Fall heißt ſie biquadratiſcher
+Nicht-Reſt von p. Es iſt zureichend, ſich hiebey
+auf den Fall einzuſchraͤnken, wo p eine Primzahl
+der Form 4n + 1, und k durch dieſelbe nicht
+theilbar iſt, da alle andere Faͤlle entweder fuͤr
+ſich klar, oder auf dieſen zuruͤckzufuͤhren ſind.
+Fuͤr einen ſolchen gegebenen Werth von p
+zerfallen ſaͤmmtliche durch p nicht theilbare Zah-
+len in vier Klaſſen, wovon die eine die biqua-
+dratiſchen Reſte, eine zweyte ſolche biquadratiſche
+Nicht-Reſte, die quadratiſche Reſte von p ſind,
+enthaͤlt, und in die beiden uͤbrigen die biquadra-
+tiſchen Nicht-Reſte, welche zugleich quadratiſche
+Nicht-Reſte ſind, vertheilt werden. Das Prin-
+cip dieſer Vertheilung beſteht darin, daß allemahl
+entweder kn — 1, oder kn + 1, oder kn — f,
+oder kn + f durch p theilbar ſeyn wird, wo f
+eine ganze Zahl bedeutet, die ff + 1 durch p
+theilbar macht. Jeder, dem die elementariſche
+Terminologie bekannt iſt, ſieht von ſelbſt, wie
+dieſe Worterklaͤrungen in dieſelbe eingekleidet
+werden.
+Die Theorie dieſer Claſſificierung nicht nur fuͤr
+den an der Oberflaͤche liegenden Fall k = — 1,
+ſondern auch fuͤr die, ſubtile Huͤlfsunterſuchun-
+gen erfordernden Faͤlle k = ± 2, findet ſich in
+der erſter Abhandlung ganz vollendet. Im An-
+fang der gegenwaͤrtigen Abhandlung wird nun
+zu groͤßern Werthen von k fortgeſchritten: man
+braucht aber dabey zunaͤchſt nur ſolche in Betracht
+zu ziehen, die ſelbſt Primzahlen ſind, und der
+Erfolg zeigt, daß die Reſultate am einfachſten
+ausfallen, wenn man die Werthe poſitiv oder
+
+64. St., den 23. April 1831.
+negativ nimmt, je nachdem ſie, abſolut betrach-
+tet, von der Form 4 m + 1 oder 4 m + 3 ſind.
+Die Induction gibt hier ſofort mit großer Leich-
+tigkeit eine reiche Ernte von neuen Lehrſaͤtzen,
+wovon wir hier nur ein Paar anfuͤhren. Die
+Numerierung der Claſſen mit 1, 2, 3, 4 wird
+auf die Faͤlle bezogen, wo kn den Zahlen 1, f,
+— 1, — f congruent wird; zugleich iſt fuͤr die
+Zahl f immer derjenige Werth angenommen, wel-
+cher a + bf durch p theilbar macht, wenn aa + bb
+die Zerlegung von p in ein ungerades und ein
+gerades Quadrat vorſtellt. So findet ſich durch
+die Induction, daß die Zahl — 3 allemal zu der
+Claſſe 1, 2, 3, 4 gehoͤrt, je nachdem b, a + b,
+a, a — b durch 3 theilbar iſt; daß die Zahl + 5
+der Reihe nach zu jenen Claſſen gehoͤrt, je nach-
+dem b, a — b, a, a + b durch 5 theilbar iſt;
+daß die Zahl — 7 in die Claſſe 1 faͤllt, wenn
+a oder b; in die Claſſe 1, wenn a — 2 b oder
+a — 3 b; in die Claſſe 2, wenn a — b oder
+a + b; in die Claſſe 3, wenn a + 2 b oder
+a + 3 b durch 7 theilbar iſt. Aehnliche Theore-
+me ergeben ſich in Beziehung auf die Zahlen
+— 11, + 13, + 17, — 19, — 23 u. ſ. f.
+So leicht ſich aber alle dergleichen ſpecielle Theo-
+reme durch die Induction entdecken laſſen, ſo
+ſchwer ſcheint es, auf dieſem Wege ein allgemei-
+nes Geſetz fuͤr dieſe Formen aufzufinden, wenn
+auch manches Gemeinſchaftliche bald in die Au-
+gen faͤllt, und noch viel ſchwerer iſt es, fuͤr dieſe
+Lehrſaͤtze die Beweiſe zu finden. Die fuͤr die
+Zahlen + 2 und — 2 in der erſten Abhandlung
+gebrauchten Methoden vertragen hier keine An-
+wendung mehr, und wenn gleich andere Metho-
+den ebenfalls das, was ſich auf die erſte und
+dritte Claſſe bezieht, zu erledigen dienen koͤnn-
+[56] *
+
+Goͤttingiſche gel. Anzeigen
+ten, ſo zeigen ſich doch ſolche zur Begruͤndung
+von vollſtaͤndigen Beweiſen untauglich.
+Man erkennt demnach bald, daß man in die-
+ſes reiche Gebiet der hoͤhern Arithmetik nur auf
+ganz neuen Wegen eindringen kann. Der Verf.
+hatte ſchon in der erſten Abhandlung eine An-
+deutung gegeben, daß dazu eine eigenthuͤmliche
+Erweiterung des ganzen Feldes der hoͤhern Arith-
+metik weſentlich erforderlich iſt, ohne damals ſich
+naͤher daruͤber zu erklaͤren, worin dieſelbe beſte-
+he: die gegenwaͤrtige Abhandlung iſt dazu be-
+ſtimmt, dieſen Gegenſtand ins Licht zu ſetzen.
+Es iſt dieſes nichts anders, als daß fuͤr die
+wahre Begruͤndung der Theorie der biquadrati-
+ſchen Reſte das Feld der hoͤhern Arithmetik, wel-
+ches man ſonſt nur auf die reellen ganzen Zah-
+leulen ausdehnte, auch uͤber die imaginaͤren erſtreckt
+werden, und dieſen das voͤllig gleiche Buͤrger-
+recht mit jenen eingeraͤumt werden muß. So
+bald man dieß einmahl eingeſehen hat, erſcheint
+jene Theorie in einem ganz neuen Lichte, und
+ihre Reſultate gewinnen eine hoͤchſt uͤberraſchende
+Einfachheit.
+Ehe jedoch in dieſem erweiterten Zahlengebiet
+die Theorie der biquadratiſchen Reſte ſelbſt ent-
+wickelt werden kann, muͤſſen in jenem die dieſer
+Theorie vorangehenden Lehren der hoͤhern Arith-
+metik, die bisher nur in Beziehung auf reelle
+Zahlen bearbeitet ſind, an dieſer ErweiteruugErweiterung
+Theil nehmen. Von dieſen vorgaͤngigen Unter-
+ſuchungen koͤnnen wir hier nur Einiges anfuͤhren.
+Der Verf. nennt jede Groͤße a + b i, wo a und
+b reelle Groͤßen bedeuten, und i der Kuͤrze we-
+gen anſtatt √ — 1 geſchrieben iſt, eine complexe
+ganze Zahl, wenn zugleich a und b ganze Zah-
+len ſind. Die complexen Groͤßen ſtehen alſo
+nicht den reellen entgegen, ſondern enthalten dieſe,
+
+64. St., den 23. April 1831.
+als einen ſpeciellen Fall, wo b = 0, unter ſich.
+Zur bequemen Handhabung war es erforderlich,
+mehrere auf die complexen Groͤßen ſich beziehende
+Begriffsbildungen mit beſondern Benennungen
+zu belegen, welche wir aber in dieſer Anzeige zu
+umgehen ſuchen werden.
+So wie in der Arithmetik der reellen Zahlen
+nur von zwey Einheiten, der poſitiven und ne-
+gativen, die Rede iſt, ſo haben wir in der
+Arithmetik der complexen Zahlen vier Einheiten
++ 1, — 1, + i, — i. Zuſammengeſetzt
+heißt eine complexe ganze Zahl, wenn ſie das
+Product aus zwey von den Einheiten verſchiede-
+nen ganzen Factoren iſt; eine complexe Zahl hin-
+gegen, die eine ſolche Zerlegung in Facto-
+ren nicht zulaͤßt, heißt eine complexe Primzahl.
+So iſt z. B. die reelle Zahl 3, auch als com-
+plexe Zahl betrachtet eine Primzahl, waͤhrend
+5 als complexe Zahl zuſammengeſetzt iſt =
+(1 + 2 i) (1 — 2 i). Eben ſo wie in der hoͤhern
+Arithmetik der reellen Zahlen ſpielen auch in
+dem erweiterten Felde dieſer Wiſſenſchaft die
+Primzahlen eine Hauptrolle.
+Wird eine complexe ganze Zahl a + bi als Modu-
+lus angenommen, ſo laſſen ſich aa + bb unter ſich
+nicht congruente, und nicht mehrere, complexe Zahlen
+aufſtellen, von denen einer jede vorgegebene ganze
+complexe Zahl congruent ſeyn muß, und die man
+ein vollſtaͤndiges Syſtem incongruenter Reſte nen-
+nen kann. Die ſogenannten kleinſten und abſo-
+lut kleinſten Reſte in der Arithmetik der reellen
+Zahlen haben auch hier ihr vollkommenes Analo-
+gon. So beſteht z. B. fuͤr den Modulus 1 + 2 i
+das vollſtaͤndige Syſtem der abſolut kleinſten Reſte
+aus den Zahlen 1, i, — 1 und — i. Faſt die
+ſaͤmmtlicheuſaͤmmtlichen Unterſuchungen der vier erſten Ab-
+ſchnitte der Disquisitiones Arithmeticae fin-
+
+Goͤttingiſche gel. Anzeigen
+den, mit einigen Modificationen, auch in der
+erweiterten Arithmetik ihren Platz. Das beruͤhmte
+Fermatſche Theorem z. B. nimmt hier folgende
+Geſtalt an: Wenn a + b i eine complexe Prim-
+zahl iſt, und k eine durch jene nicht theilbare
+complexe Zahl, ſo iſt immer kaa + bb — 1 √ 1
+fuͤr den Modulus a + b i. Ganz beſonders merk-
+wuͤrdig iſt es aber, daß das Fundamentaltheorem
+fuͤr die quadratiſchen Reſte in der Arithmetik der
+complexen Zahlen ſein vollkommenes, nur hier
+noch einfacheres, Gegenſtuͤck hat; ſind naͤmlich
+a + b i, A + B i complexe Primzahlen, ſo daß
+a und A ungerade, b und B gerade ſind, ſo
+iſt die erſte quadratiſcher Reſt der zweyten, wenn
+die zweyte quadratiſcher Reſt der erſten iſt, hin-
+gegen die erſte quadratiſcher Nichtreſt der zwey-
+ten, wenn die zweyte quadratiſcher Nichtreſt der
+erſten iſt.
+Indem die Abhandlung nach dieſen Vorunter-
+ſuchungen zu der Lehre von den biquadratiſchen
+Reſten ſelbſt uͤbergeht, wird zuvoͤrderſt anſtatt
+der bloßen Unterſcheidung zwiſchen biquadrati-
+ſchen Reſten und Nichtreſten eine Vertheilung
+der durch den Modulus nicht theilbaren Zahlen
+in vier Klaſſen feſtgeſetzt. Iſt naͤmlich der Mo-
+dulus eine complexe Primzahl a + b i, wo im-
+mer a ungerade b gerade vorausgeſetzt, und der
+Kuͤrze wegen p ſtatt aa + bb geſchrieben wird,
+und k eine complexe durch a + bi nicht theilbare
+Zahl, ſo wird allemahl k¼ (p — 1) einer der Zah-
+len + 1, + i, — 1, — i congruent ſeyn, und
+dadurch eine Vertheilung ſaͤmmtlicher durch a + bi
+nicht theilbarer Zahlen in vier Claſſen begruͤn-
+det, denen der Reihe nach der biquadratiſche
+Character 0, 1, 2, 3 beygelegt wird. Offenbar
+bezieht ſich der Character 0 auf die biquadrati-
+ſchen Reſte, die uͤbrigen auf die biquadratiſchen
+
+64. St., den 23. April 1831.
+Nichtreſte, und zwar ſo, daß dem Character 2
+zugleich quadratiſche Reſte, den Charactern 1 und
+3 hingegen quadratiſche Nichtreſte entſprechen.
+Man erkennt leicht, daß es hauptſaͤchlich darauf
+ankommt, dieſen Character bloß fuͤr ſolche Wer-
+the von k beſtimmen zu koͤnnen, die ſelbſt com-
+plexe Primzahlen ſind, und hier fuͤhrt ſogleich
+die Induction zu hoͤchſt einfachen Reſultaten.
+Wird zuerſt k = 1 + i geſetzt, ſo zeigt ſich,
+daß der Character dieſer Zahl allemahl √
+⅛ (— aa + 2ab — 3bb + 1) (mod. 4) wird, und
+aͤhnliche Ausdruͤcke finden ſich fuͤr die Faͤlle
+k = 1 — i, k = — 1 + i, k = — 1 — i.
+Iſt hingegen k = α + ϐ i eine ſolche Primzahl,
+wo α ungerade und ϐ gerade iſt, ſo ergibt ſich
+durch die Induction ſehr leicht ein dem Funda-
+mentaltheorem fuͤr die quadratiſchen Reſte ganz
+analoges Reciprocitaͤtsgeſetz, welches am einfach-
+ſten auf folgende Art ausgedruͤckt werden kann:
+Wenn ſowohl α + ϐ — 1 als a + b — 1 durch
+4 theilbar ſind (auf welchen Fall alle uͤbrigen
+leicht zuruͤckgefuͤhrt werden koͤnnen), und der Cha-
+racter der Zahl α + ϐ i in Beziehung auf den
+Modulus a + b i durch λ, hingegen der Cha-
+racter von a + b i in Beziehung auf den Mo-
+dulus α + ϐ i durch ι bezeichnet wird: ſo iſt
+λ = ι, wenn zugleich eine der Zahlen ϐ, b (oder
+beide) durch 4 theilbar iſt, hingegen λ = ι ± 2,
+wenn keine der Zahlen ϐ, b durch 4 theilbar iſt.
+Dieſe Theoreme enthalten im Grunde alles
+Weſentliche der Theorie der biquadratiſchen Reſte
+in ſich: ſo leicht es aber war, ſie durch In-
+duction zu entdecken, ſo ſchwer iſt es, ſtrenge
+Beweiſe fuͤr ſie zu geben, beſonders fuͤr das
+zweyte, das Fundamentaltheorem der biquadra-
+tiſchen Reſte. Wegen des großen Umfanges, zu
+welchem ſchon die gegenwaͤrtige Abhandlung an-
+
+Goͤttingiſche gel. Anzeigen
+gewachſen iſt, ſah ſich der Verfaſſer genoͤthigt,
+die Darſtellung des Beweiſes fuͤr das letztere
+Theorem, in deſſen Beſitz er ſeit 20 Jahren iſt,
+fuͤr eine kuͤnftige dritte Abhandlung zuruͤckzulaſ-
+ſen. Dagegen iſt in vorliegender Abhandlung
+noch der vollſtaͤndige Beweis fuͤr das erſtere die
+Zahl 1 + i betreffende Theorem (von welchem
+die anderen fuͤr 1 — i, — 1 + i, — 1 — i ab-
+haͤngig ſind) mitgetheilt, welcher ſchon einigen
+Begriff von der Verwicklung des Gegenſtandes
+geben kann.
+Wir haben nun noch einige allgemeine An-
+merkungen beyzufuͤgen. Die Verſetzung der Lehre
+von den biquadratiſchen Reſten in das Gebiet
+der complexen Zahlen koͤnnte vielleicht manchem,
+der mit der Natur der imaginaͤren Groͤßen we-
+niger vertraut und in falſchen Vorſtellungen da-
+von befangen iſt, anſtoͤßig und unnatuͤrlich ſchei-
+nen, und die Meinung veranlaſſen, daß die Un-
+terſuchung dadurch gleichſam in die Luft geſtellt
+ſey, eine ſchwankende Haltung bekomme, und
+ſich von der Anſchaulichkeit ganz entferne. Nichts
+wuͤrde ungegruͤndeter ſeyn, als eine ſolche Mei-
+nung. Im Gegentheil iſt die Arithmetik der
+complexen Zahlen der anſchaulichſten Verſinnli-
+chung faͤhig, und wenn gleich der Verf. in ſei-
+ner dießmahligen Darſtellung eine rein arithme-
+tiſche Behandlung befolgt hat, ſo hat er doch auch
+fuͤr dieſe die Einſicht lebendiger machende und
+deshalb ſehr zu empfehlende Verſinnlichung die
+noͤthigen Andeutungen gegeben, welche fuͤr ſelbſt-
+denkende Leſer zureichend ſeyn werden. So wie
+die abſoluten ganzen Zahlen durch eine in einer
+geraden Linie unter gleichen Entfernungen geord-
+nete Reihe von Puncten dargeſtellt werden, in
+der der Anfangspunct die Zahl 0, der naͤchſte
+die Zahl 1 u. ſ. w. vertritt; und ſo wie dann
+
+64. St., den 23. April 1831.
+zur Darſtellung der negativen Zahlen nur eine
+unbegrenzte Verlaͤngerung dieſer Reihe auf der
+entgegengeſetzten Seite des Anfangspuncts erfor-
+derlich iſt: ſo bedarf es zur Darſtellung der com-
+plexen ganzen Zahlen nur des Zuſatzes, daß jene
+Reihe als in einer beſtimmten unbegrenzten Ebe-
+ne befindlich angeſehen, und parallel mit ihr auf
+beiden Seiten eine unbeſchraͤnkte Anzahl aͤhnli-
+cher Reihen in gleichen Abſtaͤnden von einander
+angenommen werde, ſo daß wir anſtatt einer
+Reihe von Puncten ein Syſtem von Puncten
+vor uns haben, die ſich auf eine zwiefache Art
+in Reihen von Reihen ordnen laſſen, und zur
+Bildung einer Eintheilung der ganzen Ebene in
+lauter gleiche Quadrate dienen. Der naͤchſte
+Punct bey 0 in der erſten Nebenreihe auf der
+einen Seite der Reihe welche die reellen Zahlen
+repraͤſentiert, bezieht ſich dann auf die Zahl i,
+ſo wie der naͤchſte Punct bey 0 in der erſten
+Nebenreihe auf der andern Seite auf — i u. ſ. f.
+Bey dieſer Darſtellung wird die Ausfuͤhrung der
+arithmetiſchen Operationen in Beziehung auf
+die complexen Groͤßen, die Congruenz, die Bil-
+dung eines vollſtaͤndigen Syſtems incongruenter
+Zahlen fuͤr einen gegebenen Modulus u. ſ. f. ei-
+ner Verſinnlichung faͤhig, die nichts zu wuͤnſchen
+uͤbrig laͤßt.
+Von der andern Seite wird hierdurch die wahre
+Metaphyſik der imaginaͤren Groͤßen in ein neues
+helles Licht geſtellt.
+Unſere allgemeine Arithmetik, von deren Um-
+fang die Geometrie der Alten ſo weit uͤberfluͤ-
+gelt wird, iſt ganz die Schoͤpfung der neuern
+Zeit. Urſpruͤnglich ausgehend von dem Begriff
+der abſoluten ganzen Zahlen hat ſie ihr Gebiet
+ſtufenweiſe erweitert; zu den ganzen Zahlen ſind
+die gebrochenen, zu den rationalen die irratio-
+
+Goͤttingiſche gel. Anzeigen
+nalen, zu den poſitiven die negativen, zu den
+reellen die imaginaͤren hinzugekommen. Dieß
+Vorſchreiten iſt aber immer anfangs mit furcht-
+ſam zoͤgerndem Schritt geſchehen. Die erſten
+Algebraiſten nannten noch die negativen Wurzeln
+der Gleichungen falſche Wurzeln, und ſie ſind es
+auch, wo die Aufgabe, auf welche ſie ſich be-
+ziehen, ſo eingekleidet vorgetragen iſt, daß die
+Beſchaffenheit der geſuchten Groͤße kein Entge-
+gengeſetztes zulaͤßt. Allein ſo wenig man in der
+Allgemeinen Arithmetik Bedenken hat, die
+gebrochenen Zahlen mit aufzunehmen, obgleich es
+ſo viele zaͤhlbare Dinge gibt, wobey eine Bruch-
+zahl ohne Sinn iſt, eben ſo wenig durften in
+jener den negativen Zahlen gleiche Rechte mit
+den poſitiven deshalb verſagt werden, weil un-
+zaͤhlige Dinge kein Entgegengeſetztes zulaſſen:
+die Realitaͤt der negativen Zahlen iſt hinreichend
+gerechtfertigt, da ſie in unzaͤhligen andern Faͤl-
+len ein adaͤquates Subſtrat finden. Daruͤber iſt
+man nun freylich ſeit langer Zeit im Klaren-
+Allein die den reellen Groͤßen gegenuͤbergeſtellten
+imaginaͤren — ehemals, und hin und wieder
+noch jetzt, obwohl unſchicklich, unmoͤgliche ge-
+nannt — ſind noch immer weniger eingebuͤrgert
+als nur geduldet, und erſcheinen alſo mehr wie
+ein an ſich inhaltleeres Zeichenſpiel, dem man
+ein denkbares Subſtrat unbedingt abſpricht, oh-
+ne doch den reichen Tribut, welchen dieſes Zei-
+chenſpiel zuletzt in den Schatz der Verhaͤltniſſe
+der reellen Groͤßen ſteuert, verſchmaͤhen zu wollen.
+Der Verf. hat dieſen hochwichtigen Theil der
+Mathematik ſeit vielen Jahren aus einem ver-
+ſchiedenen Geſichtspunct betrachtet, wobey den
+imaginaͤren Groͤßen eben ſo gut ein Gegenſtand
+untergelegt werden kann, wie den negativen: es
+hat aber bisher an einer Veranlaſſung gefehlt,
+
+64. St., den 23. April 1831.
+dieſelbe oͤffentlich beſtimmt auszuſprechen, wenn
+gleich aufmerkſame Leſer die Spuren davon in
+der 1799 erſchienenen Schrift uͤber die Gleichun-
+gen, und in der Preisſchrift uͤber die Umbil-
+dung der Flaͤchen leicht wiederfinden werden. In
+der gegenwaͤrtigen Abhandlung ſind die Grund-
+zuͤge davon kurz angegeben; ſie beſtehen in Fol-
+gendem.
+Poſitive und negative Zahlen koͤnnen nur da
+eine Anwendung finden, wo das gezaͤhlte ein
+Entgegengeſetztes hat, was mit ihm vereinigt
+gedacht der Vernichtung gleich zu ſtellen iſt. Ge-
+nau beſehen findet dieſe Vorausſetzung nur da
+Statt, wo nicht Subſtanzen (fuͤr ſich denkbare
+Gegenſtaͤnde) ſondern Relationen zwiſchen je
+zweyen Gegenſtaͤnden das gezaͤhlte ſind. Poſtu-
+liert wird dabey, daß dieſe Gegenſtaͤnde auf ei-
+ne beſtimmte Art in eine Reihe geordnet ſind
+z. B. A, B, C, D ...., und daß die Re-
+lation des A zu B als der Relation des B zu
+C u. ſ. w. gleich betrachtet werden kann. Hier
+gehoͤrt nun zu dem Begriff der Entgegenſetzung
+nichts weiter als der Umtauſch der Glieder
+der Relation, ſo daß wenn die Relation (oder
+der Uebergang) von A zu B als + 1 gilt, die
+Relation von B zu A durch — 1 dargeſtellt
+werden muß. Inſofern alſo eine ſolche Reihe
+auf beiden Seiten unbegrenzt iſt, repraͤſentiert
+jede reelle ganze Zahl die Relation eines belie-
+big als Anfang gewaͤhlten Gliedes zu einem be-
+ſtimmten Gliede der Reihe.
+Sind aber die Gegenſtaͤnde von ſolcher Art,
+daß ſie nicht in Eine, wenn gleich unbegrenzte,
+Reihe geordnet werden koͤnnen, ſondern ſich nur
+in Reihen von Reihen ordnen laſſen, oder was
+dasſelbe iſt, bilden ſie eine Mannigfaltigkeit von
+zwey Dimenſionen; verhaͤlt es ſich dann mit den
+
+Goͤttingiſche gel. Anzeigen
+Relationen einer Reihe zu einer andern oder den
+Uebergaͤngen aus einer in die andere auf eine
+aͤhnliche Weiſe wie vorhin mit den Uebergaͤngen
+von einem Gliede einer Reihe zu einem andern
+Gliede derſelben Reihe, ſo bedarf es offenbar
+zur Abmeſſung des Ueberganges von einem Glie-
+de des Syſtems zu einem andern außer den vo-
+rigen Einheiten + 1 und — 1 noch zweyer an-
+dern unter ſich auch entgegengeſetzten + i und
+— i. Offenbar muß aber dabey noch poſtuliert
+werden, daß die Einheit i allemahl den Ueber-
+gang von einem gegebenen Gliede einer Reihe
+zu einem beſtimmten Gliede der unmittelbar
+angrenzenden Reihe bezeichne. Auf dieſe Weiſe
+wird alſo das Syſtem auf eine doppelte Art in
+Reihen von Reihen geordnet werden koͤnnen.
+Der Mathematiker abſtrahiert gaͤnzlich von
+der Beſchaffenheit der Gegenſtaͤnde und dem In-
+halt ihrer Relationen; er hat es bloß mit der
+Abzaͤhlung und Vergleichung der Relationen un-
+ter ſich zu thun: inſofern iſt er eben ſo, wie er
+den durch + 1 und — 1 bezeichneten Relatio-
+nen, an ſich betrachtet, Gleichartigkeit beylegt,
+ſolche auf alle vier Elemente + 1, — 1, + i
+und — i zu erſtrecken befugt.
+Zur Anſchauung laſſen ſich dieſe Verhaͤltniſſe
+nur durch eine Darſtellung im Raume bringen,
+und der einfachſte Fall iſt, wo kein Grund vor-
+handen iſt, die Symbole der Gegenſtaͤnde an-
+ders als quadratiſch anzuordnen, indem man
+naͤmlich eine unbegrenzte Ebene durch zwey Sy-
+ſteme von Parallellinien, die einander rechtwink-
+lich durchkreuzen, in Quadrate vertheilt, und
+die Durchſchnittspuncte zu den Symbolen waͤhlt.
+Jeder ſolche Punct A hat hier vier Nachba-
+ren, und wenn man die Relation des A zu
+einem benachbarten Puncte durch + 1 bezeich-
+
+64. St., den 23. April 1831.
+net, ſo iſt die durch — 1 zu bezeichnende von
+ſelbſt beſtimmt, waͤhrend man, welche der bei-
+den andern man will, fuͤr + i waͤhlen, oder
+den ſich auf + i beziehenden Punct nach Ge-
+fallen rechts oder links nehmen kann. Die-
+ſer Unterſchied zwiſchen rechts und links iſt, ſo
+bald man vorwaͤrts und ruͤckwaͤrts in der Ebne,
+und oben und unten in Beziehung auf die bei-
+den Seiten der Ebne einmahl (nach Gefallen)
+feſtgeſetzt hat, in ſich voͤllig beſtimmt, wenn
+wir gleich unſere Anſchauung dieſes Unterſchie-
+des andern nur durch Nachweiſung an wirklich
+vorhandenen materiellen Dingen mittheilen koͤn-
+nen Beide Bemerkungen hat ſchon Kant gemacht, aber
+man begreift nicht, wie dieſer ſcharfſinnige Philo-
+ſoph in der erſteren einen Beweis für ſeine Mei-
+nung, daß der Raum nur Form unſerer äußern
+Anſchauung ſey, zu finden glauben konnte, da die
+zweyte ſo klar das Gegentheil, und daß der Raum
+unabhängig von unſerer Anſchauungsart eine reelle
+Bedeutung haben muß, beweiſet.. Wenn man aber auch uͤber letzteres ſich
+entſchloſſen hat, ſieht man, daß es doch von
+unſerer Willkuͤhr abhing, welche von den bei-
+den in Einem Puncte ſich durchkreuzenden Rei-
+hen wir als Hauptreihe, und welche Richtung
+in ihr man als auf poſitive Zahlen ſich bezie-
+hend anſehen wollten; man ſieht ferner, daß
+wenn wir die vorher als + i behandelte Re-
+lation fuͤr + 1 nehmen will, man nothwendig
+die vorher durch — 1 bezeichnete Relation fuͤr
++ i nehmen muß. Das heißt aber, in der
+Sprache der Mathematiker, + i iſt mittlere Pro-
+portionalgroͤße zwiſchen + 1 und — 1 oder ent-
+ſpricht dem Zeichen √ — 1: wir ſagen abſicht-
+lich nicht die mittlere Proportionalgroͤße, denn
+— i hat offenbar gleichen Anſpruch. Hier iſt
+
+Goͤttingiſche gel. Anzeigen
+alſo die Nachweisbarkeit einer anſchaulichen Be-
+deutung von √ — 1 vollkommen gerechtfertigt,
+und mehr bedarf es nicht, um dieſe Groͤße in
+das Gebiet der Gegenſtaͤnde der Arithmetik zu-
+zulaſſen.
+Wir haben geglaubt, den Freunden der Ma-
+thematik durch dieſe kurze Darſtellung der Haupt-
+momente einer neuen Theorie der ſogenannten
+imaginaͤren Groͤßen einen Dienſt zu erweiſen.
+Hat man dieſen Gegenſtand bisher aus einem
+falſchen Geſichtspunct betrachtet und eine ge-
+heimnißvolle Dunkelheit dabey gefunden, ſo iſt
+dieß großentheils den wenig ſchicklichen Benen-
+nungen zuzuſchreiben. Haͤtte man + 1, — 1,
+√ — 1 nicht poſitive, negative, imaginaͤre (oder
+gar unmoͤgliche) Einheit, ſondern etwa directe,
+inverſe, laterale Einheit genannt, ſo haͤtte von
+einer ſolchen Dunkelheit kaum die Rede ſeyn
+koͤnnen. Der Verf. hat ſich vorbehalten, den
+Gegenſtand, welcher in der vorliegenden Abhand-
+lung eigentlich nur gelegentlich beruͤhrt iſt, kuͤnf-
+tig vollſtaͤndiger zu bearbeiten, wo dann auch
+die Frage, warum die Relationen zwiſchen Din-
+gen, die eine Mannigfaltigkeit von mehr als
+zwey Dimenſionen darbieten, nicht noch andere
+in der allgemeinen Arithmetik zulaͤſſige Arten
+von Groͤßen liefern koͤnnen, ihre Beantwortung
+finden wird.
+
+
+
+
+   

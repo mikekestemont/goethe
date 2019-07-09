@@ -1,0 +1,492 @@
+
+
+
+
+
+
+
+
+ DENKSCHRIFTEN
+DER
+KÖNIGLICHEN
+AKADEMIE DER WISSENSCHAFTEN
+ZU MÜNCHEN
+FÜR DIE JAHRE
+1809 UND 1810.
+  MÜNCHEN,
+auf Kosten der Akademie. 1811.
+
+
+ Inhalt.
+ Geschichte der Akademie
+in den Jahren 1809 und 1810.
+a. Wahlordnung, p. II.
+b. Oeffentliche Versammlungen, p. XIV.
+c. Allgemeine Versammlungen, p. XX.
+d. Philologisch-philosophische Classe, und ihr Attribut,
+das Antiquarium, p. XXII.
+e. Mathematisch-physikalische Classe und die ihr bey-
+geordneten Attribute, p. XXIV.
+f. Historische Classe und ihr Attribut, das königl.
+Münzcabinet, p. XXXIII.
+g. Preisaufgaben, p. XXXVIII.
+h. Veränderungen im Personal, p. XLI.
+ Abhand-
+
+Abhandlungen.
+ Classe der Philologie und Philosophie.
+Ueber die Gräber des Memnon und die Inschriften an der
+Bildsäule desselben; von Friedr. Jacobs. p. 3
+Classe der Mathematik und Physik.
+1. Ueber die Weise, wie sich Aufguſsthierchen bey ihren
+Bewegungen benehmen, von Fr. v. P. Schrank. p. 3
+2. Memoire sur la séve d’Aout p. J. Pierre Vaucher de Ge-
+nève. p. 41
+3. Ueber die Sparsamkeit der Formen im Pflanzenreiche
+und ihre Uebergänge, von Fr. v. P. Schrank. p. 51
+4. Ueber die Lebhaftigkeit einiger Pflanzen, von Fr. v. P.
+Schrank. p. 81
+5. Ueber ein Fossil aus dem Steinkohlenwerke bey Häring
+in Tyrol, von Jos. Petzl. p. 103
+6. Ueber den glatten Beryll vom Rabenstein im baierischen
+Walde, von Jos. Petzl. p. 115
+7. Resumé der auf verschiedenen Reisen in das schwäbische
+Alpgebirge gemachten geognostisch - mineralogischen
+Beobachtungen, von Fried. v. Lupin. p. 121
+8. Aeltere Geschichte der Saline Reichenhall vorzüglich in
+technischer Hinsicht bis zur Erbauung der Hülfssa-
+line Traunstein, von Matthias Flurl. p. 149
+9.
+
+9. Beyträge zur wissenschaftlichen Begründung der Glasma-
+cherkunst, von Dr. A. F. Gehlen. p. 197
+10. Elektriche Versuche an der Mimosa pudica L. in paral-
+lele mit gleichen Versuchen an Fröschen, von J. W.
+Ritter. p. 245
+11. Ueber einen elektrischen Telegraphen, von Sam. Thom.
+Sömmerring. p. 401
+12. Super longitudine geographica speculae astronomicae re-
+giae, quae Monachii est, ex triginta septem defectio-
+nibus solis observatis et ad calculos revocatis, nunc
+primum definita a Carolo Felici Seyffer; Commen-
+tatio altera. p. 415
+13. Ueber die Gesetze des Stosses, vorzüglich in Anwendung
+auf den hydraulischen Stösser (Belier hydraulique)
+von Carl Christian Langsdorf in Heidelberg. p. 517
+Classe der Geschichte.
+Ueber den Geschichtschreiber Liutprand, besonders über des-
+sen historische Glaubwürdigkeit, von C. D. A. Martini. p. 3
+ Ver-
+
+Verzeichniſs
+der
+zu diesem Bande gehörenden acht Kupfertafeln.Da Tab. V. die Verbindungsart des Leitungsdrahtes mit dem messingenen einge-
+schliffenen Zäpfchen (p. 403) nicht deutlich ausgedrückt ist, so bittet man, sich
+in Absicht dieses Theils der Maschine an Tab. IV. Fig. 7 u. 11 zu halten.
+ Ge-
+
+
+  XI.
+Samuel Thomas Soemmerring
+über
+einen elektrischen Telegraphen.
+ Einleitung.
+ Vielfältige Betrachtung der ganz unfehlbaren und sehr schnellen
+Gasentbindung an metallenen Spitzen, welche nicht nur selbst meh-
+rere Zolle weit auseinander stehen, sondern welche die Wirkung
+einer elektrischen Säule erst aus einer Entfernung von mehrern tau-
+send Fuſs zugeleitet erhalten, hatte mich schon längst auf den Ge-
+danken gebracht, daſs man wohl durch die Elektricität einen Tele-
+graphen vermitteln könnte, welcher wenigstens den Vorzug haben
+würde, freyes Spiel zu behalten unter den Umständen, wodurch
+die Sichtbarkeit, und folglich der Gebrauch der jetzt gewöhnli-
+chen Telegraphen gänzlich wegfällt Seitdem die Telegraphen in förmlichen, ständigen Gebrauch kamen, war es wohl
+sehr natürlich, auf den Gedanken zu verfallen, den elektrischen Funken, zu glei-
+chem Zwecke anzuwenden. So schlug Reiser im Jahre 1794 (in Voigt’s
+Ma-.
+Um
+51
+
+Um jedoch den praktischen Beweis der Ausführbarkeit dieses
+Gedankens zu unternehmen, bedurfte es einer besondern, gelegen-
+heitlichen Veranlassung, die mir andere, meinem Berufe näher lie-
+gende Versuche wirklich nicht haben fehlen lassen. Eine leichte,
+einfache, wenig kostspielige Vorrichtung stellt meine Erfindung in
+der gehörigen Klarheit vor Augen. Ich wünsche den Bericht davon
+in den Acten unserer Akademie zur Aufbewahrung und Benutzung
+niederzulegen, andern es gern überlassend, meinen durch Elektrici-
+tät vermittelten Telegraphen zum etwanigen Gebrauche des Staates
+anzuwenden.
+Schil-
+Magazin, 9. B. 1. St.) einen elektrischen Telegraphen vor, welcher folgende
+Einrichtung haben sollte. Von Stanniolstreifen, die man auf eine Glastafel ge-
+klebt und mit Buchstaben bezeichnet hatte, sollte derjenige Streifen mittelst des
+elektrischen Funkens angedeutet werden, welcher dem anzuzeigenden Buchstaben
+gehörte; der elektrische Funken aber sollte den Streifen durch eben so viele
+unter der Erde in gläsernen Röhren befindliche Drähte zugeleitet werden.
+Es steht dahin, ob dieser Vorschlag jemahls praktisch versucht worden seyn
+mag?
+Vier Jahre darauf erfand, nach einer in demselben Magazine (11. Bd. St. 4.)
+befindlichen Nachricht Dr. Salva in Spanien einen elektrischen Telegraphen
+von ausnehmender Wirksamkeit. Der Friedensfürst berief ihn nach Madrid,
+wo man bey Hofe seine Versuche mit groſsem Wohlgefallen sah. DrrDer Infant Don
+Antonio beschäftigte sich mit Dr. Salva, diese Erfindung zu verbessern, und
+lieſs einen sehr groſsen, auf eine sehr weite Ferne wirksamen Elektricitäts-Tele-
+graphen errichten.
+Dieser Telegraph des Dr. Salva war wohl nicht durch Gas-Entbindung ver-
+mittelt, weil die elektrische Säule erst ein paar Jahre später, nämlich 1800, von
+Hrn. Volta erfunden ward.
+Nach meinen dermaligen Ansichten würde ich aber zur Andeutung der Buch-
+staben und Zahlen die Gas-Entbindung dem elektrischen Funken weit vorziehen,
+1) weil man die Gas-Entbindung, so lange man will, z. B. 20 — 30 Secunden
+anhalten lassen kann, dagegen der elektrische Funken im Augenblicke verschwin-
+det; 2) weil selbst die schwächste Gas-Entbindung gar leicht ins Auge fällt, da
+hingegen ein kleines elektrisches Fünkehen bey hellem Tage nicht bemerklich ist;
+3) weil überdies die Gas-Entbindung zwey Buchstaben zu gleicher Zeit, der
+elektrische Funke nur einen Buchstaben auf einmal andeutet; 4) ist es noch erst
+zu versuchen, ob sich die 35 Drähte so dicht zu einem gemeinschaftlichen Seile
+wieder zusammen nehmen lassen, wenn man einen bedeutenden elektrischen Fun-
+ken durch sie vermitteln wollte.
+
+Schilderung der Zusammensetzung des Tele-
+graphen und der Art, ihn zu gebrauchen.
+In dem Boden dieses gläsernen, auf einem Gestelle ruhenden
+Wasserbehälters Taf. IV. Fig. 1 von oben, Fig. 2. von vorn., sind 35 goldene Spitzen oder Stifte Fig. 3, 4 in vollständiger Gröſse. befestigt,
+und theils durch die 25 Buchstaben unseres teutschen, als des voll-
+ständigsten Alphabets, theils durch die zehn Ziffern oder Zahlfigu-
+ren bezeichnet.
+Jede dieser 35 Spitzen geht in einen kupfernen Communica-
+cations- oder Leitungsdraht Fig. 2, 8, 9, 10, 11 b, c verkleinert. über, welcher sich mit einem mes-
+singenen Schluſsstäbchen Fig. 5 in vollständiger Gröſse, Fig. 9 von oben, Fig. 10 von vorn, Fig. 11 von der
+Seite verkleinert. endigt, in dessen Mitte sich ein Kanäl-
+chen findet, welches zur Aufnahme eines, sowohl am Hydrogenpole
+als am Oxygenpole der elektrischen Säule, mittelst eines Drahtes Fig. 11 d verkleinert, Fig. 7 d in vollständiger Gröſse.
+oder Kettchens befestigten, eingeschliffenen, ebenfalls messingenen
+Zäpfchens Fig. 6 des Hydrogen Zäpfchen in vollständiger Gröſse, Fig. 7 des Oxygen Zäpfchen
+in vollständiger Gröſse, Fig. 11 in der Zusammenfügung verkleinert. dient.
+Diese krahnähnlichen Schluſsstäbchen Fig. 11. sind gerade, wie die
+goldenen Spitzen im Wasserbehälter in einem eigenen Gestelle Fig. 9 von oben, Fig. 10 von vorn, Fig. 11 von der Seite verkleinert. der-
+gestalt geordnet und befestiget, daſs die entgegengesetzten Enden
+eines jeden leitenden Kupferdrahtes der gleiche Buchstabe, oder die
+gleiche Ziffer bezeichnet; das heiſst: der Kupferdraht a, b, c u. s. f.
+endigt sich als goldene Spitze a, b, c, im Wasserbehälter, und als
+messingenes Stäbchen a, b, c, u. s. f. in seinem Gestelle. S. Tafel V.
+Wird
+51 2
+
+Wird nun diese Vorrichtung auf die Art, wie die Vte Tafel
+abbildet, in den Kreis einer wirkenden elektrischen Säule gebracht,
+so zeigt sich augenblicklich im Wasserbehälter an denjenigen beyden
+goldenen Spitzen oder Stiften Gas-Entbindung, deren gleich bezeich-
+nete Schluſsstäbchen die beyden Zäpfchen aufnehmen, z. B. auf der
+Vten Tafel bey K und T. Am Hydrogenpol-Zäpfchen zeigt sich,
+wie natürlich, Hydrogengas, am Oxygenpol-Zäpfchen dagegen Oxy-
+gengas.
+Mittelst solcher Gas-Entbindung läſst sich nun jeder Buchstabe
+und jede Zahl, nach Belieben, aufs bestimmteste andeuten, wie z. B.
+die Vte Tafel die Andeutung von K und T versinnlicht; und käme
+man in der Annahme folgender drey leicht faſslichen Regeln über-
+ein, so wäre man im Stande, hiedurch eben so viel, wenn nicht
+mehr, als durch den gewöhnlichen Telegraphen auszurichten.
+Erste Regel.
+Weil das Hydrogengas in auffallend gröſserer Menge, als das
+Oxygengas auftritt, so dürfte man den durch dieses Hydrogengas,
+gleichsam kräftiger, oder vorzüglicher, bezeichneten Buchstaben auch
+zum vorgehenden, den durch das Oxygengas hingegen gleichsam
+schwächer bezeichneten Buchstaben zum nachfolgenden annehmen
+und dem gemäſs telegraphisch notiren.
+Zum Beyspiel, in dem Worte, Ák àd èm ìe bezeichnet man
+die BuchstabenABuchstaben A, a, e, i, mittelst des Hydrogen —, k, d, m, e,
+hingegen mittelst des Oxygenpoles.
+Zweyte Regel.
+Zur Bezeichnung der Verdoppelung eines Buchstabens dürf-
+te man die Nulle wählen, falls sich nämlich ein doppelter Buch-
+stabe nicht durch die Trennung der Sylbe von selbst ergiebt. Z. B.
+der
+
+der Nahme Anna läſst sich ohne Verdoppelungs-Zeichen andeuten,
+weil man erst die Buchstaben Àǹ und dann ǹà andeutet; der Nah-
+me Nanni hingegen läſst sich ohne Verdopplungszeichen nicht an-
+deuten, weil man erst ǹà, dann ǹǹ, folglich ǹǹ zugleich andeuten
+soll, und solches bey dem einfachen Alphabete des Wasserbehäl-
+ters unmöglich ist.
+Zwar könnte man auch Doppelbuchstaben zugleich unmittel-
+bar andeuten, weil, wie man sieht, drey (ja noch mehrere) Buch-
+staben zugleich zum Aussprechen gebracht werden, sobald man zwey
+(oder mehrere) Schluſsstäbchen mit einem Zäpfchen zugleich be-
+rührt; allein, dies würde nicht nur die Anzahl der goldenen Spit-
+zen, sondern (was die Kosten am meisten vergröſsern würde) die
+Anzahl der Communications-Drähte von 25 auf 50, folglich aufs
+doppelte bringen.
+Dritte Regel.
+Zur Bezeichnung des Schluſses oder des Endes eines Wor-
+tes, dürfte man die Ziffer 1 wählen. Folglich würde dieser Charak-
+ter oder diese Ziffer dem letzten einzelnen Buchstaben eines aus
+paarigen Buchstaben bestehenden Wortes beygefügt und hinten an
+gesetzt, so wie dem einzelnen Anfangsbuchstaben des Wortes, wel-
+ches auf ein aus paarigen Buchstaben bestehendes Wort folgt, vor-
+gesetzt werden müssen. Z. B.
+ Um
+
+Um alle Verwirrung zu vermeiden, könnte man diese Ziffer
+als ein Kreutzchen notiren, in dem Falle nämlich, daſs sie nicht als
+Zahlfigur, sondern als Trennungs- oder Schluſszeichen dienen soll.
+Gesetzt nun, das Alphabet des Wasserbehälters befände sich,
+durch ein anderes Zimmer, durch ein anderes Haus, oder sogar
+durch eine andere Stadt von dem Alphabete der Stäbchen zwar ent-
+fernt, jedoch durch die 35 Communications-Drähte gehörig verbun-
+den, so vermag der Handhaber der elektrischen Säulen, auf die so
+eben angezeigte Art, dem Beobachter der Gas-Erscheinungen an den
+Stiften im Wasserbehälter, eine Nachricht telegraphisch mitzutheilen.
+Q. E. D.
+Bemerkungen über die Spitzen.
+Tafel IV u. V, Fig. 1, 2, 8 verkleinert; Fig. 3 u. 4 in vollständiger Gröſse.
+Zu den Spitzen oder Stiften im Wasserbehälter hat Gold
+vor allen übrigen Metallen entschiedenen Vorzug, aus folgenden Grün-
+den: Spitzen aus unedlen Metallen, z. B. Bley, Zinn, Kupfer, Mes-
+sing, Eisen, selbst Spitzen aus Silber vermitteln zwar reichliche Gas-
+Entbindung; allein
+1) erscheint diese Gas-Entbindung nur an einer Spitze, nämlich
+an der Hydrogenpol-Spitze, während daſs das Oxygen der Oxygenpol-
+Spitze auf der Stelle oxydirt wird, folglich nicht als Gas erscheint;
+2) wird das Wasser durch diese erzeugten Metalloxyde ge-
+trübt und gefärbt, z. B. durch Zink weiſs, durch Kupfer grün, durch
+Silber braun, durch Eisen schwarz;
+3) werden diese Spitzen sogar bald angegriffen und zerstört;
+dahingegen Spitzen von Gold nach Jahre langem Gebrauche kaum
+merkliche Veränderung oder Abnahme leiden, falls sich nicht etwas
+Kochsalz oder Salmiak dem Wasser beygemischt befindet.
+Spi-
+
+Spitzen aus Platina vermitteln zwar eben so gut beyde Gas-
+arten, als Spitzen aus Gold. Allein nicht zu gedenken, daſs Platina-
+Drähte schwerlich überall, wo man goldene leicht fertigen lassen
+kann, zu erhalten seyn möchten, so erscheint das Verhältniſs zwi-
+schen dem erzeugten Hydrogen- und Oxygen-Gase nicht so auffal-
+lend bey Platina - als bey Gold-Spitzen. Nach meinen genauesten
+und neuesten Untersuchungen verhält sich die Menge des Hydrogen-
+Gases zum Oxygen-Gase bey Platina-Spitzen, wie 23 zu 11, bey
+Goldspitzen, wie 23 zu 7.
+Die Ursache dieses Unterschiedes scheint darin zu liegen, daſs
+selbst im reinsten destillirten Wasser ein Theil des Oxygens an der
+Spitze aus Gold in sogenannten mineralischen Purpur sich verwan-
+delt, folglich nicht, wie bey der Platina-Spitze, als Gas erscheint.
+Ferner fand ich, daſs die Dicke der Spitzen im Wasserbehäl-
+ter auf die Gas-Entbindung den augenscheinlichsten Einfluſs verräth.
+Dickere goldene Spitzen nämlich vermitteln unter übrigens gleichen
+Umständen offenbar mehr Gas, als dünnere. Reicht die Dicke der
+Spitze an das Drittel einer Pariser-Linie, Fig. 3 u. 4, so scheint sie
+vollkommen hinreichend; wenigstens würde ich nicht rathen, die
+Spitzen viel dicker zu machen, weil alsdann die Gase sich als Bläs-
+chen ringsum die Spitzen ansetzen, und mehrere Secunden verstrei-
+chen, ehe bey einer hinreichend starken elektrischen Säule die Gas-
+arten Springbrunnen ähnlich in die Höhe sprudeln.
+Ueber den Einfluſs der Entfernung der Spitzen von einander
+auf die Menge der erscheinenden Gase fand ich mittelst meines Ga-
+someters, daſs, wenn unter übrigens gleichen Umständen die beyden
+von einander entferntesten Stifte, d. i. Fig. 2, A u. 9, in Anspruch
+kommen, 45 Maſs Hydrogen-Gas erscheinen, da in gleichem Zeitraume
+nur 21 Maſs erscheinen, wenn zwey der einander nächsten Spitzen,
+z. B. Fig. 2, R und S, in Anspruch kommen.
+Nun
+
+Nun stehen die Spitzen, Fig. 2, A—9, volle 7 1∫2 Zoll weit von
+einander, da die Spitzen, Fig. 2, R und S, hingegen nur 1∫4 Zoll
+von einander stehen. Folglich entbinden die sich 30mal näheren
+Spitzen, Fig. 2, R und S, noch nicht einmal doppelt so viel Gas,
+als die entferntesten Spitzen, Fig. 2, A u. 9.
+Auf die Schnelligkeit des Anfangens der Gas-Entbindung
+scheint übrigens dieser Unterschied der Entfernung der Spitzen von
+einander keinen merklichen Einfluſs zu äuſsern. Wenigstens konnte
+ich keinen Unterschied finden, ich mochte die Gas-Entbindung durch
+die einander nächsten, oder durch die von einander entferntesten
+Spitzen beginnen lassen. In einem, wie in dem andern Falle, er-
+scheint die Gas-Entbindung gleichzeitig, nicht früher, nicht später.
+Bemerkungen über die Communications-Drähte.
+Tafel IV u. V, Fig. 2, 4, 7, 8, 9, 10, 11.
+Zu Leitungs- oder Communications-Fäden zwischen den
+Spitzen im Wasserbehälter und den Schluſsstiften bediente ich mich
+blos messingener, oder kupferner Drähte, weil sie mir nie ihren
+Dienst versagten, überall zu haben sind, nicht sobald, als die ohne-
+hin weniger geschmeidigen eisernen oxydirt werden, auch nicht so
+gar leicht, wie gleich dicke bleyerne zerbrechen oder zerreiſsen.
+Indessen verdiente es noch genauere Prüfung, ob irgend ein Metall
+und welches unter den Metallen schneller, als das andere, das elek-
+trische Agens durch groſse Strecken leite.
+Zur Berechnung der Geschwindigkeit, mit welcher sich das
+elektrische Agens bewegt, reichten freylich meine beschränkten Ver-
+suche nicht hin, bis jetzt noch einen Unterschied zu bemerken, die
+Communications-Drähte mochten nur einen, oder mehrere tausend
+Fuſs Länge haben.
+Es
+
+Es wäre vielleicht für die Theorie der Elektricität höchst in-
+teressant, durch genaue, ins Groſse gehende Versuche, die Geschwin-
+digkeit zu bestimmen, mit welcher sich das elektrische Agens durch
+solche Leitungsdrähte hin bewegt, und wie sich die Geschwindigkeit
+der Elektricität zur Geschwindigkeit z. B. des Lichtes verhält. Sol-
+che rein wissenschaftliche Untersuchungen würden aber freylich die
+Vereinigung mehrerer meiner hochgeachtesten Herren Collegen,
+so wie vielleicht eigene Kosten erheischen; denn, welche Subtilität
+zu diesen Untersuchungen erforderlich seyn möchte, erhellt schon
+daraus, daſs man im eigentlichen Verstande des Blitzes Schnelle zu
+messen hätte Es ist mir nicht unbekannt, daſs treffliche Physiker vor mehr, als einem halben
+Jahrhundert über die Geschwindigkeit der Bewegung der auf die sonst gewöhn-
+liche Art durch Reibungs-Maschinen erregten Elektricität eigene Versuche an-
+stellten. Allein nirgends finde ich diese Versuche so weit getrieben, daſs sie
+zu bestimmten Resultaten führten; denn weder
+Gray, welcher die Elektricität durch einen Draht von 700 Fuſs leitete; noch
+Du Fay, welcher sie durch — — — — 1256 — oder
+Le Monnier, welcher sie durch — — — 5700 — noch
+Watson, welcher sie durch einen Draht von 12276 Fuſs, d. i., durch
+mehr als zwey englische Meilen leitete, vermochte, auch mit den besten Uhren,
+das Zeiträumchen zu bestimmen, welches die Elektricität brauchte, um diese
+Längen zu durchlaufen. In dem nämlichen Augenblicke, wo diese Männer den
+elektrischen Funken dem einen Ende des Drahtes mittheilten, schien ihnen auch
+schon der Schlag am andern Ende desselben zu erfolgen. Watson’s Versuche
+ergeben wenigstens, daſs sich die Elektricität ohne Vergleich schneller, als der
+Schall einer losgelassenen Flinte bewegt..
+Um meinerseits wenigstens durch einen überzeugenden Ver-
+such augenscheinlich darzuthun, daſs in Rücksicht des leitenden
+Drahtes, der Unterschied der Länge zwischen 2 Fuſs und 2000
+Fuſs nicht bemerkbar ist (ungeachtet der Verstand die Gewiſsheit
+giebt, daſs allerdings ein Unterschied Statt haben müsse), so ist
+hier um einen Glas-Cylinder ein 2248 baier. Fuſs langer Draht ge-
+wun-
+52
+
+wunden, welchen die Wirkung der elektrischen Säule durchlaufen
+muſs, um von der Säule bis zum Alphabete im Wasserbehälter zu
+gelangen, und zum Beyspiele zu dienen, daſs die Gas-Entbindung,
+dieser beträchtlichen Länge des Drahtes ungeachtet, eben so schnell
+zu beginnen scheint, als wenn jene Wirkung sich nur durch zwey
+Fuſs hin zu erstrecken hätte.
+Da ferner es manchem frappanter scheinen sollte, wenn ein
+solcher 2000 Fuſs langer Draht sich durch mehrere Zimmer und
+Gänge hin erstreckt, und doch blitzschnell durch ihn die Wirkung
+erfolgt, so wäre dagegen zu bedenken, daſs ein solcher, um einen
+Cylinder gewundene Draht den Vortheil gewährt, daſs sich der Mo-
+ment des Schlieſsens der elektrischen Kette, so wie der Moment
+des Beginnens der Gas-Entbindung bequem, und leicht auf der Stelle
+wahrnehmen läſst, ohne eben ein paar genaue astronomische Uhren
+und mehrere zugleich Beobachtende zu erfordern.
+Sowohl um die unmittelbare, alle Wirkung vernichtende Be-
+rührung, als unvermeidliche Verwirkung von 35 einzeln neben ein-
+ander liegenden Drähten zu verhüten, zugleich dieselben in den
+kleinsten Raum zusammen zu bringen, und gerade, wie ein einfa-
+ches Seil, zu behandeln, und doch zugleich alles Ueberspringen der
+Elektricität von einem Drahte zum andern zu verhüten, war die Iso-
+lirung jedes einzelnen Drahtes nothwendig. Diese Isolirung erreicht
+man durchs Ueberspinnen mit Seide so vollkommen, daſs man so-
+gar nachgehends dieses aus 35 Drähten bestehende Seil mit einem
+Firniſs stark überziehen kann, somit vor aller Oxydation aufs dauer-
+hafteste zu schützen vermag.
+Bewunderungswürdig scheint es wahrlich, wie durch ein sol-
+ches Seil 35 abgesonderte Wirkungen der Elektricität ohne einige
+Störung erfolgen!
+Ja!
+
+Ja! wie sehr erweckt nicht ein solches Seil das Nachdenken
+selbst eines Physiologen, wenn er an ihm wahrnimmt ein grob sinn-
+liches Analogen eines Nervenstranges, dessen einzelne Fäden auf
+gleiche Weise jeden erhaltenen Empfindungs-Eindruck im Allgemei-
+nen, so wie den des kleinsten elektrischen Fünkchens im Besondern,
+isolirt und ungestört bis ins Gehirn fortpflanzen.
+Bemerkungen über die Schluſsstäbchen.
+Tafel IV und V, Fig. 9, 10, 11 verkleinert; Fig. 5 in vollständiger Gröſse.
+Die Schluſsstäbchen sind mit kegelförmigen Kanälchen verse-
+hen und passen mit den eingeschliffenen gleichfalls kegelförmigen
+Zäpfchen Fig. 6 und 7 der elektrischen Säule genau zusammen,
+theils, um dadurch dem Schlieſsen der Kette Genauigkeit und Stä-
+tigkeit zu verschaffen, theils um durch die beständige Reibung alle
+Oxydation zwischen den hier zusammenzubringenden Metallen abzu-
+halten, und die Wirkung unfehlbar zu machen, da es bekannt ist,
+wie wenig Oxyd an solchen Stellen die elektrische Wirkung zu un-
+terbrechen vermag.
+Man könnte gar leicht an dieser Schluſsstäbchen-Reihe eine
+Tastatur anbringen, um gerade wie auf einem Claviere durch’s Ein-
+drücken eines an einem Clavis befestigten Zäpfchens in das Kanäl-
+chen des Stäbchens die elektrische Kette zu schlieſsen, und mittelst
+der hierdurch erfolgenden Gas-Entbindung die Buchstaben zu be-
+zeichnen. Doch müſsten alsdann in jedem Schluſsstäbchen zwey Ka-
+nälchen gebohrt, und doppelt so viel Zäpfchen als Schluſsstäbchen,
+d. i., zu den 35 Stäbchen 70 Zäpfchen vorhanden seyn. Der erste
+(so wie alle übrigen) mittelst einer Feder zurückspringende Clavis
+könnte das Hydrogen-Zäpfchen für A, der zweyte Clavis das Oxy-
+gen-Zäpfchen für A, der dritte Clavis das Hydrogen-Zäpfchen für B, so
+wie der vierte Clavis das Oxygen-Zäpfchen für B u. s. f. in das mit ihm
+zusammenpassende Kanälchen beym Aufdrücken des Fingers bringen.
+52 2Be-
+
+Bemerkungen über die elektrische Säule.
+Tafel V.
+Was die elektrische Säule oder den Elektromotor betrifft,
+so ist deren Einrichtung und Handhabung so allgemein bekannt,
+daſs ich nichts zu bemerken wüſste, als daſs zum telegraphischen
+Gebrauche jede Einrichtung derselben dienlich ist, welche nur
+eine mehrere Monate lang andauernde Wirkung zusichert. Breit-
+plattig braucht eine solche Säule wenigstens nicht zu seyn, weil mir
+mein Gasometer bewies, daſs sechs meiner gewöhnlichen Glieder
+(deren jedes aus einem Brabanterthaler, Filz, und einem 52 Gran
+leichtern Zinkscheibchen besteht), schon mehr Gas zu entbinden
+vermochten, als fünf Glieder der groſsen, sechs und dreyſsig qua-
+dratzolligen Batterie unserer Akademie.
+Allgemeine Bemerkungen über die Vorzüge ei-
+nes elektrischen Telegraphen vor den bis-
+her gewöhnlichen.
+1) Hängt ein solcher elektrischer Telegraph nicht lediglich
+vom Tageslichte und vom heiteren Himmel ab, sondern kann be-
+ständig, Nachts eben so gut, als beym Tage, kurz, in jedem be-
+liebigen Augenblicke gebraucht werden. In dieser Hinsicht allein
+leistet er schon doppelt so viel, als ein gewöhnlicher Telegraph,
+welcher bekanntlich nur bey Tage zu gebrauchen steht.
+2) Stört die Wirkung eines elektrischen Telegraphen keine
+Dämmerung, keine trübe Witterung, kein wolkiger Himmel, kein
+Nebel, kein Regen, Schnee, Rauch, kein Staub oder Wind. Rech-
+net man für unsere Gegenden nur 121 oder ein Drittheil des Jah-
+res für trüb, d. i., für den gewöhnlichen Telegraphen unbrauch-
+bare Tage, so kann er zusammengenommen mit der vorhin bemerk-
+ten nächtlichen Anwendung weit mehr, als noch einmal so viel
+leisten.
+3)
+
+3) Da der elektrische Telegraph nun vollends zwey Buchsta-
+ben zu gleicher Zeit anzeigt, so leistet er auch hiedurch allein schon
+wieder doppelt so viel in gleichem Zeitmomente, als der gewöhn-
+liche.
+4) Der gewöhnliche Telegraph beschränkt sich nur auf ge-
+wisse Entfernungen, müſste also z. B. zwischen München und
+Augsburg etlichemal die Zeichen wiederholen. Ein elektrischer
+Telegraph könnte von München aus nach Augsburg, ja von
+einem Ende des Königreichs bis zum andern, ohne Zwischen-Station
+berichten.
+5) Ist der elektrische Telegraph, wenn man das Communica-
+tions-Seil Fig. 2, 4, 8 b, 9, 10, 11 c unter der Erde weglaufen
+läſst, in den Zwischenräumen von einer Station zur andern, mit al-
+ler seiner Wirkung, verborgen, da hingegen Jedermann die Thätig-
+keit des gewöhnlichen Telegraphen gewahr wird.
+6) Und bey dem allen deutet der elektrische Telegraph die
+Buchstaben und Zahlen ganz eigentlich, nicht cryptographisch, wie
+der gewöhnliche, in eigens zu erlernenden Charakteren an.
+7) Bedarf der elektrische Telegraph keiner eigenen, hoch
+liegenden Gebäude, sondern kann in jedes Zimmer, in jedes Bureau
+geleitet seyn.
+Was endlich die Kosten betrifft, so kommt diese, wie man
+überzeugend sieht, vollkommen brauchbare Vorrichtung, welche ich
+die Ehre habe, der königl. Akademie vorzuzeigen, bis auf das Com-
+munications-Seil, keine 30 Gulden zu stehen.
+Bloſs das aus 35 Drähten bestehende Communications-Seil
+nebst seiner Leitung durch gläserne oder thönerne Röhren, würde
+allein
+
+allein Kosten verursachen; doch dürfte ein solches, aus 35 über-
+sponnenen Drähten bestehende Seil, welches die Länge von 22827
+pariser Schuh, d. i., von einer deutschen Meile, oder als einfacher
+Draht die Länge von 788,845 Fuſs hätte, für weniger als 2000 Gul-
+den sich anschaffen lassen, da er dem höchsten Anschlage zufolge,
+nach dem nämlich berechnet, was mir das meinige kurze kostete,
+sich auf die Summe von fl. 2396, kr. 50 1/10 beläuft.
+XII.
+
+
+  

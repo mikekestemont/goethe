@@ -1,0 +1,3157 @@
+ 
+
+
+
+
+
+
+
+      Untersuchungen
+über die
+Aetiologie
+der
+Wundinfectionskrankheiten 
+von
+Dr. Robert Koch,
+Kreisphysikus in Wollstein.
+      Mit 5 Tafeln Abbildungen.
+     
+     Leipzig,
+Verlag von F. C. W. Vogel.
+1878. 
+
+
+
+
+  INHALTSVERZEICHNISS.
+ 
+     Seite
+Erklärung der Abbildungen  1
+Vorrede  3
+Einleitung  5
+Jetziger Stand der Kenntnisse über die Beziehungen der Mikro¬
+organismen zu den Wundinfectionskrankheiten  8
+1. Das Vorkommen der Mikroorganismen im erkrankten mensch¬
+lichen Körper  8
+2. Experimentell nachgewiesene Beziehungen der Mikroorganismen
+zu den Wundinfectionskrankheiten  14
+3. Einwendungen gegen die Beweiskraft dieser Thatsachen  19
+Beschreibung der Untersuchungsmethode  29
+Künstliche Wundinfectionskrankheiten  40
+1. Septicämie bei Mäusen  40
+2. Progressive Gewebsnekrose (Gangrän) bei Mäusen  47
+3. Progressive Abscessbildung bei Kaninchen  50
+4. Pyämie bei Kaninchen  54
+5. Septicämie bei Kaninchen  59
+6. Erysipelatöser Process beim Kaninchen  62
+Milzbrand  65
+Schlussfolgerungen  69 
+ 
+
+
+  Erklärung der Abbildungen.
+  Sämmtliche Abbildungen sind mit dem Zeichnenprisma möglichst natur¬
+getreu grösstentheils mit Benutzung des C. Zeis'schen Oelimmersionssystem
+1/12 Zoll angefertigt. Zur Bestimmung der Vergrösserung diente ein in der¬
+selben Entfernung gezeichnetes Objectiv-Mikrometer.
+   Fig. 1. Blut einer septicämischen Maus, am Deckglas eingetrocknet, mit
+Methylviolett gefärbt, in Canadabalsam eingelegt. Rothe Blutkörperchen
+und dazwischen kleine Bacillen.
+Vergrösserung 700.
+ Fig. 2. Weisse Blutkörperchen aus der Zwerchfellvene einer septicämischen
+Maus. Uebergänge von solchen Blutkörperchen, die wenige Bacillen ent¬
+halten, bis zu solchen, die in einen von Bacillen gebildeten Haufen ver¬
+wandelt sind.
+Vergrösserung 700.
+ Fig. 3. Zwerchfellvene einer septicämischen Maus.
+ a. Kerne der Gefässwand,
+b. Septicämiebacillen,
+c. in Bacillenhaufen verwandelte weisse Blutkörperchen,
+d. in die Vene einmündende Capillargefässe.
+Vergrösserung 700.
+ Fig. 4. Blut einer milzbrandigen Maus. Rothe Blutkörperchen und Milz¬
+brandbacillen. Das zugehörige Präparat ist in derselben Weise hergestellt,
+wie das in Fig. 1 gezeichnete. Die Gliederung der Bacillen ist zu stark
+angegeben.
+Vergrösserung 700.
+ Fig. 5. Längsschnitt vom Ohr einer Maus. Progressive Gewebsnekrose.
+ a. Normaler Knorpel und zu beiden Seiten normales Gewebe,
+b. Demarcationslinie, Ansammlung von Kernen,
+c. kernloser, nekrotischer Theil des Ohrs,
+d. Gefässquerschnitte mit Mikrokokken angefüllt.
+Vergrösserung 25.
+ Fig. 6. Ein Theil des Knorpels und des anliegenden Gewebes aus Fig. 5 in
+der Nähe von c bei 700 Vergrösserung.
+a. Nekrotische Knorpelzellen,
+b. kettenförmige Mikrokokken in Haufen,
+c. dieselben einzeln.
+ Koch, Wundinfectionskrankheiten. 1
+
+
+Erklärung der Abbildungen.
+  Fig. 7. Randzone vom käsigen Abscess eines Kaninchens. Untere Fläche.
+ a. Kernanhäufung am äusseren Rande des Abscesses,
+b. Zooglöa, aus sehr kleinen Mikrokokken bestehend (dieselben sind theil¬
+weise, namentlich im Innern der Zooglöa zu gross gezeichnet),
+c. Zooglöa, theilweise absterbend,
+d. abgestorbene Zooglöa,
+e. Kerndetritus.
+Vergrösserung 700.
+Fig. 8. Randzone vom käsigen Abscess eines Kaninchens. Seitentheil.
+ a. Wolkenförmige Zooglöamassen,
+b. und c. kleinere, d. kleinste Mikrokokkencolonien,
+e. Kernanhäufung in der Nähe der Zooglöa,
+f. zerfallene Kerne,
+g. abgestorbener Theil der Zooglöa.
+Vergrösserung 700.
+ Fig. 9. Gefäss aus der Rindensubstanz der Niere von einem pyämischen
+Kaninchen.
+ a. Kerne der Gefässwand,
+b. kleine Gruppe von Mikrokokken zwischen Blutkörperchen,
+c. dichter wandständiger Haufen von Mikrokokken, Blutkörperchen ein¬
+schliessend,
+d. Doppelmikrokokken am Rande des grossen Haufens.
+Vergrösserung 700.
+ Fig. 10. Glomerulus von einem septicämischen Kaninchen.
+ a. Capillarschlinge mit membranartig ausgebreiteten ovalen Mikrokokken,
+b. den Wandungen eines Capillargefässes zu beiden Seiten angelagerte
+Mikrokokken,
+c. mit Mikrokokken vollständig ausgefüllte Schlinge,
+d. einzelne Mikrokokken in einem neben dem Glomerulus gelegenen
+Capillargefäss.
+Vergrösserung 700.
+ Fig. 11. Capillargefäss aus der Dünndarmschleimhaut eines septicämischen
+Kaninchens.
+ a. Kerne der Gefässwand,
+b. ovale Mikrokokken.
+Vergrösserung 700.
+ Fig. 12. Flächenschnitt vom Ohr eines Kaninchens. Erysipelas ähnlicher
+Krankheitsprocess.
+ a. Knäulförmige Anhäufungen von Bacillen,
+b. Kernanhäufungen oberhalb der Bacillenschicht,
+c. Kern von platten dem Knorpel angehörigen Zellen unterhalb der
+Bacillenschicht,
+d. parallel angeordnete Bacillen.
+Vergrösserung 700.
+ Fig. 13. Darmzotte vom Kaninchen. Milzbrand. Isolirte Färbung.
+Vergrösserung 250.
+ Fig. 14. Ein Theil des Gefässnetzes derselben. — Darmzotte bei 700
+Vergrösserung.
+ 
+
+  VORREDE.
+  Die vorliegende Arbeit gehört einer Reihe von Untersuchungen
+an, die ich über die Aetiologie der Infectionskrankheiten bereits
+angestellt habe und in Zukunft noch weiter auszuführen gedenke.
+Die gestellte Aufgabe war: Aufklärung darüber zu gewinnen, ob
+die Wundinfectionskrankheiten parasitären Ursprungs sind oder
+nicht. Durch äussere Verhältnisse gezwungen musste ich mich
+indessen lediglich auf Experimente über die Wirkung putrider
+Stoffe an Thieren beschränken. Diese haben mich zu positiven
+und, wie mir scheint, nicht unwichtigen Ergebnissen geführt und
+es wäre zur vollständigen Beantwortung der gestellten Frage nun
+durchaus nothwendig gewesen, weitere ähnliche Versuchsreihen
+an Thieren mit solchen Stoffen vorzunehmen, welche an Wundin¬
+fectionskrankheiten leidenden oder gestorbenen Menschen entnom¬
+men wurden, und was mir das Wichtigste zu sein scheint, nach
+der bei meinen Versuchen bewährt gefundenen Methode die frag¬
+lichen Mikroorganismen in menschlichem pathologischen Material
+aufzusuchen.
+Da mir jedoch die Gelegenheit, nach dieser Richtung hin
+meine Untersuchungen zu vervollkommnen, fehlt, so habe ich mich
+damit begnügt, experimentell an Thieren Krankheitsprocesse zu
+erzeugen, welche den beim Menschen beobachteten Wundinfections¬
+krankheiten ähnlich sind und als Beispiele für diese dienen können.
+Nachdem es mir dann gelungen ist, diese Sammlung von
+künstlichen Krankheitsprocessen so weit zu vervollständigen, dass
+ich für die wichtigsten Wundinfectionskrankheiten, nämlich für
+Septicämie, Pyämie, progressive Eiterung, Gangrän und Erysipelas
+Beispiele aufweisen kann, so glaube ich meine Aufgabe, soweit
+sie sich nur an Thieren ausführen lässt, gelöst zu haben und es
+1*
+
+
+Vorrede.
+ scheint mir deswegen nothwendig, die bis jetzt gewonnenen Re¬
+sultate zu veröffentlichen.
+In Betreff der dieser Schrift beigegebenen Abbildungen habe
+ich hier noch eine Bemerkung zu machen. In einem Aufsatze
+über Untersuchung und Photographiren der Bakterien (Beiträge
+zur Biologie der Pflanzen, herausgegeben von F. Cohn II. Bd.
+3. Heft) hatte ich den Wunsch ausgesprochen, dass, um möglichst
+naturgetreue Abbildungen der pathogenen Bakterien zu erhalten,
+dieselben photographirt werden möchten. Um so mehr fühlte
+ich die Verpflichtung, die bei den Wundinfectionskrankheiten in
+thierischen Geweben aufgefundenen Bakterien photographisch ab¬
+zubilden und habe es an Mühe, dieser Pflicht nachzukommen, auch
+nicht fehlen lassen. Die kleinsten und gerade die am meisten in¬
+teressirenden Bakterien lassen sich jedoch nur durch Färbung und
+Benutzung ihres Farbenbildes in thierischen Geweben sichtbar
+machen und es hat in diesem Falle die photographische Aufnahme
+mit denselben Schwierigkeiten zu thun, wie bei der Photographie
+makroskopischer gefärbter Objekte z. B. eines farbigen Tapeten¬
+musters. Bekanntlich hat man diese Aufgabe mit Hülfe gefärbter
+Collodien gelöst. Dies veranlasste mich, dasselbe Verfahren zum
+Photographiren der gefärbten Bakterien zu verwenden und es
+ist mir in der That gelungen, mit Eosincollodium und Abblendung
+einzelner Theile des Spektrums durch farbige Gläser Bilder von
+mit blauer und rother Anilinfarbe gefärbten Bakterien zu erhalten.
+Doch ist eine so lange Belichtungszeit erforderlich, dass störende
+Erschütterungen des Apparates gar nicht zu vermeiden sind und
+deswegen das Bild der genügenden Schärfe entbehrt, um es nicht
+allein als Ersatz für eine Zeichnung, sondern auch als Beweismittel
+für das Gesehene benutzen zu können. Vorläufig musste ich da¬
+her auf die Veröffentlichung photographischer Abbildungen ver¬
+zichten, hoffe aber noch später, wenn verbesserte Methoden eine
+kürzere Exposition gestatten, diesen Mangel ersetzen zu können.
+ 
+
+  EINLEITUNG.
+  Als Wundinfectionskrankheiten bezeichnet man heutzutage eine
+Gruppe von Krankheiten die man früher perniciöses Wundfieber,
+purulente Infection, putride Infection, Septicämie, Pyämie nannte
+oder auch, als sich die Ansicht geltend machte, dass verschiedene
+ähnliche Krankheiten hierhin gehören, unter dem Ausdruck py¬
+ämische oder septicämische Processe zusammenfasste.
+Streng genommen müsste man dazu alle diejenigen Krank¬
+heiten rechnen, welche eine Folge von Verwundungen, selbst der
+kleinsten, z. B. Stichen einer Impfnadel sind und deren An¬
+steckungsfähigkeit durch klinische Beobachtung oder durch das
+Experiment mit Sicherheit erwiesen ist. Beispielsweise würden
+also die geimpften Kuhpocken, Milzbrand, Rotz, die Hundswuth,
+selbst die Syphilis zu den Wundinfectionskrankheiten gezählt wer¬
+den müssen. So weit dehnt man diese Bezeichnung jedoch nicht
+aus und lässt sie gewöhnlich nur für die den Chirurgen speciell
+interessirenden Krankheitsprocesse, welche Verletzungen und Ope¬
+rationswunden zu compliciren pflegen, also für Septicämie, Pyämie,
+progressive Eiterung oder Phlegmone und Erysipelas gelten. In
+neuerer Zeit ist man immer mehr zu der Ueberzeugung gekom¬
+men, dass auch das Puerperalfieber als eine von der Placentar¬
+wundstelle oder von Verletzungen der Geburtswege ausgehende
+infectiöse Wundkrankheit anzusehen ist. Ferner wird von den
+meisten Autoren die Diphtheritis, weil sie sich gelegentlich zu
+Verletzungen gesellt und ihre Uebertragbarkeit durch Impfungen
+vielfach erwiesen ist, hierher gerechnet.
+Bei den Erörterungen, welche ich dem experimentellen Theil
+dieser Arbeit vorauszuschicken habe, werde ich mich gleichfalls
+auf die zuletzt genannten Krankheitsprocesse beschränken, im
+zweiten Abschnitte dagegen insofern von der üblichen Abgrenzung
+
+Einleitung.
+ der Wundinfectionskrankheiten abweichen, dass ich auch den Milz¬
+brand wegen seiner vielfachen Beziehungen zu der experimentell
+bei Thieren erzeugten Septicämie berücksichtigen werde.
+Die Ausdrücke Pyämie sowohl als auch Septicämie werden
+vielfach in verschiedenem Sinne gebraucht und es ist deswegen
+nothwendig, dasjenige, was ich mit diesen allgemein gebräuch¬
+lichen Namen bezeichnen werde, zu präcisiren.
+Lange Zeit unterschied man die Pyämie von der Septicämie
+dadurch, dass bei der ersteren Metastasen vorkommen und bei
+der letzteren fehlen. Als man aber darauf aufmerksam wurde,
+dass auch in solchen Fällen, die man früher als zur Septicämie
+gehörig bezeichnet hatte, vereinzelte mikroskopische Metastasen
+nicht selten gefunden werden und deswegen eine sichere Unter¬
+scheidung der beiden Processe nicht möglich ist, haben einige
+Autoren es vorgezogen, die durch Aufnahme des gelösten putriden
+Giftes veranlasste Krankheit Septicämie, alle übrigen, namentlich
+die mit der Entwicklung von Mikroorganismen verbundenen Krank¬
+heitsprocesse pyämische Processe zu nennen.
+In diesem Sinne unterscheidet beispielsweise Birch-Hirsch¬
+feld Lehrbuch der pathologischen Anatomie. Leipzig, Vogel, 1876. p. 1224. Pyämie und Septicämie. Er versteht unter Septicämie
+eine Krankheit hervorgerufen durch Blutveränderungen, die eine
+Folge der Aufnahme von Fäulnissproducten sind. Die Pyämie
+charakterisirt er dagegen „als eine wahrscheinlich durch specifische
+Organismen hervorgerufene und von der fauligen Infection unter¬
+schiedene Allgemeininfection, welche von Wundflächen oder den
+Herden primärer eiteriger Entzündung ausgeht.“ Auch Cohn¬
+heim Vorlesungen über allgemeine Pathologie. Berlin 1877. S. 469. identificirt die Septicämie mit der putriden Intoxication
+und leitet sie von dem Hineingelangen eines gelösten exquisit
+putriden Giftes in die Säftemasse des Körpers ab. Davaine da¬
+gegen, dessen Arbeiten ich später mehrfach zu erwähnen habe,
+hält sich an die ältere Unterscheidung von Pyämie und Septi¬
+cämie und rechnet zu letzterer alle die Fälle, bei denen die
+Leichenuntersuchung keine Metastasen nachweist, obwohl er die
+Mitwirkung specifischer Organismen auch für diese Fälle für er¬
+wiesen hält.
+Die Namen Pyämie und Septicämie entsprechen beide nicht
+mehr dem, was man ursprünglich damit bezeichnet hat; denn die
+
+Einleitung.
+ Pyämie entsteht nicht, wie man es früher glaubte, durch Ein¬
+dringen von Eiter in die Blutgefässe und die Septicämie ist keine
+Fäulniss des lebenden Blutes. Es sind schliesslich nur noch
+Sammelnamen geblieben für eine Anzahl von Symptomen, welche
+höchst wahrscheinlich einer Reihe von verschiedenen Krankheiten
+angehören. So lange diese nicht genügend von einander geson¬
+dert sind, ist es wohl das zweckmässigste, diese Namen vorläufig
+in der allgemein gebräuchlich gewordenen Weise gelten zu lassen,
+um nicht immer wieder in kurzen Zeiträumen zu neuen Definitio¬
+nen gezwungen zu sein.
+Aus diesem Grunde werde ich im Nachfolgenden unter der
+Bezeichnung Septicämie alle diejenigen Fälle von allgemeiner
+Wundinfection zusammenfassen, bei denen keine metastatischen
+Veränderungen vorkommen und zur Pyämie die mit Metastasen
+verlaufenden rechnen.
+ 
+
+  Jetziger Stand der Kenntnisse
+über die Beziehungen der Mikroorganismen
+zu den Wundinfectionskrankheiten.
+    1. Das Vorkommen der Mikroorganismen im erkrankten
+menschlichen Körper.
+ Die erste Mittheilung über das Vorkommen von Bakterien in
+den Organen der an Wundinfectionskrankheiten Gestorbenen machte
+Rindfleisch im Jahre 1866.Lehrbuch der pathologischen Gewebelehre. 1. Aufl. S. 204. (4. Aufl.
+S. 199.) In kleinen, stecknadelkopfgrossen
+Erweichungsherden, welche gelegentlich bei Pyämie, puerperalen
+und ähnlichen Infectionen und dann immer in grösserer Anzahl
+im Herzfleisch gefunden werden und die ursprünglich grauweisse
+Stellen im Muskelfleisch, später mit dünnflüssigem Brei gefüllte
+Höhlen bilden, besteht dieser Inhalt, wie Rindfleisch nachge¬
+wiesen hat, nicht aus Eiterkörperchen, sondern allein aus „Vibrio¬
+nen“. Dieselben liegen dicht gedrängt anfangs zwischen den Mus¬
+kelbündeln, dann dringen sie unter gleichzeitiger Auflösung der
+Muskelfaser in das Innere derselben ein. Weiter als bis zur Bil¬
+dung kleiner abscessähnlicher Erweichungsherde konnte Rind¬
+fleisch die Veränderungen nicht verfolgen, weil die ganze Affec¬
+tion nur bei den heftigsten, rasch tödtlich endigenden Formen
+jener Infectionskrankheiten vorkommt. Eine Beschreibung der von
+ihm Vibrionen genannten Organismen, insbesondere ob sie stäb¬
+chen- oder kugelförmig und wie gross sie waren, hat Rindfleisch
+nicht gegeben.
+Dass die Entwicklung der auch in anderen Organen vorkom¬
+menden miliaren Eiterherde, wie sie bei Typhus, Pyämie u. s. w.
+
+1. Das Vorkommen der Mikroorganismen im erkrankten menschl. Körper.
+ gefunden werden, durch parasitäre Organismen, nämlich Bakterien
+bedingt wird, haben fast gleichzeitig v. Recklinghausen und
+Waldeyer nachgewiesen. v. Recklinghausen Vortrag in der Würzb. physik.-med. Ges. 10. Juni 1871 (citirt nach
+Birch-Hirschfeld, Med. Jahrbb. Bd. 155. Heft 1). bezeichnet die
+in den kleinsten Nierenvenen, Glomeruli, Harnkanälchen, Lungen¬
+alveolen gefundenen Organismen als Mikrokokken, die durch ihr
+gleichmässiges Korn und Unveränderlichkeit in Glycerin, Essig¬
+säure, Natronlauge u. s. w. von Detritus zu unterscheiden sind.
+Ausserdem macht er auf die bräunliche Farbe im Centrum des
+Herdes aufmerksam, sowie dass die Harnkanälchen und Gefässe
+in denen die Mikrokokken lagen, stark knotig aufgetrieben waren.
+ Waldeyer bestätigte die Angabe von Rindfleisch über das
+Auftreten zahlreicher miliarer Bakterienherde im Herzmuskel Py¬
+ämischer und fand ausserdem Bakterien in kleinen abscessähn¬
+lichen Herden in den Nieren.
+Diese ersten Beobachtungen lenkten die Aufmerksamkeit auf
+die bis dahin übersehenen oder nicht beachteten Bakterien in den
+metastatischen Herden Pyämischer. Sie wurden durch vielfache
+ähnliche Befunde bestätigt und erweitert, und es kann als eine
+feststehende Thatsache betrachtet werden, dass in den meisten
+Fällen von pyämischen Metastasen bei einer einigermaassen sorg¬
+fältigen Untersuchung Bakterien in Form der sogenannten Zooglöa
+aufzufinden sind. Etwas wesentlich Neues ist indessen zu den
+ursprünglichen Beobachtungen von Rindfleisch, v. Reckling¬
+hausen und Waldeyer durch spätere Untersuchungen mit Aus¬
+nahme einiger gleich zu erwähnender nicht hinzugefügt und es ist
+deswegen unnöthig die zahlreichen hierher gehörigen Angaben
+speciell anzuführen.
+Erwähnenswerth ist, dass P. Vogt Centralblatt für die medicin. Wissenschaft. 1872. Nr. 44. im metastatischen Eiter¬
+herd eines Pyämischen schon während des Lebens bewegliche
+„Monaden“ gesehen bat. Sehr nahe liegend war es, den Wund¬
+eiter einer Untersuchung zu unterwerfen, um zu erfahren ob die
+in den metastatischen Herden gefundenen Bakterien sich im Eiter
+der inficirten Wunden ansammeln und von da aus in die Gewebe
+eindringen. Derartige umfassende Untersuchungen sind von Birch-
+Hirschfeld Untersuchungen über Pyämie. Leipzig 1873. angestellt. Er kam zu dem Resultat, dass die
+
+Jetziger Stand u. s. w. der Mikroorganismen zu den Wundinfectionskrankh.
+ schlechte Beschaffenheit einer Wunde im Verhältniss zur Menge
+der Kugelbakterien im Wundeiter steht. Je reichlicher dieselben
+auftraten, um so mehr verschlechterte sich der Zustand der Wunde
+und das Allgemeinbefinden des Kranken. Die ungünstigsten Fälle
+waren die, bei welchen die Kugelbakterien sich in Colonieform
+(Zooglöa) verbunden hatten. Mit der Zunahme der Kugelbakte¬
+rien konnte auch regelmässig ihr Eindringen in die Eiterkörper¬
+chen beobachtet werden. Birch-Hirschfeld untersuchte gleich¬
+zeitig das Blut Pyämischer und fand die wichtige Thatsache, dass
+dasselbe Bakterien enthält und dass die Schwere und der rasche
+Verlauf der Allgemeininfection der Menge von Bakterien entspricht,
+welche im Blute nachzuweisen sind.
+Der Weg, auf dem die Bakterien in die metastatischen Herde
+gelangen, wäre damit ziemlich genau bezeichnet. Nur die Art
+und Weise, wie sie von der Wundoberfläche in die Blutbahn
+kommen, würde noch nicht bekannt sein. Diese Lücke füllen
+die Untersuchungen von Klebs aus. Aber nicht allein dieses
+Umstandes wegen muss die Arbeit von Klebs Beiträge zur patholog. Anatomie der Schusswunden. Leipzig, Vogel, 1872. hier erwähnt
+werden, sondern weil sie die eingehendsten und zahlreichsten Be¬
+obachtungen über die Bakterien der Wundkrankheiten bietet und
+weil durch dieselbe zum ersten Mal der Versuch gemacht ist, mit
+Hülfe eines reichhaltigen und vortrefflich benutzten Beobachtungs¬
+materials den ursächlichen Zusammenhang zwischen Bakterien und
+Wundinfectionskrankheiten zu beweisen. Klebs bezeichnet die im
+Wundeiter vorkommenden Bakterien, indem er von der Ansicht
+ausgeht, dass kugel- und stäbchenförmige Bakterien in genetischem
+Zusammenhange stehen und auch die im Eiter gewöhnlich neben
+einander gefundenen Mikrokokken und Stäbchenbakterien zusam¬
+mengehören, als Microsporon septicum. Die Wucherungen dieses
+Microsporon septicum in Form von auf der Wundfläche festsitzen¬
+den Zooglöamassen wurden auf Granulationen, Gelenkflächen und
+serösen Häuten von Klebs beobachtet. Er konnte dann weiter
+das Eindringen der Zooglöa in die Spalten des Bindegewebes ver¬
+folgen. Dasselbe geschieht entweder mit oder ohne Hülfe der
+wandernden Lymphzellen. Die Verschleppung des Mikrosporon
+auf dem Wege der Lymphbahnen liess sich nicht mit voller Sicher¬
+heit verfolgen, dagegen wurde das Eindringen desselben durch
+die arrodirte Wandung einer Vene in die Blutbahn in einem Falle
+
+1. Das Vorkommen der Mikroorganismen im erkrankten menschl. Körper.
+beobachtet. Weiter wurden die Elemente des Mikrosporon von
+Klebs in den Thromben, welche sich hinter den Venenklappen
+entwickeln, in den metastatischen Herden der Lunge und der
+Leber nachgewiesen.
+So zahlreich und bedeutungsvoll die Thatsachen sind, die bis
+jetzt über die Abhängigkeit der Pyämie von der Entwicklung der
+Bakterien in den erkrankten Körpertheilen gesammelt wurden, so
+spärlich und unsicher sind die Angaben über das Vorkommen von
+Bakterien bei Septicämie.
+ Coze und Feltz sowohl als Hueter Vgl. Birch-Hirschfeld: Lehrbuch der pathologischen Anatomie.
+Leipzig 1876. S. 469 und Med. Jahrbb. Bd. 166. S. 184. wollten die septi¬
+cämischen Erkrankungen häufig gesehene stachelförmige Gestalt¬
+veränderung der rothen Blutkörperchen auf das Ankleben und
+Eindringen von Bakterien zurückführen; eine Beobachtung die viel¬
+fach und wohl mit Recht angezweifelt ist.
+Ausser dieser habe ich nur noch eine Angabe von Collmann
+von Schatteburg  Virchow und Hirsch: Jahresbericht f. d. Jahr 1875. I. S. 369. über Bakterien im septikämischen Blute
+auffinden können. Derselbe sah in einem Falle von Septicämie
+Stäbchen im Körperblut und in den Gefässschlingen der Glo¬
+meruli.
+Erheblich reichhaltigeres Material liegt über Erysipelas vor.
+ Nepveu  Virchow und Hirsch: Jahresbericht f. d. Jahr 1872. I. S. 254. fand im Blute Erysipelatöser Mikrokokken und zwar
+reichlicher in den Blutproben, die aus den von dem Erysipel er¬
+griffenen Hautpartien stammten.
+Dieselbe Erfahrung machte Wilde Med. Jahrbb. Bd. 155. Heft 1. S. 104., der  ausserdem angibt,
+dass auch der Eiter solcher Wunden, von welchen erysipelatöse
+Entzündung ausgeht, reichlich Mikrokokken enthält. Von Orth Archiv f. experim. Pathol. u. Pharmakol. I. S. 81.
+wurden dann Mikrokokken im Inhalt der Erysipelasblasen nach¬
+gewiesen.
+Besonders wichtig ist die Entdeckung von v. Recklinghausen
+und Lukomsky  Virchow's Archiv. Bd. LX. Heft 3 u. 4. S. 418., dass die Lymphgefässe und Saftkanäle der Haut
+an der Grenze der erysipelatösen Affection mit Mikrokokken ge¬
+füllt sind.
+Bestätigt wurde diese Beobachtung von Billroth und Ehr¬
+
+Jetziger Stand u.s.w. der Mikroorganismen zu den Wundinfectionskrankh.
+ lich  v. Langenbeck's Archiv. Bd. XX. S. 418., die ebenfalls Mikrokokken aber nicht nur in den Lymph-,
+sondern auch in den Blutgefässen auffanden.
+Ferner sind Mikrokokken in erysipelatöser Haut von Till¬
+manns Deutsche medicin. Wochenschr. 1878. Nr. 17. S. 224. gesehen, sowie von Letzerich  Virchow und Hirsch: Jahresbericht f. d. Jahr 1875. S. 69. bei Impferysipel in
+den Impfwunden, in den Blutgefässen, Muskeln, Leber, Milz und
+Nieren.
+In Bezug auf phlegmonöse Eiterungen haben sich die Unter¬
+suchungen anscheinend nur auf den Inhalt der Abscesse beschränkt,
+während die Wandungen der letzteren, d. h. das angrenzende Ge¬
+webe, das wie später gezeigt werden soll, der eigentliche Sitz
+der Bakterienwucherungen ist, bis jetzt keine Berücksichtigung
+gefunden hat. In dem Abscesseiter hat man ebenso wie im ge¬
+wöhnlichen Wundeiter vielfach Bakterien und zwar fast immer
+Mikrokokken gefunden. Einer besonderen Aufzählung der darüber
+gemachten Angaben bedarf es deswegen nicht.
+Der Hospitalbrand unterscheidet sich von der Diphtheritis der
+Schleimhäute so wenig, dass die über letztere gemachten Beob¬
+achtungen auch für ersteren gelten können.
+Nach Cohnheim l. c. S. 482. setzt sich bei Tracheotomien zuweilen der
+Infectionsprocess von der Schleimhaut auf die Operationswunde
+fort. Aber auch ohne augenfällige Infection werden Wunden
+öfters diphtheritisch und nach Cohnheim's Meinung ist es des¬
+wegen sehr wahrscheinlich, dass der Hospitalbrand weiter nichts
+als eine Diphtherie der Wundflächen ist.
+ Hueter  Steudener: Volkmann's klinische Vorträge. Nr. 38. S. 24. fand auch in den grauen diphtheritischen Belägen
+von Wunden und bei genauerer Untersuchung in den angrenzenden
+anscheinend noch ganz gesunden Geweben dieselben kleinen, run¬
+den, dunkel contourirten Körperchen, die er später in den Pseudo¬
+membranen bei Diphtheritis des Larynx und Pharynx sah.
+Durch die Arbeiten von Oertel, Nassiloff, Classen, Letze¬
+rich, Klebs, Eberth Vgl. Birch-Hirschfeld: Lehrb. d. pathol. Anatomie. S. 799. ist es wohl ausser Zweifel gestellt, dass
+in den diphtheritischen Auflagerungen grosse Mengen von Mikro¬
+kokken vorhanden sind. Darüber jedoch, ob die Bakterien in
+die Gewebe eindringen, lauten die Angaben noch widersprechend.
+
+1. Das Vorkommen der Mikroorganismen im erkrankten menschl. Körper.
+  Oertel  Steudener l. c. S. 24. fand indessen die entzündete Schleimhaut vollge¬
+pfropft mit Mikrokokken und konnte sie ausserdem in den zu¬
+führenden Lymphgefässen der nächstgelegenen Lymphdrüsen, in
+den Drüsen selbst, sowie in den Blutgefässen der Nieren und an¬
+derer innerer Organe nachweisen.
+Dieselbe Beobachtung wurde von Eberth, Nassiloff und
+Letzerich gemacht.
+Später ist es noch wiederholt bestätigtCohnheim l. c. S. 480., dass bei Diphtheritis
+kleine Bakterienherde im Herzfleisch, in der Leber, den Nieren
+und andern Organen sich finden.
+Von verschiedenen Beobachtern Birch-Hirschfeld l. c. S. 799., namentlich denjenigen,
+welche die Diphtheritis auf die Kaninchencornea überimpften, wird
+die bräunliche Färbung der Mikrokokkenmassen erwähnt.
+Vergleicht man das Verhalten der Bakterien bei Diphtheritis
+und bei Pyämie, dann fällt sofort eine merkwürdige Ueberein¬
+stimmung auf. Bei beiden Krankheitsprocessen sind die Wund¬
+flächen mit Mikrokokken-Anhäufungen bedeckt, die in die tieferen
+Gewebsschichten und Lymphgefässe hineinwuchern, bei beiden
+finden sich die eigenthümlichen miliaren Bakterienherde im Herz¬
+fleisch, Leber, Nieren und zeigen diese Bakterienhaufen eine bräun¬
+liche Farbe. Unwillkürlich drängt sich bei diesem Ergebniss die
+Frage auf, ob nicht die parasitischen Mikroorganismen der Pyämie
+und der Diphtheritis identisch sind?
+Dieselbe Erscheinung wiederholt sich beim Puerperalfieber,
+bei welcher Krankheit Waldeyer Archiv f. Gynäkologie. II. Bd. 1871. Kugelbakterien in den er¬
+krankten Geweben, in den Lymphgefässen und im peritonitischen
+Exsudat, ferner Birch-Hirschfeld Med. Jahrbb. Bd. 155. S. 105. Mikrokokkenmassen auf Va¬
+ginalgeschwüren;, im perivaginalen Zellgewebe, im Blute, in der
+Milz und Leber aufgefunden haben. In den Nieren, Lungen und
+im Herzmuskel wurden die Mikrokokken von Heiberg und Orth Ebendas. Bd. 166. S. 188.
+nachgewiesen und es erwähnt letzterer die graugelbliche Farbe
+der in den knotig aufgetriebenen Harnkanälchen liegenden Mikro¬
+kokken.
+Als zum Puerperalfieber wahrscheinlich in naher Beziehung
+
+Jetziger Stand u. s. w. der Mikroorganismen zu den Wundinfectionskrankh.
+ stehend sei hier noch die zuerst von Orth Archiv d. Heilk. 1872. XIII. S. 265. als Mycosis septica
+bezeichnete und beschriebene Affection der Neugebornen erwähnt,
+bei der Mikrokokken im Blute, in der Pleurahöhle und in der
+Harnblase in einem Falle beobachtet wurden.
+Auch die sogenannte Nabelmykose der Neugebornen scheint
+hierher zu gehören. Weigert Jabresber.Jahresber. d. schles. Gesellsch. f. vaterl. Kultur. Jahrgang 1875. S. 229. beschreibt einen derartigen Fall
+und berichtet, dass das Nabelgeschwür mit Mikrokokken bedeckt
+war und dass ausserdem Mikrokokkenhaufen im Centrum von
+kleinen Blutherden der Lungen und Nieren lagen.
+Einen analogen Fall hat Hennig 3) untersucht und ist zu dem¬
+selben Resultat gekommen.
+Weniger aufgeklärt scheint die höchst interessante Beobach¬
+tung über das Auftreten von Bakterien bei Endocarditis zu sein.
+Sämmtliche Forscher, die sich mit der Aufgabe, Bakterien in
+pathologischen Objekten aufzusuchen beschäftigt haben, stimmen
+darin überein, dass dies mit ganz ausserordentlichen, oft selbst
+unüberwindlichen Schwierigkeiten verknüpft ist. Um die daraus
+resultirende Unsicherheit des anatomischen Nachweises der Bak¬
+terien durch andere beweisende Thatsachen auszugleichen, hat
+man in den meisten Fällen das pathologische Experiment zu Hülfe
+genommen und um einen vollständigen Ueberblick über das that¬
+sächliche die Beziehungen der Bakterien zu den Wundinfections¬
+krankheiten betreffende Material zu erhalten, bedarf es noch einer
+kurzen Zusammenstellung der Ergebnisse der experimentellen Un¬
+tersuchungen über Wundinfectionskrankheiten.
+   2. Experimentell nachgewiesene Beziehungen der Mikroorganismen
+zu den Wundinfectionskrankheiten.
+ Die Erfahrung hatte gelehrt, dass mit dem Auftreten der
+Wundinfectionskrankheiten die Wundsecretion und die Gewebssäfte
+eine faulige Beschaffenheit annehmen. Oft stellte sich die Ver¬
+änderung der Wunden schon vor dem bemerkbaren Ausbruch der
+Krankheit ein und man schloss hieraus, dass die Fäulniss des
+Wundsecretes die Ursache der Wundkrankheit sei. Von anderer
+Seite wurde die Richtigkeit dieser Schlussfolgerung bestritten und
+dagegen behauptet, dass innere Ursachen die Wundinfectionskrank¬
+
+2. Experim. nachgewiesene Beziehungen d. Mikroorganismen z. d. Wundinf.
+ heiten hervorrufen und dass die Verschlechterung der Wunde etwas
+Secundäres ist. Zur Entscheidung dieses Streites sind zahllose
+Experimente vorgenommen. Aber die Experimentatoren beschränk¬
+ten sich lange Zeit darauf, überhaupt den schädlichen Einfluss der
+in das Blut oder das subcutane Gewebe gespritzten fauligen Sub¬
+stanzen an Thieren zu erforschen und die in den Faulflüssigkeiten
+enthaltene giftige Substanz zu isoliren. Ob die Krankheit, welche
+sie durch die Einspritzung der giftigen Flüssigkeit hervorriefen,
+in der That nur eine einfache Vergiftung war oder ob sie auch
+wirklich die infectiösen Eigenschaften besass, wie die beim Men¬
+schen beobachteten Krankheiten, darum haben sich die älteren
+Experimentatoren und auch die meisten neueren gar nicht geküm¬
+mert. Es genügte, am Thier durch Einspritzung einer Faulflüssig¬
+keit eine der menschlichen Infectionskrankheit einigermaassen
+durch Symptome und Leichenerscheinungen gleichende Krankheit
+zu erzeugen, um beide sofort zu identificiren und aus diesem
+Experiment weitgehende Schlüsse über Infectionskrankheiten zu
+ziehen. Wenn derartige Experimente für oder gegen Infections¬
+krankheiten etwas beweisen sollen, muss vor allen Dingen durch
+weitere Uebertragung der Krankheit von einem Thier aufs andere
+die Sicherheit gegeben werden, dass die experimentell erzeugte
+Krankheit ebenfalls eine unzweifelhafte Infectionskrankheit war.
+Da wir es hier nur mit Infectionskrankheiten zu thun haben,
+so müssen alle die Untersuchungen, welche sich nur mit den
+toxischen Eigenschaften der putriden Stoffe beschäftigt haben und
+ebenfalls diejenigen, bei denen die Möglichkeit einer Verwechs¬
+lung zwischen Intoxication und Infection nicht ausgeschlossen ist,
+unberücksichtigt bleiben.
+Der erste Versuch, künstliche Wundinfectionskrankheiten bei
+Thieren hervorzurufen ist von Coze und Feltz Virchow und Hirsch: Jahresbericht für 1866. I. S. 195. angestellt. Diese
+Forscher spritzten einige Gramm Blut von an putrider Vergiftung
+und Puerperalfieber Verstorbenen in das subcutane Bindegewebe
+von Kaninchen. In Folge dessen starben die Thiere unter be¬
+stimmten charakteristischen Symptomen. Von dem Blute der in
+dieser Weise getödteten Kaninchen wurde eine weit kleinere Menge
+anderen Kaninchen ebenfalls subcutan injicirt und dieselben Krank¬
+heitserscheinungen und tödtlicher Ausgang wie mit dem ursprüng¬
+lichen putriden Blute bewirkt. Coze und Feltz setzten diese
+
+Jetziger Stand u. s. w. der Mikroorganismen zu den Wundinfectionskrankh.
+Uebertragung von Blut eines an putrider Infection gestorbenen
+Thieres auf ein gesundes in immer kleineren Quantitäten fort und
+es gelang ihnen, die Infection schliesslich mit sehr geringen Blut¬
+mengen zu bewerkstelligen. Dies veranlasste sie, eine Steigerung
+in der Virulenz dieses Blutes durch die fortgesetzte Impfung an¬
+zunehmen. Im Blute der an putrider Infection gestorbenen Thiere
+fanden sie Bakterien in grosser Zahl und zwar geben sie an,
+gleichzeitig Ketten von kleinen Pünktchen gebildet, Stäbchen und
+lange oscillirende und wurmförmig sich bewegende Fäden gesehen
+zu haben.
+Die Entdeckung von der steigenden Virulenz der successive
+verimpften putriden Infection bei Thieren erregte das lebhafteste
+Interesse.
+Die Coze und Feltz'schen Experimente wurden von Clementi
+und Thin, von Behier und Lionville  Richter: Die neueren Kenntnisse der krankmachenden Schmarotzer¬
+pilze. Separatabdr. aus d. med. Jahrbb. wiederholt und bestätigt.
+Auch diese überzeugten sich, dass zur ersten Infection eine ver¬
+hältnissmässig grosse und zu der folgenden Infection ausserordent¬
+lich geringe Mengen des inficirenden Stoffes, sei es Blut, Perito¬
+nealflüssigkeit oder dergleichen, erforderlich ist und dass im Blute
+der durch die Infection getödteten Thiere zahlreiche Bakterien
+sich befinden.
+Zu gleichen Resultaten kamen noch Colin, Vulpian, Ray¬
+naud und Andere.Med. Jahrbb. Bd. 166. S. 174.
+Am eingehendsten hat sich mit diesem Verhältnisse Davaine Ebendas.
+beschäftigt, welcher die Infection durch eine Reihe von 25 Thieren
+successive durchführte und zu der letzten wirksamen Uebertragung
+des putriden Infectionsstoffes nur noch einen Trilliontheil eines
+Bluttropfens anwandte. Auch Davaine sah im Blute dieser Thiere
+Bakterien, die sich durch ihre Beweglichkeit von den unbeweg¬
+lichen, von ihm deswegen Bakteridien genannten, Milzbrandbak¬
+terien unterscheiden.
+Obwohl die verschiedensten Flüssigkeiten bei diesen Ver¬
+suchen zur ersten Infection benutzt wurden, nämlich faulendes
+Blut, Blut von Pyämischen, Puerperalkranken, Scharlach-, Variola-
+und Typhuskranken, so blieben die damit erzielten Wirkungen
+
+2. Experim. nachgewiesene Beziehungen d. Mikroorganismen z. d. Wundinf.
+ immer die nämlichen und die Leichenuntersuchung der Thiere er¬
+gab immer als Resultat: Milzanschwellung, keine Metastasen, Bak¬
+terien im Blut. Davaine bezeichnet diese Krankheit deswegen
+als Septicämie.
+Von anderen Wundinfectionskrankheiten hat man Diphtheritis
+und Erysipelas künstlich an Thieren erzeugt.
+Die Versuche mit Uebertragung von Erysipelas sind von OrthBirch-Hirschfeld: Lehrb. d. pathol. Anat. S. 608.
+
+angestellt. Er injicirte den Inhalt einer Erysipelblase, der zahl¬
+reiche Kugelbakterien enthielt unter die Haut eines Kaninchens.
+Es entstand eine dem menschlichen Erysipelas vollkommen analoge
+Entzündung und durch Application der Oedemflüssigkeit aus dem
+subcutanen Gewebe dieses Thieres bei einem zweiten Kaninchen
+wurde die charakteristisch verlaufende Entzündung auch auf dieses
+letztere übertragen. Im subcutanen Oedem und in den afficirten
+Hautstellen der an künstlichem Erysipelas erkrankten Thiere wies
+Orth ebenfalls Bakterien in grosser Menge nach.
+Auch Lukomsky (l. c.) hat an Kaninchen mit Erysipelflüssig¬
+keit und Faulflüssigkeiten experimentirt, um Erysipelas künstlich
+hervorzurufen. Er erhielt indessen bei seinen Versuchsthieren aus¬
+gedehnte, stark phlegmonöse Unterhautgewebsentzündungen mit
+bedeutender Betheiligung der Cutis. Aber auch in seinen Fällen
+fanden sich in den Saftkanälen und Lymphgefässen Mikrokokken.
+Die Uebertragbarkeit des diphtheritischen Krankheitsprocesses
+auf Kaninchen ist durch Hueter, Tommasi, Oertel, Letzerich
+(l. c.) festgestellt, sowie dass bei der künstlichen Diphtheritis die¬
+selben Mikrokokken und in derselben Weise auftreten, wie bei
+der klinisch beobachteten Diphtheritis.
+Die Untersuchungen über Diphtheritis führten zu einem ausser¬
+ordentlich wichtigen und für das Studium der pathogenen Bakte¬
+rien lehrreichen Versuch, nämlich die durchsichtige Hornhaut des
+Kaninchens als Impfstelle zu benutzen.
+ NassiloffVirchow's Archiv. Bd. 50. S. 550.
+ und EberthEberth: Bacterische Mykosen. Leipzig 1872.
+ führten diese Hornhautimpfungen
+zuerst aus. Anfangs wurden nnrnur diphtheritische Substanzen ge¬
+impft, aber bald erkannte man, dass sich die verschiedensten
+putriden Stoffe, Entzündungsproducte und dergleichen in gleicher
+Weise auf die Cornea übertragen lassen.
+ Koch, Wundinfectionskrankheiten. 2
+
+
+Jetziger Stand u. s. w. der Mikroorganismen zu den Wundinfectionskrankh.
+ Von Leber, Stromeyer, Dolschenkow, Orth und in beson¬
+ders umfangreicher Weise von Frisch Experimentelle Studien über die Verbreitung der Fäulnissorganismen
+in den Geweben. Erlangen 1874. sind diese Versuche an¬
+gestellt und in mannigfacher Weise modificirt.
+Bei einer derartigen erfolgreichen Impfung bildet sich eine
+eigenthümliche, mit konischen Ausläufern versehene, sternartige
+Figur, die sogenannte Pilzfigur, deren Mittelpunkt vom Impfstich
+gebildet wird. Die diese Figur zusammensetzenden Massen sind
+bei Diphtheritisimpfungen dichte Haufen von Mikrokokken, welche
+ebenso wie die Mikrokokken der pyämischen und diphtheritischen
+miliaren Herde im Herzmuskel und in den Nieren eine gelbbraune
+oder graubraune Farbe besitzen. Durch Impfung von Faulflüssig¬
+keiten wurden auch Pilzfiguren erhalten, die aus stäbchenförmigen
+Bakterien bestanden. Frisch Die Milzbrandbakterien und ihre Vegetation in der lebenden Hornhaut.
+Wien 1876. impfte ferner die Hornhaut leben¬
+der Kaninchen mit Milzbrandsubstanzen und beobachtete die Ent¬
+wicklung ausgezeichneter Pilzfiguren, die nur aus Milzbrandbacillen
+bestanden.
+In allen diesen Versuchen standen die an der Cornea beobach¬
+teten Reactions- und Entzündungserscheinungen in genauem Ver¬
+hältniss zur Entwicklung und Ausbreitung der Bakterien. Eberth I. c. p. 14.
+fand das Zusammentreffen der Bakterien und der Impfdiphtheritis
+der Hornhaut so constant, dass er geradezu sagt: Ohne diese
+Pilze (d. i. Bakterien) keine Diphtheritis.
+Eine eigenthümliche und vielversprechende Methode, um die
+Entstehung der Infectionskrankheiten durch ein Contagium anima¬
+tum zu beweisen, ist von Klebs  Virchow und Hirsch: Jahresber. f.d. Jahr 1874. S. 359. befolgt. Er brachte Flüssigkeiten
+und andere Substanzen, die an infectiösen Krankheiten Leidenden
+oder Verstorbenen entnommen waren, in gut isolirte mit Nährflüssig¬
+keiten beschickte Culturapparate. Nachdem eine Entwicklung von
+Organismen in der Nährflüssigkeit stattgefunden hatte, wurde von
+dieser eine kleine Menge genommen und in einen zweiten Cultur¬
+apparat mi Nährflüssigkeit gebracht. Mit der Flüssigkeit des
+zweiten wurde dann ein dritter inficirt und so fort durch eine
+genügend lange Reihe, um annehmen zu können, dass von der
+ursprünglich angewandten Infectionssubstanz ein verschwindend
+
+3. Einwendungen gegen die Beweiskraft dieser Thatsachen.
+ kleiner Theil oder gar nichts mehr in der letzten Nährflüssigkeit
+vorhanden sein kann. Die so vom ursprünglichen Infectionsstoff
+gewissermaassen befreiten Flüssigkeiten wurden auf Thiere über¬
+tragen. Klebs Ueber die Umgestaltung der medicinischen Anschauungen in den letzten
+drei Jahrzehnten. Rede, gehalten in München bei der 50. Versammlung
+deutscher Naturforscher. Leipzig, Vogel, 1878. hat dieses Verfahren, das er als fractionirte
+Cultur bezeichnet, ausser mit Material von verschiedenen anderen
+Krankheiten, namentlich mit solchem von diphtheritischen und
+septischen Processen angewandt. Die durch fractionirte Cultur
+erhaltenen Flüssigkeiten brachten auf Thiere applicirt wieder Sep¬
+ticämie und Diphtheritis hervor; ausserdem fand Klebs sowohl
+in den Culturflüssigkeiten, als auch in den inficirten Thieren die
+charakteristischen Mikrokokken.
+In ähnlicher Weise hat Orth  Birch-Hirschfeld 1. c. S. 608. in Culturflüssigkeit die Bak¬
+terien aus einer Erysipelasblase gezüchtet und durch die Injection
+dieser Flüssigkeit wieder Erysipel bei Kaninchen erzeugt.
+   3. Einwendungen gegen die Beweiskraft dieser Thatsachen.
+ Das in den beiden vorhergehenden Abschnitten zusammen¬
+gestellte thatsächliche Material hat, wie nicht zu leugnen ist, schon
+einen ansehnlichen Umfang gewonnen. Manchen genügt dasselbe
+schon, um unter Zuhülfenahme theoretischer Gründe und unter
+dem Eindruck der eminenten Erfolge der antiseptischen Behand¬
+lungsmethoden den Beweis für das Vorhandensein belebter Infec¬
+tionsstoffe, ganz besonders auch für die Wundinfectionskrankheiten
+anzunehmen. Andererseits hat man gegen diese Annahme ver¬
+schiedene und, wie theilweise zugegeben werden muss, berechtigte
+Bedenken geltend gemacht, deren kurze Besprechung erforderlich
+ist, um ein Urtheil über die Bedeutung der Bakterien für die
+Wundinfectionskrankheiten gewinnen zu können.
+Eine nicht geringe Anzahl von Forschern hat die Behauptung
+aufgestellt, dass das normale Blut und Gewebe des Menschen und
+der Versuchsthiere schon Mikroorganismen enthalte und dass letz¬
+tere nicht die Krankheit, sondern umgekehrt der Krankheitsprocess
+eine abnorme Vermehrung dieser Organismen zur Folge habe, weil
+dieselben in den krankhaft veränderten Säften des thierischen
+Körpers günstigere Existenzbedingungen fänden. Von dieser
+2*
+
+
+Jetziger Stand u. s. w. der Mikroorganismen zu den Wundinfectionskrankh.
+ Schlussfolgerung, die bis jetzt noch niemals experimentell be¬
+wiesen, sondern aus theoretischen Voraussetzungen abgeleitet wurde,
+kann abgesehen werden. Wäre es aber richtig, dass im normalen
+Blute Bakterien vorkommen, und wenn später dieselben Bakterien
+z. B. Mikrokokken in pathologisch veränderten Organen, sei es
+auch in ungewöhnlicher Menge, angetroffen würden, dann müsste
+allerdings dadurch der Beweis dafür, dass diese Mikrokokken die
+Ursache der Erkrankung seien, ausserordentlich erschwert, viel¬
+leicht ganz unmöglich gemacht werden. Sehen wir nun, wie es
+mit der Richtigkeit der fraglichen Behauptung steht.
+ Lostorfer, Nedsvetzki und Béchamp  Richter I. c. S. 12. entdeckten im nor¬
+malen Menschenblut kleine bewegliche Körnchen. Lostorfer
+nennt dieselben Mikrokokken und will ihre Weiterentwicklung
+bis zu Sarcine verfolgt haben. Nedsvetzki hat diesen Körnchen
+den Namen Haemococci gegeben, er hält sie für identisch mit den
+von Béchamp beschriebenen Körperchen. Béchamp nun hat in
+zahlreichen Aufsätzen seine Ansichten über die von ihm Mikro¬
+zymen genannten Körperchen ausgesprochen. Fast in allen thie¬
+rischen Flüssigkeiten will er sie gefunden haben und nach Ver¬
+suchen, die er mit Estor zusammen anstellte, sollen diese Mikro¬
+zymen durch ihre physiologische Thätigkeit die Blutgerinnung,
+Käsebildung, Essigsäure- und Alkoholerzeugung bewirken können,
+sie sollen bei der Umsetzung der Leberglykose, bei der Entwick¬
+lung des Embryo im bebrüteten Hühnerei und bei allen möglichen
+anderen Verrichtungen im thierischen Körper thätig sein. Dass
+Béchamp seine Mikrozymen mit den Bakterien in innigen Connex
+bringt, geht daraus hervor, dass nach ihm im Darm die Mikro¬
+zymen unterhalb der Iliocöcalklappe normalerweise in Bakterien
+sich verwandeln; an kranken Stellen des Dünndarms aber, z. B.
+wo ein Bandwurm sitzt, da entwickeln sich sofort Bakterien aus
+den Mikrozymen.
+Ferner haben ihrer Meinung nach noch J. Lüders, Bettel¬
+heim und Richardson Vegetationsformen der Coccobacteria septica. Berlin 1874. S. 58., dann Kolaczek Letzerich  Virchow und Hirsch: Jahresber. f. d. Jahr 1868. Bd. I. B. 205. Bak¬
+terien im normalen menschlichen Blut gesehen.
+Auf indirectem Wege suchten Tiege Med. Jahrbb. Bd. 168. S. 68. Billroth  Viechow und Hirsch: Jahresber. f. d. Jahr 1874. Bd. I. S. 119. den
+
+3. Einwendungen gegen die Beweiskraft dieser Thatsachen.
+ Beweis für das Vorhandensein von Bakterien in normalen thieri¬
+schen Geweben zu führen. Sie brachten unter gewissen Cautelen
+frische Stücke von Muskeln, Leber u.s.w. in geschmolzenes Pa¬
+raffin, schlossen diese Objecte also luftdicht ein und untersuchten
+sie nach einiger Zeit auf Bakterien. Es fanden sich nun in der
+That zahlreiche Bakterien darin und Billroth schliesst daraus
+dass in den meisten Geweben des Körpers (vorwiegend wohl im
+Blut) entwicklungsfähige Bakterienkeime sich befinden.
+Den Versuchen von Billroth und Tiegel hat man vorge¬
+worfen, dass der Einschluss in Paraffin nicht gegen das Eindringen
+von Bakterien schützt, weil sich, wie gewiss schon Jeder, der
+Objecte behufs mikroskopischer Untersuchung in Paraffin einge¬
+schmolzen hat, zu beobachten Gelegenheit fand, beim Erkalten
+und auch noch später Risse und Spalten im Paraffin bilden.
+Als normales Blut von Pasteur I. c. S. 60 und 137., Burdon-Sanderson  Virchow und Hirsch: Jahresber. f. d. Jahr 1874. S. 119. und
+Klebs Beiträge zur Biologie der Pflanzen. Bd. I. Heft 2. S. 194. nach einer alle Fehlerquellen ausschliessenden Methode
+auf seine Entwicklungsfähigkeit von Fäulnissorganismen geprüft
+wurde, fielen die Versuche negativ aus.
+Auch den angeblichen unmittelbaren Beobachtungen von Bak¬
+terien im normalen Blute stehen die Angaben von zuverlässigen
+Mikroskopikern, wie Rindfleisch und Riess gegenüberJahrbb. Bd. 166. S. 196. die
+bestimmt erklären, dass das normale Blut frei von Bakterien ist,
+dagegen, wie Riess nachgewiesen hat, mehr oder weniger reich¬
+lich kleine rundliche Körperchen enthält, die höchst wahrschein¬
+lich Zerfallsproducte der weissen Blutkörperchen sind und wegen
+ihrer Aehnlichkeit mit Mikrokokken zu Verwechslungen mit diesen
+Veranlassung gegeben haben.
+Nach meinen eigenen Erfahrungen ist die Untersuchung des
+Blutes auf etwaigen Gehalt an Bakterien ungemein schwierig,
+wenn man nicht die später zu beschreibenden Hülfsmittel, Färbung
+und geeignete Beleuchtung gebraucht. Ohne dieselben ist es
+meistens unmöglich, mit Sicherheit die von Riess so charakteri¬
+stisch beschriebenen Körperchen von Mikrokokken zu unterschei¬
+den und ist es mir deswegen wohl erklärlich, dass Mancher, je
+nachdem er Bakterien finden oder nicht finden wollte, in einem
+
+Jetziger Stand u. s. w. der Mikroorganismen zu den Wundinfectionskrankh.
+Falle die körnigen Bestandteile des Blutes für Mikrokokken, im
+anderen Falle etwa vorhandene Mikrokokken für die Reste zer¬
+fallener weisser Blutkörperchen ansah. Normales Blut und nor¬
+male Gewebe habe ich nun mit Hülfsmitteln, die das Uebersehen
+von Bakterien und ihre Verwechslung mit gleich grossen körnigen
+Massen nicht zulassen, vielfach untersucht und dabei nicht ein
+einziges Mal Bakterien gefunden. Ich habe deswegen gleichfalls
+die Ueberzeugung gewonnen, dass die Bakterien im Blut und in
+den Geweben des gefunden thierischen sowohl als menschlichen Or¬
+ganismus nicht vorkommen.
+Dagegen scheinen mir folgende Einwendungen gegen die An¬
+nahme, dass die Bakterien die Ursache der Wundinfectionskrank¬
+heiten sind, berechtigt zu sein. Es muss, um einen vollgültigen
+Beweis für diese Annahme zu gewinnen, verlangt werden, dass
+die Bakterien ausnahmslos und in derartigen Verhältnissen betreffs
+ihrer Menge und Vertheilung, nachgewiesen werden, dass die Sym¬
+ptome der betreffenden Krankheit ihre vollständige Erklärung finden.
+Denn wenn in einigen Fällen einer bestimmten Art von Wund¬
+infectionskrankheiten Bakterien gefunden werden, in anderen
+ebenso beschaffenen aber nicht, und wenn ferner die Bakterien
+in so geringer Anzahl vorhanden sind, dass dadurch unmöglich
+eine schwere Krankheit oder gar das tödtliche Ende bewirkt sein
+kann, dann bleibt selbstverständlich nichts übrig, als das unbe¬
+ständige Auftreten der Bakterien als ein vom Zufall abhängiges
+und die geringe Menge derselben als einzige Ursache der betreffen¬
+den Krankheit nicht ausreichend, also noch andere Ursachen da¬
+neben anzunehmen. Diesen Anforderungen zu einem vollgültigen
+Beweis entsprechen nun aber in der That die über das Vorkom¬
+men der Bakterien bei Wundinfectionskrankheiten gemachten Be¬
+obachtungen nicht.
+Wegen der schon früher hervorgehobenen Schwierigkeit des
+Nachweises von Bakterien im Blut und namentlich in den Geweben
+sind viele der oben citirten Angaben auf erhebliche Zweifel ge¬
+stossen, ob immer mit Recht, das muss dahingestellt bleiben; denn
+die frühere Untersuchungsmethode ist eben in den meisten Fällen
+ein Tappen im Finstern und die Resultate derselben konnten nur
+sehr zweifelhaft ausfallen.
+Aber auch abgesehen von dem unsicheren Ergebniss mancher
+mühevollen Arbeit über die Bakterien der Wundinfectionskrank¬
+heiten bringt die Literatur eine Menge von Angaben über das
+
+3. Einwendungen gegen die Beweiskraft dieser Thatsachen.
+ vollständige Fehlen der Bakterien bei ganz unzweifelhaften Wund¬
+infectionskrankheiten. Es würde keinen Zweck haben, alle ne¬
+gativen Befunde hier aufzuzählen, da sie noch weit mehr als die
+positiven einen bedingten Werth haben. Nur einige mögen zur
+Illustration des Gesagten hier ihren Platz finden.
+ Birch-Hirschfeld l. c. S. 1224. sagt, dass negative Befunde in Betreff
+des Vorkommens von Bakterien namentlich in Fällen fulminanter
+Gangrän und putrider Infection keineswegs zu den Seltenheiten
+gehören.
+Nachdem Orth Compondium der pathol.-anatomischen Diagnostik. Berlin 1876. S. 111. erwähnt hat, dass Mikrokokken im Blute
+besonders bei septischen Wundkrankheiten, Puerperalerkrankungen
+und Diphtheritis gefunden sind, hebt er ausdrücklich hervor, dass
+dieselben durchaus keinen constanten Befund bilden.
+ Eberth Med. Jahrbb. Bd. 166. S. 185., der sich von dem häufigen Vorkommen von Bak¬
+terien bei septicämischen Krankheitsprocessen überzeugt hatte,
+führt die Septicämie keineswegs allein auf eine Infection des
+Blutes durch die Bakterien zurück, und zwar aus dem Grunde,
+weil er die ausgesprochenste Septicämie auch ohne Bakterien im
+Blute auftreten sah.
+ Weigert Berl. klin. Wochenschr. 1877. Nr. 18. spricht sich folgendermaassen über das Vorkom¬
+men der Bakterien aus: So sicher man auch für einige patholo¬
+gische Processe die Erzeugung derselben durch die Einwirkung
+der Bakterien annehmen kann, so steht doch auf der anderen
+Seite eine bei weitem grössere Reihe krankhafter Vorgänge, die
+man aus theoretischen Gründen für mykotische zu halten geneigt
+ist, bei denen aber der gewissenhafte Forscher nichts von einer
+Einwirkung der Bakterien aufzufinden vermag.
+Absichtlich habe ich diese Citate den Schriften solcher Autoren
+entnommen, die durch positive Befunde bewiesen haben, dass sie
+die bedeutenden Schwierigkeiten beim Auffinden der Bakterien
+zu überwinden verstanden, und weil deswegen ihre Angaben über
+das häufige Fehlen der Bakterien in Fällen von Wundinfections¬
+krankheiten eine besondere Beachtung verdienen.
+Der zweite Umstand, der mir bei Beurtheilung der Bakterien¬
+frage von wesentlicher Bedeutung zu sein scheint, dass nämlich
+fast in allen Fällen, in denen Bakterien gefunden wurden, die
+
+Jetziger Stand u. s. w. der Mikroorganismen zu den Wundinfectionskrankh.
+Menge derselben eine auffallend geringe war, ist bis jetzt zu wenig
+hervorgehoben.
+Wir wissen allerdings zur Zeit noch nicht, wie viel Bakterien
+dazu gehören, um bei einem Menschen bestimmte Krankheits¬
+symptome zu bewirken oder um ein Kilogramm Versuchsthier zu
+tödten. Unzweifelhaft bestehen aber derartige ganz bestimmte,
+höchstens in Folge von Verschiedenheiten der erkrankten Indivi¬
+duen nur innerhalb geringer Grenzen schwankende Verhältnisse
+zwischen der Menge der pathogenen Bakterien und ihrer Wirkung,
+d. h. den Krankheitssymptomen. Die einzige Krankheit, von der
+mit voller Sicherheit behauptet werden kann, dass sie eine Bak¬
+terienkrankheit ist, der Milzbrand, gibt uns dafür genügende An¬
+haltspunkte. Kleine Thiere sterben schneller nach Impfung mit
+Milzbrandblut als grössere und bei Thieren derselben Gattung und
+von gleicher Grösse tritt das tödtliche Ende später ein, wenn die
+Impfflüssigkeit wenige entwicklungsfähige Sporen oder Bacillen
+enthält, als wenn sie reich daran ist. Die Erklärung für diese
+Erscheinungen kann doch nur darin gefunden werden, dass zur
+Tödtung z. B. eines Schafes mehr Bacillen erforderlich sind als
+für eine Maus und dass aus den bei der Impfung ohngefähr in
+gleicher Menge bei beiden Thieren eingeführten Bacillen resp.
+Sporen die kleinere für die Maus genügende Anzahl Bacillen
+schneller als die bedeutende zur Tödtung des Schafes erforder¬
+liche heranwächst und dass für Thiere derselben Gattung wieder
+aus wenigen Sporen sich die tödtliche Menge von Bacillen später
+entwickelt als aus von vornherein gegebenen zahlreichen Sporen.
+Weiter lehrt die Milzbrandkrankheit, dass sich eine ungemein
+grosse Anzahl von Bacillen im Blute entwickelt haben muss, ehe
+der Tod eintritt. Auch der Typhus recurrens, dessen Beziehungen
+zu den von Obermeier entdeckten Spirochaeten allerdings noch
+nicht hinreichend aufgeklärt sind, der aber wegen des ganz con¬
+stanten Auftretens dieser Bakterien in jedem einzelnen Fieberan¬
+falle doch mit grösster Wahrscheinlichkeit ebenfalls als eine para¬
+sitäre Krankheit anzusehen ist, zeigt in Bezug auf die Menge der
+im Blute befindlichen Bakterien dasselbe Verhalten. Es ist nun
+allerdings nicht anzunehmen, dass sich alle pathogenen Bakte¬
+rien in diesem Punkte ganz gleich verhalten, aber so viel lässt
+sich nach Analogie des Milzbrandes und Typhus recurrens wohl
+schliessen, dass nur bedeutende Mengen von Bakterien krankheits¬
+erregend wirken können. Dieser Forderung entsprechen aber die
+
+3. Einwendungen gegen die Beweiskraft dieser Thatsachen.
+ bis jetzt vorliegenden Beobachtungen über die Bakterien der Wund¬
+infectionskrankheiten in den meisten Fällen nicht. Gewöhnlich
+wird von erheblicheren Mikrokokkenanhäufungen auf der Wund¬
+oberfläche berichtet, die indessen nur bei grösseren Wunden in
+Betracht kommen können; während in inneren Organen nichts
+weiter als miliare Bakteriencolonien, oft in geringer Zahl gefunden
+wurden. Das steht doch in gar keinem Verhältniss zu der kaum
+glaublichen Menge von Bacillen im Milzbrandblut. Es können
+deswegen auch nur solche Befunde als ausreichend zur Erklärung
+des Krankheitsprocesses gelten, welche eine bedeutende Menge
+von Bakterien nachgewiesen haben. Nun gibt es allerdings An¬
+gaben über massenhaftes Auftreten von Mikrokokken im Blute
+oder in den Geweben, das sind aber leider gerade diejenigen, die
+aus den früher angegebenen Gründen am wenigsten zuverlässig sind.
+Ein dritter Punkt muss noch gegen die Beweiskraft der Bak¬
+terienfunde geltend gemacht werden. Es ist das die gleiche mor¬
+phologische Beschaffenheit der bei den verschiedensten Wundin¬
+fectionskrankheiten und selbst noch bei anderen gar nicht damit
+verwandten Infectionskrankheiten angetroffenen Bakterien.
+Jedem, der die Bakterienliteratur durchgeht, muss es sofort
+auffallen, dass die beiden am besten bekannten Bakterienkrank¬
+heiten, der Milzbrand und der Typhus recurrens sich durch die
+wohl charakterisirte und leicht erkennbare Form ihrer Parasiten
+auszeichnen, dass aber bei fast allen übrigen Infectionskrankheiten,
+welche anscheinend mit Mikroorganismen in Beziehung stehen,
+eine merkwürdige Uebereinstimmung in Gestalt, Grösse, Anord¬
+nung, theilweise sogar in der Färbung der beobachteten Bakterien
+herrscht. Gerade weil beim Typhus recurrens und Milzbrand so
+bedeutende Unterschiede in dieser Beziehung bestehen, muss die
+Gleichmässigkeit der übrigen pathogenen Bakterien Misstrauen
+gegen die Richtigkeit der Beobachtung und gegen die Annahme
+erwecken, dass Krankheiten, welche theilweise ebenso wenig mit¬
+einander verwandt zu sein scheinen als jene, dennoch durch die¬
+selben Organismen veranlasst werden sollten.
+Diese Bedenken sind auch schon mehrfach geäussert.
+So z. B. von Birch-Hirschfeld.1. c. S. Derselbe sagt: Die mor¬
+phologischen Charaktere der bei der Pyämie, der Diphtheritis,
+den Pocken, der Cholera gefundenen Bakterien sind so gleich¬
+
+Jetziger Stand u. s. w. der Mikroorganismen zu den Wundinfectionskrankh.
+ artig, dass allerdings die Vorstellung nahe liegt, es handle sich
+um identische Formen. Daraus würde aber hervorgehen, dass
+man diesen Organismen keine specifische Bedeutung beilegen
+könnte. Sie wären darnach Parasiten der Krankheit, nicht die
+Ursache derselben.
+Den von Birch-Hirschfeld angeführten Krankheiten lassen
+sich noch eine Anzahl anderer anreihen, bei denen ebenfalls die
+nicht weiter zu unterscheidenden Mikrokokken gefunden wurden.
+Nämlich Erysipelas, Puerperalfieber, Nabelmykose der Neugebor¬
+nen, Hospitalbrand, Intestinalmykose, Endocarditis (mit und ohne
+acuten Gelenkrheumatismus), primäre infectiöse Periostitis, Schar¬
+lach, Rinderpest, Lungenseuche. Unmöglich können doch alle
+diese Krankheiten durch einen und denselben Parasiten erzeugt
+werden. Es bleibt also nichts übrig als anzunehmen, dass es ent¬
+weder wirklich immer dieselben Mikrokokken sind, die dann aber
+nur als eine gelegentliche Complication sich mit den aufgezählten
+ganz verschiedenen Krankheitsprocessen verbinden, oder dass die
+uns wegen ihrer Kleinheit äusserlich sehr ähnlich oder selbst gleich
+erscheinenden Mikrokokken dennoch innerlich verschieden und
+deswegen im Stande sind, zu so verschiedenen Krankheiten Ver¬
+anlassung zu geben.
+Um zu zeigen, dass diese letztere Annahme nicht ausser dem
+Bereich der Möglichkeit liegt, hat Cohn Beiträge zur Biologie der Pflanzen. I. Bd. 2. Heft. S. 135. an die gleiche äussere
+und mikroskopische Beschaffenheit der bittern und süssen Mandel
+erinnert, die doch beide in ihrer physiologischen Wirkung himmel¬
+weit von einander verschieden sind. Und Virchow Die Fortschritte der Kriegsheilkunde. Berlin 1874. S. 33. hat zu dem¬
+selben Zwecke darauf hingewiesen, dass man den Bildungszellen
+des Eies und zahlreicher pathologischer Gewächse, trotzdem sie
+neben Bakterien als förmliche Riesen erscheinen, auch nicht im
+Voraus ansehen könne, was aus ihnen werden wird.
+Die Möglichkeit, dass die Mikrokokken trotz ihres gleich¬
+mässigen Aussehens verschieden und dass sie das vermuthete Con¬
+tagium animatum jener Krankheiten sein können, muss gewiss
+zugegeben werden. Aber als Unterlage für praktische Aufgaben,
+zu denen vor allen Dingen die Prophylaxis und Therapie der In¬
+fectionskrankheiten zu rechnen sind, können wir mit der Möglich¬
+keit eines Contagium animatum nicht viel anfangen; dazu brauchen
+
+3. Einwendungen gegen die Beweiskraft dieser Thatsachen.
+ wir die zwingende Gewissheit darüber, dass dieser oder jener be¬
+stimmte und unter veränderten Verhältnissen an gewissen Kenn¬
+zeichen immer wieder zu erkennende Mikrokokkus die einzige
+Ursache der gegebenen Krankheit ist. Denn so lange nur die
+Möglichkeit oder selbst die Wahrscheinlichkeit für die Existenz
+des Contagium animatum gegeben ist, müssen alle weiteren davon
+ausgehenden Untersuchungen die ebenfalls möglicherweise vor¬
+handenen anderen Krankheitsursachen, z. B. das unbekannte x
+eines bislang noch niemals nachgewiesenen unbelebten Krankheits¬
+fermentes, das y des Genius epidemicus und andere unbekannte
+Grössen in Rechnung ziehen. Dass damit aber die gestellte Auf¬
+gabe im höchsten Grade complicirt und durch zahllose Fehler¬
+quellen gefährdet, vermuthlich ganz unlösbar wird, liegt auf
+der Hand.
+ Fassen wir das, was als thatsächlich Bekanntes zusammen¬
+gestellt wurde, und die daran geknüpften Erörterungen kurz zu¬
+sammen so kommen wir zu dem Ergebniss, dass die zahlreichen
+Befunde von Mikroorganismen bei Wundinfectionskrankheiten und
+die damit im Zusammenhang stehenden experimentellen Unter¬
+suchungen die parasitische Natur dieser Krankheiten wahrschein¬
+lich machen, dass ein vollgültiger Beweis dafür bis jetzt noch nicht
+geliefert ist und auch nur dann geschafft werden kann, wenn es gelingt,
+die parasitischen Mikroorganismen in allen Fällen der betreffenden
+Krankheit aufzufinden, sie ferner in solcher Menge und Verthei¬
+lung nachzuweisen, dass alle Krankheitserscheinungen dadurch ihre
+Erklärung finden, und schliesslich für jede einzelne Wundinfecetions¬
+krankheit einen morphologisch wohl charakterisirten Mikroorganis¬
+mus als Parasiten festzustellen.
+Sollte es denn nun aber möglich sein, diese Bedingungen
+überhaupt jemals zu erfüllen? Oder sind wir hier an der Grenze
+der Leistungsfähigkeit unserer optischen Hülfsmittel angelangt,
+wie viele Mikroskopiker anzunehmen scheinen?
+Diese Frage wird sich wohl Jeder, der sich eingehender mit
+der Untersuchung der pathogenen Bakterien beschäftigt hat, oft
+genug vorgelegt haben. Auch mich hat sie vielfach beschäftigt
+und sie drängte sich mir sofort wieder auf, als ich allgemeine
+Untersuchungen über Bakterien anstellte und erkannte, von welchem
+bedeutenden Vortheil für das Erkennen und Unterscheiden gerade
+
+Jetziger Stand u. s. w. der Mikroorganismen zu den Wundinfectionskrankh.
+ der kleinsten Bakterienformen, ferner der Sporen und Geiselfäden
+der Bakterien die richtige Verwendung der mikroskopischen Hülfs¬
+mittel ist.
+Seitdem habe ich unablässig versucht, in ähnlicher Weise
+das Verfahren zum Auffinden der pathogenen Bakterien in thieri¬
+schen Geweben zu verbessern, weil ich den Gedanken nicht los
+werden konnte, dass die zweifelhaften Ergebnisse der Unter¬
+suchungen über die Parasiten der Infectionskrankheiten in der
+Unvollkommenheit der dabei befolgten Methoden ihren Grund
+haben möchten. Das Verfahren, welches sich mir schliesslich als
+zweckmässig erwies und zu positiven Resultaten geführt hat, werde
+ich, ehe ich zu dem Bericht über den experimentellen Theil meiner
+Arbeit übergehe, zu schildern haben.
+  
+
+  Beschreibung der Untersuchungsmethode.
+  Die von Recklinghausen zuerst befolgte Methode die grosse
+Widerstandsfähigkeit der Bakterien gegen Säuren und Alkalien,
+die den thierischen Geweben nicht eigen ist, zu benutzen, wird
+auch wohl jetzt noch von den meisten Mikroskopikern gebraucht.
+Sobald ein durch sein gleichmässiges Korn ausgezeichneter Haufen
+kleinster Körperchen sich weder in Essigsäure noch in Kali- oder
+Natronlauge verändert und man sonst Grund hat, darin Bakterien
+zu vermuthen, dann ist gewöhnlich die Aufgabe gelöst und der
+Mikrokokkus gefunden. Leicht kann dabei ein Irrthum auch nicht
+vorkommen, denn das Aussehen eines dicht gedrängten Mikro¬
+kokkenhaufens, der sogenannten Zooglöa, ist so charakteristisch,
+dass, wer sich dieses Bild einmal eingeprägt hat, es jederzeit
+wieder erkennen wird. Ungleich schwieriger gestalten sich aber
+die Verhältnisse, wenn die Bakterien, namentlich gilt dies von
+Mikrokokken, schwarmähnlich ausgebreitet sind, wenn sie sich in
+kleinen lockeren Gruppen oder gar einzeln im Gewebe vertheilen.
+Dann kommt das charakteristische Aussehen der Zooglöa nicht
+mehr zu Hülfe und man kann sich nur noch auf die Resistenz
+der Bakterien gegen Alkalien und Säuren verlassen, weil die An¬
+zahl der ähnlich gestalteten und ausserordentlich leicht damit zu
+verwechselnden kleinen Körnchen in pathologisch veränderten Ge¬
+weben und im Blute sehr gross ist. Aber sehr bald wird man
+gewahr werden, wie unzuverlässig dieses Unterscheidungsmerkmal
+ist. Manche, namentlich sehr kleine Bakterien, werden durch
+diese Reagentien ebenso zerstört oder verändert wie die thieri¬
+schen Gewebe und auch in letzteren finden sich oft unbestimm¬
+bare Körnchen, die durch Säuren und Alkalien nicht beseitigt
+werden. Also mehr als Zooglöamassen nachzuweisen, vermag
+dieses Verfahren nicht.
+
+Beschreibung der Untersuchungsmethode.
+ Man hat dann weiter versucht, mit Färbungsmethoden bessere
+Resultate zu erzielen und zwar ist zunächst, wie es scheint gleich¬
+zeitig von mehreren Seiten, die Hämatoxylinfärbung empfohlen.
+Dieselbe leistet auch, namentlich wenn sie in der Art der soge¬
+nannten Kernfärbung angewandt wird, erheblich mehr, als die
+erste Methode. Aber insofern ist sie unvollkommen, als das Hä¬
+matoxylin die stäbchenförmigen Bakterien nicht färbt und die
+kugelförmigen nicht stark genug, um zerstreut liegende immer
+mit Sicherheit erkennen zu lassen. Immerhin ist die Anwendung
+des Hämatoxylin der einfachen Behandlung der Untersuchungs¬
+objecte mit Reagentien insofern überlegen, als durch die Färbung
+die Bakterienmassen sehr viel deutlicher im übrigen Gewebe her¬
+vortreten und ein Uebersehen oder Verwechseln mit anderen Ob¬
+jecten noch mehr ausgeschlossen ist. Auch gewährt dies Ver¬
+fahren, das ja die Untersuchung mit Reagentien selbstverständlich
+nicht ausschliesst, noch den grossen Vortheil, dass die gefärbten
+Objecte in Canadabalsam conservirt und zur Vergleichung mit an¬
+deren Präparaten dienen können.
+Noch bessere Resultate als die Färbung mit Hämatoxylin hat
+die mit Anilinfarben gegeben. Meines Wissens ist Anilinfärbung
+zum Nachweis von Bakterien in thierischen Geweben zuerst von
+Weigert Bericht über die Sitzungen der Schlesischen Gesellschaft für vaterl.
+Cultur. 10. December 1875. angewandt. Sein Verfahren, durch dessen Mittheilung
+er mich zu grösstem Dank verpflichtet hat, ist folgendes:
+Die Untersuchungsobjecte werden in Alkohol gehärtet und
+die daraus gefertigten Schnitte in einer ziemlich starken wässri¬
+gen Lösung von Methylviolett längere Zeit liegen gelassen. Die
+Schnitte werden dann mit verdünnter Essigsäure behandelt, mit
+Alkohol entwässert, in Nelkenöl aufgehellt und in Canadabalsam
+eingelegt.
+Statt des Methylviolett können auch andere Anilinfarben
+z. B. Fuchsin, Anilinbraun u. s. w. in derselben Weise gebraucht
+werden.
+Es sind dies allerdings nur die allgemeinen Umrisse, inner¬
+halb deren sich das Verfahren bewegt, aber die einzelnen Gewebe
+und namentlich die verschiedenen Bakterien verhalten sich zu un¬
+gleich, als dass es möglich ist, ganz allgemeingültige, alle Einzel¬
+heiten berührende Regeln anzugeben. Für manche Objecte eignet
+
+Beschreibung der Untersuchungsmethode.
+ sich Fuchsin am besten, für andere passen wieder mehr die Me¬
+thylfarben. Unter diesen letzteren herrscht eine solche Verschie¬
+denheit in der färbenden Kraft, dass die Schnitte in der einen
+Lösung wenige Minuten, in einer anderen mehrere Stunden bleiben
+müssen. Es bleibt dem gegenüber nichts weiter übrig, als eine
+grössere Menge Schnitte auf einmal in Arbeit zu nehmen und den
+geeignetsten Farbstoff, sowie die Zeitdauer der Färbung auszu¬
+probiren. Nach einiger Uebung wird man gewiss mit wenigen
+Versuchen den geeignetsten Modus gefunden haben. Auf die Stärke
+der Essigsäurelösung kommt nicht viel an. Man nehme am besten
+eine wenige Procente starke Lösung und lasse sie nicht zu lange
+einwirken. Die übrigen Manipulationen, also Entwässern, Auf¬
+hellen und Einlegen sind genau dieselben, wie bei der Herstellung
+anderer mikroskopischer Präparate. Ein zu langes Verweilen der
+Schnitte im Alkohol und im Nelkenöl ist zu vermeiden, weil sonst
+die Farbstoffe durch diese Flüssigkeiten ausgelaugt werden.
+In den Präparaten, die in dieser Weise behandelt sind, er¬
+blickt man nur die Kerne der Zellen und die Bakterien gefärbt.
+Letztere nehmen sämmtlich die Anilinfärbung an und zwar fällt
+die Färbung so stark aus, dass die einzelnen Bakterien bedeutend
+besser zu erkennen sind, als nach Hämatoxylinfärbung. In mit
+Anilinfärbung behandelten Präparaten ist es deswegen sehr leicht,
+einzelne grosse Bakterien, z. B. die Milzbrandbacillen, mit voller
+Sicherheit in den verschiedensten Geweben zu erkennen. Sobald
+aber kleinere Bakterien in Frage kommen, dann wird allerdings
+das Resultat unsicher und lässt schliesslich bei ganz kleinen For¬
+men vollständig in Stich.
+Um nun zu verstehen, woher es kommt, dass kleine Objecte
+trotz intensiver Färbung in thierischen Geweben schwierig oder
+gar nicht zu unterscheiden sind, muss man sich das Zustande¬
+kommen des mikroskopischen Bildes klar machen; doch soll der
+Einfachheit halber nur der hier vorliegende Fall, nämlich ein aus
+thierischem Gewebe stammender in Canadabalsam nach gewöhn¬
+licher Manier eingelegter Schnitt in Betracht gezogen werden.
+Wenn sämmtliche Bestandteile dieses Gewebes farblos wären
+und dasselbe Brechungsvermögen hätten wie der Canadabalsam,
+dann würde von dem Gewebe gar nichts zu sehen sein. Das ist
+nun aber nicht der Fall. Fasern, Kerne und manche andere
+Theile des Gewebes differiren in ihrem Lichtbrechungsvermögen
+vom Canadabalsam und erzeugen durch Diffraction der durch¬
+
+Beschreibung der Untersuchungsmethode.
+gehenden Lichtstrahlen ein aus Linien und Schatten bestehendes
+Bild Naegeli und Schwendener: Mikroskop. Leipzig 1877. S. 220., das Structurbild genannt werden mag.
+Setzen wir nun aber einen zweiten Fall, dass nämlich Theile
+jenes Gewebes z. B. Zellenkerne und Bakterien gefärbt sind, dann
+würden sich die Verhältnisse folgendermaassen gestalten. Bei
+ganz gleichem Brechungsvermögen von Gewebe und Canadabal¬
+sam würden nur Kerne und Bakterien zu sehen sein und zwar
+nur vermöge des Farbstoffes, mit dem sie imprägnirt sind; wir
+würden also ein ganz reines Farbenbild haben, das von dem durch
+Fasern, Membranen u. s. w. erzeugten Structurbild ganz verschie¬
+den sein, theilweise mit diesem z. B. in den Kernbildern zusam¬
+menfallen kann. Zum möglichst deutlichen Erkennen der Bakte¬
+rien, die ja durch Anilinfarben ganz besonders intensiv gefärbt
+werden, würde ein solches reines Farbenbild gewiss das Vortheil¬
+hafteste sein. Nun kommt aber das unvermeidliche und störende
+Structurbild dazu.
+Grossen gefärbten Objecten, also beispielsweise wieder Milz¬
+brandbacillen, geschieht dadurch in Betreff ihrer Erkennbarkeit
+wenig Abbruch. Höchstens wenn der Schnitt oder sonstige Ge¬
+webstheil sehr dick ist (z. B. die Darmschleimhaut in ihrer voll¬
+ständigen Dicke), kann das Structurbild so überwiegend, die Menge
+der über einander gelagerten Schatten so dicht werden, dass auch
+die grossen Milzbrandbacillen nicht mehr gut zu unterscheiden
+sind. Wenn aber die Bakterien kleiner und dünner sind, also an
+sich schon weniger Farbstoff aufnehmen können, dann macht sich
+der nachtheilige Einfluss des Structurbildes schon weit mehr gel¬
+tend; eine breite dunkle Linie kann dann schon einige Bakterien
+so verdecken, dass ihr Farbenbild zu schwach wird um im Auge
+noch einen Eindruck zu machen. In dünnen Schnitten und solchen
+Geweben, deren Structurbild aus wenigen Linien und Schatten
+(z. B. Unterhautzellgewebe, Hornhaut) besteht, sind allerdings
+noch recht kleine Bakterienformen mit einiger Genauigkeit zu
+unterscheiden. Schliesslich kommt man aber doch an einen Punkt,
+wo die Bakterien so klein sind, dass die winzigen gefärbten Pünkt¬
+chen und Strichelchen durch die schwächsten Structurschatten
+schon verdeckt und unsichtbar gemacht werden. An einzelnen
+besonders günstigen Stellen hat man wohl noch eine Andeutung da¬
+von, dass Bakterien vorhanden sein könnten, aber an ein sicheres
+
+Beschreibung der Untersuchungsmethode.
+ Erkennen und Unterscheiden von Gestalt und Grösse der Bakte¬
+rien ist nicht mehr zu denken.
+Dieser Fall trat auch bei meinen Untersuchungen ein. In
+dem Material, das ich mir in der später zu beschreibenden Weise
+verschafft hatte, fand ich grössere Bakterien auch kleinere, nament¬
+lich wenn sie Anhäufungen in den Glomeruli bildeten, mit Leich¬
+tigkeit. Nun lag aber die Vermuthung vor, dass auch in der Milz
+und in den Lungencapillaren Bakterien zu finden sein müssten,
+denn die Milz war geschwollen und das Blut aus dem linken
+Herzen, das eben die Lunge passirt hatte, brachte durch Ver¬
+impfung bei einem anderen Thiere dieselbe tödtliche Krankheit
+und dieselben ausserordentlich feinkörnigen Mikrokokkenhaufen
+in den Glomeruli wie bei dem ersten Thier zu Stande. Aber trotz
+der grössten Mühe waren die vermutheten Bakterien nicht zu fin¬
+den. Bei der Septicämie der Mäuse, die doch im höchsten Grade
+infectiös ist, wie ich später zeigen werde, konnte ich überhaupt
+keine Mikroorganismen nachweisen. Ich war also zu denselben
+unvollkommenen Ergebnissen gelangt, wie die früheren mit den
+Wundinfectionskrankheiten beschäftigten Forscher.
+Damals war ich schon durch Versuche, die in Canadabalsam
+eingelegten Bakterien zu photographiren, auf die Zusammensetzung
+des mikroskopischen Bildes aus einem Structur- und einem Far¬
+benbild aufmerksam geworden und hatte zugleich gefunden, dass
+das Structurbild durch die Art der Beleuchtung wesentlich ver¬
+stärkt oder abgeschwächt werden kann. Es ist das durchaus nichts
+Neues. Jeder Mikroskopiker kennt die Wirkung der Blenden, die
+unter dem Präparat angebracht sind. Eine enge Blende verdun¬
+kelt nicht allein das Gesichtsfeld, sondern hebt die Structur des
+Objectes mehr hervor, eine weite dagegen macht das Bild heller,
+lässt aber auch einen Theil der Structur undeutlicher werden.
+Noch auffallender tritt der Unterschied zwischen engen und weiten
+Blenden hervor, wenn wie beim Photographiren zum Beleuchten
+des Objectes nicht der Hohlspiegel, sondern eine Linse oder ein
+Condensor gebraucht wird, weil man, besonders bei einem Con¬
+densor von kurzer Brennweite, den Kegel der das Object beleuch¬
+tenden Strahlen weit mehr modificiren kann. Durch eine vor die
+Beleuchtungslinse gestellte enge Blende wird die Basis dieses
+Kegels von Lichtstrahlen so klein, dass der Kegel fast als ein Bün¬
+del paralleler Lichtstrahlen betrachtet werden kann. Je grösser
+aber die Oeffnung der Blende wird, um so grösser wird auch bei
+ Koch, Wundinfectionskrankheiten. 3
+
+
+Beschreibung der Untersuchungsmethode.
+gleicher Länge der Radius des Strahlenkegels, der den mit einem
+gewöhnlichen Hohlspiegel erhaltenen, was die Breite der Basis
+im Verhältniss zur Länge angeht, weit übertrifft. Betrachtet man
+nun ein mikroskopisches Präparat bei einer Beleuchtung mit zu¬
+erst schmalem und schliesslich immer breiter werdenden, aber
+immer gleich langen Lichtkegel, dann wird man sich sofort davon
+überzeugen, dass, wie es auch nach dioptrischen Gesetzen nicht
+anders möglich ist, die Diffractionserscheinungen und damit das
+Structurbild, welches bei der am meisten engen Blende am inten¬
+sivsten war, immer mehr verschwindet. In demselben Maasse
+aber, in dem das Structurbild abnimmt, wird das Farbenbild in¬
+tensiver und schärfer. Damit war also ein Weg angedeutet, um
+das Structurbild soweit unschädlich zu machen, dass auch die
+kleinsten gefärbten Körper, natürlich soweit überhaupt das optische
+Vermögen der Objectivsysteme reicht, deutlich unterscheidbar wer¬
+den. Es musste nämlich ein Beleuchtungskegel von so grosser
+Oeffnung zur Beleuchtung verwandt werden, dass die Diffractions¬
+erscheinungen gänzlich zum Verschwinden gebracht werden. Nach¬
+dem ich nun verschiedene Linsen und Condensoren nach dieser
+Richtung versucht hatte, ohne dass ich einen Apparat traf, der
+das Structurbild mehr oder weniger vollkommen beseitigte, fand
+ich schliesslich in dem von Carl Zeiss in Jena angefertigten von
+Abbe angegebenen Beleuchtungsapparat ein meinem Zweck voll¬
+ständig entsprechendes Instrument.
+Dieser Apparat besteht aus einer Linsencombination, deren
+Brennpunkt nur einige Millimeter von der Frontlinse entfernt ist.
+Wenn die combinirte Beleuchtungslinse also in der Oeffnung des
+Mikroskoptisches und zwar ein wenig tiefer als die Tischebene
+sich befindet, dann fällt der Brennpunkt mit dem zu beobachten¬
+den Object zusammen und letzteres erhält in dieser Stellung die
+günstigste Beleuchtung. Der Oeffnungswinkel der ausfahrenden
+Strahlen ist so gross, dass die äussersten derselben in einer Was¬
+serschicht fast 60 ° gegen die Axe geneigt sind, der gesammte
+wirksame Lichtkegel demnach eine Oeffnung von 120° also eine
+grössere Oeffnung als irgend ein andrer Condensor besitzt. Naegeli und Schwendener l. c. S. 99. Die
+Lichtstrahlen werden dem Linsensystem durch einen Spiegel, der
+nur um einen festen Punkt in der Axe des Mikroskops drehbar
+ist, zugeführt. Zwischen Spiegel und Linse, nahe dem Brennpunkte
+
+Beschreibung der Untersuchungsmethode.
+ des ersteren, befindet sich ein Träger für Blenden, die ausserdem
+seitlich und kreisförmig beweglich sind, so dass der beleuchtende
+Strahlenkegel in jeder beliebigen Weise verändert werden kann.
+Durch mehr oder weniger grosse Blendenöffnung wird auch die
+Oeffnung des Strahlenkegels von der kleinsten bis zur grössten
+mit der Beleuchtungslinse überhaupt zu erzielenden modificirt. Seit¬
+liche Verschiebung der Blendenöffnung gibt ohne Bewegung des
+Spiegels schiefe Beleuchtung und mit Hülfe einer centralen Abblen¬
+dung kann der mittlere Theil des Kegels ausgeschaltet werden.
+Vermittelst dieses Apparates lässt sich das früher beschrie¬
+bene Verhältniss zwischen Structur- und Farbenbild in der ein¬
+fachsten und überzeugendsten Weise ersichtlich machen. Nehmen
+wir den Fall, dass ein mit Anilin gefärbter Schnitt aus einem
+sehr kleine Bakterien enthaltenden Gewebe mit Benutzung des
+Abbe'schen Beleuchtungsapparates untersucht werden soll. Es
+wird zuerst ein Diaphragma mit enger BlendeIch habe mir zu dem Apparat einen Satz Blenden anfertigen lassen,
+von denen die auf einander folgenden Nummern eine immer um einen Milli¬
+meter grössere Oeffnung besitzen, um alle Abstufungen in der Beleuchtung
+herstellen zu können.
+ auf den Diaphrag¬
+menträger gelegt. Die Beleuchtung des Objectes ist dann unge¬
+fähr dieselbe wie bei Hohlspiegelbeleuchtung mit mittlerer Cylin¬
+derblendung. Dabei erscheint das Gesichtsfeld ziemlich dunkel,
+die Gewebsstructur tritt deutlich hervor, namentlich die Kerne der
+Zellen fallen als dunkle Körper mit dunkelblauer oder rother
+wenig ausgesprochener Färbung ins Auge; kleine Körnchen lassen
+gar nicht mit Sicherheit erkennen, ob sie gefärbt sind oder nicht,
+ebensowenig ist zu unterscheiden, ob derartige Körnchen Bakte¬
+rien oder Gewebsbestandtheile sind. Nun werden nacheinander
+Blenden mit immer grösseren Oeffnungen auf den Träger gelegt.
+Dann verändert sich allmählich das Bild in der auffallendsten
+Weise. Die dunkeln Umrisse der Zellen und Zellkerne und die
+scharfen Linien der elastischen Fasern, Gefässwände und der¬
+gleichen werden blasser und unbestimmter; die Schatten der ober-
+und unterhalb der Sehebene befindlichen Körper verschwinden
+immer mehr; viele von den vorher bemerkten dunklen Pünktchen
+und Körnchen, die möglicherweise für Bakterien gehalten werden
+konnten, verschwinden vollständig, an anderen kleinen Objecten
+die früher schwarz aussahen, macht sich eine Färbung bemerk¬
+bar, auch die Farbe der Kerne wird deutlicher. Das Gesichtsfeld
+3 *
+
+
+Beschreibung der Untersuchungsmethode.
+ hellt sich zugleich immer mehr auf. Je mehr nun Linien und
+Schatten und je mehr im Bilde alle Unterschiede zwischen hell
+und dunkel verschwinden, um so reiner und kräftiger treten alle
+farbigen Objecte hervor und immer deutlicher erkennt man ihre
+Umrisse, kleine Unterschiede im Farbenton und in der Stärke der
+Färbung. Schliesslich, wenn auch das letzte Diaphragma entfernt
+wird, ist alle Structurzeichnung verschwunden, das Gesichtsfeld
+gleichmässig stark erhellt und nur noch farbige Objecte zu sehen und
+je helleres Licht man zur Beleuchtung wählt, am besten das Licht
+von der Sonne grell beleuchteter weisser Wolken, um so leuchten¬
+der, intensiver und schärfer contourirt erscheinen dieselben. Dann
+ist es leicht, unter den gefärbten Körpern die Bakterien, von denen
+vorher nichts zu erblicken war, oder die als dunkle unbestimmte
+Körnchen, Strichelchen u. s. w. erschienen, herauszufinden, nament¬
+lich da fast weiter nichts im Präparat gefärbt ist als Kerne und
+Bakterien. Umrisse und Grössenverhältnisse der Bakterien lassen
+sich dann erkennen und durch die gleichmässige Form sind die
+Bakterien von anderen etwa mit gefärbten körnigen Massen, z. B.
+zerfallenden Zellkernen sofort mit Sicherheit zu unterscheiden.
+Um die Wirkung des Abbe'schen Beleuchtungsapparates zu
+veranschaulichen, kann noch eine einfache Vorrichtung dienen.
+Dieselbe besteht aus einem kleinen mit Canadabalsam gefüllten
+Glasgefäss, in welches kleine gefärbte und ungefärbte Glasperlen
+gethan werden. Es sind also ähnliche Bedingungen gegeben, wie
+bei einem in Canadabalsam eingelegten gefärbten Präparat. Die
+gefärbten Perlen entsprechen den gefärbten Kernen oder Bakterien,
+die farblosen Perlen den ungefärbt gebliebenen Gewebstheilen.
+Sieht man nun durch das Glas auf ein dicht darunter gelegtes
+breites, hell vom Tageslicht beschienenes Blatt Papier, dann ist
+von den farblosen Perlen nichts zu sehen, die gefärbten hingegen
+sind deutlich und scharf zu erkennen; wird aber das Papier von
+dem Glase entfernt, also der die Perlen beleuchtende Strahlenkegel
+bei gleicher Basis länger und sein Oeffnungswinkel immer kleiner,
+dann tritt dieselbe Erscheinung ein, wie wenn beim Abbe'schen
+Beleuchtungsapparat successive engere Blendenöffnungen genom¬
+men werden; die ungefärbten Perlen fangen nämlich allmählich
+an sichtbar zu werden, nehmen immer deutlichere und dunklere
+Umrisse an, auch die gefärbten Perlen erscheinen dunkler, zuletzt
+sind beide Perlensorten wenig mehr zu unterscheiden und es kön¬
+nen farbige durch ungefärbte vollständig verdeckt werden.
+
+Beschreibung der Untersuchungsmethode.
+ Mikroskopiker, welche zum ersten Mal ein stark vergrössertes
+mit dem Abbe'schen Beleuchtungsapparat ohne Blende beleuchtetes
+Präparat untersuchen, finden dasselbe gewöhnlich ganz fremdartig,
+zu hell und verschwommen, trotzdem die Umrisse der farbigen Ge¬
+genstände ganz scharf sind. Es sind das solche Mikroskopiker,
+die zu sehr an das dunkle Gesichtsfeld der gewöhnlichen Spiegel¬
+beleuchtung gewöhnt sind und die die fehlende ihnen wohlbekannte
+Structurzeichnung des Gewebes vermissen. Für diese ist es zweck¬
+mässig, die Blenden nicht ganz wegzulassen, sondern die Blenden¬
+öffnung so lange zu steigern, bis das zu untersuchende farbige
+Object gerade deutlich genug erscheint; es bleibt dann vom Struc¬
+turbild immer noch genug übrig, um sich über das Gewebe selbst
+orientiren zu können.
+Ueberhaupt ist es nothwendig, neben der Untersuchung der
+Bakterien vermittelst des reinen Farbenbildes auch andere Metho¬
+den, also gleichzeitige Beobachtung der Gewebsstructur, ferner die
+Untersuchung der frischen Objecte mit und ohne Anwendung von
+Alkalien und Säuren zu benutzen und ich erwähne hier ausdrück¬
+lich, dass ich auch diese Verfahren häufig in controlirender
+Weise neben meiner hauptsächlichen Untersuchungsmethode ver¬
+werthet habe.
+Obwohl die Anilinfärbung und der Abbe'sche Beleuchtungs¬
+apparat so bedeutend die Untersuchung auf pathogene Bakterien
+erleichtern, so darf man sich doch nicht vorstellen, dass damit
+ohne Weiteres alle Schwierigkeiten beseitigt und alle Fehlerquel¬
+len ausgeschlossen sind. Es gehört im Gegentheil eine nicht ge¬
+ringe Uebung dazu, ehe man im Stande ist, diese ausgezeichneten
+Hülfsmittel richtig zu verwerthen. Einige der hier in Frage kom¬
+menden Schwierigkeiten sollen kurz berührt werden.
+Da auch einzelne Bakterien dem beobachtenden Auge nicht
+entgehen, so ereignet es sich nicht selten, dass man auf solche
+vereinzelte Bakterien stösst, die aus den beim Färben, Auswaschen
+u. s. w. gebrauchten Flüssigkeiten stammen. Denn selbst das
+destillirte Wasser ist fast niemals frei von Bakterien. Aber sehr
+bald lernt man diese Bakterienformen von anderen unterscheiden
+und erkennt sie sofort als zufällige Verunreinigung.
+Ferner ist jedesmal, wenn einzelne Bakterien nur in den ober¬
+flächlichen Schichten von Organen gefunden werden, zu vermuthen,
+dass es sich um beginnende Fäulniss handelt. Auch die bei der
+Fäulniss auftretenden Bakterien, im Beginn gewöhnlich grosse
+
+Beschreibung der Untersuchungsmethode.
+ BacillenVgl. meine Abhandlung über Photographiren u. s. w. der Bakterien.
+Beiträge zur Biologie der Pflanzen. 2. Bd. 3. Heft. Photogramm Nr. 6 auf
+Taf. XVI., sind so charakteristisch, dass sie mit den pathogenen
+Bakterien nicht leicht zu verwechseln sind. Dennoch ist es besser
+Objecte, in denen sich schon Fäulnissbakterien eingefunden haben,
+nur mit Reserve oder noch richtiger gar nicht zu benutzen. Ich
+habe, um jeden Einwand von Verwechslung mit Fäulnissbakterien
+auszuschliessen und um nicht zu der Meinung Veranlassung zu
+geben, dass in Anordnung und Zahl der pathogenen Bakterien
+nach dem Tode noch Veränderungen eingetreten sein könnten,
+nur solche Objecte zur Untersuchung gezogen, die unmittelbar
+nach dem Tode des Versuchsthieres, nur in wenigen Fällen einige
+Stunden nach dem Tode, in absoluten Alkohol gelegt wurden.
+Deswegen habe ich in meinen in dieser Weise gewonnenen Prä¬
+paraten niemals Fäulnissbakterien gefunden. Dagegen habe ich
+sie selten in menschlichen Leichentheilen, trotzdem die Section
+15 bis 20 Stunden nach dem Tode gemacht war, vermisst.
+Auf eine merkwürdige Art von Zellen will ich bei dieser Ge¬
+legenheit noch aufmerksam machen, welche zu Verwechslungen
+mit kleinen Mikrokokkenhaufen Veranlassung geben könnte. Es
+sind das die von Ehrlich Archiv für mikroskopische Anatomie. Bd. XIII. 1877. S. 263. beschriebenen und abgebildeten so¬
+genannten Plasmazellen, platte, meistens der Aussenwand von Ge¬
+fässen aufsitzende Zellen, die aus einem rund um einen Kern
+gruppirten Körnerhaufen bestehen. Sie verhalten sich den Anilin¬
+farben gegenüber gerade entgegengesetzt wie alle übrigen Zellen.
+Bei letzteren wird nur der Kern gefärbt, bei den Plasmazellen
+färbt sich dagegen nur das feinkörnige Plasma und der Kern
+bleibt ungefärbt. Da nun die Körnchen genau die Grösse mancher
+Mikrokokken haben, so sieht, besonders wenn der Kern undeut¬
+lich oder verschwunden ist, die Plasmazelle fast genau so aus,
+wie eine kleine Mikrokokkenkolonie. Doch sind die Körnchen
+gewöhnlich von ungleicher Grösse. Dieses letztere Verhalten, das
+Vorhandensein eines Kernes und der Vergleich mit anderen eben¬
+solchen Zellen sichern indessen leicht ihre Diagnose. In mensch¬
+lichen Geweben sind sie nicht gerade häufig, aber massenhaft
+kommen sie bei der Maus, besonders in der Haut des Ohrs, vor.
+Handelt es sich darum, jede Verwechslung der Bakterien mit
+thierischen Gewebstheilen auszuschliessen, oder kommt es darauf
+
+Beschreibung der Untersuchungsmethode.
+an, die Menge und Vertheilung der Bakterien in einem Organ
+übersichtlich zu machen, dann kann noch ein besonderes Verfahren
+zur Verwendung kommen. Werden nämlich nach der Anilinfärbung
+die Schnitte anstatt mit Essigsäure mit einer schwachen Lösung
+von kohlensaurem Kali behandelt, dann verlieren auch die Kerne
+und Plasmazellen, überhaupt alles thierische Gewebe den Farb¬
+stoff wieder und die Bakterien bleiben ganz allein gefärbt. Grosse
+Schnitte in denen in der eben angegebenen Weise nur die Bak¬
+terien gefärbt sind, gewähren ausgezeichnete und ganz über¬
+raschende Uebersichtsbilder.
+ In der mikroskopischen Technik spielen Färbungsmethoden
+eine Hauptrolle und viele der wichtigsten Entdeckungen sind schon
+mit Hülfe derselben gemacht. Aber der Nutzen, den die Färbung
+bei mikroskopischen Arbeiten gewährt, kann wie meine Unter¬
+suchungen beweisen, nur vermittelst einer zweckentsprechenden Ver¬
+wendung der Beleuchtungsapparate vollständig ausgebeutet werden.
+Bislang ist dies meines Wissens nicht geschehen und ich halte
+es deswegen nicht für überflüssig, meine Beleuchtungsmethode
+auch für andere mikroskopische Untersuchungen zu empfehlen,
+bei denen es sich vorwiegend um die Unterscheidung sehr kleiner
+gefärbter Elemente handelt.
+Für die Verwendung des Abbe'schen Beleuchtungsapparates
+mache ich mich darauf aufmerksam, dass nur solche Systeme mit
+demselben ein scharfes, nicht verschleiertes Farbenbild geben, bei
+denen sämmtliche Zonen der Objectivöffnung richtig corrigirt
+sind. Die aus der Zeiss'schen Werkstatt hervorgehenden Objectiv¬
+systeme werden vermittelst des Abbe'schen Condensors auf das
+richtige Zusammenwirken der einzelnen Zonen, namentlich der
+Randzonen geprüft. Diese eignen sich deswegen sämmtlich zur
+Beobachtung von Farbenbildern, ganz besonders die neuen nach
+den Angaben von Abbe construirten Oelsysteme. Bei anderen
+Systemen, welche ich zu demselben Zweck versuchte, waren fast
+immer die Randzonen ungenügend corrigirt. Nur noch mit einem
+System von Seibert und Kraft habe ich scharfe Farbenbilder
+erhalten.
+ 
+
+  Künstliche Wundinfectionskrankheiten.
+    1. Septicämie bei Mäusen.
+ Mäuse eignen sich ganz besonders gut zu Versuchen mit In¬
+fectionskrankheiten, wie ich schon früher bei Untersuchungen über
+Milzbrand erfahren hatte.
+Auf Grund dieser Erfahrung versuchte ich es denn auch nach
+derselben Methode, die von Coze und Feltz, Davaini u. A. be¬
+folgt ist, um bei Thieren künstliche Wundinfectionskrankheiten
+hervorzurufen, an Mäusen dieselben oder doch ähnliche Krank¬
+heiten zu erzielen.
+Es wurden also Einspritzungen von putriden Flüssigkeiten,
+z. B. von faulendem Blut, faulendem Fleischinfus unter die Rücken¬
+haut einer Maus gemacht. Der Erfolg einer solchen Einspritzung
+ist je nach der Art der Faulflüssigkeit und je nach der Menge,
+die eingespritzt wird, ein sehr verschiedener. Blut und Fleisch¬
+infus, das längere Zeit gefault hat, scheint weniger schädlich zu
+wirken, wenige Tage faulende Flüssigkeiten haben dagegen eine
+intensivere Wirkung. Von diesen letzteren Flüssigkeiten, nament¬
+lich von nicht zu altem faulenden Blut genügen ungefähr fünf
+Tropfen, um eine Maus binnen kurzer Zeit zu tödten. An dem
+Thiere sind in diesem Falle sofort nach der Einspritzung ent¬
+schiedene Krankheitssymptome zu bemerken. Es ist unruhig,
+läuft viel umher, zeigt aber dabei grosse Schwäche und Unsicher¬
+heit in allen Bewegungen, es frisst nicht mehr, die Respiration
+wird unregelmässig, verlangsamt und nach 4–8 Stunden tritt der
+Tod ein.
+An einem solchen Thiere befindet sich im Zellgewebe der
+Rückenhaut noch der grösste Theil des eingespritzten faulen Blutes
+und zwar in demselben Zustande wie vor der Einspritzung. Es
+enthält dieselbe Menge von Bakterien der verschiedensten Formen
+
+1. Septicämie bei Mäusen.
+ regellos durcheinander gewürfelt, wie es auch die mikroskopische
+Untersuchung vorher nachgewiesen hat. Eine Reaction ist in der
+Umgebung der Injectionsstelle nicht zu bemerken. Auch die in¬
+neren Organe sind unverändert. Wird Blut, das aus dem rechten
+Vorhof genommen ist, einer anderen Maus eingeimpft, dann bleibt
+diese Impfung ohne jede Wirkung. Bakterien sind in keinem
+der inneren Organe und auch nicht im Herzblut aufzufinden.
+Eine Infection war also durch die Einspritzung nicht ent¬
+standen. Dagegen kann es keinem Zweifel unterliegen, dass der
+Tod des Thieres durch das im faulenden Blute durch die Unter¬
+sungen von Bergmann, Panum und verschiedenen anderen For¬
+schern nachgewiesene lösliche Gift, das Sepsin bewirkt und dass
+das Versuchsthier also nicht einer Infections- sondern einer In¬
+toxicationskrankheit erlegen ist.
+Bestätigt wird diese Annahme dadurch, dass je weniger
+Flüssigkeit dem Thier applicirt wird, auch die sofort eintretenden
+Vergiftungserscheinungen um so weniger ausgesprochen werden
+und bei Einspritzung von einem oder höchstens zwei Tropfen ganz
+fehlen. Nach Einspritzung so kleiner Mengen Blut bleiben Mäuse
+vielfach auch dauernd ohne Krankheitserscheinungen. Aber un¬
+gefähr ein Drittel derselben erkrankt nach ungefähr 24 Stunden,
+während welcher Zeit sie noch anscheinend ganz gesund waren,
+auf jeden Fall keine der vorher geschilderten Vergiftungssymptome
+gezeigt haben, unter ganz charakteristischen und constanten Sym¬
+ptomen.
+Ehe ich dieselben beschreibe, will ich nur noch erwähnen,
+dass auch mit weniger Faulflüssigkeit als mit einem Tropfen die
+Infection noch gelingt. Aber mit der Menge der applicirten Faul¬
+flüssigkeit nimmt auch die Zahl der Erfolge ab, so dass z. B. bei
+einer in gewöhnlicher Weise vorgenommenen Impfung mit faulen¬
+dem Blut, wobei also ungefähr 1/10—1/20 Tropfen zur
+kommt, von 10—12 Thieren eins erfolgreich inficirt wird.
+Das erste Krankheitssymptom bei den inficirten Thieren besteht
+in einer vermehrten Secretion der Augenbindehaut. Das Auge sieht
+trübe aus und es sammelt sich in der Lidspalte weisslicher Schleim,
+der die Augen schliesslich ganz verklebt. Zugleich stellt sich
+Mattigkeit ein, das erkrankte Thier bewegt sich wenig und lang¬
+sam; meistens sitzt es mit stark gekrümmtem Rücken und fest
+angezogenen Extremitäten ganz ruhig. Es hört dann auch auf zu
+fressen. Die Respiration wird langsamer, die Schwäche nimmt
+
+Künstliche Wundinfectionskrankheiten.
+ immer mehr zu und fast unmerklich tritt der Tod ein. Niemals
+gehen Krämpfe vorher, wie es beim Milzbrand regelmässig der
+Fall ist. Auch nach dem Tode bleibt das Thier in sitzender
+Stellung mit stark gekrümmtem Rücken, während eine an Impf¬
+milzbrand gestorbene Maus immer auf dem Rücken oder auf der
+Seite liegt und die starren Extremitäten weit von sich streckt, so
+dass schon an der Lage des Körpers nach dem Tode sofort die
+stattgehabte Impfung mit faulendem Blute von der mit Milzbrand
+zu unterscheiden ist. Der Tod der mit faulendem Blut inficirten
+Mäuse erfolgt ungefähr 40—60 Stunden nach der Impfung.
+Bei der Section findet sich an der Einspritzungs- oder Impf¬
+stelle ein geringes Oedem des Unterhautzellgewebes, das aber auch
+oft fehlt, und alle inneren Organe mit Ausnahme einer beträcht¬
+lichen Milzanschwellung ganz unverändert.
+Nimmt man nun von der subcutanen Oedemflüssigkeit oder
+vom Blute aus dem Herzen eines solchen Thieres ein sehr geringes
+Quantum (z. B. 1/10 Tropfen) und impft damit eine andere Maus,
+dann treten bei dieser genau dieselben Krankheitserscheinungen,
+in derselben Zeitdauer und Reihenfolge wie bei dem ersten Thier
+und nach ungefähr 50 Stunden der Tod ein. Von diesem zweiten
+Thier kann in eben derselben Weise ein drittes inficirt werden
+und so weiter durch beliebig viele Impfgenerationen. Ich habe
+diese Versuche an 54 Mäusen angestellt und immer das gleiche
+Resultat gehabt. Davon wurden 17 Impfungen in einer successiven
+Reihe, die anderen in kürzeren Reihen gemacht.
+Die Sicherheit, mit der sich der Infectionsstoff von einer Maus
+auf die andere übertragen lässt, ist noch bedeutender als beim
+Milzbrand. Bei letzterem muss, um sicher zu gehen, das Impf¬
+material aus der Milz genommen werden, weil das Blut von milz¬
+brandigen Mäusen oft sehr wenige Bacillen enthält. Bei der mit
+faulendem Blut erzeugten Krankheit der Mäuse ist es, besonders
+in den späteren Impfgenerationen, dagegen gleichgültig, von wel¬
+chem Organ man impft und selbst die kleinste Menge Substanz
+hat noch eine sichere Wirkung. Es ist vollständig hinreichend,
+über eine kleine Hautwunde einer Maus die Scalpellspitze, die mit
+dem infectiösen Blute nur in Berührung gekommen ist, hinweg¬
+zustreichen, um das so geimpfte Thier binnen ungefähr 50 Stunden
+zu tödten. Mehrmals habe ich den Versuch gemacht, das sub¬
+cutane Gewebe von einer Maus, die nach Impfung am Schwanz
+gestorben war, an der entgegengesetzten Körperseite, also z. B.
+
+1. Septicämie bei Mäusen.
+am Kopf mit dem Messer zu berühren und einer anderen Maus
+mit diesem Messer einen kleinen Hautriss am Ohr beizubringen,
+aber auch in diesen Fällen starben die Thiere ausnahmslos an
+der geschilderten Krankheit.
+Diese Krankheit ist hiernach zweifellos eine Infectionskrank¬
+heit, die nach dem Sectionsergebniss als Septicämie bezeichnet
+werden muss.
+Die bedeutende Virulenz, welche das Blut septicämischer
+Mäuse besitzt, liess vermuthen, dass, wenn diese Krankheit eine
+parasitische, durch Bakterien bedingte ist, die Parasiten im Blute
+und zwar in grosser Anzahl vorhanden sein müssten. Aber ver¬
+geblich habe ich mich anfangs bemüht, Bakterien im septicämi¬
+schen Blute zu entdecken, erst mit Hülfe des Abbe'schen Conden¬
+sors gelang es mir, dieselben trotz ihrer geringen Grösse mit aller
+Sicherheit nachzuweisen.
+Die Blutuntersuchung nahm ich in der bei einer anderen
+Gelegenheit von mir angegebenen WeiseVgl. Cohn's Beiträge zur Biologie der Pflanzen. 2. Bd. 3. Heft. S. 402. (Eintrocknen am Deck¬
+glase und Färben mit Methylviolett) vor, die sich auch hier voll¬
+ständig bewährte.
+Bei Thieren, welche nach Einspritzung von ein bis zehn
+Tropfen faulenden Blutes krank geworden waren, fanden sich im
+Blute gewöhnlich verschiedene Bakterien in geringer Zahl, Mikro¬
+kokken, grössere und sehr kleine Bacillen. Starben die Thiere
+aber nach Impfung mit faulendem oder septicämischem Blut, dann
+zeigten sich im Blute nur die kleinen Bacillen und zwar ohne
+dass jemals eine Ausnahme vorgekommen wäre und immer in
+grosser Menge. Diese Bacillen (Taf. I. Fig. 1), die zerstreut oder
+in kleinen Gruppen zwischen den rothen Blutkörperchen liegen,
+haben eine Länge von 0,8—1 Mikrm.1 Mikrm. = 0,001 Millimeter. Ihre Dicke, die sich nicht
+mehr messen, sondern nur schätzen lässt, beträgt ungefähr 0,1 bis
+0,2 Mikrm. Um einen Vergleich mit anderen bekannten Bakterien
+anstellen zu können, sind in Fig. 4 ebenso stark vergrösserte Milz¬
+brandbacillen aus dem Blut einer Maus abgebildet, das genau in
+derselben Weise wie das septicämische Blut am Deckglas einge¬
+trocknet und gefärbt ist (die Gliederung der Milzbrandbacillen ist
+in der Zeichnung etwas zu stark ausgefallen). Die Bacillen im
+septicämischen Blut sieht man oft zu zwei aneinanderhängen ent¬
+
+Künstliche Wundinfectionskrankheiten.
+ weder in gerader Linie oder einen stumpfen Winkel bildend.
+Längere Ketten bis zu vier Bacillen kommen auch wohl vor, sind
+aber selten. Sie haben beim ersten Anblick grosse Aehnlichkeit
+mit kleinen nadelförmigen Krystallen. Dass es aber unzweifelhaft
+pflanzliche Gebilde sind, geht daraus hervor, dass, wenn septi¬
+cämisches Blut in einen hohlen Objectträger und in den Brütappa¬
+rat gebracht wird, die Bacillen ebenso wie Milzbrandbacillen
+wachsen, aber nicht wie diese zu langen Fäden, sondern sie ver¬
+mehren sich zu dichten Haufen, die aus getrennten Bacillen be¬
+stehen. In einigen Fällen habe ich auch Sporen in den Bacillen
+auftreten sehen. Weiter konnte ich aus Mangel an Zeit die Le¬
+bensbedingungen und Vegetationsverhältnisse dieser Septicämie¬
+bacillen noch nicht verfolgen, beabsichtige aber bei späterer Ge¬
+legenheit mich noch mit dieser Aufgabe zu beschäftigen. Ohne
+Anwendung von Färbungsmitteln sind die Bacillen im frischen
+Blute, auch wenn man ihre Form schon kennt, ungemein schwer
+zu erkennen und ich habe darüber, ob sie eigene Bewegung be¬
+sitzen, keine Gewissheit erlangen können. Eigenthümlich ist ihr
+Verhalten zu den weissen Blutkörperchen. Sie dringen in die¬
+selben ein und vermehren sich in ihnen. Oft findet man fast kein
+einziges weisses Blutkörperchen mehr, in dessen Innern nicht
+Bacillen zu erblicken sind. Manche Blutkörperchen enthalten nur
+einzelne, andere dichte Massen von Bacillen, neben denen der
+Kern noch zu erkennen ist; in noch anderen ist der Kern nicht
+mehr zu unterscheiden und schliesslich ist aus dem Blutkörperchen
+ein dichter, an den Rändern zerfallender Bacillenklumpen gewor¬
+den, dessen Entstehung man sich nicht erklären könnte, wenn man
+nicht oft alle Uebergänge bis zum intacten weissen Blutkörperchen
+nahe bei einander zu sehen bekäme (Taf. I. Fig. 2).
+Von der Impfstelle ausgehend lässt sich der Weg, auf dem
+sich die Bacillen im Körper verbreiten, leicht ermitteln. Im sub¬
+cutanen Zellgewebe in der Umgebung der Impfstelle sind sie, wie
+man am besten nach Impfungen am Ohr sehen kann, reichlich
+vorhanden, bisweilen schwarmähnliche Anhäufungen bildend. Be¬
+sonders dicht liegen sie auf der Oberfläche des Ohrknorpels und
+sind hier von einer Schicht Lymphkörperchen bedeckt. Letztere
+finden sich nebst zahlreichen rothen Blutkörperchen auch im locke¬
+ren Bindegewebe.
+Das reichliche Austreten der rothen Blutkörperchen lässt auf
+eine Veränderung der Gefässwände schliessen, und es ist sehr
+
+1. Septicämie bei Mäusen.
+ wahrscheinlich, dass die Bacillen unmittelbar durch die Lücken
+der Gefässwand, die den weit grösseren rothen Blutkörperchen
+den Durchtritt gestatten, in die Gefässe hinein wuchern und so
+in den Blutstrom gelangen. In den Lymphbahnen habe ich sie
+niemals getroffen. Selbst in den stark vergrösserten Lymphdrüsen
+sind sie nur in den Blutcapillaren, welche die Drüse durchziehen,
+nicht aber in den Lymphräumen derselben zu finden. Im locke¬
+ren Zellgewebe dringen sie oft weit vor und können vom Ohr bis
+in das Mediastinum, vom Rücken bis in das Beckenzellgewebe
+gelangen. Frei in den Körperhöhlen habe ich sie nicht gefunden.
+Ihre Verbreitung in den Blutgefässen lässt sich am besten am
+Zwerchfell ermitteln, wenn die am Rand des Centrum tendineum
+verlaufenden Gefässe zur Untersuchung gewählt werden. Grössere
+Venen (Taf. III. Fig. 3 zeigt einen kleinen Abschnitt einer solchen)
+enthalten bedeutende Mengen ziemlich gleichmässig vertheilter Ba¬
+cillen und zahlreiche aus weissen Blutkörperchen hervorgegangene
+Bacillenhaufen. Die freischwimmenden Bacillen sind fast sämmt¬
+lich mit ihrer Längsaxe nach der Richtung des Blutstromes ge¬
+lagert und beweisen dadurch, dass sie noch durch das strömende
+Blut in diese Lage gebracht sind und nach dem Stillstande
+desselben sich nicht vermehrt oder fortbewegt haben. In den
+Capillaren häufen sich die Bacillen besonders an den Theilungs¬
+stellen an, doch habe ich niemals gesehen, dass es zur vollstän¬
+digen Verstopfung kleinerer Gefässe gekommen wäre. Auch die
+Innenwand der Arterien ist oft mit längsgerichteten Bacillen dicht
+besetzt.
+Ganz in derselben Weise sind die Bacillen nun auch im ge¬
+sammten übrigen Blutgefässsystem vertheilt. Ueberall stösst man
+bei der Untersuchung von Schnitten aus Lunge, Leber, Niere und
+Milz auf Gefässdurchschnitte mit freien Bacillen und bacillenhal¬
+tigen weissen Blutkörperchen im Innern. Stärkere Ansammlungen
+in den Glomeruli bilden die Bacillen nicht; auffallenderweise sind
+sie auch in der erheblieh vergrösserten Milz nicht zahlreicher als
+in den anderen Organen.
+Der ganze Krankheitsprocess hat grosse Aehnlichkeit mit
+Milzbrand. In beiden Krankheiten ist die Infectionsfähigkeit an
+das Vorhandensein der Bacillen im Blute gebunden; sobald diese
+fehlen, lässt sich die Krankheit nicht mehr durch Verimpfung des
+Blutes übertragen. Beide Krankheiten sind durch die ausnahms¬
+los eintretende Entwicklung von überaus zahlreichen Bacillen aus¬
+
+Künstliche Wundinfectionskrankheiten.
+gezeichnet. Es kann deswegen auch keinem Zweifel unterliegen,
+dass die Bacillen der hier beschriebenen Septicämie dieselbe Be¬
+deutung haben wie die Milzbrandbacillen, dass sie nämlich als
+das Contagium dieser Krankheit anzusehen sind.
+Da Milzbrand mit Erfolg auf verschiedene Thiergattungen
+übertragen ist, so versuchte ich auch mit dem Blut septicämischer
+Mäuse andere Thierarten zu inficiren. Aus Mangel an anderen
+Thieren konnte ich diese Experimente nur an Kaninchen und an
+Feldmäusen anstellen. Bei beiden fiel der Versuch negativ aus.
+Kaninchen wurden anfangs geimpft, später das gesammte von
+einer septicämischen Maus gesammelte Blut denselben subcutan
+injicirt und schliesslich Blut, Lungen, Herz, Leber, Nieren und
+Milz einer septicämischen Maus einem Kaninchen unter die Haut
+gebracht. Diese Thiere zeigten sämmtlich nicht die geringsten
+Krankheitserscheinungen weder local an der Applicationsstelle
+noch Allgemeinerscheinungen.
+Eigenthümlich erscheint es, dass auch Feldmäuse die den
+Hausmäusen in Grösse und Gestalt so ähnlich sind, dass sie auf
+den ersten Blick kaum von einander unterschieden werden kön¬
+nen, Immunität gegen diese Septicämie besitzen. Diese Thiere
+sind indessen auch gegen Milzbrand bedeutend weniger empfäng¬
+lich als die Hausmäuse. Ich beziehe dieses abweichende Ver¬
+halten auf Verschiedenheiten im Blute der beiden nahe verwandten
+Thiere, die sofort bei der Untersuchung des frischen Blutes auf¬
+fallen. Im Blute der Hausmaus bilden sich nämlich selten Blut¬
+krystalle und wenn es der Fall ist, dann schiessen nur an den
+Rändern des Bluttropfens kleine rechteckige Täfelchen und Nadeln
+an. Das Feldmausblut verändert sich dagegen regelmässig sehr
+bald nach der Entfernung aus dem Körper, indem alle rothen
+Blutkörperchen unmittelbar, oder nachdem sie mit benachbarten
+Körperchen zusammengeflossen sind, in grosse regelmässig gebil¬
+dete sechseckige Tafeln übergehen, so dass der Tropfen in kurzer
+Zeit in einen Krystallbrei verwandelt ist. Wenn es nun auch
+nicht geglückt ist, die Septicämie der Mäuse auf die genannten
+beiden Thierarten zu übertragen, so folgt daraus durchaus noch
+nicht, dass auch alle übrigen Arten gegen diese Krankheit immun
+sind. Auch gegen den Milzbrand sind manche Arten unempfäng¬
+lich. Es wäre gewiss eine lohnende Aufgabe, möglichst viele ver¬
+schiedene Thiere in Bezug auf ihr Verhalten gegen diese Septi¬
+cämie zu prüfen.
+
+2. Progressive Gewebsnekrose (Gangrän) bei Mäusen.
+    2. Progressive Gewebsnekrose (Gangrän) bei Mäusen.
+ Zugleich mit den eben beschriebenen Septicämiebacillen habe
+ich einige Male bei Mäusen nach Einspritzung mit faulendem Blut
+in der Umgebung der Injectionsstelle einen Mikrokokkus gefun¬
+den, der sich durch seine schnelle Vermehrung und durch regel¬
+mässige Kettenbildung bemerklich machte. Gewöhnlich sind von
+der grossen Menge Bakterien, die mit dem faulenden Blute ein¬
+gespritzt wurden, wenn das Thier ungefähr nach zwei Tagen an
+Septicämie stirbt, ausser den Septicämiebacillen nichts oder doch
+nur wenige kümmerlich vegetirende Reste zu finden. Es liess sich
+also annehmen, dass alle anderen zugleich eingespritzten Bakte¬
+rien im Körper der lebenden Maus keinen geeigneten Nährboden
+finden und schneller oder langsamer zu Grunde gehen. Deswegen
+fiel es sofort auf, wenn ausnahmsweise massenhaft wuchernde und
+gleichmässig charakteristisch geformte Mikrokokken gefunden wur¬
+den. Im Blute waren sie nicht zu bemerken und durch Impfung
+mit dem Blut wurden immer nur die Septicämiebacillen über¬
+tragen. Um ihre Impffähigkeit zu prüfen, musste also die Impf¬
+substanz aus der Nähe der Injectionsstelle genommen werden. In
+dieser Weise vorgenommene Impfungen waren denn auch erfolg¬
+reich und die Virulenz des die Mikrokokken enthaltenden aus
+dem subcutanen Bindegewebe entnommenen Serum war ebenso
+bedeutend wie die des septicämischen Blutes. Wenn eine gut
+gereinigte Messerspitze mit dem subcutanen Gewebe an einem von
+der Injections- oder Impfstelle ungefähr anderthalb Centimeter
+entfernten Punkt nur eben in Berührung gebracht und damit ein
+anderes Thier geimpft wurde, dann glückte die Impfung jedes¬
+mal. Natürlich wurde weil das Serum auch Septicämiebacillen
+enthielt, immer Septicämie zugleich verimpft. Der Einfluss dieser
+Mikrokokken auf thierische Gewebe und ihre Weiterverbreitung
+lässt sich am besten am Ohr einer Maus verfolgen und besonders
+lehrreich ist es, ein Ohr, auf das nur Septicämiebacillen und ein
+anderes auf das Bacillen und kettenförmige Mikrokokken geimpft
+wurden, zu vergleichen. Bei jenem Ohr ist das Zellgewebe von
+rothen Blutkörperchen und Lymphkörperchen dicht erfüllt, so dass
+die Bacillen oft schwer unter der Menge von Zellkernen zu er¬
+kennen sind. Das zweite Ohr hat dagegen ein vollständig an¬
+deres Ansehen. Von der Impfstelle ausgehend sieht man theils zu
+dichteren Massen zusammengedrängt, theils weitläufig angeordnet
+
+Künstliche Wundinfectionskrankheiten.
+äusserst zierliche und regelmässige Mikrokokkenketten (Tafel III
+Fig. 6), deren einzelne Elemente, wie sich aus Messungen längerer
+Ketten berechnen lässt, einen Durchmesser von 0,5 Mikrm. be¬
+sitzen. Dieselben lassen sich bis fast an die Basis des Ohrs ver¬
+folgen und in dem ganzen Gebiet, das sie einnehmen, sind sämmt¬
+liche Gewebe in erheblicher Weise verändert. So weit nämlich
+die Mikrokokken reichen, ist kein rothes Blutkörperchen, keine
+Kerne von Lymph- oder Bindegewebszellen mehr zu sehen. Selbst
+die am meisten resistenten Knorpelzellen und die im Mauseohr
+so reichlich vertretenen Plasmazellen, die sich ebenfalls durch
+grosse Widerstandsfähigkeit auszeichnen, sind blass und kaum zu
+erkennen. Sämmtliche Gewebsbestandtheile sehen so aus, als
+wären sie mit Kalilauge behandelt; sie sind abgestorben, nekro¬
+tisch geworden. Um so kräftiger entwickeln sich unter diesen
+Verhältnissen die Bakterien. Die Mikrokokken dringen vielfach
+in die verödeten Blut- und Lymphgefässe ein und füllen dieselben
+stellenweise so aus, dass sie wie injicirt aussehen. Dazwischen
+sieht man sehr deutlich, weil sie von keinen Kernen mehr ver¬
+deckt werden, die Septikämiebacillen in kleinen Schwärmen, die
+bisweilen so dicht werden, dass sie in ihrer Gestalt an die Pilz¬
+figuren der geimpften Cornea erinnern. Während nun die Bacillen
+bis zur Wurzel des Ohrs und darüber hinaus zu verfolgen sind,
+im Blute sich ungeheuer vermehrt haben und das Thier schliess¬
+lich tödten, sind die Mikrokokken in ihrer Verbreitung und dem
+damit verbundenen Zerstörungsprocess bis zum Tode des Thieres,
+also innerhalb ungefähr 50 Stunden, nur bis in die Nähe der Ohr¬
+wurzel gedrungen. Die Grenze ihres Vordringens ist ganz scharf
+bezeichnet, wie an einem Längsschnitt des Ohrs bei schwacher
+(25facher) Vergrösserung sehr gut zu übersehen ist (Taf. I Fig. 5).
+Der obere Theil (c), von der Spitze bis b ist nekrotisch. Die
+grösseren dunklen, länglich- bis kreisrunden Stellen (d) sind Ge¬
+fässquerschnitte mit Mikrokokkenmassen. Die diffus verbreiteten
+Mikrokokkenketten sind natürlich bei dieser Vergrösserung nicht
+zu sehen. Nur im unteren Viertel des nekrotischen Gebietes be¬
+finden sich dichtere Gruppen, die sich als dunkle Pünktchen be¬
+merklich machen. Dann tritt bei b mit einem Mal eine dicht
+gehäufte Kernmasse, gewissermaassen als ein Wall gegen die Mi¬
+krokokkeninvasion, auf und dies ist auch die Grenze bis zu der
+noch Mikrokokken zu finden sind, selbst in den Blutgefässen
+wuchern sie über diese Stelle nicht hinaus. Der Kernwall hat
+
+2. Progressive Gewebsnekrose (Gangrän) bei Mäusen.
+ keine bedeutende Breite und dicht dahinter folgt normales Ge¬
+webe. Bei starker Vergrösserung stellt sich indessen heraus, dass
+die Mikrokokken nicht ganz bis an die Kernschicht heranreichen.
+Die Kerne sind an der dem Mikrokokkengebiet zugekehrten Seite
+der Lymphzellenanhäufung im Zerfall begriffen. Zahllose immer
+kleiner werdende Fragmente von ganz unregelmässigen Formen
+bilden die obere Grenze des Kernwalles und sobald man im Prä¬
+parat in diese Region kommt, kann man mit Sicherheit auf die
+Nähe der Mikrokokken schliessen. Doch bleibt zwischen den
+letzten Kernresten und den Mikrokokken fast immer noch ein nur
+aus nekrotischem Gewebe bestehender ziemlich breiter Strich, in
+dem weder Mikrokokken noch Kerne zu finden sind; selten ist
+es, dass die Mikrokokkenketten noch in die zerfallende Kern¬
+schichte hineinreichen.
+Hiernach muss man sich das Verhalten der die Nekrose ver¬
+anlassenden kettenförmigen Mikrokokken so vorstellen, dass sie,
+durch die Impfung in lebende thierische Gewebe gebracht, sich
+vermehren und bei ihrem Vegetationsprocess lösliche Substanzen
+abscheiden, die durch Diffusion in die Umgebung gelangen. In
+grösserer Concentration, also in der Nähe der Mikrokokken hat
+dieses gelöste Product der Mikrokokken eine so deletäre Wirkung
+auf alle Zellen, dass sie zu Grunde gehen und schliesslich völlig
+verschwinden. Entfernter von den Mikrokokken wird die Lösung
+verdünnter, wirkt weniger intensiv und ruft in einem gewissen
+Abstand nur noch Entzündungsreiz und Anhäufung von Lymph¬
+zellen hervor. So kommt es denn, dass die Mikrokokken sich
+immer in nekrotischem Gewebe befinden und bei ihrer Ausbrei¬
+tung einen Kernwall vor sich herschieben, der auf der ihnen zu¬
+gewandten Seite fortwährend abschmilzt und auf der entgegenge¬
+setzten Seite durch sich immer von Neuem anlegende Lymphzellen
+ersetzt wird.
+Diese Beobachtungen beziehen sich indessen auf Impfungen
+mit Flüssigkeit, die Mikrokokken und Bacillen enthielt, und man
+könnte annehmen, dass die Septicämiebacillen zur Entwicklung
+der Mikrokokken die nothwendigen Vorgänger abgeben, diesen
+also gewissermaassen den Weg bahnen mussten. Es wurde des¬
+wegen in verschiedener Weise versucht, die beiden Parasiten von
+einander zu trennen, indem das eine Mal mehr, das andere Mal
+weniger Impfflüssigkeit, näher oder entfernter von der Impfstelle
+genommen, auch die Applicationsstellen möglichst variirt wurden.
+ Koch, Wundinfectionskrankheiten. 4
+
+
+Künstliche Wundinfectionskrankheiten.
+Aber das half Alles nichts; entweder wurde reine Septicämie
+oder Septicämie mit progressiver Nekrose zusammen, niemals
+aber letztere allein erhalten. Da brachte mich der Zufall auf den
+richtigen Weg. Es wurde eine Feldmaus, die, wie ich früher er¬
+wähnte, gegen Septicämie immun ist, mit Septicämiebacillen und
+kettenförmigen Mikrokokken geimpft. Der Versuch war in der
+Erwartung angestellt, dass beide Parasiten nicht zur Entwicklung
+kommen würden. Diese Erwartung ging aber nicht in Erfüllung,
+denn die Bacillen blieben allerdings wirkungslos, aber die Mikro¬
+kokken vermehrten und verbreiteten sich ganz in derselben Weise,
+wie es vom Ohr der Hausmaus geschildert ist. Von der Impf¬
+stelle an der Schwanzwurzel beginnend schritt die Nekrose am
+Rücken aufwärts, bis tief in die Rückenmusculatur eindringend
+und zu beiden Seiten abwärts nach der Bauchwand zu. Das Thier
+starb drei Tage nach der Impfung. Die nekrotischen Theile waren
+von Epidermis und Haaren theilweise entblösst und von ketten¬
+förmigen Mikrokokken in ausserordentlicher Menge durchsetzt.
+Auch an der Oberfläche der Bauchorgane, obwohl eine makro¬
+skopisch bemerkbare Peritonitis nicht eingetreten war, fanden sich
+dieselben Mikrokokken. Das Blut und das Innere der Organe
+war dagegen frei davon. Von diesem Thiere wurden andere Feld¬
+mäuse und später von diesen wieder Hausmäuse in mehreren
+Impfgenerationen inficirt und zwar immer mit dem Erfolg, dass
+nur die kettenförmigen Mikrokokken und in deren Gefolge die
+progressive Nekrose erhalten wurde.
+   3. Progressive Abscessbildung bei Kaninchen.
+  Coze und Feltz, Davaine und mehrere Andere haben bei
+Kaninchen durch Einspritzungen mit faulendem Blute eine infec¬
+tiöse septicämieähnliche Krankheit erzielt und das veranlasste mich,
+diesen Versuch zu wiederholen. Es ist mir nun allerdings nicht
+gelungen, Kaninchen in der von Davaine beschriebenen Weise zu
+inficiren, aber ich konnte dieselbe Beobachtung machen, wie viele
+Andere, die in ähnlicher Weise an Kaninchen experimentirt haben,
+dass nämlich bei diesen Thieren sehr oft nach subcutaner Injec¬
+tion von Faulflüssigkeiten sich im Unterhautzellgewebe eine immer
+weiter um sich greifende Abscessbildung entwickelt, ohne dass
+es zu einer Allgemeininfection kommt. Solche Thiere sind an¬
+fangs ohne Krankheitserscheinungen. Nur an der Injectionsstelle
+
+3. Progressive Abscessbildung bei Kaninchen.
+ ist eine flache, linsenförmige, harte Infiltration zu fühlen. Erst
+nach mehreren Tagen breitet sich diese Härte nach allen Rich¬
+tungen hin aus, nach oben zu am wenigsten, um so mehr aber nach
+dem Bauch und den Vorderextremitäten zu. Das Thier fängt zu¬
+gleich an abzumagern und schwach zu werden und stirbt unge¬
+fähr 12 bis 15 Tage nach der Einspritzung.
+Die Section ergibt ausgedehnte, mit einem käsigen Inhalt ver¬
+sehene, flache Abscesse im Unterhautzellgewebe, welche nach
+verschiedenen Richtungen hin Ausbuchtungen besitzen und unter¬
+einander zusammenhängen. Ausserdem Abmagerung im höchsten
+Grade, aber keine Veränderungen am Bauchfell, Darm, Nieren,
+Milz, Leber, Herz und Lungen. Im Blute sind die weissen Blut¬
+körperchen stark vermehrt, aber keine Bakterien aufzufinden. Der
+käsige Inhalt der Abscesse besteht aus einer feinkörnigen Masse,
+in der stellenweise zerfallende Kerne, aber Bakterien nicht mit
+Sicherheit nachzuweisen sind.
+Es liegt hier also derselbe Fall vor, der beim Menschen schon
+mehrfach gefunden und als Beweis gegen die parasitische Natur
+eines derartigen Krankheitsprocesses ausgebeutet ist, dass nämlich
+der Inhalt von Abscessen, die aus phlegmonösen Entzündungen
+hervorgingen und die man als durch Infection entstanden ansehen
+musste, frei von Mikroorganismen war.
+Als nun aber Querschnitte von gehärteten Stücken dieser
+Abscesse gemacht und diese untersucht wurden, stellte sich das
+überraschende Resultat heraus, dass sich im Innern des Abscesses
+allerdings keine Bakterien befanden, dass aber die Wand dessel¬
+ben nach allen Seiten hin von einer dünnen Schicht, zu dichten
+Zooglöahaufen verbundener Mikrokokken gebildet wird. Diese
+Mikrokokken sind unter den pathogenen Mikrokokken die klein¬
+sten, die ich bis jetzt beobachtet habe. An einzelnen günstigen
+Stellen, an denen es möglich war, mehrere aneinander gereihte
+Exemplare zu zählen und zu messen, fand ich als (natürlich nur
+annähernd richtigen) Werth 0,15 Mikrom. für den Durchmesser
+dieser Mikrokokken. Aus der Gestalt und Beschaffenheit der den
+Abscess einschliessenden Zooglöamassen geht indess hervor, dass
+dieselben in innigster Beziehung zum Abscessinhalt stehen, dass
+dieser letztere aus den Zooglöamassen und von diesen eingeschlos¬
+senen abgestorbenen Gewebstheilen hervorgeht. Dieser Vorgang
+vollzieht sich in folgender Weise. Die Mikrokokken wuchern
+nur in geschlossenen Massen, die an der Peripherie des mehr
+4 *
+
+
+Künſtliche Wundinfectionskrankheiten.
+ oder weniger linsenförmigen Abscesses eine andere Gestalt haben,
+als an der oberen und namentlich unteren Fläche desselben. Die
+Abscessränder erstrecken sich in die lockeren Maschen des sub¬
+cutanen Bindegewebes hinein; hier findet die Ausbreitung der
+Mikrokokken den geringsten Widerstand und hier sieht man sie
+in dichten wolkenähnlichen Massen den Abscess umsäumen (Taf. I.
+Fig. 8). Das zunächst folgende Bindegewebe ist mehr oder weniger
+reichlich von Kernen (e) durchsetzt, zwischen denen man einzelne
+kleinere Mikrokokkencolonien (b, c) als Vorläufer der geschlosse¬
+nen Zooglöamasse erblickt. Die kleinsten noch aufzufindenden
+Haufen (d) lassen durch ihre mit spitzen Ausläufern versehene
+Gestalt darauf schliessen, dass sie sich in den Saftkanälen des
+Bindegewebes befinden. Einen Zusammenhang der Mikrokokken
+mit den Bindegewebskörpern, wie etwas Aehnliches in der geimpf¬
+ten Hornhaut beobachtet ist, habe ich nicht auffinden können. An
+der unteren Fläche des Abscesses, wo den Mikrokokken die festen
+Lagen des sich zur Fascie verdichtenden Bindegewebes entgegen¬
+treten, können sie sich nicht in so üppiger Weise entwickeln, wie
+an den Abscessrändern. Hier findet man sie verhältnissmässig
+klein und abgeplattet (Taf. III. Fig. 7). Nur an einzelnen Stellen
+schicken sie Ausläufer (b) in die darunter befindlichen von Kernen
+durchsetzten Bindegewebsschichten. Eine ganz eigenthümliche Er¬
+scheinung macht sich nun aber bemerkbar, wenn man die Zooglöa¬
+massen selbst näher ins Auge fasst. Ihre Aussenränder, darunter
+verstehe ich die dem Bindegewebe zugekehrte Seite der Zooglöen
+(Fig. 8, a), sind von der Anilinfarbe dunkel und kräftig gefärbt
+und lassen die einzelnen Mikrokokken deutlich unterscheiden. Be¬
+sonders in kleinen, offenbar noch jungen Colonien (Fig. 8, b, c, d;
+Fig. 7, b) sind die Mikrokokken gleichmässig gefärbt. Wenn
+man aber in der Richtung nach dem Abscesse zu geht, bemerkt
+man, dass die Zooglöa blasser wird, ihre Mikrokokken sich nicht
+mehr genau unterscheiden lassen, sie werden scheinbar immer
+feinkörniger und gehen in eine fast homogene Masse über, die
+keinen Farbstoff mehr annimmt (Fig. 8, g)Die Mikrokokken sind in den beiden Figuren 7 und 8 theilweise,
+namentlich nach dem Innern der Zooglöa zu, zu gross gezeichnet.. Noch weiter nach
+dem Abscesse zu findet man blasse unverkennbar aus Zooglöen
+hervorgegangene Schollen (Fig. 7, d) untermischt mit Kerndetritus
+(Fig. 7, e; Fig. 8, f), und nur aus diesen beiden Substanzen, den
+
+3. Progressive Abscessbildung bei Kaninchen.
+ abgestorbenen Zooglöen und Kernresten, und zwar erstere in über¬
+wiegender Menge, besteht der käsige Inhalt der Abscesse. Ich
+nannte jene ungefärbt bleibenden Schollen abgestorbene Zooglöen
+und habe dazu folgende Gründe: Einmal liegt diese Erklärung
+so nahe, sie geht aus der unmittelbaren Betrachtung und aus dem
+Vergleich der im fortschreitenden Wachsthum befindlichen kleinen
+Mikrokokkencolonien mit den weiter zurückliegenden grossen Zoo¬
+glöen, die ihren Vegetationsprocess durchgemacht haben, so un¬
+abweislich hervor, dass es dazu keiner besonderen Beweise be¬
+dürfte. Man könnte das Wachsen der Mikrokokken nach der
+einen Seite hin und das Absterben der Zurückbleibenden sehr gut
+mit der Vegetation der Torfmoose vergleichen. Ausserdem kann
+man bei verschiedenen anderen Gelegenheiten sich davon über¬
+zeugen, dass es ein sicheres Kennzeichen für das Abgestorbensein
+der Bakterien ist, wenn sie die Anilinfarbstoffe nicht mehr auf¬
+nehmen. Diese Art der Bakterien-Vegetation, wie sie hier be¬
+schrieben ist, verdient die höchste Beachtung. Denn es liegt auf
+der Hand, wie leicht in ähnlichen Fällen der schmale Saum der
+in noch vollem Wachsthum befindlichen und nur in diesem Zu¬
+stande leicht nachzuweisenden Bakterien übersehen werden kann.
+Anscheinend kommen auch bei den menschlichen Infectionskrank¬
+heiten ähnliche Verhältnisse vor; denn Klebs Archiv für experiment. Pathologie und Pharmakologie. IX. Bd. S. 72.
+(Taf. II. Fig. 3.) fand bei Endo¬
+carditis, dass die an der Aortenklappe abgelagerten Mikrokokken
+gegen die Oberfläche hin dunkler gefärbt waren, in den tieferen
+Lagen dagegen immer blasser und blasser wurden und schliesslich
+ganz verschwanden, in eine homogene Masse übergehend.
+Um nun noch zu ermitteln, ob sich dieser als progressive
+Abscessbildung bezeichnete Krankheitsprocess auf andere Thiere
+übertragen lasse, wurden Einspritzungen mit Blut der an dieser
+Krankheit gestorbenen Kaninchen bei anderen Kaninchen vorge¬
+nommen, doch blieben diese Thiere gesund. Es wurde dann eine
+geringe Menge des käsigen Abscessinhaltes genommen, mit dest.
+Wasser verdünnt und unter die Haut eines Kaninchens gespritzt.
+Darnach entstand genau dieselbe Abscessbildung wie bei dem
+ersten Thiere. Die Abscesse breiteten sich in derselben Weise,
+wie früher beschrieben wurde, aus und führten nach anderthalb
+Wochen den Tod des Versuchsthieres herbei. Von diesem Thiere
+
+Künstliche Wundinfectionskrankheiten.
+wurde die Krankheit auf ein drittes und so noch durch mehrere
+Generationen übertragen.
+Es erwies sich mithin, dass die Krankheit nicht nur in Folge
+der Einspritzung grösserer Mengen faulenden Blutes entsteht, son¬
+dern einen entschieden infectiösen Charakter trägt. Wenn aber
+früher angenommen wurde, dass die in dem käsigen Abscessinhalt
+befindlichen Mikrokokken abgestorben sind, so würde das ja mit
+diesem Impfresultat nicht in Uebereinstimmung stehen. Dieser
+Widerspruch scheint mir indessen nicht unlösbar; denn es ist
+sehr wahrscheinlich, dass die Mikrokokken ebenso, wie andere
+Bakterien, nach Ablauf ihres Vegetationsprocesses Dauersporen
+bilden, die ebenfalls, wie z. B. die Bacillensporen, von Anilin¬
+farben nicht gefärbt werden und deswegen im Canadabalsamprä¬
+parat unsichtbar bleiben, und dass die Infection durch solche
+Dauersporen vermittelt wird.
+   4. Pyämie bei Kaninchen.
+ Nachdem es mehrfach missglückt war, bei Kaninchen durch
+faulendes Blut eine Allgemeininfection zu erzielen, wurden andere
+putride Flüssigkeiten zu diesem Zweck verwandt.
+Ein Stück Mausefell von der Grösse eines Quadratcentimeter
+war in 30 Grm. destillirten Wassers zwei Tage lang macerirt
+und von dieser Flüssigkeit wurde einem Kaninchen eine Spritze
+voll unter die Rückenhaut gespritzt. Das Thier blieb zwei Tage
+lang ohne bemerkbare Krankheitssymptome, dann aber frass es
+weniger, wurde immer schwächer und starb 105 Stunden nach
+der Einspritzung. Bei der sofort vorgenommenen Section fand
+sich eine von der Injectionsstelle ausgehende, flache, eitrige (nicht
+käsige) Infiltration im subcutanen Bindegewebe, die sich bis zur
+Hüfte und zur Linea alba erstreckte. Am Bauche drang die
+gelbgefärbte Infiltration stellenweise durch die Bauchmuskeln und
+bis zum Peritonäum. Letzteres war glanzlos, vielfach mit zarten
+weisslichen Gerinnseln besetzt. In der Bauchhöhle befand sich
+eine geringe Menge trüber Flüssigkeit. Die Därme waren durch
+weisse fibrinöse Massen verklebt. Leber, Magen und Milz waren
+mit dünnen weissen Fibrinschichten überzogen, die Milz ausser¬
+dem stark vergrössert. Die Leber sah nach Entfernung des Be¬
+lags grau marmorirt aus, hatte auf dem Durchschnitt keilförmige
+graugefärbte Stellen; auch waren die Ränder stellenweise grau
+
+4. Pyämie bei Kaninchen.
+ gefärbt. In der Lunge befanden sich einige erbsengrosse dunkel¬
+roth gefärbte luftleere Stellen. Im Uebrigen, namentlich am
+Herzen, waren keine Veränderungen wahrzunehmen.
+Vom Blute, das aus dem Herzen dieses Thieres genommen
+war, wurde eine Spritze voll einem zweiten Kaninchen unter die
+Rückenhaut gespritzt. Dasselbe starb nach 40 Stunden. Das
+Sectionsergebniss war im Wesentlichen dasselbe. Nur war die
+Infiltration in der Umgebung der Injectionsstelle mehr ödematös
+und von kleinen Blutextravasaten durchsetzt; auch die Peritonitis
+war weniger weit gediehen; am Dünn- und Dickdarm fanden
+sich einige kleine subseröse Blutextravasate; Lunge und Leber
+zeigten aber dieselben metastatischen Herde, wie beim ersten
+Kaninchen.
+Da es sich hier also unzweifelhaft um eine Allgemeininfection
+handelte und möglicherweise derselbe Krankheitsprocess vorlag,
+den Coze und Feltz sowohl, als Davaine nach Einspritzungen
+von putriden Flüssigkeiten bei Kaninchen erhalten hatten und
+sie zu ihren Beobachtungen über die sich steigernde Virulenz des
+septicämischen Durchgangsblutes geführt hatten, so beschloss ich
+eine ähnliche Versuchsreihe wie Davaine durchzuführen.
+Um das Ergebniss der bezüglichen Versuche übersichtlicher zu
+machen, werde ich sie in einer kleinen Tabelle zusammenstellen.
+     Die Verdünnung des Blutes wurde in derselben Weise be¬
+werkstelligt, wie es Davaine bei seinen Versuchen gemacht hat.
+Um 1/1000 Tropfen zur Injection zu erhalten, wurde nämlich ein
+Tropfen Blut mit hundert Tropfen destillirten Wassers, von dieser
+Mischung ein Tropfen nochmals mit hundert Tropfen destillirten
+Wassers vermischt und von der so erhaltenen Verdünnung (also
+1/10000 Verdünnung) zehn Tropfen injicirt. Die Tabelle umfasst
+nur wenige Versuche, aber das Verhältniss zwischen dem Quan¬
+tum des injicirten Blutes und der Dauer bis zum Eintritt des Todes
+ist ein so gleichmässiges, dass es nicht durch Zufälligkeiten be¬
+dingt sein kann. Eine steigende Virulenz des successive ver¬
+
+Künstliche Wundinfectionskrankheiten.
+ impften Blutes hat sich nicht herausgestellt. Je weniger Blut in¬
+jicirt wurde, um so länger dauerte es, ehe der Tod eintrat, und
+bei einer Verdünnung auf 1/1000 Tropfen blieb der Erfolg ganz
+aus. Es soll damit nicht gesagt sein, dass die Infectionsfähigkeit
+des Blutes bei der tausendfachen Verdünnung schon aufgehört
+hatte. Denn der Versuch wurde nur an einem Thier ausgeführt
+und möglicherweise hätte, wenn mehreren Thieren zu gleicher
+Zeit tausendfach verdünntes Blut injicirt wäre, doch das eine oder
+andere erkrankt oder gestorben sein können. Aber das geht aus
+der Tabelle hervor, dass ein geringeres Quantum eine verlang¬
+samte Wirkung hat und dass schliesslich der Erfolg ein unsicherer
+resp. negativer wird. Es kann dieses Verhältniss nur durch die
+Annahme erklärt werden, dass das Blut immer eine gleiche Menge
+von ungelösten inficirenden Formelementen enthält und dass diese
+Formelemente sich bis zu einer gewissen Zahl vermehrt haben
+müssen, bis sie im Stande sind, das Thier zu tödten.
+Denn ein gelöster Infectionsstoff der sich von 10 Tropfen bis
+zu 1/10 Tropfen verdünnt wirksam zeigt, müsste auch noch in Ver¬
+dünnung von 1/1000 Tropfen unter allen Umständen inficirend sein,
+nur hätte der Tod entsprechend später eintreten müssen.
+Wenn aber nur ein ungelöster Infectionsstoff annehmbar bleibt
+und das z. B. Bakterien sind, von denen eine gleichbleibende
+Menge zur Tödtung eines Kaninchens erforderlich ist, dann ist
+die Erklärung für die verzögerte Wirkung bei zunehmender Ver¬
+dünnung des injicirten Blutes sofort gegeben. Denn je mehr das
+Blut verdünnt wird, um so weniger Bakterien muss es verhält¬
+nissmässig enthalten und wenn dem Versuchsthier bei der Injection
+weniger Bakterien beigebracht werden, dann brauchen diese selbst¬
+verständlich mehr Zeit, bis sie sich bis zur erforderlichen Zahl,
+um ein Kaninchen zu tödten, vermehrt haben, als wenn von vorn¬
+herein eine grössere Zahl injicirt wurde. Wird die Verdünnung
+nun noch weiter fortgesetzt, dann wird zuletzt ein Moment ein¬
+treten, wo in einem gegebenen Quantum Flüssigkeit, etwa in
+10 Tropfen, wie sie zur Einspritzung genommen wurden, nicht
+immer mit Sicherheit eine oder doch so viel Bakterien, wie zur
+Infection erforderlich suspendirt sind. Dann wird die Infection
+unsicher werden.
+Sehen wir nun, wie die Thatsachen, welche die mikroskopische
+Untersuchung liefert, mit diesen Erklärungsversuchen stimmen.
+Zuvor habe ich noch zu erwähnen, dass auch bei den drei
+
+4. Pyämie bei Kaninchen.
+letzten Kaninchen mit unbedeutenden Abweichungen dieselben
+Leichenerscheinungen, wie bei den beiden ersten, also locale puru¬
+lent-ödematöse Infiltration des subcutanen Bindegewebes, meta¬
+statische Herde in Lunge und Leber, Milzanschwellung, Peritonitis
+gefunden wurden. Dieser Befund ist mit dem, was gewöhnlich
+als Pyämie bezeichnet wird, so übereinstimmend, dass ich nicht
+anstehe, diesen Namen auch für die vorliegende Krankheit an¬
+zuwenden.
+Das Mikroskop zeigt nun überall im Körper und besonders
+an den schon makroskopisch als pathologisch verändert zu er¬
+kennenden Stellen Mikrokokken in bedeutender Menge. Meistens
+sind diese Mikrokokken einzeln oder zu zweien verbunden. Die
+Messung derselben ist deswegen schwierig. Als Mittelzahl von
+zehn Messungen, die an Doppelmikrokokken ausgeführt sind und
+wenig von einander differiren, ergibt sich der Durchmesser für
+einen Mikrokokkus 0,25 Mikrm. Sie stehen also in Betreff ihrer
+Grösse in der Mitte zwischen dem kettenförmigen Mikrokokkus
+der progressiven Gewebsnekrose und dem zooglöabildenden Mi¬
+krokokkus der käsigen Abscesse beim Kaninchen. Ihr Verhalten
+in den Blutgefässen lässt sich am besten in den Niereneapillaren
+überblicken und ich habe deswegen zur Abbildung (Taf. V. Fig. 9)
+ein kleines Gefäss aus der Nierenrinde gewählt. Die Grössen¬
+verhältnisse der Mikrokokken sind in der Zeichnung unmöglich
+immer richtig wiederzugeben; sie müssten hier im Verhältniss zu
+den Mikrokokken der Figg. 7 und 8 etwas grösser gezeichnet
+sein. In der Mitte des Gefässes bei c. befindet sich eine wand¬
+ständige compakte Mikrokokkenablagerung, die eine Anzahl rother
+Blutkörperchen einschliesst und vermuthlich sehr bald das Lumen
+des Gefässes ausgefüllt hätte; denn an den Seiten lagern sich
+immer neue Blutkörperchen an und werden von zarten Ausläufern
+des Mikrokokkenhaufens umsponnen. Hieraus lässt sich auf die
+Fähigkeit dieser Mikrokokken schliessen, entweder an und für
+sich durch die Beschaffenheit ihrer Oberfläche die rothen Blut¬
+körperchen, an die sie sich anhängen, zum Zusammenkleben zu
+bringen oder auf geringe Distanzen hin eine Gerinnung des Blutes
+und auf diese Weise Thrombenbildung zu veranlassen.
+Die Art und Weise, wie die Mikrokokken die Blutkörperchen
+gewissermaassen umspinnen und einschliessen, scheint mir für
+diese besondere Mikrokokkenform ganz charakteristisch zu sein.
+Zu solchen theilweisen oder vollkommenen Thrombenbildungen
+
+Künstliche Wundinfectionskrankheiten.
+kommt es in den Nierengefässen an vielen Stellen, besonders in
+den Glomeruli, in denen einzelne Capillarschlingen vollständig
+mit Mikrokokken ausgestopft sein können. Aber auch in diesen
+ganz dichten zooglöaartigen Mikrokokkenmassen erkennt man
+noch die von den eingeschlossenen rothen Blutkörperchen her¬
+rührenden hellen Kreise. Grösstentheils trifft man indessen auf
+kleinere Gruppen von Mikrokokken, von denen in Fig. 9 bei b
+ein Beispiel gegeben ist. In dieser Weise nur wenige Blutkörper¬
+chen umspinnend und verklebend finden sie sich im Capillar¬
+gefässsystem sämmtlicher untersuchten Organe. So namentlich
+in der Milz und Lunge. In grösseren Gefässen bilden sich auch
+bedeutendere Gruppen und ich möchte annehmen, dass die grös¬
+seren metastatischen Herde in Leber und Lunge nicht durch all¬
+mähliches Heranwachsen eines Mikrokokkenhaufens in der Form,
+wie es in Fig. 9 der Fall ist, sondern durch Steckenbleiben sol¬
+cher stärkeren im strömenden Blute sich bildenden Mikrokokken¬
+gruppen und der damit verbundenen Gerinnsel, also durch wirk¬
+liche Embolie zu Stande kommen. In den metastatischen Herden
+finden sich ausgedehnte Mikrokokkenwucherungen, die nicht allein
+auf die Gefässe beschränkt bleiben, sondern auch in das benach¬
+barte Gewebe übergreifen.
+Die Bauchorgane sind mit einzelnen Doppelmikrokokken an
+ihrer Oberfläche ziemlich gleichmässig besetzt. Dichtere Mikro¬
+kokkenmassen bilden sich in der Bauchhöhle nicht; auch kleine
+in der Flüssigkeit der Bauchhöhle suspendirte Eiterflocken und
+der mit vielen Eiterzellen durchsetzte fibrinöse Belag der Bauch¬
+organe enthält nur gleichmässig vertheilte, höchstens zu kleineren
+Gruppen gehäufte Mikrokokken.
+In der Umgebung der Injectionsstelle liegen im Unterhaut¬
+zellgewebe flach ausgebreitete Ansammlungen von Eiterzellen die
+von mehr oder weniger dichten, aber niemals zooglöaähnlichen
+Mikrokokkenwucherungen umgeben sind. Letztere umziehen auch
+die stark ausgedehnten und mit Blutkörperchen strotzend gefüllten
+subcutanen Venen und lassen sich an vielen Stellen in den Ge¬
+fässwandungen nachweisen und diese durchdringend bis in das
+Innere der Gefässe verfolgen. In den Lymphgefässen und den
+benachbarten stark geschwollenen Lymphdrüsen waren keine Mi¬
+krokokken aufzufinden.
+Vergleicht man nun das Resultat der mikroskopischen Unter¬
+suchung mit dem Ergebniss der Infectionsversuche, so ergibt
+
+5. Septicämie bei Kaninchen.
+sich die vollkommenste Uebereinstimmung, wie sich leicht dar¬
+legen lässt.
+Zu den Infectionsversuchen wurde das Blut aus dem Herzen
+genommen und es sind deswegen nur die Verhältnisse des in
+grösseren Gefässen befindlichen Blutes zu berücksichtigen. Dieses
+enthält, wie gezeigt wurde, reichlich Mikrokokken. Also der eine
+Theil der Annahme, dass die inficirenden Formelemente Bakterien
+seien, wäre damit erwiesen. Würden dieselben aber ihren Wachs¬
+thumsprocess ebenso wie die Septicämie- und Milzbrandbacillen
+im Blute vollziehen, dann müssten sie zu ungefähr ebenso grosser
+Menge wie diese im Blutstrom heranwachsen und die Virulenz
+des Blutes müsste eine weit bedeutendere sein, als wie sie gefun¬
+den wurde. Wie wir gesehen haben, verhalten sich die Pyämie¬
+mikrokokken in diesem Punkte aber anders als jene. Sobald sie
+nämlich mit den rothen Blutkörperchen in Berührung kommen,
+dieselben zum Zusammenkleben bringen und mehr oder weniger
+grosse Gerinnsel im Blute bilden, können sie nicht mehr wie die
+frei zwischen den rothen Blutkörperchen sich bewegenden Bacillen
+durch die engsten Capillarnetze hindurch passiren, sondern bleiben
+bald in grösseren, bald in kleineren Gefässen stecken. Es werden
+gewiss von der Infectionsstelle aus immer neue Mikrokokken ein¬
+dringen, auch von den kleinen Thromben und Embolien sich ein¬
+zelne Mikrokokken ablösen und dem Blutstrome beimengen. Gleich¬
+wohl kann ihre Gesammtmenge im strömenden Blute nicht über
+eine gewisse Grenze hinausgehen, da sie immer wieder nach kurzer
+Zeit irgendwo deponirt werden. So erklärt es sich sehr einfach,
+dass die Menge der überhaupt im Körper des Versuchsthieres be¬
+findlichen Mikrokokken immer mehr zunimmt und schliesslich,
+auch abgesehen von den durch die Mikrokokken bedingten Cir¬
+culationsstörungen, eine für das Thier tödtliche Höhe erreicht, dass
+aber zugleich die Zahl der Mikrokokken in dem zur Weiterin¬
+fection verwandten Herzblut eine ziemlich gleichmässige und so
+niedrige ist, um bei tausendfacher Verdünnung in der Wirkung
+unsicher zu werden.
+   5. Septicämie bei Kaninchen.
+ Eine Allgemeininfection anderer Art, die ohne Metastasen
+bleibt und die ich deswegen als Septicämie im Gegensatz zu der
+vorigen bezeichne, habe ich zweimal bei Kaninchen nach Ein¬
+spritzung mit faulendem Fleischinfus erhalten. Dieses Infus ent¬
+
+Künstliche Wundinfectionskrankheiten.
+hielt ebenso wie die zu den früheren Versuchen gebrauchten
+putriden Flüssigkeiten eine Menge der verschiedensten Bakterien¬
+formen. Unter die Rückenhaut eines Kaninchens gespritzt be¬
+wirkte es eine jauchige Vereiterung des Unterhautzellgewebes in
+weiter Ausdehnung und den Tod des Thieres nach dritthalb Tagen.
+In dem Jaucheherd, der wegen seiner Grösse wohl als unmittel¬
+bare Todesursache (Resorption gelöster giftig wirkender Stoffe)
+anzusehen war, fanden sich noch dieselben regellos durcheinander
+geworfenen Bakterienformen wie in dem Fleischinfus, aber an der
+Grenze desselben war das Zellgewebe von einer leicht getrübten
+wässrigen Flüssigkeit durchtränkt, die sich von der bräunlichen
+stinkenden Jauche in der Nähe der Injectionsstelle auffallend unter¬
+schied, und in dieser Oedemflüssigkeit befanden sich fast nur grosse
+Mengen von ziemlich grossen Mikrokokken, die eine ovale Ge¬
+stalt besassen. Auch im Blut liessen sich dieselben Mikrokokken,
+wenn auch nur in geringer Zahl nachweisen. Ferner waren in
+den Nierenpapillen und in der stark vergrößerten Milz einzelne
+kleine Venen auf kurze Strecken mit diesen ovalen Mikrokokken
+vollgestopft.
+Es wurden zwei Tropfen der Oedemflüssigkeit einem zweiten
+Kaninchen unter die Rückenhaut gespritzt. Dasselbe starb nach
+22 Stunden. Bei diesem Thiere war in der Umgebung der In¬
+jectionsstelle keine Spur von Jauchebildung zu bemerken. Da¬
+gegen zog sich ein geringes Oedem und streifige weissliche Fär¬
+bung des subcutanen Bindegewebes von der Injectionsstelle bis
+zum Bauche hin. In diesem ödematösen Bindegewebe lagen zahl¬
+reiche bis 1/2 Ctm. breite flache Blutergüsse, die von stark ge¬
+füllten Gefässen umgeben waren. Auch die Musculatur der Ober¬
+schenkel und die Bauchmuskeln waren von kleineren Blutergüssen
+durchsetzt. An Herz und Lungen wurden keine Veränderungen
+gefunden. In der Bauchhöhle befand sich keine Flüssigkeit, das
+Bauchfell war unverändert, die Darmschlingen nicht verklebt.
+Aber die Oberfläche derselben sah in Folge einer Menge kleiner
+subseröser Blutergüsse stellenweise wie mit Blut bespritzt aus.
+Zu erwähnen ist noch die erhebliche Vergrösserung der Milz.
+In diesem zweiten Falle waren in dem ödematösen Binde¬
+gewebe nur noch die ovalen Mikrokokken anzutreffen, alle übrigen
+Bakterien waren verschwunden. Die Zahl der Mikrokokken war
+eine ganz bedeutende. Viele kleine Hautvenen waren dicht damit
+gefüllt. In den Blutergüssen lagen, was sich besonders gut in
+
+5. Septicämie bei Kaninchen.
+ der Oberschenkelmusculatur nachweisen liess, kleine von Mikro¬
+kokken dicht angefüllte und dadurch spindelförmig aufgetriebene
+Venen, die an einzelnen Stellen gesprengt waren und die Mikro¬
+kokken in grosser Menge in das umgebende Bindegewebe aus¬
+treten liessen.
+Die Lungencapillaren enthielten nicht sehr zahlreiche Mikro¬
+kokken, die vereinzelt oder zu zweien verbunden, auch kleine
+wenig zusammenhängende Gruppen bildend im Blute vertheilt
+waren. Bedeutend reichlicher waren die Nieren mit Mikrokokken
+versehen. Die grosse Mehrzahl der Glomeruli erschien vergrössert,
+wie aufgequollen, ihre Capillarschlingen waren erweitert und mit
+rothen Blutkörperchen stark gefüllt. Die übrigen Glomeruli waren
+verkleinert, die Kerne ihrer Capillarwände dicht zusammengerückt,
+so dass sie aussahen, als wären sie comprimirt. In den ver¬
+grösserten Glomeruli fanden sich ausnahmslos mehr oder weniger
+ausgebreitete Einlagerungen der ovalen Mikrokokken, die reihen¬
+förmig hinter- und nebeneinander liegend einschichtig die Innen¬
+wand der Capillaren auskleideten und zwar nur auf kurze Strecken
+und nicht ringsherum. Die Mikrokokkencolonien gewannen da¬
+durch das Aussehen von kurzen halbaufgerollten Schalen oder
+Rinnen. An anderen Stellen füllten sie indessen einige Gefäss¬
+schlingen auch vollständig aus und ausserdem fanden sich alle
+Uebergänge von diesen dichten obturirenden Massen bis zu lockeren
+kleinen Colonien und einzelnen Mikrokokken (Taf. V, Fig. 10).
+In den comprimirten Glomeruli waren nur ausnahmsweise kleine
+Colonien zu sehen. Einzelne obturirende Mikrokokkenmassen
+kamen auch im Capillargefässnetz der Marksubstanz vor. Im
+Uebrigen zeigten sie sich vereinzelt fast in allen Gefässen. An¬
+häufungen von Lymphzellen in der Umgebung der Mikrokokken
+und Veränderungen an den Epithelzellen der Harnkanälchen waren
+nicht zu bemerken. Auch lagen die Mikrokokken niemals im
+Innern der Harnkanälchen. Die Milz enthielt zerstreute lockere
+Mikrokokkencolonien in den Capillaren in mässiger Zahl, daneben
+vereinzelte dichtere Anhäufungen, welche kleine Gefässe am Rande
+und im Innern der Malpighischen Körperchen auf kurze Strecken
+ausfüllten.
+Im Darm kamen zahlreiche obturirende Mikrokokkenmassen
+in den Capillaren, welche die Darmdrüsen umgeben, vor (Taf. 1.
+Fig. 11). An manchen Punkten waren dieselben so ausgedehnt, dass
+verästelte ganz aus Mikrokokken bestehende Figuren entstanden.
+
+Künstliche Wundinfectionskrankheiten.
+ Die Leber enthielt ähnlich wie die Lunge keine stärkeren
+Ansammlungen von Mikrokokken.
+Der grösste Durchmesser eines einzelnen Mikrokokkus beträgt
+0,8—1,0 Mikrm.
+Diese Mikrokokken differiren von den Pyämiemikrokokken
+in Betreff der Grösse also wesentlich. Ebenso aber auch in den
+meisten übrigen Verhältnissen. Sie schliessen, auch wenn sie sich
+im Innern der Blutgefässe stärker anhäufen, niemals die Blutkör¬
+perchen ein, sondern drängen sie zur Seite. Sie bewirken keine
+Gerinnungen im Blute und deswegen auch keine embolischen Pro¬
+cesse. Nur in einem Punkte sind sie den Pyämiemikrokokken
+ähnlich, dass sie nämlich ebenfalls bei fortgesetzter Uebertragung
+keine steigende Virulenz zeigen, wie aus folgenden Versuchen her¬
+vorgeht.
+Es wurde vom zweiten Kaninchen eine volle Spritze (10 Tropfen)
+Blut aus dem Herzen einem dritten Kaninchen subcutan injicirt.
+Dasselbe starb nach 36 Stunden. Makroskopischer und mikro¬
+skopischer Befund war ebenso wie beim zweiten Kaninchen.
+Vom dritten Kaninchen wurden 2 Tropfen Blut einer Maus,
+und 1 Tropfen einem Kaninchen injicirt.
+Die Maus starb nach 37 Stunden. Das Kaninchen blieb
+gesund.
+Von der Maus, in deren Blut und sämmtlichen Organen die
+ovalen Mikrokokken in ähnlicher Weise, wie bei den Kaninchen
+sich fanden, wurde und zwar mit Blut aus dem Herzen eine
+zweite Maus in der Weise geimpft, dass ein Skalpell mit der
+Spitze in das Blut getaucht und ungefähr 1/10 Tropfen an der
+Schwanzwurzel in eine kleine taschenförmige Wunde gebracht
+wurde.
+Diese zweite Maus blieb ebenfalls gesund.
+Noch ein zweites Mal habe ich durch Einspritzung mit fau¬
+lendem Fleischinfus denselben durch ovale Mikrokokken bedingten
+septicämischen Process bei einem Kaninchen bekommen.
+Die weitere Uebertragung gelang aber auch diesmal nur ver¬
+mittelst Injection von mindestens 5—10 Tropfen Blut.
+   6. Erysipelatöser Process beim Kaninchen.
+ Ausser den Einspritzungen grösserer Mengen von putriden
+Flüssigkeiten wurden an Kaninchen auch mehrfach Impfungen mit
+
+6. Erysipelatöser Process beim Kaninchen.
+ verschiedenen faulenden Stoffen versucht. Dieselben blieben in¬
+dessen wirkungslos. Nur in einem Falle entstand nach Impfung
+mit Mäusekoth, der in destillirtem Wasser aufgeweicht war, am
+Ohr eines Kaninchens eine sich von der Impfstelle langsam nach
+abwärts ausbreitende Röthung und Schwellung. Dieselbe erreichte
+am 5. Tage die Ohrwurzel. Während das nicht geimpfte Ohr
+ganz unverändert war und gegen das Sonnenlicht gehalten nur
+die Hauptgefässe durchschimmern liess, sah das geimpfte Ohr bei
+derselben Beleuchtung gleichmässig dunkelroth aus und einzelne
+Gefässe waren nicht mehr zu erkennen. Es war dicker und zu¬
+gleich schlaffer geworden, die Spitze war umgebogen und hing
+in Folge ihrer Schwere herab. Das Thier war dabei sichtlich
+krank und starb am 7. Tag.
+Eine Einspritzung mit Blut desselben bei einem anderen
+Thier hatte keine Erkrankung desselben zur Folge.
+Leider ist es unterblieben, eine directe Uebertragung des
+Krankheitsprocesses durch Impfung mit Substanz vom Ohr des
+erkrankten Kaninchens auf das Ohr eines anderen Thieres zu ver¬
+suchen.
+Im Blut und sonst in inneren Organen des Kaninchens fanden
+sich keine bemerkenswerthen Veränderungen, namentlich auch
+keine Bakterien. Die Verhältnisse am erkrankten Ohr waren da¬
+gegen so bemerkenswerth und trugen so unverkennbar den Cha¬
+rakter einer parasitischen Krankheit, dass ich es für zweckmässig
+hielt, obwohl die Ansteckungsfälligkeit in diesem Falle nicht di¬
+rect erwiesen ist, eine Darstellung derselben hier zu geben.
+An Querschnitten des Ohrs zeigten sich die Blutgefässe stark
+erweitert und mit rothen Blutkörperchen gefüllt und mit zahl¬
+reichen Kernen von Lymphzellen umgeben. Diese Kerne wurden
+nach dem Ohrknorpel zu zahlreicher und bildeten an dessen Ober¬
+fläche eine ziemlich gleichmässige dichte Schicht. Zwischen letz¬
+terer und den eigentlichen Knorpelzellen aber Hessen sich in ziem¬
+lich regelmässigen Abständen feine Stäbchen unterscheiden, welche
+in dem dichteren Bindegewebe, das den Knorpelzellen unmittel¬
+bar aufliegt, sämmtlich in der Ebene des Knorpels verliefen. An
+manchen Stellen waren die Stäbchen einzeln, an anderen lagen
+mehrere parallel neben einander, bisweilen, und zwar waren das
+immer Stellen, an denen die Lymphzellen etwas dichter angehäuft
+waren als sonst, fanden sich dicht zusammengefilzte, aus denselben
+Stäbchen bestehende Knäuel. Die Stäbchen waren an keiner an¬
+
+Künstliche Wundinfectionskrankheiten.
+deren Stelle zu finden, als dicht am Knorpel. Es wurden des¬
+wegen Flächenschnitte angefertigt, die denn auch die Verbreitung
+der Stäbchen an der Knorpeloberfläche sehr gut zur Anschauung
+brachten. Figur 12 auf Tafel I ist nach einem solchen Flächen¬
+schnitt gezeichnet. Die grossen rundlichen Körper (c) sind die
+Kerne von grossen platten Zellen, unter welchen die Knorpel¬
+zellen folgen. Auf der von den platten Zellen gebildeten Schicht
+breitet sich ein dichtes Netz aus, das aus Bacillen besteht und
+über den Bacillen, sie theilweise verdeckend, liegen die Kerne
+(b) der Lymphzellen, von denen der Schnitt jedoch nur einen
+kleinen Rest zurückgelassen hat. An vielen Stellen haben die
+Bacillen mehr oder weniger runde, dicht zusammengesetzte Klum¬
+pen gebildet (wie sie Fig. 12 a zeigt), die einem Haarwulst ähnlich
+sind. Von diesen aus ziehen nach allen Richtungen in parallelen
+Zügen sich immer mehr vereinzelnd lange Reihen von Bacillen. Es
+erinnert dieser Anblick sofort an die eigentümlichen, oft stern¬
+artigen Figuren der auf die lebende Kaninchenhornhaut verimpften
+MilzbrandbacillenFrisch l. c. Taf. I Fig. 3. Taf. II Fig. 9. 10.
+. Dieses Bacillennetz erstreckte sich über den
+ganzen Ohrknorpel und zwar auf beiden Seiten desselben. Da
+der Krankheitsprocess in seinem Entstehen an der Impfstelle und
+Fortschreiten auf die übrigen Theile des Ohres sich verfolgen
+liess und in der ganzen Ausdehnung derselben die Bacillen ge¬
+funden wurden und weil ferner die Zeichen entzündlicher Reaction
+in unmittelbarer Nähe der Bacillen am bedeutendsten waren, so
+halte ich es für unzweifelhaft, dass die Bacillen auch als die
+Krankheitsursache anzusehen sind. Eine Sporenbildung habe ich
+an ihnen nicht gesehen. Ihre Länge ist sehr verschieden. Ein
+Stäbchen, an dem ich mit Sicherheit nur zwei Glieder unter¬
+scheiden konnte, war 3,0 Mikrm. lang. Die längsten, welche dem¬
+nach aus 6 — 7 Gliedern bestanden, erreichten die Höhe von 9,0
+bis 10,0 Mikrm. Die Dicke beträgt 0,3 Mikrm. (Die Milzbrand¬
+bacillen haben eine Länge bis 20,0 Mikrm. und Dicke von 1,0
+bis 1,25 Mikrm., sind also ungefähr noch einmal so lang und drei-
+bis viermal so dick wie die Bacillen des Kaninchenohrs.)
+  
+
+  Milzbrand.
+  Die vielfachen Untersuchungen über Milzbrand haben sich
+fast alle mit dem Verhalten der Milzbrandbacillen ausserhalb des
+thierischen Körpers beschäftigt. Ueber ihre Menge im Blute machte
+man sich gewöhnlich nur nach der Blutprobe, die man aus einem
+beliebigen Körpertheil genommen hatte, eine Vorstellung. Von
+der im Körper wirklich vorhandenen Menge der Bacillen, von
+ihrer Vertheilung im Blutgefässsystem sind aber bis jetzt keine
+Angaben zur Veröffentlichung gekommen.
+Um diese Lücke auszufüllen und weil die Milzbrandbacillen
+sich den Septicämiebacillen so ähnlich verhalten und zum Ver¬
+gleich mit diesen sowohl als auch mit den anderen hier geschil¬
+derten pathogenen Bakterien dienen können, habe ich es unter¬
+nommen, an Impfmilzbrand gestorbene Kaninchen und Mäuse in
+derselben Weise, wie die durch künstliche Wundinfectionskrank¬
+heiten getödteten Thiere zu untersuchen.
+Hierbei erwies sich die isolirte Färbung der Milzbrandbacillen,
+wie sie durch Behandlung der in Methylviolett gefärbten Schnitte
+mit kohlensaurem Kali erzielt wird, von grösstem Vortheil. Magen-
+und Darmschleimhaut lassen sich beispielsweise vermittelst dieses
+Verfahrens für die Untersuchung so präpariren, dass selbst bei
+schwacher Vergrösserung die Bacillen im ganzen Gefässgebiet
+derselben zu übersehen sind. Ebenso geben Schnitte aus den
+Lungen, Leber und Nieren ausserordentlich übersichtliche und
+instructive Präparate.
+Obwohl ich nun vielfach das Blut von milzbrandigen Thieren
+früher untersucht hatte und keine geringe Meinung von der Zahl
+der Bacillen im Körper eines milzbrandigen Thieres hatte, so
+war ich doch ganz überrascht, als ich zum ersten Mal isolirt ge¬
+färbte Schnitte und Theile von milzbrandigen Organen, z. B. die
+ Koch, Wundinfectionskrankheiten.
+
+
+Milzbrand.
+ Darmschleimhaut und die Iris von einem Kaninchen vor Augen
+hatte. Bei einer 50 fachen Vergrösserung sieht ein solches Prä¬
+parat beim ersten Anblick genau so aus, als wäre in die Gefässe
+eine blaue Injectionsmasse gespritzt. Jede einzelne Darmzotte
+ist von einem äusserst zierlichen blauen Netz durchzogen; in der
+Magenschleimhaut ist das gesammte, die Labdrüsen umspinnende
+Capillargefässnetz blaugefärbt; am Ciliarkörper ist jeder einzelne
+Vorsprung injicirt und ein spiralförmig gewundenes, dunkelblau¬
+gefärbtes Gefäss führt von da zur Iris und löst sich in ein mit
+bogenförmigen, gegen den Irisrand gerichteten Ausbuchtungen ver¬
+sehenes feines blaues Netz auf. Leber und Lunge, drüsige Appa¬
+rate, wie Pankreas, Speicheldrüse sind von denselben vollständig
+injicirten blauen Gefässnetzen durchzogen. Ueberhaupt ist kein
+Organ, das nicht mehr oder weniger von der blaugefärbten Masse
+injicirt ist. Im höchsten Grade auffallend ist aber dabei, dass
+diese Injection nur das Capillargefässsystem betrifft. Alle grösseren
+Gefässe, selbst schon die Arterie und Vene einer Darmzotte sieht
+man entweder gar nicht gefärbt oder nur mit einem leichten
+blauen Anflug, und auch das nur stellenweise, versehen. Bei einer
+250 fachen Vergrösserung erkennt man schon, dass die Linien des
+blauen Capillarnetzes aus vielen feinen Stäbchen zusammengesetzt
+sind (Taf. III, Fig. 13) und bei 700 facher Vergrösserung (Taf. V,
+Fig. 14) stellt sich heraus, dass die scheinbare Injection nichts
+weiter ist, als die bekannten, in diesem Falle dunkelblau gefärbten
+Milzbrandbacillen, die in ganz unglaublichen Mengen im gesammten
+Capillargebiet abgelagert sind. In allen übrigen Gefässen, nament¬
+lich in den grössten, sind die Bacillen oft nur vereinzelt, auf
+längeren Strecken selbst ganz fehlend. Es gibt dies wieder ein
+schlagendes Beispiel dafür, wie wenig maassgebend bei Infections¬
+krankheiten die Untersuchung irgend einer beliebigen Blutprobe
+ist; denn es ist gar nicht unmöglich, dass man aus dem Herzen
+einen Tropfen Blut nimmt und keine Mikroorganismen darin
+findet, die wenigen darin vorhandenen auch wohl übersieht und
+dass trotzdem das Capillargefässsystem mit Parasiten überladen ist.
+Indessen ist auch die Vertheilung der Milzbrandbacillen im
+Capillargebiet keine ganz gleichmässige. Am spärlichsten sind
+sie im Gehirn, in der Haut, in den Muskelcapillaren, in der Zunge.
+In der Lunge, Leber, Niere, Milz, Darm, Magen sind sie dagegen
+gleichmässig in der vorher geschilderten gewaltigen Menge ver¬
+treten. Die Milz, die der Krankheit zum Namen verholfen hat,
+
+Milzbrand.
+ zeichnet sich vor den anderen genannten Organen durch grösseren
+Gehalt an Bacillen nicht aus. In den Capillaren selbst häufen
+sich die Bacillen am meisten immer an dem Punkte an, der von
+der nächsten zuführenden Arterie und von der ableitenden Vene
+am weitesten entfernt ist, also da wo die arteriellen Capillaren
+in die venösen übergehen, wo zugleich die Blutbahn am breitesten
+ist und der Blutstrom am langsamsten fliesst. In den Darmzotten
+ist dies die Spitze und der benachbarte Theil der Peripherie; in
+der Leber liegt dieser Punkt in der Mitte zwischen den letzten
+Aestchen der Lebervene und der Pfortader. Zu diesen Stellen,
+an denen die Bacillen sich reichlicher ablagern, gehören auch die
+Nierenglomeruli, die grösstentheils in Bacillenklumpen verwandelt
+sind. Nicht selten kommt es unter dem Druck der sich schnell
+vermehrenden Bacillen an den bezeichneten Orten, also vorzugs¬
+weise in den Glomeruli, Darmzotten, ausserdem auch in der
+Magenschleimhaut, Speicheldrüsen, Pankreas, zum Zerreissen ein¬
+zelner Capillaren und zum Austritt von Blut und Bacillen. Am
+meisten ereignet sich dies in den Glomeruli. Viele derselben
+werden gesprengt und die Bacillen gehen in die Harnkanälchen
+über. Doch gelangen sie nicht weit, wenigstens habe ich sie nur
+im Anfang der gewundenen Harnkanälchen gefunden, in denen
+sie zu durcheinander gefilzten langen Fäden auswachsen; in den
+geraden Harnkanälchen dagegen habe ich niemals Bacillen an¬
+getroffen.
+Diese eben geschilderten Verhältnisse gelten vom Kaninchen.
+Mäuse, die ich vielfach untersucht habe, verhalten sich indessen
+im Wesentlichen ebenso. Nur ist bei diesen Thieren die Milz
+vorzugsweise mit Bacillen versehen, demnächst die Lungen, am
+wenigsten die Nieren. Der Unterschied zwischen der ungemein
+grossen Menge von Bacillen im Capillargebiet und der spärlichen
+Anzahl derselben in den grossen Gefässen ist bei der Maus noch
+auffallender als beim Kaninchen.
+Ferner hatte ich noch Gelegenheit, Lungen, Leber, Milz und
+Niere von einem milzbrandigen Schaf zu untersuchen und fand
+auch bei diesem dieselbe Menge und Vertheilung der Bacillen
+wie beim Kaninchen.
+Das Studium von milzbrandigen Organen mit Hülfe der iso¬
+lirten Färbung möchte ich allen Denen empfehlen, die trotz aller
+bis jetzt schon dafür gelieferten Beweise den Milzbrand immer
+noch nicht für eine parasitische Krankheit halten. Die einfache
+5 *
+
+
+Milzbrand.
+Thatsache, dass 24 Stunden nach der Impfung mit dem kleinsten
+Tröpfchen Milzbrandblut, vorausgesetzt, dass es Bacillen oder
+deren Sporen enthält, der Tod eintritt und fast sämmtliche Ca¬
+pillaren in den (sofort nach den Tod in absoluten Alkohol ge¬
+legten) Lungen, Nieren, Leber, Milz, Darm, Magen u. s. w. mit
+einer erstaunlichen Menge derselben Bacillen angefüllt sind, ist
+doch so einfach, dass sie eigentlich gar keines Commentars weiter
+bedarf. Wer da noch die Milzbrandbacillen für zufällig, über¬
+haupt gleichgültig oder nur nebensächlich hält, der muss den
+Verlust an Blutbestandtheilen, die zum Aufbau dieser unzähligen
+Bacillen dienten, nicht minder die Abfallsproducte, welche ein
+so rapider Stoffwechsel, wie derjenige der Milzbrandbacillen, noth¬
+wendigerweise liefern muss, und schliesslich die durch Verstopfung
+der meisten Capillaren bedingten Störungen im Blutkreislauf und
+in der Ernährung wichtiger Organe, alles dies muss er ebenfalls
+für gleichgültig, nebensächlich halten, um statt dessen ein unbe¬
+kanntes Krankheitsferment für den Tod des Thieres verantwort¬
+lich machen zu können. Dann ist aber auch gar nicht einzusehen,
+warum nicht für die Trichinosis, selbst für die Krätze und andere
+unmittelbar übertragbare parasitische Krankheiten mit demselben
+Recht ausser Trichinen, Milben u. s. w. noch specifische Krank¬
+heitsfermente gefordert werden.
+ 
+
+  Schlussfolgerungen.
+  Dass die vorstehend geschilderten Untersuchungen viele Lücken
+und Mängel besitzen, dessen bin ich mir wohl bewusst. Manche
+Organe, welche bei Untersuchungen über Infectionskrankheiten
+nicht unberücksichtigt bleiben sollten, wie Gehirn, Herz, Retina
+mussten, um Zeit für die wichtigsten und unerlässlichsten Arbeiten
+zu gewinnen, bei Seite gelassen werden. Aus demselben Grunde
+konnten keine Temperaturmessungen, die gewiss die interessan¬
+testen Resultate geliefert hätten, vorgenommen werden. Auf
+pathologisch-anatomische Details bin ich absichtlich nicht ein¬
+gegangen, da mich nur die Aetiologie interessirte und ich mich
+ausserdem einer pathologisch-anatomischen Bearbeitung der Wund¬
+infectionskrankheiten nicht gewachsen gefühlt hätte, die ich des¬
+wegen berufeneren Kräften überlassen muss.
+Trotzdem halte ich das durch meine Untersuchungen gewonnene
+Material für ausreichend, um einige wohlbegründete Schlüsse daraus
+ziehen zu können.
+Bei meinen Schlussfolgerungen werde ich mich indessen nur
+auf das Nächstliegende beschränken. Es ist zwar in letzter Zeit
+üblich geworden, aus jeder, auch der unbedeutendsten Beobach¬
+tung über Bakterien die weitgehendsten Folgerungen über die
+Infectionskrankheiten im Allgemeinen zu ziehen, doch werde ich,
+obwohl das mir zu Gebote stehende Material reichlichen Stoff zu
+Betrachtungen in dieser Richtung abgeben würde, dieser Sitte
+nicht folgen. Denn je länger ich mich mit dem Studium der
+Infectionskrankheiten befasst habe, um so mehr habe ich die
+Ueberzeugung gewonnen, dass das Generalisiren neuer Thatsachen
+hier verfrüht ist und dass jede einzelne Infectionskrankheit oder
+Gruppe nahe verwandter Infectionskrankheiten für sich erforscht
+werden muss.
+
+Schlussfolgerungen.
+ Was nun zunächst die von mir beobachteten künstlichen
+Wundinfectionskrankheiten betrifft, so sind für die fünf ersten
+vollständig, für die sechste nur theilweise die Bedingungen erfüllt,
+welche zum Beweis für ihre parasitische Natur erforderlich sind.
+Denn es wurde die Infection durch so geringe Mengen Blut,
+Serum, Eiter bewerkstelligt, dass eine Verwechslung mit Intoxi¬
+cation ausgeschlossen bleiben muss.
+In den zur Impfung oder Einspritzung genommenen Substanzen
+wurden ferner ausnahmslos Bakterien und zwar für jede der ein¬
+zelnen Krankheiten eine andere wohl unterscheidbare Form nach¬
+gewiesen.
+Ebenso wurden ausnahmslos in den an der künstlichen Wund¬
+infectionskrankheit gestorbenen Thieren Bakterien in solcher Menge
+und Vertheilung gefunden, dass die Krankheitssymptome und der
+Tod ausreichend Erklärung finden. Zugleich waren die vor¬
+gefundenen Bakterien identisch mit denjenigen, die in den Impf¬
+flüssigkeiten enthalten waren und es entsprach also in jeder Be¬
+ziehung einer bestimmten Krankheit auch eine bestimmte Form
+von Bakterien.
+Diese künstlichen Wundinfectionskrankheiten haben in ihrer
+Entstehungsweise durch putride Substanzen, in ihrem Verlauf und
+Sectionsresultat die grösste Aehnlichkeit mit den menschlichen
+Wundinfectionskrankheiten. Ausserdem konnten bei ersteren ebenso
+wie bei letzteren die parasitischen Organismen mit den früheren
+Untersuchungsmethoden nur unvollkommen nachgewiesen werden
+und erst mit Hülfe eines verbesserten Verfahrens war es möglich,
+den Beweis zu führen, dass sie parasitische Krankheiten sind.
+Deswegen ist der Schluss gerechtfertigt, dass auch die mensch¬
+lichen Wundinfectionskrankheiten sich höchst wahrscheinlich bei
+Anwendung derselben verbesserten Untersuchungsmethode sämmt¬
+lich als parasitische Krankheiten erweisen werden.
+Andererseits geht daraus, dass eine bestimmte pathogene
+Bakterienform, z. B. die Septicämiebacillen, sich nicht auf jede
+andere Thierart übertragen lässt (Aehnliches ist auch von den
+Milzbrandbacillen bekannt), hervor, dass nicht unter allen Um¬
+ständen die Septicämie der Mäuse, Kaninchen, Menschen u. s. w.
+durch die nämliche Bakterienform veranlasst sein muss. Es ist
+immerhin möglich, dass die eine oder andere der bei Thieren
+gefundenen Bakterienformen auch in menschlichen Wundkrank¬
+heiten eine Rolle spielt. Es muss das aber jedesmal speciell
+
+Schlussfolgerungen.
+nachgewiesen werden; von vornherein lässt sich nur erwarten,
+dass überhaupt Bakterien vorhanden sind, die Gestalt, Grösse,
+Wachsthumsverhältnisse derselben können ähnlich, müssen aber
+für ähnlich erscheinende Krankheiten verschiedener Thierarten
+nicht immer dieselben sein.
+ Ausser den bis jetzt bei Thieren gefundenen pathogenen Bak¬
+terien gibt es gewiss noch manche andere. Meine Versuche be¬
+ziehen sich nur auf tödtlich verlaufende Krankheiten. Auch diese
+sind vermuthlich durch die sechs geschilderten Formen noch nicht
+erschöpft. Bei weiteren Experimenten an vielen verschiedenen
+Thierspecies, mit den verschiedensten putriden Substanzen und
+mit möglichst modificirten Applicationsweisen wird zweifellos noch
+eine Anzahl weiterer Infectionskrankheiten gefunden werden, die
+noch zu weiteren Aufschlüssen über die menschlichen Wundkrank¬
+heiten und die pathogenen Bakterien führen werden.
+Aber schon in den wenigen Versuchsreihen die ich vorführen
+konnte, tritt eine Erscheinung so evident hervor, dass ich sie als
+feststehend betrachten muss und, weil sie die meisten Bedenken
+gegen die Annahme des Contagium animatum für die Wundinfec¬
+tionskrankheiten beseitigen hilft, als das wichtigste Ergebniss
+meiner Arbeit ansehe. Es ist das die Verschiedenheit der patho¬
+genen Bakterien und ihre Unabänderlichkeit. Einer jeden Krank¬
+heit entspricht, wie wir gesellen haben, eine besondere Bakterien¬
+form und diese bleibt, so vielfach auch die Krankheit von einem
+Thier auf das andere übertragen wird, immer dieselbe. Auch
+wenn es gelingt, dieselbe Krankheit von Neuem wieder durch
+putride Substanzen hervorzurufen, tritt nicht eine andere, sondern
+dieselbe schon früher für diese Krankheit als specifisch gefundene
+Bakterienform auf. Ferner sind die Unterschiede dieser Bakte¬
+rienformen so gross, wie sie bei Organismen, die theilweise an
+der Grenze des Sichtbaren stehen, nur erwartet werden können.
+Diese Unterschiede suche ich allerdings nicht allein in der Grösse
+und Gestalt der Bakterien, sondern daneben noch in ihren Wachs¬
+thumsverhältnissen, die sich am besten aus der Lagerung und
+Gruppirung ersehen lassen. Ich fasse deswegen nicht nur das
+einzelne Individuum sondern die ganze Gruppe von Bakterien ins
+Auge und würde beispielsweise einen Mikrokokkus, der bei einer
+Thierart nur in geschlossenen Haufen, also in Zooglöaform vor¬
+
+Schlussfolgerungen.
+kommt, für verschieden von einem anderen ebenso grossen halten,
+der bei derselben Thierart, also unter denselben Lebensbedingun¬
+gen, nur zerstreut gefunden wird. Ausserdem muss noch die ver¬
+schiedene physiologische Wirkung berücksichtigt werden, wofür
+ich kaum ein treffenderes Beispiel wüsste, als die nebeneinander
+im Ohrzellgewebe einer Maus vegetirenden Bacillen und ketten¬
+förmigen Mikrokokken, von denen die einen ins Blut übergehen
+und in die weissen Blutkörperchen eindringen, die anderen lang¬
+sam im Gewebe sich ausbreiten und alles um sich her zerstören;
+dann die Septicämie- und Pyämiemikrokokken des Kaninchens
+in ihrem verschiedenen Verhalten zum Blute, ferner die nur an
+der Oberfläche des Ohrknorpels von Kaninchen sich ausbreiten¬
+den Bacillen bei der erysipelasartigen Krankheit im Gegensatz zu
+den ebenfalls am Kaninchenohr eingeimpften schnell ins Blut über¬
+gehenden Milzbrandbacillen.
+Wenn nun aber jeder der untersuchten Krankheiten eine durch
+physiologische Wirkung, durch Wachsthumsverhältnisse, Grösse
+und Gestalt genau charakterisirte Bakterienform entspricht, die,
+so oft auch die Krankheit weiter verpflanzt wird, immer dieselbe
+bleibt und niemals in andere Formen z. B. von der kugelförmigen
+in eine stabförmige übergeht, dann bleibt nichts weiter übrig, als
+dass diese verschiedenen Formen von pathogenen Bakterien vor¬
+läufig als constante Arten anzusehen sind.
+Dies ist allerdings eine Behauptung, welche vielfachen Wider¬
+spruch namentlich bei Botanikern finden wird, vor deren Forum
+diese Angelegenheit eigentlich gehört.
+Zu denjenigen Botanikern, die sich gegen die Trennung der
+Bakterien in Arten erklären, gehört beispielsweise Naegeli Die niederen Pilze. München 1877. S. 20. in¬
+dem er sagt „ich habe seit 10 Jahren wohl tausende von ver¬
+schiedenen Spalthefeformen untersucht und ich könnte nicht be¬
+haupten, dass auch nur zur Trennung in zwei specifische Formen
+Nöthigung vorhanden sei.“
+Auch Brefeld Untersuchungen über die Spaltpilze. Sitzungsbericht der Gesellschaft
+naturforschender Freunde in Berlin vom 19. Febr. 1878. will nur dann specifische Formen, die zur
+Aufstellung von Arten berechtigen, gelten lassen, wenn die ge¬
+sammte Entwicklungsgeschichte im Wege der Cultur continuirlich
+von Spore zu Spore in den verschiedensten Nährlösungen beob¬
+achtet ist.
+
+Schlussfolgerungen.
+  Brefeld's Forderung ist theoretisch unzweifelhaft richtig, sie
+darf aber nicht als conditio sine qua non für jede Untersuchung
+über pathogene Bakterien vorweg gestellt werden. Wir würden
+sonst die Arbeiten über die Aetiologie der Infectionskrankheiten
+vorläufig ruhen lassen müssen, bis es den Botanikern gelungen ist,
+durch Reinculturen und Züchtung von Spore zu Spore die ver¬
+schiedenen Bakterienarten festzustellen. Es könnte sich dabei sehr
+leicht ereignen, dass die unendliche Mühe der Reincultur auf
+irgend eine Bakterienart verschwendet wird, die sich schliesslich
+als eine kaum beachtenswerthe herausstellt. In der Praxis kann
+nur das umgekehrte Verfahren stattfinden. Zuerst werden gewisse
+Eigenschaften einer Bakterienform, die sie vor anderen auszeich¬
+nen und die Unabänderlichkeit derselben dazu zwingen, diese Form
+von den übrigen weniger bekannten und minder interessirenden
+Formen abzutrennen und bis auf Weiteres als Art hinzustellen.
+Dann erst wird zur Controle dieser vorläufigen Annahme die Cul¬
+tur von Spore zu Spore zu machen sein. Gelingt sie unter Ver¬
+hältnissen, die gar keinen Einwand gegen ihre Richtigkeit zu¬
+lassen und liefert sie ein den früheren Beobachtungen entgegen¬
+stehendes Resultat, dann muss auch das Urtheil, welches aus
+diesen Beobachtungen gezogen wurde und das zur Aufstellung der
+Bakterienart führte, berichtigt werden.
+Auf diesen, wie mir scheint einzig richtigen, praktischen
+Standpunkt stelle ich mich und unterscheide also bis dahin, dass
+die Cultur von Spore zu Spore mich eines Besseren belehrt, ver¬
+schiedene Arten von pathogenen Bakterien.
+Um übrigens zu beweisen, dass ich in dieser Anschauung
+nicht allein stehe, will ich hier noch die Meinung von Botanikern
+anführen, die ein gleiches Urtheil schon früher ausgesprochen
+haben.
+ Cohn Beiträge zur Biologie der Pflanzen. I. Bd. 3. Heft. S. 144. erklärt, trotzdem der Gliederung der Bakterien in
+Gattungen und Arten von Manchen die Berechtigung abgesprochen
+werde, dennoch an der von ihm bisher befolgten Methode fest¬
+halten zu müssen, Bakterien von verschiedener Gestaltung und
+verschiedener Fermentthätigkeit als verschiedene Arten und Gat¬
+tungen so lange aus einander zu halten, als nicht der Beweis
+ihrer Identität mit voller Evidenz geführt ist.
+Auf Grund seiner Untersuchungen über die Einwirkung ver¬
+
+Schlussfolgerungen.
+ schiedener Temperaturen und des Eintrocknens auf die Entwick¬
+lung von Bacterium termo kam Eidam Beiträge zur Biologie der Pflanzen. I. Bd. 3. Heft. S. 223. zu dem Schluss, dass
+die verschiedenen Bakterienformen verschiedene Ernährungsbe¬
+dingungen erfordern, dass sie sich auch den chemischen und phy¬
+sikalischen Einflüssen gegenüber verschieden verhalten und dieser
+Umstand ein weiterer Beweis für die streng durchzuführende
+Speciesunterscheidung sei.
+Für die Notwendigkeit, die von mir beschriebenen patho¬
+genen Bakterien als specifische Arten ansehen zu müssen, will
+ich noch einen Grund anführen.
+Man legt und das mit vollem Recht das grösste Gewicht bei
+Bakterienuntersuchungen auf die sogenannten Reinculturen, die
+nur eine bestimmte Form von Bakterien enthalten. Ganz offenbar
+geschieht dies nur in der Meinung, dass, wenn man durch eine
+Reihe von Culturen immer dieselbe Form zu erhalten vermag,
+diesen Formen eine besondere Bedeutung zukommt, dass man sie
+als constante Form, mit einem Wort als Art anzunehmen hat.
+Gibt es denn nun aber wirkliche durch eine Reihe von Versuchen
+von jeder Beimengung anderer Bakterien frei zu haltende Rein¬
+culturen? Allerdings gibt es solche, aber nur in ganz beschränkten
+Verhältnissen. Nur solche Bakterien lassen sich mit den jetzt zu
+Gebote stehenden Hülfsmitteln rein cultiviren, die wegen ihrer
+Grösse und leicht erkennbaren Form, wie die Milzbrandbacillen,
+oder durch Production eines charakteristischen Farbstoffes, wie
+die Pigmentbakterien, stets in Bezug auf ihre Reinheit controlirt
+werden können. Sobald in eine Cultur, wie es unter allen Um¬
+ständen ab und zu vorkommt, eine fremde Bakterienart durch Zu¬
+fall sich eingeschmuggelt hat, dann wird es in diesen Fällen so¬
+fort bemerkt und die verunglückte Cultur wird aus der Versuchs¬
+reihe ausgemerzt, ohne dass die Untersuchung in ihrem Fortgang
+dadurch gestört zu werden braucht.
+Ganz anders ist es aber, wenn Reinculturen mit sehr kleinen
+Bakterien vorgenommen werden sollen, die ohne Färbung viel¬
+leicht überhaupt nicht mehr zu erkennen sind, wie soll man da
+eine Verunreinigung der Cultur entdecken? Das ist nicht aus¬
+führbar und deswegen müssen alle Versuche mit Reinculturen in
+Apparaten, und wenn sie noch so vortrefflich construirt sind, so¬
+bald sie kleine, wenig charakteristische Bakterien betreffen, als
+
+Schlussfolgerungen.
+ mit unvermeidlichen Fehlerquellen behaftet und für sich allein
+nicht beweisend gehalten werden.
+Und dennoch gibt es auch für die kleinsten und am schwie¬
+rigsten zu erkennenden Bakterien Reinculturen. Aber nicht in
+Culturapparaten, sondern im thierischen Körper finden diese statt.
+Das beweisen meine Versuche. In sämmtlichen Fällen, die zu
+einer bestimmten Krankheit gehören, z. B. zur Septicämie der
+Mäuse, wurden nur die kleinen Bacillen und niemals, wenn die
+Krankheit nicht absichtlich mit der Gewebsnekrose zusammen
+verimpft wurde, irgend eine andere Bakterienart daneben gefun¬
+den. Es gibt eben keinen besseren Culturapparat für pathogene
+Bakterien als den Thierkörper. Es vermögen in demselben über¬
+haupt nur eine beschränkte Zahl von Bakterien zu vegetiren und
+das Eindringen derselben ist so erschwert, dass der unverletzte
+Körper eines Thieres als vollständig isolirt gegen andere Bakterien¬
+arten, als die absichtlich eingeimpften, betrachtet werden kann.
+Ganz evident stellt es sich heraus, dass in meinen Versuchen
+wirkliche Reinculturen gelungen sind, wenn man die beiden an
+Mäusen erhaltenen Krankheiten, die Septicämie und Gewebs¬
+nekrose, einer Betrachtung unterwirft. Im faulenden Blute, das
+die beiden Krankheiten entstehen liess, waren die verschiedensten
+Bakterienarten enthalten. Von diesen allen finden nur zwei im
+Körper der lebenden Maus die zu ihrer Existenz nöthigen Be¬
+dingungen. Alle anderen gehen zu Grunde und nur diese beiden,
+ein kleiner Bacillus und ein kettenförmiger Mikrokokkus bleiben
+und vermehren sich. Beliebig oft können diese beiden zugleich
+weitergeimpft werden, ohne dass sie ihre charakteristische Form,
+ihre specifischen physiologischen Wirkungen ändern und ohne dass
+auch nur einmal eine andere Bakterienart sich dazwischen drängt.
+Nun ist es aber ganz in das Belieben des Experimentirenden ge¬
+stellt, die beiden Bakterienarten, wie ich bewiesen habe, zu
+trennen. Durch Blut, in das nur die Bacillen überzugehen ver¬
+mögen, werden diese allein verpflanzt und von da ab ganz rein er¬
+halten, während vermittelst Verimpfung beider Bakterien auf Feld¬
+mäuse die Bacillen beseitigt und die Mikrokokken rein weiter cul¬
+tivirt werden. Es ist unzweifelhaft, dass auch der Versuch gelungen
+wäre, beide wieder auf einem Thier durch Einimpfung zu ver¬
+einigen. Kurz, man hat es vollkommen in der Gewalt, mehrere
+Bakterienarten neben einander unvermischt und rein weiter zu
+cultiviren, sie zu trennen und eventuell wieder zu combiniren.
+
+Schlussfolgerungen.
+Höhere Anforderungen lassen sich wohl nicht an eine Reincultur
+stellen und ich muss deswegen die fortgesetzte Uebertragung der
+künstlichen Infectionskrankheiten für die besten und sichersten
+Reinculturen halten. Damit haben sie aber auch Anspruch auf
+die Beweiskraft, welche untadelhaften Reinculturen für die Auf¬
+stellung specifischer Arten der Bakterien zugestanden werden
+muss.
+Der Umstand, dass der thierische Körper ein so vortrefflicher
+Apparat für Reinculturen ist und dass, wie wir gesehen haben,
+bei zweckmässiger Anordnung des Experiments und ausreichenden
+optischen Hülfsmitteln bei den künstlichen Wundinfectionskrank¬
+heiten immer nur eine specifische Bakterienart als einer bestimmten
+Krankheit entsprechend gefunden wurde, führt nun ferner zu dem
+Schluss, dass, wenn bei Untersuchung einer Wundinfectionskrank¬
+heit mehrere verschiedene Bakterienarten gefunden werden, wie
+z. B. von Coze und Feltz bei der künstlichen Septicämie der
+Kaninchen (vgl. S. 16) zugleich Ketten von kleinen Pünktchen,
+Stäbchen und lange oscillirende Fäden, dass also in solchem Falle
+entweder eine combinirte, mithin keine reine Infectionskrankheit,
+oder, was im citirten Falle das Wahrscheinlichere ist, eine un¬
+genaue und fehlerhafte Beobachtung vorliegt. Sobald also meh¬
+rere Bakterienarten zugleich unter pathologischen Verhältnissen
+vorkommen, muss entweder der Beweis geliefert werden, dass
+sie sämmtlich an dem pathologischen Process betheiligt sind, oder
+es muss darnach getrachtet werden, sie zu isoliren und eine wirk¬
+liche Reincultur zu erhalten, ehe man bestimmte Schlüsse über
+die Beziehungen der betreffenden Krankheit zu den Bakterien
+machen kann. Andernfalls wird man dem Vorwurf nicht entgehen,
+dass das Experiment kein reines, also kein beweiskräftiges war.
+Eine weitere Consequenz, die aus der Annahme verschiedener
+Arten von pathogenen Bakterien notwendiger Weise folgt, will
+ich nur kurz andeuten. Die Zahl der pathogenen Bakterienarten
+ist eine beschränkte, denn von der Menge der in putriden Flüssig¬
+keiten enthaltenen Arten kommen im günstigsten Falle eine oder
+nur wenige im thierischen Körper zur Weiterentwicklung. Die zu
+Grunde gehenden Arten sind also, wenigstens für die betreffende
+Thierart, nicht pathogene Bakterien. Wenn es aber, was hiernach
+unzweifelhaft angenommen werden muss, schädliche und unschäd¬
+liche Bakterien gibt, dann können auch alle Versuche, die mit
+unschädlichen Bakterien, z. B. mit Bacterium termo, an Thieren
+
+Schlussfolgerungen.
+vorgenommen wurden, absolut nichts für oder gegen das Ver¬
+halten der schädlichen, der pathogenen Bakterien beweisen. Nun
+sind aber fast sämmtliche derartige Experimente mit dem ersten
+besten Gemenge von Bakterienarten ausgeführt, ohne dass fest¬
+stand, ob in diesem Gemisch auch wirklich pathogene Bakterien
+enthalten waren. Es ist also einleuchtend, dass alle diese Expe¬
+rimente zu einem Beweise für oder gegen den Parasitismus der
+Infectionskrankheiten nicht verwerthet werden können.
+ In allen meinen Versuchen hat sich ausser der Beständigkeit
+der Bakterien in Grösse und Gestalt auch die grösste Gleich¬
+mässigkeit in ihren Wirkungen auf den thierischen Organismus,
+aber keine Steigerung der Virulenz, wie sie von Coze und Feltz,
+Davaine und Anderen beobachtet ist, ergeben. Dies veranlasst
+mich noch zu einigen Bemerkungen über das von den genannten
+Forschern gefundene resp. bestätigte angebliche Gesetz von der
+zunehmenden Virulenz des Durchgangsblutes.
+Die Entdeckung dieses Gesetzes ist bekanntlich mit grossem
+Enthusiasmus aufgenommen und hat durch die Beziehungen, die
+demselben zur Lehre von der Anpassung und Vererbung gegeben
+wurden, kein geringes Interesse erregt. Einige sonst ganz exacte
+Forscher haben sich durch die verführerische Theorie blenden
+lassen, dass die unbedeutende Wirkung einer einfachen Fäulniss¬
+bakterie durch fortgesetzte Anpassung und Vererbung bis zum
+quadrillionfach verdünnten, noch tödtlichen Agens gesteigert wer¬
+den könne. Sie haben die schönsten Nutzanwendungen für die
+Praxis daraus geschaffen und nicht dabei bedacht, dass die frag¬
+lichen Bakterien noch nicht einmal mit Sicherheit nachgewie¬
+sen sind.
+Die Originalarbeiten von Coze und Feltz, sowie von Davaine
+stehen mir nicht zur Verfügung und ich muss deswegen auf eine
+vollständige Kritik derselben verzichten. Soweit ich nun aber
+aus den mir zugänglichen Referaten, namentlich aus den ausführ¬
+lichen Berichten im Virchow-Hirsch'schen Jahresbericht, ent¬
+nehme, scheint ein eigentlicher Beweis dafür, dass die Virulenz
+des septicämischen Blutes von Generation zu Generation zunimmt,
+gar nicht geliefert zu sein. Es wurde anscheinend allmählich eine
+immer stärkere Verdünnung des Blutes eingespritzt und man war
+
+Schlussfolgerungen.
+erstaunt, wenn dieselbe immer wieder wirkte und schrieb diese
+Wirkung der zunehmenden Virulenz zu. Aber Controlversuche,
+ob nicht schon in der zweiten und dritten Generation das septi¬
+cämische Blut ebenso virulent war, als in der fünfundzwanzigsten
+Generation, scheinen nicht gemacht zu sein. Meine Versuche
+sprechen wenigstens dafür und soweit stimmen sie mit den Er¬
+fahrungen von Coze, Feltz und Davaine, dass zur ersten In¬
+fection eines Thieres verhältnissmässig grosse Quantitäten putrider
+Flüssigkeiten erforderlich sind, dass ferner in der zweiten Gene¬
+ration oder spätestens in der dritten Generation die volle Virulenz
+erreicht wird und von da ab constant bleibt.
+Der Davaine'schen künstlichen Septicämie entspricht von
+meinen künstlichen Wundinfectionskrankheiten am meisten die
+Septicämie der Mäuse. Würde man mit dieser Krankheit in der¬
+selben Weise wie Davaine experimentiren, dann würde man ohne
+Controlversuche dieselbe zunehmende Virulenz wie bei jener Krank¬
+heit finden können. Man brauchte nur langsam absteigend immer
+weniger Blut zur Impfung zu nehmen und könnte sich dann jede
+beliebige Progression für die Virulenz herausrechnen. Ich habe
+aber schon vom ersten oder zweiten Thiere ein möglichst kleines
+Quantum Impfsubstanz genommen und bin deswegen schneller
+beim höchsten Punkte der Virulenz angelangt. Ehe ich deswegen
+nicht die Gewissheit habe, dass auch bei der von Davaine beob¬
+achteten Septicämie solche Controlversuche gemacht sind, kann
+ich die Steigerung der Virulenz nur für die ersten Generationen
+gelten lassen. Um diese aber zu erklären, brauchen wir nicht
+zum Zauberstab der Anpassung und Vererbung zu greifen, sondern
+können auf ganz natürlichem Wege zu einer brauchbaren Erklä¬
+rung gelangen. Nehmen wir als passendstes Beispiel wieder die
+Septicämie der Mäuse.
+Werden einem solchen Thier zwei Tropfen faulenden Blutes
+eingespritzt, so werden ihm damit nicht nur eine Menge ganz ver¬
+schiedener Bakterienarten, sondern auch ein gewisses an sich noch
+nicht tödtliches aber für die Gesundheit der Maus doch gewiss
+nicht gleichgültiges Quantum gelösten putriden Giftes (Sepsin)
+beigebracht. Es wirken also verschiedene Factoren auf die Ge¬
+sundheit des Thieres ein. Einmal das gelöste Gift, dann ver¬
+schiedene Bakterienarten, von denen aber vielleicht nur zwei, wie
+es in unserem Beispiel wirklich der Fall war, sich in dem Körper
+der Maus vermehren und einen fortgesetzt nachteiligen Einfluss
+
+Schlussfolgerungen.
+ ausüben können. Eine von diesen beiden Arten ist nur im Stande,
+in das Blut zu gelangen und, wenn ausschliesslich Blut zur wei¬
+teren Uebertragung benutzt wird, wird auch nur diese eine Art
+aus dem vermeintlichen Kampf ums Dasein siegreich hervorgehen.
+Es kommt nun für die weitere Entwicklung des Experiments ganz
+darauf an, wie gross die Menge des putriden Giftes und wie das
+Zahlverhältniss der beiden Bakterien zu einander ist. Ist viel
+putrides Gift und eine grosse Anzahl der local sich vermehren¬
+den Bakterienart (in unserem Fall sind dies die Gewebsnekrose
+veranlassenden kettenförmigen Mikrokokken), aber wenige Exem¬
+plare von der ins Blut übergehenden Bakterienart (hier Bacillen)
+eingespritzt, dann wird' das erste Versuchsthier in Folge des
+überwiegenden Einflusses der beiden anderen Factoren eher ster¬
+ben, als bis viel Bacillen ins Blut gelangt und sich dort weiter
+vermehrt haben. Von dem Blut dieses ersten Thieres, das ver¬
+hältnissmässig noch sehr wenig Bacillen enthält, muss vielleicht
+ein fünftel bis zehntel Tropfen verimpft werden um die Krank¬
+heit sicher zu übertragen. Auf das zweite Thier sind mit dem
+Blute aber nur noch die Bacillen verpflanzt, die sich nun unge¬
+stört im Blute entwickeln. Zur Infection des dritten Thieres ge¬
+nügt dann schon das kleinste überhaupt zulässige Quantum Blut
+und von dieser dritten Generation bleibt die Virulenz des Blutes
+gleichmässig.
+Man kann sich auch noch einen anderen Fall denken, bei
+dem die Steigerung der Virulenz durch mehr als drei Generatio¬
+nen ohne irgend welche Anpassung und Vererbung eintreten kann.
+Es würde dies der Fall sein, wenn mehrere ins Blut übergehende
+Bakterienarten bei der ersten Einspritzung in den Körper des
+Versuchsthieres gelangen. Nehmen wir beispielsweise an, dass
+demselben faulenden Blute, welches dem vorigen Versuch diente,
+noch Milzbrandbacillen beigemengt wären, dann würden im Blute
+des zweiten Thieres ausser den Septicämiebacillen auch Milz¬
+brandbacillen enthalten sein und zwar von beiden nur wenig
+Exemplare; von den Milzbrandbacillen aber noch weniger als von
+den anderen, weil sie sich bei Mäusen vorzugsweise in der Milz,
+Lunge u. s. w. ablagern, im Blute aber auch im günstigsten Falle
+nur spärlich vertreten sind. Andererseits haben die Milzbrand¬
+bacillen den Vortheil, dass sie das Thier, wenn sie in reichlicher
+Zahl eingeimpft wurden, schon binnen 20 Stunden tödten, was
+den Septicämiebacillen erst nach 50 Stunden gelingt. Im Blute
+
+Schlussfolgerungen.
+des dritten Thieres würden beide Bacillenarten schon reichlicher
+enthalten sein, aber doch noch nicht in der Menge, als wenn jede
+einzeln verimpft wäre. Es muss also immer noch ein grösseres
+Quantum Blut zur Uebertragung auf das vierte Thier genommen
+werden. Vielleicht würde das sogar noch in der fünften Gene¬
+ration der Fall sein, bis die eine oder andere Bacillenart schliess¬
+lich noch allein im Blute vorhanden ist. Wahrscheinlich würden
+es die Septicämiebacillen sein.
+In dieser Weise lässt sich das Coze-Feltz-Davaine'sche Ex¬
+periment auf einfache Verhältnisse zurückführen und mit meinen
+Versuchen in Einklang bringen.
+     Druck von J. B. Hirschfeld in Leipzig. 
+
+
+ 
+
+Tafel l u. ll.
+
+
+
+
+
+
+Tafel III. u. IV.
+
+
+
+Tafel V.
+
+
+
+
+
+
+  

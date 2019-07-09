@@ -1,0 +1,763 @@
+         
+
+
+
+
+
+
+
+                 Zeitſchrift
+des
+Architekten- und                     Ingenieur-Vereins
+zu
+Hannover.                 
+                 Neue Folge des Notiz-Blattes.                 
+                 Herausgegeben von dem Vorſtande des                     Vereins.
+Redigirt von
+Launhardt,
+Profeſſor für                     Eiſenbahn- und Brückenbau an der Königl. polytechniſchen                     Schule zu Hannover.                 
+                 Band XX.
+Heft 1-4.                 
+Mit 31 Blatt Zeichnungen und vielen in den Text eingedruckten                     Holzschnitten.                 
+
+
+Hannover.
+Schmorl &amp; von                         Seefeld.
+
+1874.                 
+
+
+Hofbuchdruckerei der Gebr. Jäncke in Hannover.
+
+
+
+
+
+
+Mohr, Beitrag zur Theorie des                 Fachwerks.             
+                                                               Beitrag zur Theorie des Fachwerks;                                                       
+vom Baurath                          Mohr                     , Profeſſor am Polytechnikum zu                     Dresden.                 
+(Mit Figuren und Tabelle auf den Blättern 609 und                     610.)                                            
+             In einer Arbeit, welche ich im vorletzten Hefte                 dieſer
+Zeitſchrift veröffentlicht habe, iſt das                 Princip der virtuellen
+Geſchwindigkeit angewandt worden, um das                 Geſetz der Form-
+veränderung eines Fachwerks darzuſtellen.                 Obgleich dieſe
+Darſtellung auf den beſonderen                 Zweck jener Arbeit: die
+Beſtimmung des Horizontalſchubs                 eines Bogenfachwerks ſich
+beſchränkt, ſo dürfte                 doch aus dem Gange der einfachen Be-
+trachtung zur Genüge hervorgehen, daß                 daſſelbe Verfahren
+mit Nutzen in allen denjenigen Fällen                 ſich anwenden läßt,
+wo die Formveränderung eines Fachwerks in                 Betracht ge-
+zogen werden muß. Da die meiſten hierauf                 bezüglichen
+Fragen entweder noch gar nicht oder doch nur                 ungenügend
+behandelt worden ſind, ſo erlaube ich mir,                 einige Unterſuchun-
+
+gen mitzutheilen, zu welchen die Anwendung des oben                 bezeich-
+neten Verfahrens mich geführt hat.             
+Mit Fachwerk ſoll im Folgenden jede                 Trägerkonſtruk-
+tion bezeichnet werden, welche aus                 ſtabförmigen Theilen                 ſo
+zuſammengeſetzt und welche ſo                 unterſtützt iſt, daß eine Ver-
+änderung der Form und der                 Lage des Trägers nur in Folge
+von Längenänderungen der                 Konſtruktionstheile entſtehen
+kann. Die Betrachtung                 ſoll jedoch beſchränkt werden auf
+ſolche Fälle,                 in welchen die Achſen ſämmtlicher                 Konſtruktions-
+theile und die auf den Träger einwirkenden äußeren                 Kräfte
+in einer Ebene liegen. Bezieht man die Lage der                 Punkte
+in dieſer Ebene auf ein beliebiges feſtes                 Koordinatenſyſtem
+und bezeichnet man mit:
+m die Anzahl der ſämmtlichen Knotenpunkte des                     Fachwerks;
+n die Anzahl der feſten Auflager;
+o die Anzahl der                     beweglichen Auflager; und mit
+p die Anzahl der Konſtrultionstheile;
+ſo kann                 die Form und die Lage des Trägers durch die 2 · m
+Koordinaten der m Knotenpunkte                 beſtimmt werden. Bei den
+Formveränderungen des Fachwerks, welche                 durch beliebige
+Längenänderungen der Konſtruktionstheile                 entſtehen können,
+bleiben die 2 · n                 Koordinaten der feſten Auflager konſtant.
+Von den beiden                 Koordinaten eines jeden der o beweglichen
+Auflager                 iſt entweder die eine konſtant — wenn                 nämlich
+die Auflagerbahn zu einer Koordinatenachſe parallel                 gerichtet
+iſt — oder ſie iſt durch                 die gegebene Form der Auflagerbahn
+doch jedenfalls abhängig von der anderen. Die übrigen
+(2 m                 — 2 n — o)                 Koordinaten bilden demnach die von ein-
+ander unabhängigen                     veränderlichen Größen, welche
+die Form des Fachwerks                 beſtimmen. Wenn dieſe (2 m                 —
+2 n — o) veränderlichen Größen und außerdem die unver-
+änderliche                 Stützenlage d. h. die Koordinaten der feſten und
+die Bahnen der                 beweglichen Auflager gegeben ſind, ſo können
+alle                 Dimenſionen der Konſtruktionsfigur und                 insbeſondere
+auch die Längen der  Geraden, welche die m
+Knotenpunkte mit einander verbinden,                 beſtimmt werden. Sind
+umgekehrt von (2 m                 — 2 n — o)                 der eben genannten Geraden
+die Längen gegeben, ſo                 laſſen ſich, vorausgeſetzt daß                 dieſe
+Längen von einander und von der gegebenen Stützenlage
+unabhängig ſind, die Ordinaten aller Knotenpunkte                 er-
+mitteln, d. h. die Form des Fachwerks iſt durch jene                 Längen
+beſtimmt. Ein Fachwerk von m Knotenpunkten,
+welches von n feſten und o beweglichen                     Auflagern
+geſtützt wird, muß demnach (2 m — 2 n — o) Kon-
+ſtruktionstheile enthalten,                 deren Längen von einander
+und von der Stützenlage unabhängig ſind. Ob                 die Länge
+eines Konſtruktionstheiles von den Längen anderer                 Theile
+und von der Stützenlage abhängig iſt oder nicht, läßt                 ſich
+entweder nach bekannten einfachen geometriſchen                 Regeln oder
+34
+
+Mohr, Beitrag zur Theorie des                     Fachwerks.
+
+durch eine ebenſo einfache                 ſtatiſche Betrachtung entſcheiden.
+Man                 beſeitige alle Außenkräfte, welche auf das Fachwerk
+einwirken, auch                 das Eigengewicht deſſelben, und unterſuche,
+ob                 es möglich iſt, von dieſem Zuſtande aus                 vermittelſt
+einer Längenänderung des Konſtruktionstheils                 eine Span-
+nung in demſelben hervorzurufen. Wenn der                 entſprechen-
+den Formveränderung des Fachwerks kein Hinderniß                 ent-
+gegenſteht und die bezeichnete Spannung alſo nicht                 entſtehen
+kann, ſo iſt die Länge des                 Konſtruktionstheils offenbar unab-
+hängig ſowohl von der                 Stützenlage als auch von der Länge
+der übrigen Konſtruktionstheile.                 Im entgegengeſetzten Falle
+beſteht eine ſolche                 Abhängigkeit von den Längen aller derjeni-
+gen Konſtruktionstheile,                 welche durch ihre Spannungen und
+von der Lage derjenigen Stützen, welche durch                 ihre Auflager-
+reaktionen der Formveränderung des Fachwerks                 Widerſtand
+leiſten. Im Folgenden ſoll ein                 Fachwerk ein einfaches
+genannt werden, wenn                 daſſelbe nur die ſo eben bezeichneten
+(2 m — 2 n —                     o) nothwendigen                 Konſtruktionstheile ent-
+hält, im Gegenſatz zu dem zuſammengeſetzten                 Fachwerk,
+welches außer den nothwendigen noch überzählige Kon-
+ſtruktionstheile enthält. In Bezug auf die                 Beſtimmung der
+Formveränderungen unterſcheiden                 ſich dieſe beiden Arten von
+Fachwerken, wie aus der obigen                 Betrachtung hervorgeht,
+weſentlich dadurch von einander, daß in einem                     einfachen
+Fachwerk die Längenänderungen aller Konſtruktionstheile
+von einander                 unabhängig ſind und daher ſämmtlich                 gegeben
+ſein müſſen, um die Formveränderung zu                 beſtimmen, während
+für die Ermittelung der Formveränderungen eines                     zuſam-
+mengeſetzten Fachwerks                 nur die Längenänderungen der
+nothwendigen                 Konſtruktionstheile bekannt ſein müſſen,                 da
+hiervon alle Formveränderungen und alſo auch die                 Längen-
+änderungen der überzähligen                 Konſtruktionstheile abhängig
+ſind.             
+
+                                              Formveränderung eines einfachen Fachwerks.                                          
+Wir nehmen an, daß die Längenänderungen der                         Kon-
+ſtruktionstheile gegeben ſind und daß die                         letzteren um ſchar-
+nierförmige                         Knotenpunktverbindungen frei ſich drehen kön-
+nen. Die                         Reſultate der Betrachtung werden daher für Fach-
+werke mit                             ſteifen Knotenpunktverbindungen nicht                         genau,
+ſondern nur mit etwa derſelben Annäherung                         richtig ſein wie
+die gebräuchliche                         ſtatiſche Berechnung ſolcher Träger, die                         eben-
+falls von jener Vorausſetzung ausgeht. Alle Fragen                         in
+Bezug auf die Formveränderung des Fachwerks                         laſſen ſich
+zurückführen auf folgende                         zwei: Um welche Länge ändert ſich
+der Abſtand C D eines Knotenpunktes C                         entweder von einem
+beliebigen anderen Knotenpunkte D oder von einem feſten
+Punkt D außerhalb der Konſtruktion?                     
+Die Löſung dieſer rein geometriſchen Aufgabe                         kann
+ſelbſtverſtändlich auch auf                         geometriſchem Wege erfolgen; wir
+ziehen vor, ſtatt                         deſſen eine einfache ſtatiſche                         Betrachtung an-
+
+zuwenden und laſſen zu                         dieſem Zwecke auf den Knotenpunkt
+C                         (Figur 1 und 2) eine nach D gerichtete Kraft P und auf
+den Punkt DWenn der Punkt D eine feſte Lage hat (Fig.                             2), ſo kann die
+auf dieſen Punkt einwirkende                             Kraft P aus der Betrachtung                             fortgelaſſen
+werden. eine                         ebenſo große aber entgegengeſetzt gerichtete
+                             Fig. 1.                         
+                             Fig. 2.                         
+Kraft einwirken. Die beiden Außenkräfte P erzeugen Auf-
+lagerreaktionen, die unter                         Umſtänden auch gleich Null ſein
+können, und in                         jedem Konſtruktionstheil eine Spannung, die
+wir mit u · P bezeichnen wollen; u                         iſt demnach eine unbe-
+nannte Zahl, welche für jeden                         Konſtruktionstheil einen anderen
+und zwar einen                         poſitiven oder negativen Werth hat, je nach-
+dem die Spannung                         eine Zug- oder eine Druckſpannung iſt.
+Die                         Beſtimmung der genannten Auflagerreaktionen und Span-
+nungen                         geſchieht durch Rechnung oder auf graphiſchem                         Wege
+unter Anwendung ſehr einfacher Methoden, die wir als                         bekannt
+vorausſetzen dürfen. Wir ſchneiden jetzt                         aus irgend einem
+Konſtruktionstheil z. B. E F ein Stück heraus und                         erſetzen
+daſſelbe, indem wir                         ſeine Spannung u · P als                         Außenkräfte
+gegen die beiden Schnittſtellen einwirken                         laſſen. In dieſem
+Zuſtande                         kann man das Fachwerk als eine einfache                             Ma-
+ſchine anſehen, denn es bildet eine                             bewegliche Verbindung
+feſter                         Körper, die vermöge ihres geometriſchen                         Zuſammen-
+hanges auf vorgeſchriebenen Bahnen                         ſich bewegen und ver-
+mittelſt welcher man die                         beiden Widerſtände u · P durch                         die
+treibenden Kräfte P überwinden kann. Wenn,                         wie hier vor-
+ausgeſetzt wird, die Längen der                         Konſtruktionstheile ſich nicht
+verändern,                         ſo ſind die Kräfte P und u · P die einzigen, welche
+bei der Bewegung der                         Maſchine mechaniſche Arbeit verrichten;
+denn die                         Angriffspunkte der Auflagerdrücke ſind entweder                         feſt
+oder bewegen ſich normal zur Kraftrichtung.                         Bezeichnet man
+nun mit dy und d l die bei einer unendlich kleinen                         Form-
+veränderung entſtehenden Veränderungen der Längen C D und
+F F,                         ſo ſind nach dem Princip der virtuellen Geſchwindigkeit
+
+Mohr, Beitrag zur                             Theorie des Fachwerks.
+
+die mechaniſchen                         Arbeiten P · d y und u · P ·                             dl gleich groß.
+Dieſe Beziehung iſt nur                         für unendlich kleine Formverände-
+rungen genau gültig, weil bei jeder                         endlichen Formver-
+änderung die Größe der Zahl u nicht konſtant bleibt. Die
+im Folgenden in                         Betracht zu ziehenden Formveränderungen
+ſind zwar nicht                         unendlich aber doch ſo klein, daß jene Fehler-
+quelle                         vernachläſſigt und die Beziehung auch für jene                         endlich
+kleinen Wege Δ y und                             Δl in Anwendung gebracht                         werden
+darf. In Bezug auf die Vorzeichen iſt Folgendes zu                         be-
+achten: Δ y bezeichnet den Weg,                         welcher im Sinne der trei-
+benden Kräfte P                         zurückgelegt wird, iſt alſo eine Verkleinerung
+der                         Länge
+ und daher negativ; Δ                             l dagegen bezeichnet den Weg,                         welcher
+entgegengeſetzt dem Sinne der Widerſtände                             u · P von dieſen
+zurückgelegt                         wird; je nachdem alſo dieſe Kräfte eine                         Zug-
+ſpannung oder eine Druckſpannung andeuten, d.                         h. poſitiv
+oder negativ ſind, iſt                             Δl eine Vergrößerung oder eine
+Verkleinerung                         der Länge
+ Da hiernach die Größen u                         und Δl unter allen                         Umſtänden
+gleiche Vorzeichen haben, ſo                         iſt das Produkt u · P · Δl immer
+poſitiv und                         folglich
+— P · Δ y = u · P · Δl
+oder
+1) Δy =                         — u · Δl.
+Die Beziehung behält dieſelbe Form, wenn man die                         Be-
+wegung umkehrt, alſo u P als die                         treibenden und P als                         die
+widerſtehenden Kräfte anſieht; denn in                         dieſem Falle ändern
+ſich die Vorzeichen von                         Δ y und Δ l, während u ſein                         Vor-
+zeichen behält. Die Gleichung 1) gibt an, um welches Maß
+der                         Abſtand C D (Fig. 1 und 2)                         ſich ändert, wenn der Kon-
+ſtruktionstheil E F ſeine Länge um die kleine Größe                             Δl ver-
+ändert, während alle                         übrigen Konſtruktionstheile ihre urſprüng-
+lichen                         Längen beibehalten. Vorausgeſetzt nun, daß auch bei
+den                         folgenden Formveränderungen die Werthe von u                         nicht
+merklich ſich ändern, ſo kann man die Längen                         aller Kon-
+ſtruktionstheile nach                             einander um die gegebenen poſitiven
+oder negativen                         Größen Δl verändern, die                         entſprechenden Werthe
+von Δ y nach obiger Formel beſtimmen und dieſe                         Werthe
+algebraiſch ſummiren. Dieſe                         Summe Σ Δ y iſt                         die aus allen
+jenen Formveränderungen reſultirende                         Veränderung der Länge
+C D:
+2)                                                           
+                                              Formveränderung eines                             zuſammengeſetzten Fachwerks.                                          
+In der Einleitung ergab ſich, daß die Form eines                         zu-
+ſammengeſetzten Fachwerks durch die Längen der                             (2m — 2n                         — o)
+nothwendigen Konſtruktionstheile und daher eine Form-
+
+veränderung durch die Längenänderungen jener                         Theile voll-
+kommen beſtimmt iſt. Die                         Formveränderung des zuſammen-
+geſetzten Fachwerks                         iſt alſo genau dieſelbe wie diejenige                             des
+einfachen Fachwerks, welches aus jenen                         (2 m — 2 n                         — o)
+Konſtruktionstheilen                         beſteht. Bei Anwendung der Gleichung 2)
+ſind                         ſonach die Werthe von u und die Summe                         der Produkte
+u · Δl für dieſes einfache Fachwerk zu                         beſtimmen; es iſt
+demnach                             ſo zu verfahren, als wenn die überzäh-
+ligen                             Konſtruktionstheile gar nicht vorhanden
+wären.                                  
+                                              Beſtimmung der Längenänderungen der                             überzähligen Konſtruktions-
+theile eines                             zuſammengeſetzten Fachwerks.                                          
+Es ſeien:
+l(1), l(2), l(3) ..... die Längen der                         mit (1), (2), (3) ....
+bezeichneten nothwendigen                         Konſtruktionstheile des
+Fachwerks;
+Δl(1), Δl(2), Δl(3) … die gegebenen Längenänderungen
+dieſer                             Theile;
+l1, l2, l3 … die Längen und                             Δl1,                             Δl2,                             Δl3                         … die
+Längenänderungen der mit 1, 2, 3 …                             bezeichneten
+überzähligen                             Konſtruktionstheile;
+u1, u2, u3                         … diejenigen Werthe von u, welche in                         dem
+von den nothwendigen                         Konſtruktionstheilen gebilde-
+ten einfachen Fachwerk entſtehen, wenn die                         beiden
+Außenkräfte P die Lage des überzähligen                         Konſtruktions-
+theils 1, 2, 3 … annehmen; es                         bezeichnet alſo z. B.
+u2 diejenigen Spannungen des oben bezeichneten                         ein-
+fachen Fachwerks, welche hervorgerufen werden, wenn
+man in                         dieſes Fachwerk allein den überzähligen                         Kon-
+ſtruktionstheil 2 einfügt und denſelben mit                         einer Zug-
+ſpannung gleich der unbenannten                             Zahl Eins
+anſpannt.                     
+Die Anwendung der Gleichung 2) auf dieſe Bezeichnun-
+gen                         ergibt ohne Weiteres die geſuchten Längenänderungen                         der
+überzähligen Konſtruktionstheile:
+3)                         
+Dieſen Gleichungen kann man auch die Form                         geben:
+4) 
+34*
+
+Mohr, Beitrag zur                             Theorie des Fachwerks.
+
+indem man nämlich die linke Seite                         der Gleichungen 3) mit
+unter die Summenzeichen bringt und dabei                         beachtet, daß
+die Spannung u in demjenigen                         überzähligen Konſtruktionstheil,
+auf welchen ſich                         eine der Gleichungen 3) bezieht, jedes Mal
+gleich + 1                         iſt.                                  
+                                              Beſtimmung der Spannungen in den                             Konſtruktionstheilen eines
+belaſteten                             zuſammengeſetzten Fachwerks.                                          
+Die folgende Unterſuchung geht von der                         Vorausſetzung
+aus, daß die zu beſtimmenden                         Spannungen der Konſtruktions-
+theile allein von den gegebenen                             Belaſtungen der Knoten-
+punkte                         erzeugt werden, daß alſo ein ſpannungloſer                         Zuſtand
+des Fachwerks eintritt, ſobald die                         Belaſtungen entfernt werden.
+Wenn aus jedem der p Konſtruktionstheile ein Stück                         heraus-
+geſchnitten und dieſes durch                         ſeine Spannung als äußere Kräfte
+gegen die beiden                         Schnittſtellen erſetzt wird, ſo                         entſtehen m
+Gleichgewichtsſyſteme von Kräften, welche                         in je einem der m
+Knotenpunkte ſich                         ſchneiden. Die Bedingungen des Gleich-
+gewichts                         dieſer m Syſteme können durch                         2 · m Gleichungen
+ausgedrückt werden. Es                         iſt unmöglich, ſtatiſche                         Beziehungen,
+welche in jenen 2 m Gleichungen                         nicht enthalten ſind — etwa
+durch Zerlegung des                         Fachwerks in andere Gleichgewichts-
+ſyſteme                         — aufzuſtellen, weil letztere immer aus einer                         Anzahl
+jener m Syſteme                         ſich zuſammenſetzen                         laſſen. Die Bedingun-
+gen des Gleichgewichts der                         ſämmtlichen äußeren Kräfte,                         alſo
+der bekannten Belaſtungen und der unbekannten                         Auflager-
+reaktionen, ſind in jenen 2 · m Gleichungen ebenfalls enthalten,
+weil durch                         Zuſammenlegung ſämmtlicher m                         Syſteme das
+Gleichgewichtsſyſtem der                         äußeren Kräfte entſteht. Damit die
+Ermittelung der Spannungen                         aus den gegebenen Belaſtungen
+eine beſtimmte ſtatiſche Aufgabe                         ſei, iſt es demnach
+nothwendig, daß die Summe aus                         der Anzahl der Konſtruk-
+tionstheile und der Anzahl der                         unbekannten Größen im Sy-
+ſtem der äußeren Kräfte 2 · m betrage. Jedes der n feſten
+Auflager ergibt aber für das                         Gleichgewichtsſyſtem der äußeren
+Kräfte zwei Unbekannte, nämlich die Größe und die Rich-
+tung der                         Auflagerreaktion, während bei jedem der o                         beweg-
+lichen Auflager die Richtung der Auflagerreaktion bekannt                         und
+nur die Größe derſelben unbekannt iſt. Von                         jenen 2 · m
+Gleichungen bleiben                         ſonach (2 m — 2 n — o) übrig                         zur Be-
+ſtimmung der Spannungen einer eben ſo                         großen Anzahl von
+Konſtruktionstheilen. Die                         vorſtehende Betrachtung beſtätigt
+die bekannte                         Thatſache, daß nur ein einfaches                         Fachwerk
+auf ſtatiſchem Wege ſich                         berechnen läßt.                     
+Wir bezeichnen nun:
+mit S die unbekannten                         Spannungen in den Konſtruktions-
+theilen des                         zuſammengeſetzten Fachwerks,
+mit S diejenigen                         Spannungen, welche durch die gegebenen
+Belaſtungen in dem von                         den (2 m — 2 n                         — o) noth-
+wendigen Konſtruktionstheilen gebildeten einfachen
+
+Fachwerk hervorgerufen werden;                         dieſe Spannungen laſſen
+ſich                         auf ſtatiſchem Wege vermittelſt                         graphiſcher Methoden
+oder durch Rechnung                         beſtimmen;
+mit u1, u2, u3 .... die bereits in                         den Gleichungen 3) und 4)
+benutzten Zahlengrößen; u2(3) bezeichnet alſo z. B.                         die-
+jenige Spannung, welche in dem Konſtruktionstheil                         (3)
+des oben genannten einfachen Fachwerks                         entſteht, wenn
+man in dieſes Fachwerk den                         überzähligen Konſtruktions-
+theil 2 einfügt und mit einer                         Zugſpannung gleich Eins
+anſpannt. Die Zahlen u ſind ebenfalls auf                         ſtatiſchem
+Wege zu beſtimmen.                     
+Man ändert offenbar nichts an dem Gleichgewichtszuſtande
+des                         Fachwerks, wenn man aus jedem der überzähligen
+Konſtruktionstheile 1, 2, 3 .... ein Stück                         herausſchneidet
+und dieſes in bekannter                         Weiſe durch zwei Außenkräfte S1, S2,
+S3 ....                         erſetzt (Fig. 3). Auf das von den nothwendigen
+Konſtruktionstheilen gebildete einfache Fachwerk wirken als-
+                             Fig. 3.                         
+dann außer den Belaſtungen und                         Auflagerdrücken, welche die
+Spannungen S erzeugen, noch die Außenkräfte                             S1, S2, S3 …,
+durch welche die                         Spannungen u1 · S1, u2 · S2, u3 · S3                         ....
+hervorgerufen werden. Nach einer bekannten Eigenſchaft                         des
+einfachen Fachwerks iſt die Spannung eines                         Konſtruktions-
+theils gleich der algebraiſchen                         Summe derjenigen Spannungen,
+welche von den einzelnen auf das Fachwerk                         einwirkenden
+Außenkräften in dieſem Theil erzeugt werden.                         Wenn ſonach
+die Spannungen S1, S2, S3                         … der überzähligen                         Kon-
+ſtruktionstheile bekannt ſind, ſo                         ergeben ſich die Spannungen
+der nothwendigen Konſtruktionstheile durch die                         Gleichungen:
+5) 
+alſo durch Gleichungen von der                         allgemeinen Form:
+6) S = S + u1 S1 + u2 S2 + u3 S3 + ....
+Wenn, wie                         hier vorausgeſetzt wird, die Spannungen inner-
+halb der                         Elaſticitätsgrenzen bleiben, ſo kann man die Län-
+genänderung eines                         Konſtruktionstheils durch die Gleichung:
+7) 
+
+Mohr, Beitrag zur                             Theorie des Fachwerks.
+
+beſtimmen; es                         bezeichnet hier E den Elaſticitätsmodul,                             F die
+Querſchnittsfläche und r die Größe .                     
+Indem man dieſe Werthe von Δl                         in die durch die Glei-
+chungen 4) ausgedrückten Beziehungen                         zwiſchen den Längen-
+änderungen der überzähligen und denjenigen der noth-
+wendigen Konſtruktionstheile einführt,                         ergeben ſich die
+
+Bedingungen:
+8) 
+und wenn                         man den Werth von S nach Gleichung 6)                         einſetzt:
+9)                      
+
+Die Gleichungen 9) dienen zu Beſtimmung der Span-
+nungen der                             überzähligen Konſtruktionstheile,                         deren Werthe
+in die Gleichungen 5) einzuſetzen                         ſind, um die Spannungen
+der nothwendigen Konſtruktionstheile zu ermitteln.                                  
+                                              Beſtimmung derjenigen Spannungen eines                             zuſammengeſetzten
+Fachwerks, welche durch                             Temperaturveränderungen und durch
+Ungenanigkeiten in der                             Herſtellung der Längen der                             Konſtruk-
+tionstheile hervorgerufen werden.                                          
+Man nimmt in der Regel an, daß der ſpannungloſe
+Zuſtand des unbelaſteten und gewichtloſen Fachwerks
+bei einer                         beſtimmten, für alle Konſtruktionstheile gleich                         hohen
+Temperatur eintritt. Da aber die Längen der                         Konſtruktions-
+theile eines                         zuſammengeſetzten Fachwerks von einander                         abhän-
+gig ſind, ſo würde jene                         Vorausſetzung eine mathematiſch
+genaue Ausführung                         bedingen, die praktiſch unerreichbar iſt.
+Es                         iſt daher nöthig zu berückſichtigen, daß die                             Temperatur
+t0,                         welche dem ſpannungloſen                         Zuſtande entſpricht, nicht
+für alle                         Konſtruktionstheile denſelben Werth hat. Die wirk-
+liche Temperatur t1 in irgend einem Zeitpunkt                         iſt im All-
+gemeinen ebenfalls nicht gleich hoch für alle                         Konſtruktionstheile,
+da dieſelben den                         Temperatureinflüſſen z. B. der Einwirkung
+der                         Sonnenſtrahlen in ſehr verſchiedener                         Weiſe ausgeſetzt ſein
+können. Wir                         nehmen an, es ſei die Temperaturdifferenz
+
+10) t = t1 — t0
+für jeden Konſtruktionstheil gegeben, und                         beſtimmen die Span-
+nungen T, welche                         von den genannten Urſachen hervorgerufen
+werden.                     
+Wenn, wie hier vorausgeſetzt wird, die                         Belaſtungen
+und das Eigengewicht beſeitigt                         ſind, ſo beſtehen zwiſchen                         den
+Spannungen T(1),                             T(2), T(3) .... der nothwendigen und
+den Spannungen T1, T2, T3 der überzähligen                         Konſtruk-
+tionstheile nach den Gleichungen 5) die folgenden                         Beziehungen:
+11) 
+oder allgemein:
+12) T = u1 · T1 + u2 · T2 + u3 · T3 + .....                     
+Im Vergleich mit dem ſpannungloſen Zuſtande                         iſt die
+Längenänderung eines                         Konſtruktionstheils in Folge der
+Temperaturänderung t und der Spannung T:
+13) Δl = l · δ · t + T · r
+wenn man mit δ den                         Koefficienten der Längenausdehnung
+bezeichnet. Indem man in                         dieſe Gleichung den Werth von
+T nach                         Gleichung 11) einſetzt und darauf die Gleichungen 4)
+bildet,                         ergeben ſich die Beziehungen, welche zur                         Beſtimmung
+der Spannungen T1, T2, T3 ....                         dienen:
+14)                      
+
+Aus der Uebereinſtimmung der Formen der Gleichungen
+5) und 9)                         mit denjenigen der Gleichungen 11) und 14) er-
+kennt man, daß die                         Spannung S, welche in einem                         Konſtruk-
+tionstheil von den Belaſtungen und die                         Spannung T, welche
+von der Temperatur                         hervorgerufen wird, algebraiſch zu ſum-
+miren                         ſind, um die Wirkung der gleichzeitig auftretenden
+beiden Urſachen zu ermitteln.                     
+Die im Vorhergehenden entwickelten Beziehungen ſollen
+nun auf                         die verſchiedenen Formen des Fachwerks, nämlich auf
+
+das                             Balkenfachwerk, das Bogenfachwerk und auf das
+kontinuirliche                             Balkenfachwerk angewandt und durch
+Zahlenbeiſpiele                         erläutert werden.                                  
+                                              Anwendung auf das zuſammengeſetzte                             Balkenfachwerk.                                          
+Einen Balken nennt man bekanntlich einen                         ſolchen
+Träger, welcher von einem                         feſten und einem auf horizon-
+taler                         Bahn beweglichen Auflager unterſtützt wird. Ein
+Balkenfachwerk enthält demnach 2 m — 3 nothwendige
+
+Mohr, Beitrag zur                             Theorie des Fachwerks.
+
+Konſtruktionstheile                             Es verdient bei dieſer Gelegenheit                             erwähnt zu werden, daß
+einige in neueſter Zeit zur                             Ausführung gekommene Balkenfachwerke
+von der                             nachſkizzirten Form (Fig. 14) nicht 2 m — 3                             Konſtruktionstheile
+ſondern einen weniger erhalten haben. Bei der                             Beſtimmung dieſer
+Anzahl dürfen                             ſelbſtverſtändlich die                             ſogenannten Gegendiagonalen in
+der Mitte der Trägerlänge,                             welche in der Skizze daher                             fortgelaſſen
+ſind, nicht mitgezählt                             werden. Da ein ſolches Fachwerk, wenn es                             mit
+ſcharnierförmigen Knotenpunkten verſehen                             wäre, nicht tragfähig ſein
+würde, ſo                             müſſen die Funktionen des fehlenden                             Konſtruktionstheils in
+nicht empfehlenswerther                             Weiſe von der Steifigkeit der Knotenpunkt-
+verbindungen                             übernommen werden.
+                                 Fig. 14.                             
+. Da die Stützen eines Balkenfach-
+werks den Formveränderungen                         deſſelben kein Hinderniß                         ent-
+gegenſetzen, ſo gehört zu den möglichen Formveränderungen
+offenbar auch                         diejenige, bei welcher das Fachwerk ſeiner                         ur-
+ſprünglichen Form ähnlich bleibt.                         Die Gleichungen 3) oder 4)
+welche für alle Formänderungen gelten,                         ſind demnach auch dann
+anwendbar, wenn das Verhältniß                          für alle Konſtruktions-
+theile                         denſelben Werth hat. Multiplicirt man die Gleichun-
+gen 3)                         und 4) mit dieſem konſtanten Zahlenwerth,                         ſo ent-
+ſtehen die Beziehungen zwiſchen                         den Längen l1, l2, l3 ....
+der überzähligen und den Längen l(1), l(2), l(3) .... der
+nothwendigen Konſtruktionstheile eines                         Balkenfachwerks:
+15) 
+oder wenn man die linken Seiten                         dieſer Gleichungen unter die
+Summenzeichen bringt:
+16)                                              
+Wenn die Längen aller Konſtruktionstheile bei einer                         be-
+liebigen aber für alle gleichen Temperatur t2 bekannt ſind,                         ſo
+können die Gleichungen 15) oder 16) benutzt werden, um                         die
+Werthe der dem ſpannungloſen                         Zuſtande entſprechenden Tem-
+peratur t0 zu                         beſtimmen. Für die nothwendigen                         Konſtruk-
+tionstheile des Balkenfachwerks kann                         dieſe Temperatur will-
+kürlich                         alſo z. B.
+t0 = t2
+gewählt werden. Wenn alsdann die Länge l eines über-
+zähligen                         Konſtruktionstheils bei der Temperatur t2 um das
+Maß i größer oder kleiner iſt als die durch Gleichung                         15)
+bedingte Länge, ſo ergibt ſich die Temperatur                             t0 für                         dieſen
+Konſtruktionstheil aus den                         Gleichungen:
+17) i = l                         δ (t2                         — t0) oder i = l δ (t0 — t2).                     
+
+Eine Temperaturveränderung erzeugt in einem                         zuſammen-
+geſetzten Balkenfachwerk keine Spannungen, wenn der Werth
+von                         δ · t für alle                         Konſtruktionstheile gleich groß                         iſt; denn
+in dieſem Falle werden zufolge Gleichung                         16) die erſten Glieder
+der Gleichungen 14):
+                         und in Folge deſſen erhalten die                         ſämmtlichen Werthe von T
+die Größe                         Null.                     
+Beiſpiel 1. In Figur 4 auf Blatt 610                         ſind Form,
+Dimenſionen und Belaſtungen                         eines ſchmiedeeiſernen Dach-
+trägers angegeben.                         Dieſes Balkenfachwerk enthält 7 Knoten-
+punkte und 12                         Konſtruktionstheile, demnach nur einen                         über-
+zähligen, als welcher der mit 1 bezeichnete Theil                         ausgewählt
+worden iſt. Statt deſſen                         hätte auch jeder der anderen Kon-
+ſtruktionstheile, mit                         Ausnahme der Theile 3 und 9, gewählt
+werden können. Auf die Form des                         Verfahrens und auf die
+Endreſultate hat dieſe Wahl                         ſelbſtverſtändlich keinen Einfluß.
+Die                         Konſtruktion der Kräftepläne (Fig. 5 und Fig. 6), welche
+die                         Größen von S und u1                         enthalten, iſt ſo einfach, daß eine
+Erläuterung                         nicht nöthig erſcheint. In der folgenden                         Tabelle
+ſind nun zunächſt die gegebenen Werthe von l und F und
+die hieraus ermittelten Werthe von r zuſammengeſtellt;                         der
+Elaſticitätsmodul des Schmiedeeiſens                         iſt hier, wie in den fol-
+genden Beiſpielen gleich                         2000000 Kilogramm angenommen.
+Die beiden folgenden Vertikalreihen                         enthalten die aus den
+Kräfteplänen entnommenen Werthe S und u1. Hiernach                         ſind
+vermittelſt einer Rechenſcheibe                         die Werthe von u1 · S ·                             r und
+u12 · r berechnet, in die Tabelle eingetragen und                         ſummirt.
+Die erſte der Gleichungen 9) nimmt                         demnach die Form an:
+O = — 14997 +                             5,260 S1
+woraus                             folgt:
+S1 = +                         2850 Kilogr.
+Setzt man dieſen Werth in die Gleichungen 5)                         ein, ſo ergeben
+ſich die in der letzten                         Vertikalreihe der Tabelle enthaltenen
+Reſultate.                         Dieſe Reſultate werden in Wirklichkeit nicht zur
+Geltung gelangen können, weil die                         Zugſtange (6) bei einem
+Querſchnitt von nur 4,9 □Zentimeter außer der                         elaſtiſchen
+Längenänderung höchſt                         wahrſcheinlich eine Biegung                         erleiden
+wird, bevor die Druckſpannung
+S(6) = — 1080                         Kilogr.
+zur Wirkung kommen kann. Es liegt daher die Frage nahe:
+um                         welches Maß i muß die Länge der                         Zugſtange 1 ver-
+größert werden,                         damit die Zugſtange (6) in                         beſtimmter
+Weiſe zur Thätigkeit komme?                         Dieſe Frage läßt ſich mit
+Hülfe der Gleichungen                         17) und 14) beantworten, indem man
+für den                         ſpannungloſen Zuſtand des Trägers                         zwiſchen dem
+Konſtruktionstheil 1 und den übrigen                         Theilen eine Temperatur-
+differenz t                         vorausſetzt, welche der Gleichung
+i                         = l1 · δ · t
+entſpricht. Die erſte                         der Gleichungen 14) ergibt alsdann:
+
+Mohr, Beitrag zur                             Theorie des Fachwerks.
+                                                                                                                                             
+0 = i + 0,000526 ·                             T1
+oder T1 = — 1900 ·                             i.
+Für den belaſteten Träger wird alſo
+S1 = + 2850 —                         1900 · i
+und nach Gleichung 5)
+S(6) = — 1080                         + 2850 · i
+Sollen z. B. beide                         Zugſtangen gleich ſtark                         geſpannt wer-
+den, ſo muß
+2850 —                         1900 · i = — 1080 + 2850 · i
+oder
+i = 0,83 Zentimeter
+gemacht werden. Es wird                             alsdann
+S1 = S(6) = + 1275                         Kilo,
+und nach den Gleichungen 5):
+S(1) = S(11) = — 7010 Kilo,
+S(2) = S(10) = + 5040                             „
+S(3)                         = S(9) = —                         1100 „
+S(4) = S(8) =                         — 6360 „
+S(5) = S(7) = + 3930 „                     
+Beiſpiel 2. Der in Figur 7 auf Blatt 610                         mit
+Angabe der Dimenſionen und Belaſtungen                         dargeſtellte ſchmiede-
+eiſerne                         Brückenbalken enthält 16 Knotenpunkte und 35 gegen
+Zug und Druck                         widerſtandsfähige Konſtruktionstheile, demnach
+35                         — (2 · 16 — 3) = 6
+überzählige Theile. Als                         ſolche ſind die mit 1, 2, 3, 4, 5, 6
+bezeichneten                         Diagonalen ausgewählt worden. Anſtatt                         derſelben
+hätte man auch z. B. die übrigen ſechs                         Diagonalen oder ſechs
+Vertikalſtänder wählen                         können. Der Kräfteplan der Span-
+nungen S (Figur 9) iſt nach                         dem auf Seite 230 dieſes
+Bandes beſchriebenen                         Verfahren mit Zuhülfenahme des Seil-
+polygons der Belaſtungen                         (Fig. 8) konſtruirt worden. Die
+Kräftepläne Figur 10, 11 und                         12 ergeben die Werthe von
+
+u1, u2 und u3 und der Symmetrie wegen zugleich die                         Werthe
+von u6, u5 und u4. In der Tabelle Blatt                         609 ſind die
+gegebenen Werthe von l,                             F und r, die aus den                         Kräfteplänen
+entnommenen Größen von S und u und                         ferner die hiernach
+berechneten Werthe von u ·                         S · r, u2 · r u.                         ſ. w. zuſammen-
+geſtellt. Die Summen                         der Vertikalreihen ergeben die zur
+Bildung der Gleichungen 9)                         erforderlichen Zahlenwerthe:
+O = + 19650000 +                         14881 S1 + 371 S2
+O = + 29110000 + 371 S1 + 17307 S2 + 745 S3
+O = + 14490000 +                         745 S2 + 19463 S3 + 898 S4
+O = — 63650000 + 898 S3 + 19463 S4 + 745 S5
+O = —                         42170000 + 745 S4 + 17307                             S5 + 371 S6
+O = — 8730000 + 371 S5 + 14881 S6.                     
+Aus dieſen ſechs Gleichungen erhält man:
+S1 = — 1280                             Kilo,
+S2 =                         — 1617 „
+S3 = — 831 „
+S4 = + 3220                             „
+S5 =                         + 2284 „
+S6 = + 530 „
+Wenn man dieſe Werthe in die                         Gleichungen 5) einſetzt, ſo
+gewinnt man die in der                         Vertikalreihe S der Tabelle enthalte-
+nen                         Reſultate.                     
+Nach der bislang üblichen Methode der                         Berechnung
+zuſammengeſetzter Fachwerke würde in                         dem vorliegenden Falle
+der Träger in die beiden einfachen Fachwerke Fig.                         15 und 16
+zerlegt werden. Man würde alsdann auf jeden dieſer                         beiden
+Träger die Hälfte der Einzellaſten einwirken                         laſſen, die hier-
+durch hervorgerufenen Spannungen                         beſtimmen, ſodann beide
+Fachwerke auf                         einanderlegen und die Spannungszahlen der
+ſich deckenden                         Konſtruktionstheile ſummiren. Bei dieſem                         Ver-
+fahren würde ſich z. B. für die Diagonalen 5, 9, 13 ....
+
+Mohr, Beitrag zur                             Theorie des Fachwerks.
+
+                             Fig. 15.                         
+                             Fig. 16.                         
+die Hälfte der im Kräfteplane ermittelten Werthe von                         S als
+Spannungen S ergeben. Die Ungenauigkeit                         der Methode in
+Bezug auf die Beſtimmung dieſer                         Spannungen erkennt man
+demnach aus folgender Zuſammenſtellung:
+                                                                                                                                         Aehnliche Differenzen ergeben ſich für die übrigen                         Fül-
+lungstheile, während die Fehler in der Beſtimmung der                         Gur-
+tungsſpannungen im Vergleich mit den beträchtlichen                         Größen
+dieſer Spannungen aus nahe liegenden Gründen                         erheblich
+kleiner ſind. Das alte Verfahren liefert offenbar                         deſto grö-
+ßere Fehler, je mehr die Formänderungen der beiden                         bela-
+ſteten Fachwerke, in welche man den Träger zerlegt,                         von
+einander abweichen. In dem vorliegenden Falle ſind                         dieſe
+Abweichungen verhältnißmäßig groß, weil die                         Spannungen
+der Vertikalſtänder des Fachwerks Figur 15 im                         Vergleich mit
+denjenigen im Fachwerk Figur 16 große                         Verſchiedenheiten auf-
+weiſen. Weit unbedeutender                         ſtellen ſich die Fehler heraus,
+wenn in den durch                         die Zerlegung ſich ergebenden einfachen
+Fachwerken die                         Syſteme der Füllungstheile von gleicher
+Form ſind wie z. B. in Figur 17. In                         ſolchen Fällen wird
+man unbedenklich das ältere Verfahren                         anwenden dürfen.                     
+                         Fig. 17.                                          
+Als Beiſpiel der Anwendung der Gleichung 2) iſt                         in
+der letzten Vertikalreihe der Tabelle die Durchbiegung
+                         des Knotenpunktes C, welcher die Länge der unteren                         Gurtung
+halbirt, für den hier in Rede ſtehenden                         Belaſtungsfall be-
+rechnet worden. Wenn man dieſen                         Knotenpunkt mit Eins
+belaſtet und die ſechs                         überzähligen Konſtruktionstheile                         beſeitigt,
+ſo erzeugt jene Belaſtung in                         dem übrig bleibenden einfachen
+Fachwerk die Spannungen u, welche im Kräfteplan Fig. 13
+Blatt 610                         konſtruirt und in die vorletzte Vertikalreihe der
+Tabelle                         eingetragen ſind. Die Summirung der letzten Ver-
+tikalreihe                         ergibt für die geſuchte Durchbiegung die Größe:
+
+ In dem vorliegenden Falle iſt der Einfluß der                         Längenände-
+rungen der Füllungstheile auf die                         Größe der Durch-
+biegung verſchwindend klein; denn                         ſummirt man nur die den
+Gurtungstheilen entſprechenden Zahlenwerthe der                         letzten
+Vertikalreihe, ſo ergibt ſich die                         Durchbiegung gleich
+ Es iſt jedoch keineswegs                         zuläſſig, hieraus allgemeine                         Schlüſſe
+zu ziehen.                     
+Um endlich auch den Einfluß der Temperatur durch                         ein
+Zahlenbeiſpiel zu erläutern, möge angenommen werden,                         daß
+im ſpannungloſen Zuſtande des                         Trägers die Temperatur der
+Diagonalen (5), (9), (13), (17), (21) und                         (25) um 15 Grad
+Celſius höher ſei als diejenige                         der übrigen Konſtruktionstheile,
+und daß in Folge direkter                         Einwirkung der Sonnenſtrahlen
+die Temperatur der oberen                         Gurtung die übereinſtimmende
+Temperatur aller anderen                         Konſtruktionstheile in dem betrach-
+teten Zeitpunkte um 20                         Grad überſteige.                     
+Für alle Konſtruktionstheile mit Ausſchluß der                         genann-
+ten Diagonalen und Gurtungstheile kann alſo z. B.                         ange-
+nommen werden
+ für die genannten Diagonalen                         iſt dagegen:
+ und für die Theile der oberen                         Gurtung:
+ Der Koefficient der Längenausdehnung iſt                         für Schmiede-
+eiſen:
+δ = 0,0000123.                     
+Hiernach und mit Benutzung der in der Tabelle auf
+Blatt 609 enthaltenen                         Werthe von l und u                         ſind die Summen
+å u · l ·                         δ · t in der nachfolgenden Tabelle I berechnet. Die
+Gleichungen 14) ergeben                         demnach folgende Beziehungen:
+O = —                         98700000 + 14881 T1 + 371                             T2
+O = — 99600000 + 371 T1 + 17307 T2 + 745 T3
+O = —                         104500000 + 745 T2 +                         19463 T3 + 898 T4
+O = — 104500000 + 898 T3 + 19463 T4 + 745 T5
+O = — 99600000 + 745 T4 + 17307 T5 + 371 T6
+O = —                         98700000 + 371 T5 + 14881                             T6.                     
+Aus dieſen Gleichungen erhält man die Werthe:
+T1 = T6 = + 6500 Kilo,
+T2 = T5 = + 5400 „
+T3 = T4 = + 4930 „                     
+Die von der Temperatur hervorgerufenen Spannungen
+T der übrigen Konſtruktionstheile ſind mit                         Hülfe der Glei-
+chungen 11) zu beſtimmen und erhalten                         hiernach folgende
+Werthe: (Tabelle II)                     
+
+
+Mohr, Beitrag zur Theorie                         des Fachwerks.                     
+
+                         Tabelle I.                                          
+                                                                                                                                                  Tabelle II.                                          
+                                                                                                                         
+Die Zahlenwerthe der letzten Horizontalreihe, welche die
+Spannungen für                         den □Zentimeter der Querſchnittsflächen
+angeben,                         zeigen, wie ſehr beträchtlich die hier in Rede                         ſtehen-
+den Einwirkungen werden können; denn es                         iſt wohl kaum
+zu bezweifeln, daß die Temperaturdifferenzen                         unter manchen
+Umſtänden noch größer werden können, als                         ſie hier beiſpiels-
+weiſe                         geſchätzt ſind.                     
+Von Wichtigkeit iſt außerdem ein allgemeines                         Reſultat,
+welches ſich aus den obigen Zahlen                         entnehmen läßt, die That-
+ſache nämlich, daß die                         Temperatureinwirkungen für die ſchwa-
+chen Füllungstheile                         weit nachtheiliger ſind als für die                         ſtärkeren
+Gurtungen. Wenn alſo bei der Wahl der                         Querſchnitts-
+dimenſionen, wie es üblich                         iſt, allein die von den Bela-
+ſtungen erzeugten Spannungen in Rechnung                         gebracht wer-
+den, ſo iſt es durchaus                         rathſam, als zuläſſige                         Inanſpruch-
+nahme der Feſtigkeit des Materials                         einen deſto kleineren
+Werth anzunehmen, je                         ſchwächer der Querſchnitt des                         Kon-
+ſtruktionstheils ausfällt. (Fortſetzung                         folgt.)                     
+                     
+                          Bemerkungen über die                         Feſtſtellung der Normaldimenſionen
+für                         Schifffahrtskanäle;
+vom                     Waſſerbau-Inſpektor Heß.
+                 Die Kanalprojekte Deutſchlands, welche ſeit einem                     Jahr-
+zehnt mehr oder minder ſpeciell bearbeitet der                     Ausführung
+harrten, wurden durch die finanziellen                     Verhältniſſe der letztern
+Jahre in den Hintergrund                     gedrängt; ſeit Erhöhung der Eiſen-
+bahntarife tritt                     die Nothwendigkeit der endlichen Ausführung
+aber immer mehr hervor, weshalb                     es an der Zeit ſein wird,
+die Feſtſtellung                     der Normaldimenſionen einer kurzen Beſpre-
+chung zu                     unterziehen.
+In Betreff der Frage, ob die                     Feſtſtellung der Normal-
+dimenſionen                     nothwendig ſei, gibt Frankreich uns eine zu be-
+herzigende Lehre;                     in der Zeitſchrift für Bauweſen im Jahre
+1870 hat der                     Verfaſſer eine Ueberſicht der                     Dimenſionen von
+24 größeren franzöſiſchen                     Kanälen gegeben, wie ſich eine bun-
+tere Sammlung kaum denken                     läßt. Es iſt denn auch ſchon
+35
+                  
+
+
+Band XX. Zeitſchrift des Architekten- und                         Ingenieur-Vereins zu Hannover. Blatt 609.
+                                              Tabelle zum Artikel „Beitrag zur Theorie des                             Fachwerks“ von Mohr.                                      
+                                                                                                    
+
+
+Band XX. Zeitſchrift des Arch- und Jng.-Vereins zu                         Hannover. Blatt 610.
+                                              Beitrag zur Theorie des Fachwerks von Mohr.                                      
+Fig.4. 1mm 0,1m
+Fig.5. Kräfteplan , (1mm 100 K°
+Fig.6. Kräfteplan u, 30mm 1
+Fig.7. 1mm 0,1m
+Fig.8. Seilpolygon der Belastungen.
+Fig.9.
+Fig.10. Kräfteplan u, 30mm 1
+Fig.13. Kräfteplan u 40mm -1
+
+
+
+
+
+      

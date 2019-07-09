@@ -1,0 +1,1752 @@
+
+
+
+
+
+
+
+
+
+
+Vergleichende Betrachtungen
+über
+neuere geometrische Forschungen
+von
+Dr. Felix Klein,
+o. ö. Professor der Mathematik an der Universität Erlangen.
+ Programm
+zum Eintritt in die philosophische Facultät und den Senat
+der k. Friedrich-Alexanders-Universität
+zu Erlangen.
+ Erlangen.
+Verlag von Andreas Deichert.
+1872.
+
+Druck der Universitäts-Buchdruckerei von E. Th. Jacob in Erlangen.
+
+Unter den Leistungen der letzten fünfzig Jahre auf
+dem Gebiete der Geometrie nimmt die Ausbildung der
+projectivischen Vergl. Note I. des Anhangs. Geometrie die erste Stelle ein.
+Wenn es anfänglich schien, als sollten die sogenannten
+metrischen Beziehungen ihrer Behandlung nicht zugänglich
+sein, da sie beim Projiciren nicht ungeändert bleiben, so
+hat man in neuerer Zeit gelernt, auch sie vom projectivischen
+Standpuncte aufzufassen, so dass nun die projectivische
+Methode die gesammte Geometrie umspannt. Die metri-
+schen Eigenschaften erscheinen in ihr nur nicht mehr als
+Eigenschaften der räumlichen Dinge an sich, sondern als Be-
+ziehungen derselben zu einem Fundamental-Gebilde, dem
+unendlich fernen Kugelkreise.
+Vergleicht man mit der so allmählich gewonnenen
+Auffassungsweise der räumlichen Dinge die Vorstellungen
+der gewöhnlichen (elementaren) Geometrie, so entsteht die
+Frage nach einem allgemeinen Principe, nach welchem
+die beiden Methoden sich ausbilden konnten. Diese Frage
+erscheint um so wichtiger als sich neben die elementare
+und die projectivische Geometrie, ob auch minder entwickelt,
+eine Reihe anderer Methoden stellt, denen man dasselbe
+Recht selbständiger Existenz zugestehen muss. Dahin
+gehören die Geometrie der reciproken Radien, die Geometrie
+der rationalen Umformungen etc., wie sie in der Folge
+noch erwähnt und dargestellt werden sollen.
+Wenn wir es im Nachstehenden unternehmen, ein sol-
+ches Princip aufzustellen, so entwickeln wir wohl keinen
+eigentlich neuen Gedanken, sondern umgränzen nur klar
+und deutlich, was mehr oder minder bestimmt von Manchem
+1 *
+
+gedacht worden ist. Aber es schien um so berechtigter,
+derartige zusammenfassende Betrachtungen zu publiciren,
+als die Geometrie, die doch ihrem Stoffe nach einheitlich
+ist, bei der raschen Entwicklung, die sie in der letzten Zeit
+genommen hat, nur zu sehr in eine Reihe von beinahe
+getrennten Disciplinen zerfallen ist Vergl. Note II., die sich ziemlich un-
+abhängig von einander weiter bilden. Es lag dabei aber
+auch noch die besondere Absicht vor, Methoden und Ge-
+sichtspuncte darzulegen, welche von Lie und mir in neu-
+eren Arbeiten entwickelt wurden. Es haben unsere bei-
+derseitigen Arbeiten, auf wie verschiedenartige Gegenstände
+sie sich auch bezogen, übereinstimmend auf die hier dar-
+gelegte allgemeine Auffassungsweise hingedrängt, so dass
+es eine Art von Nothwendigkeit war, auch einmal diese
+zu erörtern und von ihr aus die betr. Arbeiten nach In-
+halt und Tendenz zu characterisiren.
+War bisher nur von geometrischen Forschungen die
+Rede, so sollen darunter mit verstanden sein die Unter-
+suchungen über beliebig ausgedehnte Mannigfaltigkeiten,
+die sich, unter Abstreifung des für die rein mathemathische
+Betrachtung unwesentlichen räumlichen Bildes Vergl. Note III., aus der
+Geometrie entwickelt haben Vergl. Note IV.. Es gibt bei der Untersuch-
+ung von Mannigfaltigkeiten eben solche verschiedene Ty-
+pen, wie in der Geometrie, und es gilt, wie bei der Geo-
+metrie, das Gemeinsame und das Unterscheidende unab-
+hängig von einander unternommener Forschungen hervor-
+zuheben. Abstract genommen wär es im Folgenden nur
+nöthig, schlechthin von mehrfach ausgedehnten Mannigfal-
+tigkeiten zu reden; aber durch Anknüpfung an die geläu-
+figeren räumlichen Vorstellungen wird die Auseinandersetz-
+ung einfacher und verständlicher. Indem wir von der Betrach-
+tung der geometrischen Dinge ausgehen und an ihnen als ei-
+nem Beispiele die allgemeinen Gedanken entwickeln, verfol-
+gen wir den Gang, den die Wissenschaft in ihrer Ausbil-
+dung genommen hat, und den bei der Darstellung zu Grunde
+zu legen gewöhnlich das Vortheilhafteste ist. —
+
+Eine vorläufige Exposition des im Folgenden bespro-
+chenen Inhaltes ist hier wohl nicht möglich, da sich derselbe
+kaum in eine knappere Form Diese knappe Form ist ein Mangel der im Folgenden gegebenen
+Darstellung, der das Verständniss, wie ich fürchte, wesentlich erschwe-
+ren wird. Aber dem hätte wohl nur durch eine sehr viel weitere Aus-
+einandersetzung abgeholfen werden können, in der die Einzel-Theorien,
+die hier nur berührt werden, ausführlich entwickelt worden wären. fügen will; die Ueberschrif-
+ten der Paragraphen werden den allgemeinen Fortschritt
+des Gedanken’s angeben. Ich habe zum Schlusse eine
+Reihe von Noten zugefügt, in welchen ich entweder, wo
+es im Interesse der allgemeinen Auseinandersetzung des
+Textes nützlich schien, besondere Punkte weiter entwickelt
+habe, oder in denen ich bemüht war, den abstract mathe-
+matischen Standpunkt, der für die Betrachtungen des Tex-
+tes massgebend ist, gegen verwandte abzugränzen.
+§. 1.
+Gruppen von räumlichen Transformationen. Hauptgruppe.
+Aufstellung eines allgemeinen Problems.
+Der wesentlichste Begriff, der bei den folgenden
+Auseinandersetzungen nothwendig ist, ist der einer Gruppe
+von räumlichen Aenderungen.
+Beliebig viele Transformationen des Raumes Wir denken von den Transformationen immer die Gesammtheit
+der räumlichen Gebilde gleichzeitig betroffen und reden desshalb schlecht-
+hin von Transformationen des Raumes. Die Transformationen können,
+wie z. B. die dualistischen, statt der Puncte andere Elemente einführen;
+es wird dies im Texte nicht unterschieden. ergeben
+zusammengesetzt immer wieder eine Transformation. Hat
+nun eine gegebene Reihe von Transformationen die Eigen-
+schaft, dass jede Aenderung, die aus den ihr angehörigen
+durch Zusammensetzung hervorgeht, ihr selbst wieder an-
+gehört, so soll die Reihe eine Transformations-
+gruppe Begriffsbildung wie Bezeichnung sind herübergenommen von
+der Substitutionstheorie, in der nur an Stelle der Transforma-
+tionen eines continuirlichen Gebietes die Vertauschungen einer end-
+lichen Zahl discreter Grössen auftreten. genannt werden.
+
+Ein Beispiel für eine Transformationsgruppe bildet die
+Gesammtheit der Bewegungen (jede Bewegung als eine auf
+den ganzen Raum ausgeführte Operation betrachtet). Eine
+in ihr enthaltene Gruppe bilden etwa die Rotationen um
+einen Punct Camille Jordan hat alle Gruppen aufgestellt, die überhaupt
+in der Gruppe der Bewegungen enthalten sind: Sur les groupes de
+mouvements. Annali di Matematica. t. II.. Eine Gruppe, welche umgekehrt die
+Gruppe der Bewegungen umfasst, wird durch die Gesammt-
+heit der Collineationen vorgestellt. Die Gesammtheit der
+dualistischen Umformungen bildet dagegen keine Gruppe
+— denn zwei dualistische Umformungen ergeben zusammen
+wieder eine Collineation —, wohl aber wird wieder eine
+Gruppe erzeugt, wenn man die Gesammtheit der dualisti-
+schen mit der Gesammtheit der collinearen zusammenfügtDie Transformationen einer Gruppe brauchen übrigens durchaus
+nicht, wie das bei den im Texte zu nennenden Gruppen allerdings im-
+mer der Fall sein wird, in stetiger Aufeinanderfolge vorhanden zu sein.
+Eine Gruppe bildet z. B. auch die endliche Reihe von Bewegungen,
+die einen regelmässigen Körper mit sich selbst zur Deckung bringen,
+oder die unendliche, aber discrete Reihe, welche eine Sinuslinie sich
+selber superponiren..
+Es gibt nun räumliche Transformationen, welche die
+geometrischen Eigenschaften räumlicher Gebilde über-
+haupt ungeändert lassen. Geometrische Eigenschaften sind
+nämlich ihrem Begriffe nach unabhängig von der Lage,
+die das zu untersuchende Gebilde im Raume einnimmt, von
+seiner absoluten Grösse, endlich auch von dem Sinne Unter dem Sinne verstehe ich hier die Eigenschaft der Anord-
+nung, welche den Unterschied von der symmetrischen Figur (dem Spie-
+gelbilde) begründet. Ihrem Sinne nach unterschieden sind also z. B.
+eine rechts- und eine linksgewundene Schraubenlinie., in
+welchem seine Theile geordnet sind. Die Eigenschaften eines
+räumlichen Gebildes bleiben also ungeändert durch alle
+Bewegungen des Raumes, durch seine Aehnlichkeitstrans-
+formationen, durch den Process der Spiegelung, sowie durch
+alle Transformationen, die sich aus diesen zusammensetzen.
+Den Inbegriff aller dieser Transformationen bezeichnen wir
+als die Hauptgruppe Dass diese Transformationen eine Gruppe bilden, ist begrifflich
+nothwendig. räumlicher Aenderungen; geo-
+metrische Eigenschaften werden durch die
+
+Transformationen der Hauptgruppe nicht geän-
+dert. Auch umgekehrt kann man sagen: Geometrische
+Eigenschaften sind durch ihre Unveränderlich-
+keit gegenüber den Transformationen der Haupt-
+gruppe characterisirt. Betrachtet man nämlich den
+Raum einen Augenblick als unbeweglich etc., als eine starre
+Mannigfaltigkeit, so hat jede Figur ein individuelles Interesse;
+von den Eigenschaften, die sie als Individuum hat, sind
+es nur die eigentlich geometrischen, welche bei den Aen-
+derungen der Hauptgruppe erhalten bleiben. Dieser hier
+etwas unbestimmt formulirte Gedanke wird im weiteren
+Verlaufe der Auseinandersetzung deutlicher erscheinen.
+Streifen wird jetzt das mathematisch unwesentliche
+sinnliche Bild ab, und erblicken im Raume nur eine mehr-
+fach ausgedehnte Mannigfaltigkeit, also, indem wir an der
+gewohnten Vorstellung des Punctes als Raumelement fest-
+halten, eine dreifach ausgedehnte. Nach Analogie mit den
+räumlichen Transformationen reden wir von Transforma-
+tionen der Mannigfaltigkeit; auch sie bilden Gruppen.
+Nur ist nicht mehr, wie im Raume, eine Gruppe vor den
+übrigen durch ihre Bedeutung ausgezeichnet; jede Gruppe
+ist mit jeder anderen gleichberechtigt. Als Verallgemeiner-
+ung der Geometrie entsteht so das folgende umfassende
+Problem:
+Es ist eine Mannigfaltigkeit und in dersel-
+ben eine Transformationsgruppe gegeben; man
+soll die der Mannigfaltigkeit angehörigen Ge-
+bilde hinsichtlich solcher Eigenschaften unter-
+suchen, die durch die Transformationen der
+Gruppe nicht geändert werden.
+In Anlehnung an die moderne Ausdrucksweise, die
+man freilich nur auf eine bestimmte Gruppe, die Gruppe
+aller linearen Umformungen, zu beziehen pflegt, mag man
+auch so sagen:
+Es ist eine Mannigfaltigkeit und in dersel-
+ben eine Transformationsgruppe gegeben. Man
+entwickele die auf die Gruppe bezügliche Inva-
+riantentheorie.
+
+Dies ist das allgemeine Problem, welches die gewöhn-
+liche Geometrie nicht nur, sondern namentlich auch die
+hier zu nennenden neueren geometrischen Methoden und
+die verschiedenen Behandlungsweisen beliebig ausgedehnter
+Mannigfaltigkeiten unter sich begreift. Was besonders
+betont sein mag, ist die Willkürlichkeit, die hinsichtlich
+der Wahl der zu adjungirenden Transformationsgruppe be-
+steht, und die daraus fliessende und in diesem Sinne zu
+verstehende gleiche Berechtigung aller sich unter die all-
+gemeine Forderung subsumirenden Betrachtungsweisen.
+§. 2.
+Transformationsgruppen, von denen die eine die andere umfasst,
+werden nach einander adjungirt. Die verschiedenen Typen geome-
+trischer Forschung und ihr gegenseitiges Verhältniss.
+Da die geometrischen Eigenschaften räumlicher Dinge
+durch alle Transformationen der Hauptgruppe ungeändert
+bleiben, so ist es an und für sich absurd, nach solchen
+Eigenschaften derselben zu fragen, bei denen dies nur
+gegenüber einem Theile dieser Transformationen der Fall
+ist. Diese Fragestellung wird indess berechtigt, ob auch
+nur formal, wenn wir die räumlichen Gebilde in ihrer
+Beziehung zu fest gedachten Elementen untersuchen. Be-
+trachten wir z. B., wie in der sphärischen Trigonometrie,
+die räumlichen Dinge unter Auszeichnung eines Punctes.
+Dann ist zunächst die Forderung: die unter Adjunction
+der Hauptgruppe invarianten Eigenschaften nicht mehr der
+räumlichen Dinge an sich sondern des von ihnen mit dem ge-
+gebenen Puncte gebildeten System’s zu entwickeln. Aber
+dieser Forderung können wir die andere Form ertheilen:
+Man untersuche die räumlichen Gebilde an sich hinsichtlich
+solcher Eigenschaften, welche ungeändert bleiben durch
+diejenigen Transformationen der Hauptgruppe, welche noch
+stattfinden können, wenn wir den Punct fest halten. Mit
+anderen Worten: Es ist dasselbe, ob wir die räumlichen
+Gebilde im Sinne der Hauptgruppe untersuchen und ihnen
+den gegebenen Punct hinzufügen, oder ob wir, ohne ihnen
+irgend ein Gegebenes hinzuzufügen, die Hauptgruppe durch
+
+die in ihr enthaltene Gruppe ersetzen, deren Transforma-
+tionen den bez. Punct ungeändert lassen.
+Es ist dies ein in der Folge häufig angewandtes Princip,
+das wir desshalb gleich hier allgemein formuliren wollen;
+etwa in der folgenden Weise:
+Es sei eine Mannigfaltigkeit und zu ihrer Behandlung
+eine auf sie bezügliche Transformationsgruppe gegeben. Es
+werde das Problem vorgelegt, die in der Mannigfaltigkeit
+enthaltenen Gebilde hinsichtlich eines gegebenen Gebildes
+zu untersuchen. So kann man entweder dem Sy-
+steme der Gebilde das gegebene hinzufügen,
+und es fragt sich dann nach den Eigenschaften
+des erweiterten System’s im Sinne der gegebe-
+nen Gruppe — oder, man lasse das System un-
+erweitert, beschränke aber die Transformatio-
+nen, die man bei der Behandlung zu Grunde legt,
+auf diejenigen in der gegebenen Gruppe ent-
+haltenen, welche das gegebene Gebilde ungeän-
+dert lassen (und die nothwendig wieder eine
+Gruppe bilden). —
+Im Gegensatze zu der zu Anfang des Paragraphen
+aufgeworfenen Frage beschäftige uns nun die umgekehrte,
+die von Vornherein verständlich ist. Wir fragen nach den-
+jenigen Eigenschaften räumlicher Dinge, welche bei einer
+Transformationsgruppe erhalten bleiben, die die Haupt-
+gruppe als einen Theil umfasst. Jede Eigenschaft, die wir
+bei einer solchen Untersuchung finden, ist eine geometri-
+sche Eigenschaft des Ding’s an sich, aber das Umgekehrte
+gilt nicht. Bei der Umkehr tritt vielmehr das eben vorge-
+tragene Princip in Kraft, wobei die Hauptgruppe nun die
+kleinere Gruppe ist. Wir erhalten so:
+Ersetzt man die Hauptgruppe durch eine
+umfassendere Gruppe, so bleibt nur ein Theil
+der geometrischen Eigenschaften erhalten. Die
+übrigen erscheinen nicht mehr als Eigenschaf-
+ten der räumlichen Dinge an sich, sondern als
+Eigenschaften des System’s, welches hervorgeht,
+wenn man denselben ein ausgezeichnetes Gebilde
+
+hinzufügt. Dieses ausgezeichnete Gebilde ist
+(soweit es überhaupt ein bestimmtes Man erzeugt ein solches Gebilde beispielsweise, indem man auf
+ein beliebiges Anfangselement, das durch keine Transformation der ge-
+gebenen Gruppe in sich selbst überzuführen ist, die Transformationen
+der Hauptgruppe anwendet. ist) da-
+durch definirt, dass es, festgedacht, dem Raume
+unter den Transformationen der gegebenen
+Gruppe nur noch die Transformationen der
+Hauptgruppe gestattet.
+In diesem Satze beruht die Eigenart der hier zu be-
+sprechenden neueren geometrischen Richtungen und ihr
+Verhältniss zur elementaren Methode. Sie sind dadurch
+eben zu characterisiren, dass sie an Stelle der Hauptgruppe
+eine erweiterte Gruppe räumlicher Umformungen der Be-
+trachtung zu Grunde legen. Ihr gegenseitiges Verhältniss
+ist, sofern sich ihre Gruppen einschliessen, durch einen
+entsprechenden Satz bestimmt. Dasselbe gilt von den ver-
+schiedenen hier zu betrachtenden Behandlungsweisen mehr-
+fach ausgedehnter Mannigfaltigkeiten. Es soll dies nun an
+den einzelnen Methoden gezeigt werden, wobei denn die
+Sätze, die in diesem und dem vorigen Paragraphen allge-
+mein hingestellt wurden, ihre Erläuterung an concreten
+Gegenständen finden.
+§. 3.
+Die projectivische Geometrie.
+Jede räumliche Umformung, die nicht gerade der
+Hauptgruppe angehört, kann dazu benutzt werden, um
+Eigenschaften bekannter Gebilde auf neue Gebilde zu über-
+tragen. So verwerthen wir die Geometrie der Ebene für
+die Geometrie der Flächen, die sich auf die Ebene ab-
+bilden lassen; so schloss man schon lange vor dem Ent-
+stehen einer eigentlichen projectivischen Geometrie von den
+Eigenschaften einer gegebenen Figur auf Eigenschaften
+anderer, die durch Projection aus ihr hervorgingen. Aber
+die projectivische Geometrie erwuchs erst, als man sich
+
+gewöhnte, die ursprüngliche Figur mit allen aus ihr pro-
+jectivisch ableitbaren als wesentlich identisch zu erachten
+und die Eigenschaften, welche sich beim Projiciren über-
+tragen, so auszusprechen, dass ihre Unabhängigkeit von
+der mit dem Projiciren verknüpften Aenderung in Evidenz
+tritt. Hiermit war denn der Behandlung im Sinne von
+§. 1 die Gruppe aller projectivischen Umformun-
+gen zu Grunde gelegt und dadurch eben der Gegen-
+satz zwischen projectivischer und gewöhnlicher
+Geometrie geschaffen.
+Ein ähnlicher Entwicklungsgang, wie der hier geschil-
+derte, kann bei jeder Art von räumlicher Transformation
+als möglich gedacht werden; wir werden noch öfter darauf
+zurückkommen. Er hat sich innerhalb der projectivischen
+Geometrie selbst noch nach zwei Seiten vollzogen. Die
+eine Weiterbildung der Auffassung geschah durch Auf-
+nahme der dualistischen Umformungen in die Gruppe der
+zu Grunde gelegten Aenderungen. Für den heutigen Stand-
+punct sind zwei einander dualistisch entgegenstehende Fi-
+guren nicht mehr als zwei unterschiedene sondern als we-
+sentlich dieselben Figuren anzusehen. Ein anderer Schritt
+bestand in der Erweiterung der zu Grunde gelegten Gruppe
+collinearer und dualistischer Umformungen durch Auf-
+nahme der bez. imaginären Transformationen. Dieser
+Schritt bedingt, dass man vorher den Kreis der eigentlichen
+Raumelemente durch Hinzunahme der imaginären erweitert
+habe — ganz dem entsprechend, wie die Aufnahme der
+dualistischen Umformungen in die zu Grunde gelegte Gruppe
+die gleichzeitige Einführung von Punct und Ebene als
+Raumelement nach sich zieht. Es ist hier nicht der Ort,
+auf die Zweckmässigkeit der Einführung imaginärer Ele-
+mente zu verweisen, durch welche allein der genaue An-
+schluss der Raumlehre an das einmal gewählte Gebiet
+algebraischer Operationen erreicht wird. Dagegen muss
+betont werden, dass der Grund für die Einführung eben
+in der Betrachtung algebraischer Operationen, nicht aber
+in der Gruppe der projectivischen und dualistischen Um-
+formungen liegt. So gut wir uns bei den letzteren auf
+
+reelle Transformationen beschränken können, da schon die
+reellen Collineationen und dualistischen Transformationen
+eine Gruppe bilden; — so gut können wir imaginäre Raum-
+elemente einführen, auch wenn wir nicht auf projektivischem
+Standpuncte stehen, und sollen es, sofern wir principiell
+algebraische Gebilde untersuchen.
+Wie man vom projectivischem Standpuncte aus die
+metrischen Eigenschaften aufzufassen hat, bestimmt sich
+nach dem allgemeinen Satze des vorangehenden Paragra-
+phen. Die metrischen Eigenschaften sind als projectivische
+Beziehungen zu einem Fundamentalgebilde, dem unendlich
+fernen Kugelkreise Diese Anschauungsweise ist als eine der schönsten Leistungen
+von Chasles zu betrachten; durch sie erst gewinnt die Eintheilung
+in Eigenschaften der Lage und Eigenschaften des Masses, wie man sie
+gern an die Spitze der projectivischen Geometrie stellt, einen präcisen
+Inhalt., zu betrachten, einem Gebilde, das
+die Eigenschaft hat, nur durch diejenigen Transformationen
+der projéctivischen Gruppe, die eben auch Transformationen
+der Hauptgruppe sind, in sich überzugehen. Der so schlecht-
+hin ausgesprochene Satz bedarf noch einer wesentlichen
+Ergänzung, die der Beschränkung der gewöhnlichen An-
+schauungsweise auf reelle Raumelemente (und reelle Trans-
+formationen) entspricht. Man muss dem Kugelkreise, um
+diesem Standpuncte gerecht zu werden, noch das System
+der rellen Raumelemente (Puncte) ausdrücklich hinzufügen;
+Eigenschaften im Sinne der elementaren Geometrie sind
+projectivisch entweder Eigenschaften der Dinge an sich
+oder Beziehungen zu diesem Systeme der reellen Elemente,
+oder zum Kugelkreise oder endlich zu beiden.
+Es mag hier noch der Art gedacht werden, wie
+v. Staudt in seiner Geometrie der Lage die projectivische
+Geometrie aufbaut — d. h. diejenige projectivische Geo-
+metrie, welche sich auf Zugrundelegung der Gruppe aller
+reeller projectivisch-dualistischer Umformung beschränkt Den erweiterten Kreis, der auch imaginäre Umformungen um-
+spannt, hat v. Staudt erst in den „Beiträgen zur Geometrie der
+Lage“ zu Grunde gelegt..
+Es ist bekannt, wie er dabei aus dem gewöhnlichen
+
+Anschauungsmaterial nur solche Momente herausgreift, die
+auch bei projectivischen Umformungen erhalten bleiben.
+Wollte man weiterhin zur Betrachtung auch metrischer
+Eigenschaften übergehen, so hätte man die letzteren ge-
+radezu als Beziehungen zum Kugelkreise einzuführen. Der
+so vervollständigte Gedankengang ist für die hier vorlie-
+genden Betrachtungen insofern von grosser Bedeutung, als
+ein entsprechender Aufbau der Geometrie im Sinne jeder
+einzelnen der noch anzuführenden Methoden möglich ist.
+§. 4.
+Uebertragung durch Abbildung.
+Ehe wir in der Besprechung der geometrischen Me-
+thoden, die sich neben die elementare und die projectivische
+Geometrie stellen, weiter gehen, mögen allgemein einige
+Betrachtungen entwickelt werden, die im Folgenden immer
+wieder vorkommen und zu denen die bisher berührten
+Dinge bereits hinreichend viele Beispiele liefern. Auf diese
+Erörterungen bezieht sich der gegenwärtige und der nächst-
+folgende Paragraph.
+Gesetzt, man habe eine Mannigfaltigkeit A unter Zu-
+grundelegung einer Gruppe B untersucht. Führt man so-
+dann A durch irgendwelche Transformation in eine andere
+Mannigfaltigkeit A' über, so wird aus der Gruppe B von
+Aenderungen, die A in sich transformirten, nunmehr eine
+Gruppe B', deren Transformationen sich auf A' beziehen.
+Dann ist es ein selbstverständliches Princip, dass die
+Behandlungsweise von A unter Zugrundelegung
+von B die Behandlungsweise von A' unter Zu-
+grundelegung von B' ergibt, d. h. jede Eigenschaft,
+welche ein in A enthaltenes Gebilde mit Bezug auf die
+Gruppe B hat, ergibt eine Eigenschaft des entsprechenden
+Gebildes in A' mit Bezug auf die Gruppe B'.
+Lassen wir z. B. A eine gerade Linie, B die dreifach
+unendlich vielen linearen Transformationen bedeuten, welche
+dieselbe in sich überführen. Die Behandlungsweise von A
+ist dann eben diejenige, welche die neuere Algebra als
+
+Theorie der binären Formen bezeichnet. Nun kann man
+die gerade Linie auf einen Kegelschnitt A' der Ebene
+durch Projection von einem Puncte des letzteren aus be-
+ziehen. Aus den linearen Transformationen B der Geraden
+in sich selbst werden dann die linearen Transformationen
+B' des Kegelschnittes in sich selbst, wie man leicht zeigt,
+d. h. diejenigen Aenderungen des Kegelschnittes, welche
+mit den linearen Transformationen der Ebene, die den Ke-
+gelschnitt in sich überführen, verknüpft sind.
+Es ist nun aber nach dem Princip des zweiten Para-
+graphen Wenn man will, ist hier das Princip unter etwas erweiterter
+Form angewendet. dasselbe: nach der Geometrie auf einem Kegel-
+schnitte zu fragen, wenn man sich den Kegelschnitt als
+fest denkt und nur auf diejenigen linearen Transformatio-
+nen der Ebene achtet, welche ihn in sich überführen, oder
+die Geometrie auf dem Kegelschnitte zu studiren, indem
+man überhaupt die linearen Transformationen der Ebene
+betrachtet und sich den Kegelschnitt mit ändern lässt. Die
+Eigenschaften, welche wir an den Punctsystemen auf dem
+Kegelschnitte auffassten, sind mithin im gewöhnlichen Sinne
+projectivische. Die Verknüpfung der letzten Ueberlegung
+mit dem eben abgeleiteten Resultate gibt also:
+Binäre Formentheorie und projectivische
+Geometrie der Punctsysteme auf einem Kegel-
+schnitte ist dasselbe, d. h. jedem binären Satze
+entspricht ein Satz über derartige Punctsy-
+steme und umgekehrt Statt des Kegelschnittes in der Ebene kann man mit gleichem
+Erfolge eine Raumcurve dritter Ordnung einführen, überhaupt bei n
+Dimensionen etwas Entsprechendes aufstellen..
+Ein anderes Beispiel, welches geeignet ist, diese Art
+von Betrachtungen zu veranschaulichen, ist das folgende:
+Wenn man eine Fläche zweiten Grades mit einer Ebene
+durch stereographische Projection in Verbindung setzt, so
+tritt auf der Fläche ein Fundamentalpunct auf: der Pro-
+jectionspunct, in der Ebene sind es zwei: die Bilder der
+durch den Projectionspunct gehenden Erzeugenden. Man
+
+zeigt nun ohne Weiteres: Die linearen Transformationen
+der Ebene, welche die beiden Fundamentalpuncte dersel-
+ben ungeändert lassen, gehen durch die Abbildung in
+lineare Transformationen der Fläche zweiten Grades in
+sich selbst über, aber nur in diejenigen, welche den Pro-
+jectionspunct ungeändert lassen. Unter linearen Transfor-
+mationen der Fläche in sich selbst sind dabei diejenigen
+Aenderungen verstanden, welche die Fläche erfährt, wenn
+man lineare Raumtransformationen ausführt, welche die
+Fläche mit sich selbst zur Deckung bringen. Hiernach
+wird also die projectivische Untersuchung einer Ebene un-
+ter Zugrundelegung zweier Puncte und die projectivische
+Untersuchung einer Fläche zweiten Grades unter Zugrunde-
+legung eines Punctes identisch. Die erstere ist nun — so-
+fern man imaginäre Elemente mit in Betracht zieht —
+nichts Anderes, als die Untersuchung der Ebene im Sinne
+der elementaren Geometrie. Denn die Hauptgruppe der
+ebenen Transformationen besteht eben in den linearen Um-
+formungen, welche ein Punctepaar (die unendlich fernen
+Kreispuncte) ungeändert lassen. Wir erhalten also schliess-
+lich:
+Die elementare Geometrie der Ebene und
+die projectivische Untersuchung einer Fläche
+zweiten Grades unter Hinzunahme eines ihrer
+Puncte sind dasselbe.
+Diese Beispiele liessen sich beliebig vervielfachen Bez. anderer Beispiele, sowie namentlich der Erweiterungen auf
+mehr Dimensionen, deren die angeführten fähig sind, verweise ich auf
+bez. Auseinandersetzungen in einem Aufsatze von mir: Ueber Li-
+niengeometrie und metrische Geometrie. Math. Annalen,
+t. V, 2, sowie auf die sogleich noch zu nennenden Lie’schen Arbeiten.;
+die beiden hier entwickelten sind gewählt worden, da wir
+in der Folge noch Gelegenheit haben werden, auf dieselben
+zurückzukommen.
+
+§. 5.
+Von der Willkürlichkeit in der Wahl des Raumelements. Das Hesse’-
+sche Uebertragungsprincip. Die Liniengeometrie.
+Als Element der geraden Linie, der Ebene, des Rau-
+mes, überhaupt einer zu untersuchenden Mannigfaltigkeit
+kann statt des Punctes jedes in der Mannigfaltigkeit ent-
+haltene Gebilde: die Punctgruppe, ev. die Curve, die
+Fläche u. s. w. verwandt werden Vergl. Note III.. Indem über die Zahl
+willkürlicher Parameter, von denen man diese Gebilde ab-
+hängig setzen will, von Vornherein gar Nichts fest steht,
+erscheinen Linie, Ebene, Raum etc. je nach der Wahl des
+Elementes mit beliebig vielen Dimensionen behaftet. Aber
+so lange wir der geometrischen Untersuchung
+dieselbe Gruppe von Aenderungen zu Grunde
+legen, bleibt der Inhalt der Geometrie unver-
+ändert, das heisst, jeder Satz, der bei einer Annahme
+des Raumelements sich ergab, ist auch ein Satz bei belie-
+biger anderer Annahme, nur die Anordnung und Ver-
+knüpfung der Sätze ist geändert.
+Das Wesentliche ist also die Transformationsgruppe;
+die Zahl der Dimensionen, die wir einer Mannigfaltigkeit
+beilegen wollen, erscheint als etwas Secundäres.
+Die Verknüpfung dieser Bemerkung mit dem Princip
+des vorigen Paragraphen ergibt eine Reihe schöner Anwen-
+dungen, von denen hier einige entwickelt werden mögen,
+da diese Beispiele mehr als alle lange Auseinandersetzung
+geeignet scheinen, den Sinn der allgemeinen Betrachtung
+darzulegen.
+Die projectivische Geometrie auf der Geraden (die
+Theorie der binären Formen) ist nach dem vorigen Para-
+graphen mit der projectivischen Geometrie auf dem Kegel-
+schnitte gleichbedeutend. Auf letzterem mögen wir jetzt
+statt des Punctes das Punctepaar als Element betrachten.
+
+Die Gesammtheit der Punctepaare des Kegelschnitts lässt
+sich aber auf die Gesammtheit der Geraden der Ebene be-
+ziehen, indem man jede Gerade dem Punctepaare zuordnet,
+in welchem sie den Kegelschnitt trifft. Bei dieser Abbild-
+ung gehen die linearen Transformationen des Kegelschnitts
+in sich selbst in die linearen Transformationen der (aus
+Geraden bestehend gedachten) Ebene über, welche den
+Kegelschnitt ungeändert lassen. Ob wir aber die aus den
+letzteren bestehende Gruppe betrachten, oder die Gesammt-
+heit der linearen Transformationen der Ebene zu Grunde
+legen und den zu untersuchenden Gebilden der Ebene den
+Kegelschnitt allemal hinzufügen, ist nach §. 2 gleichbedeu-
+tend. Indem wir alle diese Ueberlegungen zusammen neh-
+men, haben wir:
+Die Theorie der binären Formen und die pro-
+jectivische Geometrie der Ebene unter Zugrunde-
+legung eines Kegelschnittes sind gleichbedeu-
+tend.
+Da endlich projectivische Geometrie der Ebene unter
+Zugrundelegung eines Kegelschnittes eben wegen der Gleich-
+heit der Gruppe mit der projectivischen Massgeometrie coïn-
+cidirt, die man in der Ebene auf einen Kegelschnitt grün-
+den kann Vergl. Note V., so mögen wir auch so sagen:
+Die Theorie der binären Formen und die all-
+gemeine projectivische Massgeometrie in der
+Ebene sind dasselbe.
+Statt des Kegelschnitts in der Ebene können wir in
+der vorstehenden Betrachtung die Curve dritter Ordnung
+im Raume setzen etc., doch mag dies unausgeführt bleiben.
+Der hier dargelegte Zusammenhang zwischen der Geometrie
+der Ebene, weiterhin des Raumes oder einer beliebig aus-
+gedehnten Mannigfaltigkeit deckt sich im Wesentlichen mit
+dem von Hesse vorgeschlagenen Uebertragungsprincipe
+(Borchardt’s Journal Bd. 66).
+Ein Beispiel ganz ähnlicher Art ergibt die projectivische
+Geometrie des Raumes, oder, anders ausgedrückt, die Theo-
+2
+
+rie der quaternären Formen. Fasst man die gerade Linie
+als Raumelement und ertheilt ihr, wie in der Linien-
+geometrie geschieht, sechs homogene Coordinaten, zwischen
+denen eine Bedingungsgleichung vom zweiten Grade Statt
+findet, so erscheinen die linearen und dualistischen Trans-
+formationen des Raumes als diejenigen linearen Transfor-
+mationen der unabhängig gedachten sechs Veränderlichen,
+welche die Bedingungsgleichung in sich überführen. Durch
+eine Verknüpfung ähnlicher Ueberlegungen, wie sie soeben
+entwickelt wurden, erhält man hieraus den Satz:
+Die Theorie der quaternären Formen deckt
+sich mit der projectivischen Massbestimmung
+in einer durch 6 homogene Veränderliche er-
+zeugten Mannigfaltigkeit.
+Wegen der näheren Ausführung dieser Auffassung ver-
+weise ich auf einen demnächst in den Math. Annalen (Bd.
+VI) erscheinenden Aufsatz: „Ueber die sogenannte Nicht-
+Euklidische Geometrie“, sowie auf eine Note am Schlusse
+dieser Mittheilung Vergl. Note VI..
+Ich knüpfe an die vorstehenden Auseinandersetzungen
+noch zwei Bemerkungen, von denen die erste zwar schon
+implicite in dem Bisherigen enthalten ist, aber ausgeführt
+werden soll, weil der Gegenstand, auf den sie sich bezieht,
+zu leicht Missverständnissen ausgesetzt ist.
+Wenn wir beliebige Gebilde als Raumelemente ein-
+führen, so erhält der Raum beliebig viele Dimensionen.
+Wenn wir dann aber an der uns geläufigen (elementaren oder
+projectivischen) Anschauungsweise festhalten, so ist die
+Gruppe, welche wir für die mehrfach ausgedehnte Mannig-
+faltigkeit zu Grunde zu legen haben, von Vorne herein ge-
+geben; es ist eben die Hauptgruppe bez. die Gruppe der
+projectivischen Umformungen. Wollten wir eine andere
+Gruppe zu Grunde legen, so müssten wir von der gewöhn-
+lichen bez. der projectivischen Anschauung abgehen. So
+richtig es also ist, dass bei geschickter Wahl der Raum-
+elemente der Raum Mannigfaltigkeiten von beliebig vielen
+
+Ausdehnungen repräsentirt, so wichtig ist es, hinzuzufügen,
+dass bei dieser Repräsentation entweder von
+Vorneherein eine bestimmte Gruppe der Behand-
+lung der Mannigfaltigkeit zu Grunde zu legen
+ist, oder dass wir, wollen wir über die Gruppe
+verfügen, unsere geometrische Auffassung ent-
+sprechend auszubilden haben. — Es könnte, ohne
+diese Bemerkung, z. B. eine Repräsentation der Linien-
+geometrie in der folgenden Weise gesucht werden. Die
+Gerade erhält in der Liniengeometrie sechs Coordinaten;
+eben so viele Coëfficienten besitzt der Kegelschnitt in der
+Ebene. Das Bild der Liniengeometrie würde also die Geo-
+metrie in einem Kegelschnittsysteme sein, das aus der Ge-
+sammtheit der Kegelschnitte durch eine quadratische Gleich-
+ung zwischen den Coëfficienten ausgesondert wird. Das
+ist richtig, sowie wir als Gruppe der ebenen Geometrie die
+Gesammtheit der Transformationen zu Grunde legen, die
+durch lineare Umformungen der Kegelschnitts-Coëfficien-
+ten repräsentirt werden, welche die quadratische Beding-
+ungsgleichung in sich überführen. Halten wir aber an der
+elementaren bez. der projectivischen Auffassung der ebenen
+Geometrie fest, so haben wir eben kein Bild.
+Die zweite Bemerkung bezieht sich auf folgende Be-
+griffsbildung. Sei im Raume irgend eine Gruppe, etwa
+die Hauptgruppe gegeben. So wähle man ein einzelnes
+räumliches Gebilde, etwa einen Punct, oder eine Gerade,
+oder auch ein Ellipsoid etc. aus und wende auf dasselbe
+alle Transformationen der Hauptgruppe an. Man erhält dann
+eine mehrfach unendliche Mannigfaltigkeit mit einer An-
+zahl von Dimensionen, die im Allgemeinen gleich der Zahl
+der in der Gruppe enthaltenen willkürlichen Parameter ist,
+die in besonderen Fällen herabsinkt, wenn nämlich das
+ursprünglich gewählte Gebilde die Eigenschaft besitzt, durch
+unendlich viele Transformationen der Gruppe in sich über-
+geführt zu werden. Jede so erzeugte Mannigfaltigkeit
+heisse mit Bezug auf die erzeugende Gruppe ein Körper. Ich wähle den Namen nach dem Vorgange von Dedekind,
+der in der Zahlentheorie ein Zahlengebiet als Körper bezeichnet, wenn
+2 *
+
+Wollen wir nun den Raum im Sinne der Gruppe unter-
+suchen und dabei bestimmte Gebilde als Raumelemente
+auszeichnen, und wollen wir nicht, dass Gleichberechtigtes
+ungleichartig dargestellt werde, so müssen wir die Raum-
+elemente ersichtlich so wählen, dass ihre Man-
+nigfaltigkeit entweder selbst einen Körper bil-
+det oder in Körper zerlegt werden kann. Von
+dieser evidenten Bemerkung soll später (§. 9) eine Anwen-
+dung gemacht werden. Der Körper-Begriff selbst wird im
+Schlussparagraphen in Verbindung mit verwandten Begrif-
+fen noch einmal zur Sprache kommen.
+§. 6.
+Die Geometrie der reciproken Radien. Die Interpretation von x+iy.
+Wir kehren mit diesem Paragraphen zur Besprechung
+der verschiedenen Richtungen der geometrischen Forschung
+zurück, wie sie in §§. 2. 3 begonnen wurde.
+Als ein Seitenstück zu den Betrachtungsweisen der
+projectivischen Geometrie kann man in vielfacher Hinsicht
+eine Classe geometrischer Ueberlegungen betrachten, bei
+denen von der Umformung durch reciproke Radien fort-
+laufender Gebrauch gemacht wird. Es gehören hierher die
+Untersuchungen über die sog. Cycliden und anallagmatische
+Flächen, über die allgemeine Theorie der Orthogonalsy-
+steme, ferner Untersuchungen über das Potential etc. Wenn
+man die in denselben enthaltenen Betrachtungen noch nicht
+gleich den projectivischen zu einer besonderen Geometrie
+zusammengefasst hat, die dann als Gruppe die Ge-
+sammtheit derjenigen Umformungen zu Grunde
+zu legen hätte, welche durch Verbindung der
+Hauptgruppe mit der Transformation durch re-
+ciproke Radien entstehen, so ist das wohl dem zu-
+fälligen Umstande zuzuschreiben, dass die genannten Theo-
+rien seither nicht im Zusammenhange dargestellt worden
+es aus gegebenen Elementen durch gegebene Operationen entstanden ist.
+(Zweite Auflage von Dirichlet’s Vorlesungen.)
+
+sind; den einzelnen Autoren, die in dieser Richtung arbei-
+teten, wird eine solche methodische Auffassung nicht fern
+gelegen haben.
+Die Parallele zwischen dieser Geometrie der reciproken
+Radien und der projectivischen ergibt sich, sowie einmal
+die Frage nach einem Vergleiche vorhanden ist, von selbst,
+und es mag daher nur ganz im Allgemeinen auf die fol-
+genden Puncte aufmerksam gemacht werden:
+In der projectivischen Geometrie sind Punct, Gerade,
+Ebene die Elementar-Begriffe. Kreis und Kugel sind nur
+specielle Fälle von Kegelschnitt und Fläche zweiten Gra-
+des. Das unendlich Ferne der elementaren Geometrie er-
+scheint als Ebene; das Fundamentalgebilde, auf welches
+sich die elementare Geometrie bezieht, ist ein unendlich
+ferner, imaginärer Kegelschnitt.
+In der Geometrie der reciproken Radien sind Punct,
+Kreis und Kugel die Elementarbegriffe. Gerade und Ebene
+sind specielle Fälle der letzteren, dadurch charakterisirt,
+dass sie einen, im Sinne der Methode übrigens nicht weiter
+ausgezeichneten Punct, den unendlich fernen Punct ent-
+halten. Die elementare Geometrie erwächst, so wie man
+diesen Punct fest denkt.
+Die Geometrie der reciproken Radien ist einer Ein-
+kleidung fähig, welche sie neben die Theorie der binären
+Formen und die Liniengeometrie stellt, falls man die letz-
+teren in der Weise behandelt, wie das im vorigen Para-
+graphen angedeutet wurde. Wir mögen zu diesem Zwecke
+die Betrachtung zunächst auf ebene Geometrie und also
+auf Geometrie der reciproken Radien in der Ebene Geometrie der reciproken Radien auf der Geraden ist mit der
+projectivischen Untersuchung der Geraden gleichbedeutend, da die bez.
+Umformungen die nämlichen sind. Man kann daher auch in der Geo-
+metrie der reciproken Radien von einem Doppelverhältnisse von
+vier Puncten einer Geraden und weiterhin eines Kreises reden. be-
+schränken.
+Es wurde bereits des Zusammenhangs gedacht, der
+zwischen der elementaren Geometrie der Ebene und der
+projectivischen Geometrie der mit einem ausgezeichneten
+
+Puncte versehenen Fläche zweiten Grades besteht (§. 4).
+Sieht man von dem ausgezeichneten Puncte ab und betrach-
+tet also die projectivische Geometrie auf der Fläche an sich,
+so hat man ein Bild der Geometrie der reciproken Radien
+in der Ebene. Denn man überzeugt sich leicht Vergleiche die bereits genannte Arbeit: Ueber Liniengeometrie
+und metrische Geometrie. Math. Annalen Bd. V., dass der
+Transformationsgruppe der reciproken Radien in der Ebene
+vermöge der Abbildung der Fläché zweiten Grades die Ge-
+sammtheit der linearen Transformationen der letzteren in
+sich selbst entspricht. Man hat also:
+Geometrie der reciproken Radien in der
+Ebene und projectivische Geometrie auf einer
+Fläche zweiten Grades ist dasselbe,
+und ganz entsprechend:
+Geometrie der reciproken Radien im Raume
+ist mit der projectivischen Behandlung einer
+Mannigfaltigkeit gleichbedeutend, die durch
+eine quadratische Gleichung zwischen fünf ho-
+mogenen Veränderlichen dargestellt wird.
+Die Raumgeometrie ist also durch die Geometrie der
+reciproken Radien in ganz dieselbe Verbindung mit einer
+Mannigfaltigkeit von vier Dimensionen gesetzt, wie vermöge
+der Liniengeometrie mit einer Mannigfaltigkeit von fünf
+Ausdehnungen.
+Die Geometrie der reciproken Radien in der Ebene
+gestattet, sofern man nur auf reelle Transformationen
+achten will, noch nach einer anderen Seite eine interessante
+Darstellung, resp. Verwendung. Breitet man nämlich eine
+complexe Variable x+iy in gewöhnlicher Weise in der Ebene
+aus, so entspricht ihren linearen Transformationen die
+Gruppe der reciproken Radien, mit der erwähnten Beschränk-
+ung auf das Reelle. Die Untersuchung der Functionen
+einer complexen Veränderlichen, die beliebigen linearen
+Transformationen unterworfen gedacht ist, ist aber nichts
+Anderes, als was bei einer etwas abgeänderten Darstellungs-
+weise Theorie der binären Formen genannt wird. Also:
+
+Die Theorie der binären Formen findet ihre
+Darstellung durch die Geometrie der reciproken
+Radien in der reellen Ebene, so zwar, dass auch
+die complexen Werthe der Variabeln repräsen-
+tirt werden.
+Von der Ebene mögen wir, um in den gewohnteren
+Vorstellungskreis der projectivischen Umformungen zu ge-
+langen, zur Fläche zweiten Grades aufsteigen. Da wir nur
+reelle Elemente der Ebene betrachteten, ist es nicht mehr
+gleichgültig, wie man die Fläche wählt; sie ist ersichtlich
+nicht geradlinig zu nehmen. Insbesondere können wir uns
+dieselbe — wie man das zur Interpretation einer complexen
+Veränderlichen auch sonst thut — als Kugelfläche denken
+und erhalten so den Satz:
+Die Theorie der binären Formen complexer
+Variablen findet ihre Repräsentation in der pro-
+jectivischen Geometrie der reellen Kugelfläche.
+Ich habe mir nicht versagen mögen, in einer Note Vergl. Note VII.
+noch auseinanderzusetzen, wie schön dieses Bild die Theorie
+der binären cubischen und biquadratischen Formen erläutert.
+§. 7.
+Erweiterungen des Vorangehenden. Lie’s Kugelgeometrie.
+An die Theorie der binären Formen, die Geometrie
+der reciproken Radien und die Liniengeometrie, welche im
+Vorstehenden coordinirt und nur durch die Zahl der Ver-
+änderlichen unterschieden scheinen, lassen sich gewisse Er-
+weiterungen knüpfen, die nun auseinandergesetzt werden
+mögen. Dieselben sollen einmal dazu beitragen, den Ge-
+danken, dass die Gruppe, welche die Behandlungsweise ge-
+gebener Gebiete bestimmt, beliebig erweitert werden kann,
+an neuen Beispielen zu erläutern; dann aber ist namentlieh
+die Absicht gewesen, Betrachtungen, welche Lie in einer
+neueren Abhandlung niedergelegt hat Partielle Differentialgleichungen und Complexe. Math. Anna-
+len V., in ihrer Beziehung
+
+zu den hier vorgetragenen Ueberlegungen darzulegen. Der
+Weg, auf welchem wir zu Lie’s Kugelgeometrie gelangen,
+weicht insofern von dem von Lie eingeschlagenen ab, als
+Lie an liniengeometrische Vorstellungen anknüpft, während
+wir, um uns mehr der gewöhnlichen geometrischen Anschau-
+ung anzuschliessen und im Zusammenhange mit dem Vor-
+hergehenden zu bleiben, bei den bez. Auseinandersetzun-
+gen eine geringere Zahl von Veränderlichen voraussetzen.
+Die Betrachtungen sind, wie bereits Lie selbst hervorge-
+hoben hat (Göttinger Nachrichten 1871. N. 7, 22) von der
+Zahl der Variabeln unabhängig. Sie gehören dem grossen
+Kreise von Untersuchungen an, welche sich mit der pro-
+jectivischen Untersuchung quadratischer Gleichungen zwi-
+schen beliebig vielen Veränderlichen beschäftigen, Unter-
+suchungen, die wir bereits öfter berührt haben und die uns
+noch wiederholt begegnen werden (vergl. §. 10 u. a.)
+Ich knüpfe an den Zusammenhang an, der zwischen
+der reellen Ebene und der Kugelfläche durch stereogra-
+phische Projection hergestellt wird. Wir setzten bereits in
+§. 5 die Geometrie der Ebene mit der Geometrie auf ei-
+nem Kegelschnitte in Verbindung, indem wir der Geraden
+der Ebene das Punctepaar zuordneten, in welchem sie den
+Kegelschnitt trifft. Entsprechend können wir einen Zu-
+sammenhang zwischen der Raumgeometrie und der Geo-
+metrie auf der Kugel aufstellen, indem wir jeder Ebene
+des Raumes den Kreis zuordnen, in welchem sie die Ku-
+gel schneidet. Uebertragen wir dann durch stereographi-
+sche Projection die Geometrie auf der Kugel von derselben
+auf die Ebene, wobei jeder Kreis in einen Kreis übergeht,
+so entsprechen einander also:
+die Raumgeometrie, welche als Element die Ebene,
+als Gruppe diejenigen linearen Transformationen benutzt,
+welche eine Kugel in sich überführen;
+die ebene Geometrie, deren Element der Kreis, deren
+Gruppe die Gruppe der reciproken Radien ist.
+Die erstere Geometrie wollen wir nun nach zwei Sei-
+ten verallgemeinern, indem wir statt ihrer Gruppe eine
+umfassendere setzen. Die resultirende Erweiterung über-
+
+trägt sich dann durch die Abbildung ohne Weiteres auf
+ebene Geometrie.
+Statt der linearen Transformationen des aus Ebenen
+bestehenden Raumes, welche die Kugel in sich überführen,
+liegt es nahe, entweder die Gesammtheit der linearen Trans-
+formationen des Raumes, oder die Gesammtheit der Ebenen-
+Transformationen des Raumes zu wählen, welche die Ku-
+gel ungeändert lassen, indem wir das eine Mal von der
+Kugel, das andere Mal von dem linearen Character der
+anzuwendenden Transformationen absehen. Die erste Ver-
+allgemeinerung ist ohne Weiteres verständlich und wir
+mögen sie also zuerst betrachten und in ihrer Bedeutung
+für ebene Geometrie verfolgen; auf die zweite kommen
+wir hernach zurück, wobei es sich denn zunächst darum
+handelt, die allgemeinste betreffende Transformation zu be-
+stimmen.
+Die linearen Transformationen des Raumes haben die
+Eigenschaft gemein, Ebenenbüschel und Ebenenbündel wie-
+der in solche überzuführen. Aber auf die Kugel übertra-
+gen ergibt das Ebenenbüschel ein Kreisbüschel, d. h. eine
+einfach unendliche Reihe von Kreisen mit gemeinsamen
+Schnittpunkten; das Ebenenbündel ergibt ein Kreisbündel,
+d. h. eine zweifach unendliche Schaar von Kreisen, die
+auf einem festen Kreise senkrecht stehen (dem Kreise, des-
+sen Ebene die Polarebene des den Ebenen des geg. Bün-
+dels gemeinsamen Punctes ist). Den linearen Transforma-
+tionen des Raumes entsprechen also auf der Kugel und
+weiterhin in der Ebene Kreistransformationen von der cha-
+racteristischen Eigenschaft, Kreisbüschel und Kreisbündel
+in ebensolche überzuführen Diese Transformationen werden gelegentlich in Grassmann’s
+Ausdehnungslehre betrachtet (in der Auflage von 1862, p. 278).. Die ebene Geometrie
+welche die Gruppe der so gewonnenen Trans-
+formationen benutzt, ist das Bild der gewöhn-
+lichen projectivischen Raumgeometrie. Als Ele-
+ment der Ebene wird man in dieser Geometrie nicht den
+Punct benutzen können, da die Puncte für die gewählte
+
+Transformationsgruppe keinen Körper bilden (§. 5), son-
+dern man wird die Kreise als Elemente wählen.
+Bei der zweiten Erweiterung, die wir nannten, gilt es
+zunächst die Frage nach der Art der bez. Transformations-
+gruppe erledigen. Es handelt sich darum, Ebenen-Trans-
+formationen zu finden, die aus jedem Ebenenbündel, des-
+sen Scheitel auf der Kugel liegt, wieder ein solches Bün-
+del machen. Wir mögen der kürzeren Ausdrucksweise
+wegen zunächst die Frage dualistisch umkehren und über-
+dies einen Schritt in der Zahl der Dimensionen hinab
+gehen; wir wollen also nach Puncttransformationen der
+Ebene fragen, welche aus jeder Tangente eines gegebenen
+Kegelschnittes wiederum eine Tangente erzeugen. Zu dem
+Zwecke betrachten wir die Ebene mit ihrem Kegelschnitte
+als Bild einer Fläche zweiten Grades, die man von einem
+nicht auf ihr befindlichen Raumpuncte aus so auf die
+Ebene projicirt hat, dass der bez. Kegelschnitt die Ueber-
+gangscurve vorstellt. Den Tangenten des Kegelschnitt’s
+entsprechen die Erzeugenden der Fläche, und die Frage
+ist auf die andere zurückgeführt nach der Gesammtheit der
+Puncttransformationen der Fläche in sich selbst, bei denen
+die Erzeugenden Erzeugende bleiben.
+Solcher Transformationen gibt es nun zwar beliebig
+unendlich viele: denn man braucht nur den Punct der
+Fläche als Durchschnitt der Erzeugenden zweierlei Art zu
+betrachten und jedes der Geraden-Systeme beliebig in sich
+zu transformiren. Aber unter den Transformationen sind
+insbesondere die linearen. Nur auf diese wollen wir ach-
+ten. Hätten wir nämlich nicht mit einer Fläche, sondern
+mit einer mehrfach ausgedehnten Mannigfaltigkeit zu thun,
+die durch eine quadratische Gleichung repräsentirt wird,
+so blieben nur die linearen Transformationen, die anderen
+kämen in Wegfall Projicirt man die Mannigfaltigkeit stereographisch, so erhält
+man den bekannten Satz: In mehrfach ausgedehnten Gebieten (schon
+im Raume) gibt es ausser den Transformationen, die sich in der Gruppe
+der reciproken Radien befinden, keine conformen Puncttransformationen.
+In der Ebene gibt es dagegen beliebig viele andere. Vergl. auch die
+citirten Arbeiten von Lie..
+
+Diese linearen Transformationen der Fläche in sich
+selbst ergeben, durch (nicht stereographische) Projection
+auf die Ebene übertragen, zweideutige Puncttransformatio-
+nen, vermöge deren aus jeder Tangente des Kegelschnittes,
+der die Uebergangscurve bildet, allerdings wieder eine
+Tangente wird, aus jeder anderen Geraden aber im Allge-
+meinen ein Kegelschnitt, der die Uebergangscurve doppelt
+berührt. Es lässt sich diese Transformationsgruppe passend
+characterisiren, wenn man auf den Kegelschnitt, der die
+Uebergangscurve bildet, eine projectivische Massbestimmung
+gründet. Die Transformationen haben dann die Eigen-
+schaft, Puncte, welche im Sinne der Massbestimmung von
+einander eine Entfernung gleich Null haben, sowie Puncte,
+welche von einem anderen Puncte eine constante Entfer-
+nung haben, wieder in solche Puncte zu verwandeln.
+Alle diese Betrachtungen lassen sich auf beliebig viele
+Variabeln übertragen, insbesondere also für die ursprüng-
+liche Fragestellung, die sich auf die Kugel und die Ebene
+als Element bezog, verwerthen. Man kann dem Resultate
+dabei eine besonders anschauliche Form geben, weil der
+Winkel, den zwei Ebenen im Sinne der auf eine Kugel
+gegründeten projectivischen Massbestimmung mit einander
+bilden, mit dem Winkel gleich ist, den ihre Durchschnitts-
+kreise mit der Kugel im gewöhnlichen Sinne mit einander
+bilden.
+Wir erhalten also auf der Kugel und weiterhin auf
+der Ebene eine Gruppe von Kreistransformationen, welche
+die Eigenschaft haben, Kreise, die einander berüh-
+ren (einen Winkel gleich Null einschliessen), so-
+wie Kreise, die einen anderen Kreis unter glei-
+chem Winkel schneiden, in eben solche Kreise
+überzuführen. In der Gruppe dieser Transformationen
+sind auf der Kugel die bez. linearen, in der Ebene die
+Transformationen der Gruppe der reciproken Radien ent-
+halten.
+Die auf diese Gruppe zu gründende Kreisgeometrie ist
+nun das Analogon zu der Kugelgeometrie, wie sie
+Lie für den Raum entworfen hat, und wie sie bei Unter-
+
+suchungen über Krümmung der Flächen von ausgezeichneter
+Bedeutung scheint. Sie schliesst die Geometrie der reci-
+proken Radien in demselben Sinne in sich, wie letztere
+wieder die elementare Geometrie. —
+Die nunmehr gewonnenen Kreis- (Kugel-)Transforma-
+tionen haben insbesondere die Eigenschaft, sich berührende
+Kreise (Kugeln) in eben solche überzuführen. Betrachtet
+man alle Curven (Flächen) als Umhüllungsgebilde von
+Kreisen (Kugeln), so werden in Folge dessen Curven (Flä-
+chen), die sich berühren, immer in wieder solche über-
+gehen. Die fraglichen Transformationen gehören also in
+die Classe der später allgemein zu betrachtenden Berüh-
+rungstransformationen, d. h. solcher Umformungen,
+bei denen Berührung von Punctgebilden eine invariante
+Beziehung ist. Die im vorliegenden Paragraphen zuerst
+erwähnten Kreistransformationen, denen man analoge Ku-
+geltransformationen an die Seite stellen kann, sind keine
+Berührungstransformationen. —
+Wurden vorstehend die zweierlei Erweiterungen nur
+an die Geometrie der reciproken Radien angeknüpft, so
+gelten dieselben in entsprechender Weise für Liniengeo-
+metrie, überhaupt für die projectivische Untersuchung einer
+durch eine quadratische Gleichung ausgeschiedenen Man-
+nigfaltigkeit, wie bereits angedeutet wurde, hier aber nicht
+weiter ausgeführt werden soll.
+§. 8.
+Aufzählung weiterer Methoden, denen eine Gruppe von Puncttrans-
+formationen zu Grunde liegt.
+Elementare Geometrie, Geometrie der reciproken Radien
+und auch projectivische Geometrie, sofern man von den
+mit Wechsel des Raumelement’s verknüpften dualistischen
+Umformungen absieht, subsumiren sich als einzelne Glieder
+unter die grosse Menge von denkbaren Betrachtungswei-
+sen, welche überhaupt Gruppen von Puncttransformationen
+zu Grunde legen. Wir mögen hier nur die folgenden drei
+Methoden, die hierin mit den genannten übereinstimmen,
+
+hervorheben. Sind diese Methoden auch lange nicht in
+dem Masse, wie die projectivische Geometrie, zu selb-
+ständigen Disciplinen entwickelt, so treten sie doch deut-
+lich erkennbar in den neueren Untersuchungen auf.
+1. Die Gruppe der rationalen Umformungen.
+Bei rationalen Umformungen muss wohl unterschieden
+werden, ob dieselben für alle Puncte des Gebietes, in
+welchem man operirt, also des Raumes oder der Ebene etc.,
+rational sind, oder nur für die Puncte einer in dem Gebiete
+enthaltenen Mannigfaltigkeit, einer Fläche, einer Curve.
+Nur die ersteren sind zu verwenden, wenn es gilt, im bis-
+herigen Sinne eine Geometrie des Raumes, der Ebene zu
+entwerfen; die letzteren gewinnen von dem hier gegebenen
+Standpuncte aus erst Bedeutung, wenn Geometrie auf einer
+gegebenen Fläche, Curve studirt werden soll. Dieselbe
+Unterscheidung gilt bei der sogleich anzuführenden Ana-
+lysis situs.
+Die seitherigen Untersuchungen, hier wie dort, haben
+sich aber wesentlich mit Transformationen der zweiten Art
+beschäftigt. Insofern dabei nicht die Frage nach der Geo-
+metrie auf der Fläche, der Curve war, es sich vielmehr
+darum handelte, Criterien zu finden, damit zwei Flächen,
+Curven in einander transformirt werden können, treten
+diese Untersuchungen aus dem Kreise der hier zu betrach-
+tenden heraus. Der hier aufgestellte allgemeine Schema-
+tismus umspannt eben nicht die Gesammtheit mathemati-
+scher Forschung überhaupt, sondern er bringt nur gewisse
+Richtungen unter einen gemeinsamen Gesichtspunct.
+Für eine Geometrie der rationalen Umformungen, wie
+sie sich unter Zugrundelegung der Transformationen der
+ersten Art ergeben muss, sind bis jetzt erst die Anfänge
+vorhanden. Im Gebiete erster Stufe, auf der geraden
+Linie, sind die rationalen Umformungen mit den linearen
+identisch und liefern also nichts Neues. In der Ebene
+kennt man freilich die Gesammtheit der rationalen Umfor-
+mungen (der Cremona’schen Transformationen), man
+
+weiss, dass sie sich durch Zusammensetzung quadratischer
+erzeugen lassen. Man kennt auch invariante Charactere
+der ebenen Curven: ihr Geschlecht, die Existenz der
+Moduln; aber eigentlich zu einer Geometrie der Ebene in
+dem hier gemeinten Sinne entwickelt sind diese Betrach-
+tungen noch nicht. Im Raume ist die ganze Theorie noch
+erst im Entstehen begriffen. Von den rationalen Umfor-
+mungen kennt man bis jetzt nur wenige und benutzt die-
+selben, um bekannte Flächen mit unbekannten durch Ab-
+bildung in Verbindung zu setzen. —
+2. Die Analysis situs.
+In der sog. Analysis situs sucht man das Bleibende
+gegenüber solchen Umformungen, die aus unendlich kleinen
+Verzerrungen durch Zusammensetzung entstehen. Auch
+hier muss man, wie bereits gesagt, unterscheiden, ob das
+ganze Gebiet, also etwa der Raum, als Object der Trans-
+formationen gedacht werden soll, oder nur eine aus ihm
+ausgesonderte Mannigfaltigkeit, eine Fläche. Die Trans-
+formationen der ersten Art sind es, die man einer Raum-
+geometrie würde zu Grunde legen können. Ihre Gruppe
+wäre wesentlich anders constituirt, als die bisher betrach-
+teten es waren. Indem sie alle Transformationen umfasst,
+die sich aus reell gedachten unendlich kleinen Puncttrans-
+formationen zusammensetzen, trägt sie die principielle Be-
+schränkung auf reelle Raumelemente in sich, und bewegt
+sich auf dem Gebiete der willkürlichen Function. Man
+kann diese Transformationsgruppe nicht ungeschickt erwei-
+tern, indem man sie noch mit den reellen Collineationen,
+die auch das unendlich Ferne modificiren, verbindet. —
+3. Die Gruppe aller Puncttransformationen.
+Wenn gegenüber dieser Gruppe keine Fläche mehr
+individuelle Eigenschaften besitzt, da jede in jede andere
+durch Transformationen der Gruppe übergeführt werden
+kann, so sind es höhere Gebilde, bei deren Untersuchung
+die Gruppe mit Vortheil Anwendung findet. Bei der Auf-
+
+fassung der Geometrie, wie sie hier zu Grunde gelegt ist,
+kann es gleichgültig sein, wenn diese Gebilde seither nicht
+sowohl als geometrische sondern nur als analytische betrach-
+tet wurden, die gelegentlich geometrische Anwendung fan-
+den, und wenn man bei ihrer Untersuchung Processe an-
+wandte (wie eben beliebige Puncttransformationen), die
+man erst in neuerer Zeit bewusst als geometrische Umform-
+ungen aufzufassen begonnen hat. Unter diese analytischen
+Gebilde gehören vor allen die homogenen Differentialaus-
+drücke, sodann auch die partiellen Differentialgleichungen.
+Bei der allgemeinen Discussion der letzteren scheint aber,
+wie in dem folgenden Paragraphen ausgeführt wird, die
+umfassendere Gruppe aller Berührungstransformationen noch
+vortheilhafter.
+Der Hauptsatz, der in der Geometrie, welche die Gruppe
+aller Puncttransformationen zu Grunde legt, in Geltung ist,
+ist der, dass eine Puncttransformation für eine
+unendlich kleine Partie des Raumes immer den
+Werth einer linearen Transformation hat. Die
+Entwickelungen der projectivischen Geometrie haben also
+nun ihren Werth für das Unendlichkleine, und hierin liegt,
+mag sonst die Wahl der Gruppe bei Behandlung von
+Mannigfaltigkeiten willkürlich sein — hierin liegt ein
+auszeichnender Character für die projectivische
+Anschauungsweise.
+Nachdem nun schon lange von dem Verhältnisse der
+Betrachtungsweisen, die einander einschliessende Gruppen
+zu Grunde legen, nicht mehr die Rede war, mag hier noch
+einmal ein Beispiel für die allgemeine Theorie des §. 2
+gegeben werden. Wir mögen uns die Frage vorlegen,
+wie denn vom Standpuncte „aller Puncttransformationen“
+projectivische Eigenschaften aufzufassen sind, wobei von
+den dualistischen Umformungen, die eigentlich mit zur
+Gruppe der projectivischen Geometrie gehören, abgesehen
+werden mag. Die Frage deckt sich dann mit der andern:
+durch welche Bedingung aus der Gesammtheit der Punct-
+transformationen die Gruppe der linearen ausgeschieden
+wird. Das Characteristische der letzteren ist, dass sie jeder
+
+Ebene eine Ebene zuordnen: sie sind diejenigen Puncttrans-
+formationen, vermöge deren die Mannigfaltigkeit der Ebenen
+(oder, was auf dasselbe hinaus kommt, der geraden Linien)
+erhalten bleibt. Die projectivische Geometrie ist
+aus der Geometrie aller Puncttransformation
+ebenso durch Adjunction der Mannigfaltigkeit
+der Ebenen zu gewinnen, wie die elementare
+Geometrie aus der projectivischen durch Ad-
+junction des unendlich fernen Kugelkreises.
+Insbesondere haben wir z. B. vom Standpuncte aller Punct-
+transformationen die Bezeichnung einer Fläche als einer
+algebraischen von einer gewissen Ordnung als eine invari-
+ante Beziehung zur Mannigfaltigkeit der Ebenen aufzufas-
+sen. Es wird dies recht deutlich, wenn man, mit Grass-
+mann, die Erzeugung der algebraischen Gebilde an ihre
+lineale Construction knüpft.
+§. 9.
+Von der Gruppe aller Berührungstransformationen.
+Berührungstransformationen sind zwar in einzelnen
+Fällen schon lange betrachtet; auch hat Jacobi bei ana-
+lytischen Untersuchungen bereits von den allgemeinsten
+Berührungstransformationen Gebrauch gemacht; aber in die
+lebendige geometrische Anschauung wurden sie erst durch
+neuere Arbeiten von Lie eingeführt Vergl. bes. die bereits citirte Arbeit: Ueber partielle Differen-
+tialgleichungen und Complexe. Math. Ann. V. Die im Texte gegebenen
+Ausführungen betr. partielle Differentialgleichungen habe ich wesent-
+lich mündlichen Mittheilungen von Lie entnommen; vergl. dessen Note:
+Zur Theorie partieller Differentialgleichungen. Göttinger Nachrichten.
+Oct. 1872.. Es ist daher wohl
+nicht überflüssig, hier ausdrücklich auseinanderzusetzen,
+was eine Berührungstransformation ist, wobei wir uns, wie
+immer, auf den Punctraum mit seinen drei Dimensionen
+beschränken.
+Unter einer Berührungstransformation hat man, analy-
+tisch zu reden, jede Substitution zu verstehen, welche die
+
+Variabel-Werthe x, y, z und ihre partiellen Differential-
+quotienten  durch neue x', y', z', p', q' aus-
+drückt. Dabei gehen, wie ersichtlich, sich berührende
+Flächen im Allgemeinen wieder in sich berührende Flächen
+über, was den Namen Berührungstransformation begründet.
+Die Berührungstransformationen zerfallen, wenn man vom
+Puncte als Raumelement ausgeht, in drei Classen: solche,
+die den dreifach unendlich vielen Puncten wieder Puncte
+zuordnen — das sind die eben betrachteten Puncttransfor-
+mationen —, solche, die sie in Curven, endlich solche, die sie
+in Flächen überführen. Diese Eintheilung hat man insofern
+nicht als eine wesentliche zu betrachten, als bei Benutzung
+anderer dreifach unendlich vieler Raumelemente, etwa der
+Ebenen, allerdings wieder eine Theilung in drei Gruppen
+eintritt, die aber mit der Theilung, die unter Zugrunde-
+legung der Puncte statt fand, nicht coïncidirt.
+Wenden wir auf einen Punct alle Berührungstransfor-
+mationen an, so geht er in die Gesammtheit aller Puncte,
+Curven und Flächen über. In ihrer Gesammtheit erst bil-
+den also Puncte, Curven und Flächen einen Körper un-
+serer Gruppe. Man mag daraus die allgemeine Regel ab-
+nehmen, dass die formale Behandlung eines Problem’s im
+Sinne aller Berührungstransformationen (also etwa die so-
+gleich vorzutragende Theorie der partiellen Differential-
+gleichungen) eine unvollkommene werden muss, sowie man
+mit Punct- (oder Ebenen-) Coordinaten operirt, da die zu
+Grunde gelegten Raumelemente eben keinen Körper bilden.
+Alle in dem gen. Körper enthaltene Individuen als
+Raumelemente einzuführen, geht aber, will man in Verbin-
+dung mit den gewöhnlichen Methoden bleiben, nicht an,
+da deren Zahl unendlichfach unendlich ist. Hierin liegt
+die Nothwendigkeit, bei diesen Betrachtungen nicht den
+Punct, nicht die Curve oder die Fläche, sondern das Flä-
+chenelement, d. h. das Werthsystem x, y, z, p, q als
+Raumelement einzuführen. Bei jeder Berührungstrans-
+formation wird aus jedem Flächenelemente ein neues; die
+3
+
+fünffach unendlich vielen Flächenelemente bilden also ei-
+nen Körper.
+Bei diesem Standpuncte muss man Punct, Curve, Flä-
+che gleichmässig als Aggregate von Flächenelementen auf-
+fassen, und zwar von zweifach unendlich vielen. Denn die
+Fläche wird von ∞ 2 Elementen bedeckt, die Curve von
+ebenso vielen berührt, durch den Punct gehen ∞ 2 hindurch.
+Aber diese zweifach unendlichen Aggregate von Elementen
+haben noch eine characteristische Eigenschaft gemein. Man
+bezeichne als vereinigte Lage zweier consecutiven Flä-
+chenelemente x, y, z, p, q und x+dx, y+dy, z+dz, p+dp,
+q+dq die Beziehung, welche durch
+dz—pdx—qdy=0
+dargestellt wird. So sind Punct, Curve, Fläche über-
+einstimmend zweifach unendliche Mannigfaltig-
+keiten von Elementen, deren jedes mit den ein-
+fach unendlich vielen ihm benachbarten verei-
+nigt liegt. Dadurch sind Punct, Curve, Fläche gemein-
+sam characterisirt, und so müssen sie auch, wenn man die
+Gruppe der Berührungstransformationen zu Grunde legen
+will, analytisch repräsentirt werden.
+Die vereinigte Lage consecutiver Elemente ist eine bei
+beliebiger Berührungstransformation invariante Beziehung.
+Aber auch umgekehrt können die Berührungstransformationen
+definirt werden als diejenigen Substitutionen der
+fünf Veränderlichen x, y, z, p, q, vermöge deren
+die Relation dz—pdx—qdy=0 in sich selbst über-
+geführt wird. Der Raum ist also bei diesen Untersuch-
+ungen als eine Mannigfaltigkeit von fünf Dimensionen an-
+zusehen und diese Mannigfaltigkeit hat man zu behandeln,
+indem man als Gruppe die Gesammtheit aller Transforma-
+tionen der Variabeln zu Grunde legt, welche eine bestimmte
+Relation zwischen den Differentialen ungeändert lassen.
+Gegenstand der Untersuchung werden in erster Linie
+diejenigen Mannigfaltigkeiten, welche durch eine oder meh-
+rere Gleichungen zwischen den Variabeln dargestellt wer-
+den, d. h. die partiellen Differentialgleichungen
+erster Ordnung und ihre Systeme. Eine Hauptfrage
+
+wird, wie sich aus den Mannigfaltigkeiten von Elementen,
+die gegebenen Gleichungen genügen, einfach, zweifach un-
+endliche Reihen von Elementen ausscheiden lassen, deren
+jedes mit einem benachbarten vereinigt liegt. Auf eine solche
+Frage läuft z. B. die Aufgabe der Lösung einer partiellen
+Differentialgleichung erster Ordnung hinaus. Man soll —
+so kann man sie formuliren — aus den vierfach unendlich
+vielen Elementen, die der Gleichung genügen, alle zweifach
+unendlichen Mannigfaltigkeiten der bewussten Art ausschei-
+den. Insbesondere die Aufgabe der vollständigen Lösung
+nimmt jetzt die präcise Form an: man soll die vierfach
+unendlich vielen Elemente, die der Gleichung genügen, auf
+eine Weise in zweifach unendlich viele derartige Mannig-
+faltigkeiten zerlegen.
+Ein Verfolg dieser Betrachtung über partielle Differen-
+tialgleichungen kann hier nicht in der Absicht liegen; ich
+verweise in Bezug hierauf auf die citirten Lie’schen Ar-
+beiten. Es sei nur noch hervorgehoben, dass für den
+Standpunct der Berührungstransformationen eine partielle
+Differentialgleichung erster Ordnung keine Invariante hat,
+dass jede in jede andere übergeführt werden kann, dass
+also namentlich die linearen Gleichungen nicht weiter aus-
+gezeichnet sind. Unterscheidungen treten erst ein, wenn
+man zu dem Standpuncte der Puncttransformationen zu-
+rückgeht.
+Die Gruppen der Berührungstransformationen, der
+Puncttransformationen, endlich der projectivischen Umform-
+ungen lassen sich in einer einheitlichen Weise character-
+isiren, die ich hier nicht unterdrücken mag Ich verdanke diese Definitionen einer Bemerkung von Lie.. Berührungs-
+transformationen wurden bereits definirt als diejenigen Um-
+formungen, bei denen die vereinigte Lage consecutiver
+Flächenelemente erhalten bleibt. Die Puncttransforma-
+tionen haben dagegen die characteristische Eigenschaft,
+vereinigt gelegene consecutive Linienelemente in eben
+solche zu verwandeln: die linearen und dualistischen Trans-
+formationen endlich bewahren die vereinigte Lage consecu-
+3 *
+
+tiver Connex-Elemente. Unter einem Connex-Elemente
+verstehe ich die Vereinigung eines Flächenelementes mit
+einem in ihm enthaltenen Linienelemente; consecutive Con-
+nexelemente heissen vereinigt gelegen, wenn nicht nur der
+Punct sondern auch das Linienelement des einen in dem
+Flächenelemente des anderen enthalten ist. Die (übrigens
+vorläufige) Bezeichnung: Connexelement bezieht sich auf
+die von Clebsch neuerdings Gött. Abhandlungen. 1872. (Bd. 17): Ueber eine Fundamental-
+aufgabe der Invariantentheorie, sowie namentlich Gött. Nachrichten 1872.
+Nr. 22: Ueber ein neues Grundgebilde der analytischen Geometrie der
+Ebene. in die Geometrie einge-
+führten Gebilde, welche durch eine Gleichung dargestellt
+werden, die gleichzeitig eine Reihe Punct- eine Reihe
+Ebenen- und eine Reihe Liniencoordinaten enthalten, und
+deren Analoga in der Ebene Clebsch als Connexe be-
+zeichnet.
+§. 10.
+Ueber beliebig ausgedehnte Mannigfaltigkeiten.
+Es wurde bereits wiederholt hervorgehoben, wie bei der
+Anknüpfung der bisherigen Auseinandersetzungen an d
+räumliche Vorstellung nur der Wunsch massgebend war,
+die abstracten Begriffe durch Anlehnung an anschauliche
+Beispiele leichter entwickeln zu können. An und für sich
+sind die Betrachtungen von dem sinnlichen Bilde unab-
+hängig und gehören dem allgemeinen Gebiete mathematischer
+Forschung an, das man als die Lehre von den ausgedehn-
+ten Mannigfaltigkeiten, oder (nach Grassmann) kurz als
+Ausdehnungslehre bezeichnet. Wie man die Ueber-
+tragung des Vorhergehenden vom Raume auf den blossen
+Mannigfaltigkeitsbegriff zu bewerkstelligen hat, ist ersicht-
+lich. Es sei dabei nur noch einmal bemerkt, dass wir bei
+der abstracten Untersuchung, der Geometrie gegenüber,
+den Vortheil haben, die Gruppe von Transformationen,
+welche wir zu Grunde legen wollen, ganz willkürlich wäh-
+len zu können, während in der Geometrie eine kleinste
+Gruppe, die Hauptgruppe, von Vornherein gegeben war.
+
+Wir mögen hier nur die folgenden drei Behandlungs-
+weisen, und auch diese ganz kurz berühren.
+1. Die projectivische Behandlungsweise oder
+die moderne Algebra (Invariantentheorie).
+Ihre Gruppe besteht in der Gesammtheit der linearen
+und dualistischen Transformationen der zur Darstellung des
+Einzelnen in der Mannigfaltigkeit verwendeten Veränder-
+lichen; sie ist die Verallgemeinerung der projectivischen
+Geometrie. Es wurde bereits hervorgehoben wie diese
+Behandlungsweise bei der Discussion des unendlich Kleinen
+in einer um eine Dimension mehr ausgedehnten Mannig-
+faltigkeit zur Verwendung kommt. Sie schliesst die beiden
+noch zu nennenden Behandlungsweisen in dem Sinne ein,
+als ihre Gruppe die bei jenen zu Grunde zu legende Gruppe
+umfasst.
+2. Die Mannigfaltigkeit von constantem
+Krümmungsmasse.
+Die Vorstellung einer solchen erwuchs bei Riemann
+aus der allgemeineren einer Mannigfaltigkeit, in der ein
+Differentialausdruck der Veränderlichen gegeben ist. Die
+Gruppe besteht bei ihm aus der Gesammtheit der Trans-
+formationen der Variabeln, welche den gegebenen Ausdruck
+ungeändert lassen. Von einer andern Seite kommt man
+zur Vorstellung einer Mannigfaltigkeit von constanter
+Krümmung, wenn man im projectivischen Sinne auf eine
+zwischen den Veränderlichen gegebene quadratische Gleich-
+ung eine Massbestimmung gründet. Bei dieser Weise tritt
+gegenüber der Riemann’schen die Erweiterung ein, dass
+die Variabeln als complex gedacht werden; man mag hin-
+terher die Veränderlichkeit auf das reelle Gebiet beschrän-
+ken. Hierher gehören die grosse Reihe von Untersuchungen,
+die wir in §§. 5, 6, 7 berührt haben.
+3. Die ebene Mannigfaltigkeit.
+Als ebene Mannigfaltigkeit bezeichnet Riemann die
+Mannigfaltigkeit von constantem verschwindenden Krümm-
+ungsmasse. Ihre Theorie ist die unmittelbare Verallge-
+meinerung der elementaren Geometrie. Ihre Gruppe kann, —
+wie die Hauptgruppe der Geometrie — aus der Gruppe
+
+der projectivischen dadurch ausgeschieden werden, dass
+man ein Gebilde fest hält, welches durch zwei Gleichungen,
+eine lineare und eine quadratische, dargestellt wird. Dabei
+hat man zwischen Reellem und Imaginärem zu unterscheiden,
+wenn man sich der Form, unter der die Theorie gewöhn-
+lich dargestellt wird, anschliessen will. Hierher zu rechnen
+sind vor Allem die elementare Geometrie selbst, dann z. B.
+die in neuerer Zeit entwickelten Verallgemeinerungen der
+gewöhnlichen Krümmungstheorie u. s. w.
+Schlussbemerkungen.
+Zum Schlusse mögen noch zwei Bemerkungen ihre
+Stelle finden, die mit dem bisher Vorgetragenen in enger
+Beziehung stehen; die eine betrifft den Formalismus, durch
+welche man die begrifflichen Entwickelungen den Voran-
+gehenden repräsentiren will, die andere soll einige Probleme
+kennzeichnen, deren Inangriffnahme nach den hier gegebenen
+Auseinandersetzungen als wichtig und lohnend erscheint.
+Man hat der analytischen Geometrie häufig den Vor-
+wurf gemacht, durch Einführung des Coordinatensystem’s
+willkürliche Elemente zu bevorzugen, und dieser Vorwurf
+trifft gleichmässig jede Behandlungsweise ausgedehnter
+Mannigfaltigkeiten, welche das Einzelne durch die Werthe
+von Veränderlichen characterisirt. War dieser Vorwurf
+bei der mangelhaften Art, mit der man namentlich früher
+die Coordinatenmethode handhabte, nur zu oft gerechtfertigt,
+so verschwindet er bei einer rationellen Behandlung der
+Methode. Die analytischen Ausdrücke, welche bei der
+Untersuchung einer Mannigfaltigkeit im Sinne einer Gruppe
+entstehen können, müssen, ihrer Bedeutung nach, von dem
+Coordinatensysteme, insofern es zufällig gewählt ist, unab-
+hängig sein, und es gilt nun, diese Unabhängigkeit auch
+formal in Evidenz zu setzen. Dass dies möglich ist und
+wie es zu geschehen hat, zeigt die moderne Algebra, in
+der der formale Invariantenbegriff, um den es sich hier
+handelt, am deutlichsten ausgeprägt ist. Sie besitzt ein
+allgemeines und erschöpfendes Bildungsgesetz für invariante
+
+Ausdrücke und operirt principiell nur mit solchen. Die
+gleiche Forderung soll man an die formale Behandlung stel-
+len, auch wenn andere Gruppen, als die projectivische, zu
+Grunde gelegt sind. Denn der Formalismus soll sich doch
+mit der Begriffsbildung decken, mag man nun den Formalismus
+nur als präcisen und durchsichtigen Ausdruck der Begriffs-
+bildung verwerthen, oder will man ihn benutzen, um an
+seiner Hand in noch unerforschte Gebiete einzudringen. —
+Die Problemstellung, deren wir noch erwähnen wollten,
+erwächst durch einen Vergleich der vorgetragenen Anschau-
+ungen mit der sog. Galois’schen Theorie der Gleichungen.
+In der Galois’schen Theorie, wie hier, concentrirt
+sich das Interesse auf Gruppen von Aenderungen. Die
+Objecte, auf welche sich die Aenderungen beziehen, sind
+allerdings verschieden; man hat es dort mit einer endlichen
+Zahl discreter Elemente, hier mit der unendlichen Zahl von
+Elementen einer stetigen Mannigfaltigkeit zu thun. Aber
+der Vergleich lässt sich bei der Identität des Gruppenbe-
+griffes doch weiter verfolgen Ich erinnere hier daran, dass Grassmann bereits in der Ein-
+leitung zur ersten Auflage seiner Ausdehnungslehre (1844) die Combina-
+torik und die Ausdehnungslehre parallelisirt., und es mag dies hier um
+so lieber angedeutet werden, als dadurch die Stellung cha-
+racterisirt wird, die man gewissen von Lie und mir begon-
+nenen Untersuchungen Vergleiche den gemeinsamen Aufsatz: Ueber diejenigen ebenen
+Curven, welche durch ein geschlossenes System von einfach unendlich
+vielen vertauschbaren linearen Transformationen in sich übergehen.
+Math. Annalen Bd. IV. im Sinne der hier entwickelten An-
+schauungen zuzuweisen hat.
+In der Galois’schen Theorie, wie sie z. B. in Serret’s
+Traité d’Algèbre supérieure oder in C. Jordan’s Traité
+des substitutions dargestellt wird, ist der eigentliche Unter-
+suchungsgegenstand die Gruppen- oder Substitutionstheorie
+selbst, die Gleichungstheorie fliesst aus ihr als eine An-
+wendung. Entsprechend verlangen wir eine Transfor-
+mationstheorie, eine Lehre von den Gruppen, welche
+von Transformationen gegebener Beschaffenheit erzeugt
+werden können. Die Begriffe der Vertauschbarkeit, der
+
+Aehnlichkeit u. s. w. kommen, wie in der Substitutions-
+theorie, zur Verwendung. Als eine Anwendung der Trans-
+formationstheorie erscheint die aus der Zugrundelegung der
+Transformationsgruppen fliessende Behandlung der Mannig-
+faltigkeit.
+In der Gleichungstheorie sind es zunächst die symme-
+trischen Functionen der Coefficienten, die das Interesse auf
+sich ziehen, sodann aber diejenigen Ausdrücke, welche,
+wenn nicht bei allen, so durch eine grössere Reihe von
+Vertauschungen der Wurzeln ungeändert bleiben. Bei der
+Behandlung einer Mannigfaltigkeit unter Zugrundelegung
+einer Gruppe fragen wir entsprechend zunächst nach den
+Körpern (§. 5), nach den Gebilden, die durch alle Trans-
+formationen der Gruppe ungeändert bleiben. Aber es gibt
+Gebilde, welche nicht alle aber einige Transformationen
+der Gruppe zulassen, und diese sind dann im Sinne der
+auf die Gruppe gegründeten Behandlung besonders interes-
+sant, sie haben ausgezeichnete Eigenschaften. Es kommt
+das also darauf hinaus, im Sinne der gewöhnlichen Geo-
+metrie symmetrische, reguläre Körper, Rotations- und Schrau-
+benflächen auszuzeichnen. Stellt man sich auf den Stand-
+punct der projectivischen Geometrie und verlangt insbeson-
+dere, dass die Transformationen, durch welche die Gebilde
+in sich übergehen, vertauschbar sein sollen, so kommt man
+auf die von Lie und mir in dem citirten Aufsatze betrach-
+teten Gebilde und auf das in §. 6. desselben gestellte
+allgemeine Problem. Die dort in §§. 1, 3 gegebene Be-
+stimmung aller Gruppen unendlich vieler vertauschbarer
+linearer Transformationen in der Ebene gehört als ein Theil
+in die soeben genannte allgemeine Transformationstheorie Ich muss mir versagen, im Texte auf die Fruchtbarkeit hinzu-
+weisen, welche die Betrachtung unendlich kleiner Transformationen
+in der Theorie der Differentialgleichungen hat. In §. 7. der citirten
+Arbeit haben Lie und ich gezeigt: Gewöhnliche Differentialgleich-
+ungen, welche gleiche unendlich kleine Transformationen zugeben, bie-
+ten gleiche Integrationsschwierigkeiten. Wie die Betrachtungen für
+partielle Differentialgleichungen zu verwerthen seien, hat Lie an ver-
+schiedenen Orten, so bes. in dem früher genannten Aufsatze (Math.
+Ann. V.) an verschiedenen Beispielen auseinandergesetzt, (vergl. nament-
+lich auch Mittheilungen der Academie zu Christiania. Mai 1872.).
+
+Noten.
+I. Ueber den Gegensatz der synthetischen und
+analytischen Richtung in der neueren Geometrie.
+Den Unterschied zwischen neuerer Synthese und neuerer
+analytischer Geometrie hat man zur Zeit nicht mehr als einen
+wesentlichen zu betrachten, da der gedankliche Inhalt sowohl
+als die Schlussweise sich auf beiden Seiten allmählich ganz ähn-
+lich gestaltet haben. Daher wählen wir im Texte zur gemein-
+samen Bezeichnung beider das Wort „projectivische Geometrie“.
+Wenn die synthetische Methode mehr mit räumlicher Anschauung
+arbeitet und ihren ersten, einfachen Entwickelungen dadurch
+einen ungemeinen Reiz ertheilt, so ist das Gebiet räumlicher
+Anschauung der analytischen Methode nicht verschlossen, und
+man kann die Formeln der analytischen Geometrie als einen
+präcisen und durchsichtigen Ausdruck der geometrischen Bezieh-
+ungen auffassen. Man hat auf der anderen Seite den Vortheil
+nicht zu unterschätzen, den ein gut angelegter Formalismus
+der Weiterforschung dadurch leistet, dass er gewissermassen
+dem Gedanken vorauseilt. Es ist zwar immer an der For-
+derung festzuhalten, dass man einen mathematischen Gegen-
+stand noch nicht als erledigt betrachten soll, so lange er nicht
+begrifflich evident geworden ist, und es ist das Vordringen an
+der Hand des Formalismus eben nur ein erster aber schon sehr
+wichtiger Schritt.
+II. Trennung der heutigen Geometrie in Dis-
+ciplinen.
+Wenn man z. B. beachtet, wie der mathematische Physiker
+sich durchgängig der Vortheile entschlägt, die ihm eine nur eini-
+germassen ausgebildete projectivische Anschauung in vielen Fällen
+gewähren kann, wie auf der anderen Seite der Projectiviker
+die reiche Fundgrube mathematischer Wahrheiten unberührt
+lässt, welche die Theorie der Krümmung der Flächen aufgedeckt
+hat, so muss man den gegenwärtigen Zustand des geometri-
+schen Wissen’s als recht unvollkommen und als hoffentlich vor-
+übergehend betrachten.
+III. Ueber den Werth räumlicher Anschauung.
+Wenn wir im Texte die räumliche Anschauung als etwas
+Beiläufiges bezeichnen, so ist dies mit Bezug auf den rein
+mathematischen Inhalt der zu formulirenden Betrachtungen
+
+gemeint. Die Anschauung hat für ihn nur den Werth der
+Veranschaulichung, der allerdings in pädagogischer Beziehung
+sehr hoch anzuschlagen ist. Ein geometrisches Modell z. B. ist
+auf diesem Standpuncte sehr lehrreich und interessant.
+Ganz anders stellt sich aber die Frage nach dem Werthe
+der räumlichen Anschauung überhaupt. Ich stelle denselben
+als etwas selbständiges hin. Es gibt eine eigentliche Geometrie,
+die nicht, wie die im Texte besprochenen Untersuchungen, nur
+eine veranschaulichte Form abstracterer Untersuchungen sein
+will. In ihr gilt es, die räumlichen Figuren nach ihrer vollen
+gestaltlichen Wirklichkeit aufzufassen und (was die mathema-
+tische Seite ist) die für sie geltenden Beziehungen als evidente
+Folgen der Grundsätze räumlicher Anschauung zu verstehen.
+Ein Modell — mag es nun ausgeführt und angeschaut oder nur
+lebhaft vorgestellt sein — ist für diese Geometrie nicht ein
+Mittel zum Zwecke sondern die Sache selbst.
+Wenn wir so, neben und unabhängig von der reinen Ma-
+thematik, Geometrie als etwas Selbständiges hinstellen, so ist
+das an und für sich gewiss nichts Neues. Es ist aber wün-
+schenswerth, diesen Gesichtspunct ausdrücklich einmal wieder
+hervorzuheben, da die neuere Forschung ihn fast ganz übergeht.
+Hiermit hängt zusammen, dass umgekehrt die neuere Forschung
+selten dazu verwendet wurde, wenn es galt, gestaltliche Ver-
+hältnisse räumlicher Erzeugnisse zu beherrschen, und doch
+scheint sie gerade in dieser Richtung sehr fruchtbar.
+IV. Ueber Mannigfaltigkeiten von beliebig vie-
+len Dimensionen.
+Dass der Raum, als Ort für Puncte aufgefasst, nur drei
+Dimensionen hat, braucht vom mathematischen Standpuncte
+aus nicht discutirt zu werden; ebenso wenig kann man aber
+vom mathematischen Standpuncte aus Jemanden hindern, zu
+behaupten, der Raum habe eigentlich vier, oder unbegränzt
+viele Dimensionen, wir seien aber nur im Stande, drei wahr-
+zunehmen. Die Theorie der mehrfach ausgedehnten Mannig-
+faltigkeiten, wie sie je länger je mehr in den Vordergrund
+neuerer mathematischer Forschung tritt, ist, ihrem Wesen
+nach, von einer solchen Behauptung vollkommen unabhängig.
+Es hat sich in ihr aber eine Redeweise eingebürgert, die aller-
+dings dieser Vorstellung entflossen ist. Man spricht, statt von
+den Individuen einer Mannigfaltigkeit, von den Puncten eines
+
+höheren Raumes etc. An und für sich hat diese Redeweise
+manches Gute, insofern sie durch Erinnern an die geometrischen
+Anschauungen das Verständniss erleichtert. Sie hat aber die
+nachtheilige Folge gehabt, dass in ausgedehnten Kreisen die
+Untersuchungen über Mannigfaltigkeiten mit beliebig vielen
+Dimensionen als solidarisch erachtet werden mit der erwähnten
+Vorstellung von der Beschaffenheit des Raumes. Nichts ist
+grundloser als diese Auffassung. Die betr. mathematischen
+Untersuchungen würden allerdings sofort geometrische Ver-
+wendung finden, wenn die Vorstellung richtig wäre, — aber
+ihr Werth und ihre Absicht ruht, gänzlich unabhängig von
+dieser Vorstellung, in ihrem eigenen mathematischen Inhalte.
+Etwas ganz anders ist es, wenn Plücker gelehrt hat, den
+wirklichen Raum als eine Mannigfaltigkeit von beliebig vielen
+Dimensionen aufzufassen, indem man als Element des Raumes
+ein von beliebig vielen Parametern abhängendes Gebilde (Curve,
+Fläche etc.) einführt (vergl. §. 5 des Textes).
+Die Vorstellungsweise, welche das Element der beliebig
+ausgedehnten Mannigfaltigkeit als ein Analogon zum Puncte
+des Raumes betrachtet, ist wohl zuerst von Grassmann in
+seiner Ausdehnungslehre (1844) entwickelt worden. Bei ihm
+ist der Gedanke völlig frei von der erwähnten Vorstellung von
+der Natur des Raumes; letztere geht auf gelegentliche Be-
+merkungen von Gauss zurück und wurde durch Riemann’s
+Untersuchungen über mehrfach ausgedehnte Mannigfaltigkeiten,
+in welche sie mit eingeflochten ist, in weiteren Kreisen bekannt.
+Beide Auffassungsweisen — die Grassmann’sche wie
+die Plücker’sche — haben ihre eigenthümlichen Vorzüge;
+man verwendet sie beide, zwischen ihnen abwechselnd, mit
+Vortheil.
+V. Ueber die sogenannte Nicht-Euklidische
+Geometrie.
+Die im Texte gemeinte projectivische Massgeometrie coïn-
+cidirt, wie neuere Untersuchungen gelehrt haben, dem Wesen
+nach mit der Massgeometrie, welche unter Nicht-Annahme des
+Parallelen-Axiom’s entworfen werden kann und die zur Zeit
+unter dem Namen der Nicht-Euklidischen Geometrie vielfach
+besprochen und disputirt wird. Wenn wir im Texte diesen
+Namen überhaupt nicht berührt haben, so geschah es aus einem
+Grunde, der mit den in der vorstehenden Note gegebenen Aus-
+
+einandersetzungen verwandt ist. Man verknüpft mit dem Na-
+men Nicht-Euklidische Geometrie eine Menge unmathematischer
+Vorstellungen, die auf der einen Seite mit eben so viel Eifer
+gepflegt als auf der anderen perhorrescirt werden, mit denen
+aber unsere rein mathematischen Betrachtungen gar Nichts zu
+schaffen haben. Der Wunsch, in dieser Richtung etwas zur
+Klärung der Begriffe beizutragen, mag die folgenden Ausein-
+andersetzungen motiviren.
+Die gemeinten Untersuchungen über Parallelentheorie haben
+mit ihren Weiterbildungen mathematisch nach zwei Seiten
+einen bestimmten Werth.
+Sie zeigen einmal — und dieses ihr Geschäft kann man als
+ein einmaliges, abgeschlossenes betrachten —, dass das Parallelen-
+axiom keine mathematische Folge der gewöhnlich vorangestellten
+Axiome ist, sondern dass ein wesentlich neues Anschauungs-
+element, welches in den vorhergehenden Untersuchungen nicht
+berührt wurde, in ihm zum Ausdruck gelangt. Aehnliche
+Untersuchungen könnte man und sollte man mit Bezug auf
+jedes Axiom nicht nur der Geometrie durchführen; man würde
+dadurch an Einsicht in die gegenseitige Stellung der Axiome
+gewinnen.
+Dann aber haben uns diese Untersuchungen mit einem
+werthvollen mathematischen Begriffe beschenkt: dem Begriffe
+einer Mannigfaltigkeit von constanter Krümmung. Er hängt,
+wie bereits bemerkt und wie in §. 10 des Textes noch weiter
+ausgeführt ist, mit der unabhängig von aller Parallelentheorie
+erwachsenen projectivischen Massbestimmung auf das Innigste
+zusammen. Wenn das Studium dieser Massbestimmung an und
+für sich hohes mathematisches Interesse bietet und zahlreiche
+Anwendungen gestattet, so kommt hinzu, dass sie die in der
+Geometrie gegebene Massbestimmung als speciellen Fall (Gränz-
+fall) umfasst und uns lehrt, dieselbe von einem erhöhten Stand-
+puncte aufzufassen.
+Völlig unabhängig von den entwickelten Gesichtspunkten
+steht die Frage, welche Gründe das Parallelen-Axiom stützen,
+ob wir dasselbe als absolut gegeben — wie die Einen wollen —
+oder als durch Erfahrung nur approximativ erwiesen — wie
+die Anderen sagen — betrachten wollen. Sollten Gründe sein,
+das letztere anzunehmen, so geben uns die fragl. mathemati-
+schen Untersuchungen an die Hand, wie man dann eine exac-
+
+tere Geometrie zu construiren habe. Aber die Fragestellung
+ist offenbar eine philosophische, welche die allgemeinsten Grund-
+lagen unserer Erkenntniss betrifft. Den Mathematiker als
+solchen interessirt die Fragestellung nicht, und er wünscht,
+dass seine Untersuchungen nicht als abhängig betrachtet wer-
+den von der Antwort, die man von der einen oder der anderen
+Seite auf die Frage geben mag.
+VI. Liniengeometrie als Untersuchung einer
+Mannigfaltigkeit von constantem Krümmungs-
+masse.
+Wenn wir Liniengeometrie mit der projectivischen Mass-
+bestimmung in einer fünffach ausgedehnten Mannigfaltigkeit in
+Verbindung setzen, müssen wir beachten, dass wir in den ge-
+raden Linien nur die (im Sinne der Massbestimmung) unend-
+lich fernen Elemente der Mannigfaltigkeit vor uns haben. Es
+wird daher nöthig, zu überlegen, welchen Werth eine projec-
+tivische Massbestimmung für ihre unendlich fernen Elemente
+hat, und das mag hier etwas auseinandergesetzt werden, um
+Schwierigkeiten, die sich sonst der Auffassung der Linien-
+geometrie als einer Massgeometrie entgegen stellen, zu entfernen.
+Wir knüpfen diese Auseinandersetzungen an das anschauliche
+Beispiel, welches die auf eine Fläche zweiten Grades gegrün-
+dete projectivische Massbestimmung ergibt.
+Zwei beliebig angenommene Puncte des Raumes haben in
+Bezug auf die Fläche eine absolute Invariante: ihr Doppelver-
+hältniss zu den beiden Durchschnittspuncten ihrer Verbindungs-
+geraden mit der Fläche. Rücken aber die beiden Puncte auf
+die Fläche, so wird dies Doppelverhältniss unabhängig von der
+Lage der Puncte gleich Null, ausser in dem Falle, dass die
+beiden Puncte auf eine Erzeugende zu liegen kommen, wo es
+unbestimmt wird. Dies ist die einzige Particularisation, die in
+ihrer Beziehung eintreten kann, wenn sie nicht zusammenfallen,
+und wir haben also den Satz:
+Die projectivische Massbestimmung, welche
+man im Raume auf eine Fläche zweiten Grades
+gründen kann, ergibt für die Geometrie auf der
+Fläche noch keine Massbestimmung.
+Hiermit hängt zusammen, dass man durch lineare Trans-
+
+formationen der Fläche in sich selbst drei beliebige Puncte
+derselben mit drei anderen zusammenfallen lassen kann Diese Verhältnisse ändern sich bei der gew. Massgeometrie; zwei
+unendlich ferne Puncte haben für sie freilich eine absolute Invariante. Der
+Widerspruch, den man in der Abzählung der linearen Transfor-
+mationen der unendlich fernen Fläche in sich selbst hiermit finden
+könnte, erledigt sich dadurch, dass die unter ihnen befindlichen Trans-
+lationen und Aehnlichkeitstransformationen das Unendlich-Ferne über-
+haupt nicht ändern..
+Will man auf der Fläche selbst eine Massbestimmung haben,
+so muss man die Gruppe der Transformationen beschränken,
+und dies erreicht man, indem man einen beliebigen Raumpunct
+(oder seine Polarebene) festhält. Der Raumpunct sei zunächst
+nicht auf der Fläche gelegen. So projicire man die Fläche
+von dem Puncte auf eine Ebene, wobei ein Kegelschnitt als
+Uebergangscurve auftritt. Auf diesen Kegelschnitt gründe man
+in der Ebene eine projectivische Massbestimmung, die man
+dann rückwärts auf die Fläche überträgt Vergl. §. 7 des Textes.. Dies ist eine eigent-
+liche Massbestimmung von constanter Krümmung und man hat
+also den Satz:
+Auf der Fläche erhält man eine solche Mass-
+bestimmung, sowie man einen ausserhalb der
+Fläche gelegenen Punct festhält.
+Entsprechend findet man Vergl. §. 4 des Textes.:
+Eine Massbestimmung von verschwindender
+Krümmung erhält man auf der Fläche, wenn man
+für den festen Punct einen Punct der Fläche selbst
+wählt.
+Für alle diese Massbestimmungen auf der Fläche sind die
+Erzeugenden der Fläche Linien von verschwindender Länge
+Der Ausdruck für das Bogenelement auf der Fläche ist also
+für die verschiedenen Bestimmungen nur um einen Factor ver-
+schieden. Ein absolutes Bogenelement auf der Fläche gibt es
+nicht. Wohl aber kann man von dem Winkel sprechen, den
+Fortschreitungsrichtungen auf der Fläche mit einander bilden. —
+Alle diese Sätze und Betrachtungen können nun ohne
+Weiteres für Liniengeometrie benutzt werden. Für den Linien-
+raum selbst existirt zunächst keine eigentliche Massbestimmung.
+Eine solche erwächst erst, wenn wir einen linearen Complex
+fest halten, und zwar erhält sie constante oder verschwindende
+
+Krümmung, je nachdem der Complex ein allgemeiner oder ein
+specieller (eine Gerade) ist. An die Auszeichnung eines Com-
+plexes ist namentlich auch die Geltung eines absoluten Bogen-
+element’s geknüpft. Unabhängig davon sind die Fortschreit-
+ungsrichtungen zu benachbarten Geraden, welche die gegebene
+schneiden, von der Länge Null, und auch kann man von einem
+Winkel reden, den zwei beliebige Fortschreitungsrichtungen mit
+einander bilden Vergl. den Aufsatz: Ueber Liniengeometrie und metrische Geo-
+metrie. Math. Ann. Bd. V. p. 271..
+VII. Zur Interpretation der binären Formen.
+Es mag hier der übersichtlichen Gestalt gedacht werden,
+welche, unter Zugrundelegung der Interpretation von x+iy
+auf der Kugelfläche, dem Formensysteme der cubischen und
+der biquadratischen binären Form ertheilt werden kann.
+Eine cubische binäre Form f hat eine cubische Covariante
+Q, eine quadratische ∆, und eine Invariante R Vergl. hiezu die betr. Abschnitte von Clebsch: Theorie der
+binären Formen.. Aus f und
+Q setzt sich eine ganze Reihe von Covarianten sechsten Grades
+ zusammen, unter denen auch ∆3 enthalten ist. Man kann
+zeigen Durch Betrachtung der linearen Transformationen von f in sich
+selbst. vergl. Math. Ann. IV. p. 352., dass jede Covariante der cubischen Form in solche
+Gruppen von sechs Puncten zerfallen muss. Insofern λ complexe
+Werthe annehmen kann, gibt es zweifach unendlich viele derselben.
+Das ganze so umgrenzte Formensystem kann auf der Kugel
+nun folgendermassen repräsentirt werden. Durch geeignete
+lineare Transformation der Kugel in sich selbst bringe man
+die drei Puncte, welche f repräsentiren, in drei äquidistante
+Puncte eines grössten Kreises. Derselbe mag als Aequator be-
+zeichnet sein; auf ihm haben die drei Puncte f die geogra-
+phische Länge 0°, 120°, 240°. So wird Q durch die Puncte
+des Aequator’s mit der Länge 60°, 180°, 300°, ∆ durch die
+beiden Pole vorgestellt. Jede Form Q2+λRf2 ist durch 6 Puncte
+repräsentirt, deren geographische Breite und Länge, unter α
+und β beliebige Zahlen verstanden, in dem folgenden Schema
+enthalten ist:
+
+
+Verfolgt man diese Punctsysteme auf der Kugel, so ist es
+interessant, zu sehen, wie f und Q doppelt, ∆ dreifach zählend
+aus denselben entsteht.
+Eine biquadratische Form f hat eine ebensolche Covariante
+H, eine Covariante sechsten Grades T, zwei Invarianten i und j.
+Besonders zu bemerken ist die Schaar biquadratischer Formen
+iH+λjf, die alle zu dem nämlichen T gehören, und unter
+denen die drei quadratischen Factoren, in welche man T zer-
+legen kann, doppelt zählend enthalten sind. —
+Man lege jetzt durch den Mittelpunct der Kugel drei zu
+einander rechtwinklige Axen OX, OY, OZ. Ihre 6 Durchstoss-
+puncte mit der Kugel bilden die Form T. Die 4 Puncte eines
+Quadrupels iH+λjf sind, unter x, y, z Coordinaten eines be-
+liebigen Kugelpunctes verstanden, durch das Schema
+x, y, z,
+x, —y, —z,
+—x, y, —z,
+—x, —y, z
+vorgestellt. Die vier Puncte bilden jedesmal die Ecken eines
+symmetrischen Tetraeder’s, dessen gegenüberstehende Seiten von
+den Axen des Coordinatensystem’s halbirt werden, wodurch die
+Rolle, welche T in der Theorie der biquadratischen Gleichungen
+als Resolvente von iH+λjf spielt, gekennzeichnet ist.
+Erlangen im October 1872.
+
+
+
+ 
